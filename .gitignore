@@ -1,0 +1,5 @@
+.DS_Store
+# keep sensitive scans out of git
+docs/*passport*
+docs/*license*
+docs/*id_*
