@@ -2,6 +2,7 @@
 
 > Updated 2026-10-18. Nothing is booked. Prices are Oct 12 snapshots from the hotel research doc (`references.md` #3). Re-check before paying.
 > Rule: **under $500/night including taxes and mandatory fees**.
+> Detailed room and review pages: [`hotels/outrigger-reef.md`](hotels/outrigger-reef.md) · [`hotels/maui-coast-hotel.md`](hotels/maui-coast-hotel.md)
 
 ## 📑 Contents
 
