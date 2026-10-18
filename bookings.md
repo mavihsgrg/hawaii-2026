@@ -27,8 +27,8 @@
 ### 🏨 Hotels
 | Island | Hotel | Dates | Conf # | Room | Total | Cancel | Notes |
 |---|---|---|---|---|---|---|---|
-| Oʻahu | OUTRIGGER Reef Waikīkī Beach Resort, 2169 Kalia Rd | Check-in Sat Oct 31 (3 PM) → Check-out Tue Nov 3 (11 AM), 3 nights | Booking.com **5237944073** | Partial Ocean View, 1 King | **$1,296.69** (paid $0 up front; pay at hotel) | Free until **Oct 27** 11:59 PM, then $354.15 | Resort fee $50/night incl.; parking $60/day. Special request: birthday treats and a room that extends to the beach. **Booker email changed Oct 18. Check who it's set to.** |
-| Maui | Maui Coast Hotel, 2259 S Kihei Rd | Check-in Tue Nov 3 (4 PM) → Check-out Sun Nov 8 (11 AM), 5 nights | Booking.com **6290500360** | **Hoku King** (not the Kai Ocean View King in our plan) | **$1,715.30** (room $1,250, taxes $227, tourism fee $43.35, resort fee $194.95) | Free until **Oct 30** 11:59 PM HST, then $269.39 | Hotel notes birthday on reservation. Pay at property. Resort fee is taxable |
+| Oʻahu | OUTRIGGER Reef Waikīkī Beach Resort, 2169 Kalia Rd | Check-in Sat Oct 31 (3 PM) → Check-out Tue Nov 3 (11 AM), 3 nights | Booking.com **5237944073** | Partial Ocean View, 1 King | **$1,296.69** (paid by Tanu) | Free until **Oct 27** 11:59 PM, then $354.15 | Resort fee $50/night incl.; parking $60/day. Special request: birthday treats and a room that extends to the beach. **Booker email changed Oct 18. Check who it's set to.** |
+| Maui | Maui Coast Hotel, 2259 S Kihei Rd | Check-in Tue Nov 3 (4 PM) → Check-out Sun Nov 8 (11 AM), 5 nights | Booking.com **6290500360** | **Hoku King** (not the Kai Ocean View King in our plan) | **$1,715.30** (room $1,250, taxes $227, tourism fee $43.35, resort fee $194.95), paid by Tanu | Free until **Oct 30** 11:59 PM HST, then $269.39 | Hotel notes birthday on reservation. Pay at property. Resort fee is taxable |
 
 **Flights total: $2,031.32 for two.** To do: find the 6-letter Alaska confirmation code in each `Ticket_*.pdf` (Gmail), look both up on alaskaair.com → Manage trip, pick seats together, add checked bags if needed (none included), and add meal requests.
 
