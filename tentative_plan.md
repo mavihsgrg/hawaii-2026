@@ -48,7 +48,7 @@
 | 🛫 | **Tue Nov 3** | 🌋 Maui Coast Hotel, Kīhei | Midday hop HNL → OGG, shuttle to Kīhei, groceries, pool |
 | 🤿 | **Wed Nov 4** | 🌋 Maui Coast Hotel | **Molokini + Turtle Arches** snorkel 🟡 |
 | 🌿 | **Thu Nov 5** | 🌋 Maui Coast Hotel | **Road to Hāna** guided tour 🟡 (first to drop if tired) |
-| 🎂 | **Fri Nov 6** | 🌋 Maui Coast Hotel | **Birthday:** no alarm, beach, spa?, **Hotel Wailea** sunset dinner 🟡 |
+| 🎂 | **Fri Nov 6** | 🌋 Maui Coast Hotel | **Birthday:** no alarm, beach, spa ✅, **Hotel Wailea** sunset dinner 🟡, drinks + dancing |
 | 🌅 | **Sat Nov 7** | 🌋 Maui Coast Hotel | **Haleakalā sunset** at 10,000 ft (guided tour with pickup) 🟡 |
 | 🏠 | **Sun Nov 8** | ✈️ overnight flight | Slow morning, shuttle to OGG, fly to NYC |
 | 🗽 | **Mon Nov 9** | Home | Land NYC in the morning · office Nov 10 |
@@ -217,11 +217,19 @@
 
 | 🌅 Morning | ☀️ Afternoon | 🌙 Evening |
 |---|---|---|
-| 😴 Sleep in, slow breakfast · 🏖️ Wailea Beach (calm) or Big Beach (wild) | 🏊 Pool, nap, optional couples spa 🟡, time to get ready | 🌅 Sunset stroll on the Wailea Beach Path → 🍽️ **The Restaurant at Hotel Wailea** 🟡 |
+| 😴 Sleep in, slow breakfast · 🏖️ Wailea Beach (calm) or Big Beach (wild) | 🏊 Pool, nap, couples spa ✅, time to get ready | 🍽️ **The Restaurant at Hotel Wailea** 🟡 at sunset → 🍸 Tikehau Lounge → 🪩 dancing at South Shore Tiki Lounge |
 
 - 🍽️ Book a **5:15–5:45 PM** seating to catch the light (sunset ~5:47). When booking, mention **the birthday** and **lactose intolerance**, and ask for a dairy-free dessert.
 - 🚕 13 min from the hotel. Take a rideshare if you're drinking.
-- 💆 The spa is optional (~$400–700). If you want it, book by Oct 24.
+- 💆 Couples spa ✅ (~$400–700), book by Oct 24.
+- 🍸🪩 Cocktails, dancing, rides and costs for the night: [`birthday.md`](birthday.md).
+
+<p align="center">
+  <img src="photos/us/bday_1_breakfast.jpg" alt="Slow birthday breakfast with an ocean view" width="49%"> <img src="photos/us/bday_4_beach.jpg" alt="Morning walk on the beach" width="49%">
+  <img src="photos/us/bday_3_pool.jpg" alt="Poolside cocktails" width="49%"> <img src="photos/us/bday_2_spa.jpg" alt="Couples spa" width="49%">
+  <img src="photos/us/bday_5_dinner.jpg" alt="Sunset birthday dinner" width="99%">
+  <br><sub>☕ breakfast · 🏖️ beach · 🍹 pool · 💆 spa · 🎂 sunset dinner</sub>
+</p>
 
 <p align="center">
   <img src="https://www.andrewshoemaker.com/images/xl/continuum-makena-maui-sunset.jpg" alt="Mākena coast at sunset" width="100%">
@@ -308,7 +316,7 @@ Every ride, with options and prices: **[`commute.md`](commute.md)**.
 | 🍽️ Other meals and groceries | $780–1,150 |
 | 🧾 Tips, bags, souvenirs, buffer | $640–1,330 |
 | **Total** | **≈ $8,400–10,650** |
-| 💆 Optional birthday spa | + $400–700 |
+| 💆 Birthday couples spa | $400–700 |
 
 Estimates are Oct 12 snapshots; [`budget.md`](budget.md) tracks actual spend and the split.
 
@@ -321,5 +329,5 @@ These are in the plan above as our current leaning. Confirm by **Oct 21**, then 
 - [ ] 🤿 **Nov 4:** Molokini guided snorkel (+ dawn taxi), or a trip with hotel pickup / from the Kīhei boat ramp
 - [ ] 🌿 **Nov 5:** guided Hāna tour, or drop it for a slow Wailea day
 - [ ] 🍽️ **Nov 6:** Hotel Wailea, or Monkeypod Wailea / Mama's Fish House
-- [ ] 💆 **Nov 6:** couples spa, yes or no
+- [x] 💆 **Nov 6:** couples spa → ✅ yes
 - [ ] 🗓️ **8 nights:** the partner's PTO through Nov 9
