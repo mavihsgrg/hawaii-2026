@@ -49,6 +49,41 @@
 - Carry-on: swimsuits, meds, a change of clothes, chargers (in case bags are late).
 - ⛔ Nothing time-sensitive today.
 
+<details open><summary><b>Photos</b></summary>
+
+**📸 Daniel K. Inouye Intl Airport (HNL)**
+
+<a href="https://commons.wikimedia.org/wiki/File:2021-10-05_21_52_10_Gates_and_seats_within_Daniel_K._Inouye_International_Airport_in_Honolulu,_Oahu,_Hawaii.jpg"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/2021-10-05_21_52_10_Gates_and_seats_within_Daniel_K._Inouye_International_Airport_in_Honolulu%2C_Oahu%2C_Hawaii.jpg/960px-2021-10-05_21_52_10_Gates_and_seats_within_Daniel_K._Inouye_International_Airport_in_Honolulu%2C_Oahu%2C_Hawaii.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="49%" alt="Daniel K. Inouye Intl Airport (HNL)"></a> <a href="https://commons.wikimedia.org/wiki/File:2023-04-24,_Daniel_K._Inouye_International_Airport,_Honolulu,_Hawaii,_001.jpg"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/2023-04-24%2C_Daniel_K._Inouye_International_Airport%2C_Honolulu%2C_Hawaii%2C_001.jpg/960px-2023-04-24%2C_Daniel_K._Inouye_International_Airport%2C_Honolulu%2C_Hawaii%2C_001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="49%" alt="Daniel K. Inouye Intl Airport (HNL)"></a>
+
+<sub>Photos: [Famartin](https://commons.wikimedia.org/wiki/File:2021-10-05_21_52_10_Gates_and_seats_within_Daniel_K._Inouye_International_Airport_in_Honolulu,_Oahu,_Hawaii.jpg), CC BY-SA 4.0 · [Steven Pavlov](https://commons.wikimedia.org/wiki/File:2023-04-24,_Daniel_K._Inouye_International_Airport,_Honolulu,_Hawaii,_001.jpg), CC BY-SA 4.0 (Wikimedia Commons)</sub>
+
+**📸 OUTRIGGER Reef Waikīkī**
+
+<a href="https://commons.wikimedia.org/wiki/File:Outrigger_Reef_Waikiki_Beach_Resort.jpg"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Outrigger_Reef_Waikiki_Beach_Resort.jpg/960px-Outrigger_Reef_Waikiki_Beach_Resort.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="49%" alt="OUTRIGGER Reef Waikīkī"></a> <a href="https://commons.wikimedia.org/wiki/File:Waik%C4%ABk%C4%AB,_Honolulu,_HI_96815,_USA_-_panoramio_(58).jpg"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Waik%C4%ABk%C4%AB%2C_Honolulu%2C_HI_96815%2C_USA_-_panoramio_%2858%29.jpg/960px-Waik%C4%ABk%C4%AB%2C_Honolulu%2C_HI_96815%2C_USA_-_panoramio_%2858%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="49%" alt="OUTRIGGER Reef Waikīkī"></a>
+
+<sub>Photos: [Fuzheado](https://commons.wikimedia.org/wiki/File:Outrigger_Reef_Waikiki_Beach_Resort.jpg), CC BY-SA 3.0 · [hh oldman](https://commons.wikimedia.org/wiki/File:Waik%C4%ABk%C4%AB,_Honolulu,_HI_96815,_USA_-_panoramio_(58).jpg), CC BY 3.0 (Wikimedia Commons)</sub>
+
+**📸 Waikīkī Beach**
+
+<a href="https://commons.wikimedia.org/wiki/File:Aerial_view_of_Waikiki_Beach_and_Honolulu,_Hawaii,_Highsmith.jpg"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Aerial_view_of_Waikiki_Beach_and_Honolulu%2C_Hawaii%2C_Highsmith.jpg/960px-Aerial_view_of_Waikiki_Beach_and_Honolulu%2C_Hawaii%2C_Highsmith.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="49%" alt="Waikīkī Beach"></a> <a href="https://commons.wikimedia.org/wiki/File:City_of_Waikiki_view.jpg"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/City_of_Waikiki_view.jpg/960px-City_of_Waikiki_view.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="49%" alt="Waikīkī Beach"></a> <a href="https://commons.wikimedia.org/wiki/File:Rainbow_Tower_Waikiki_(16178632002).jpg"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Rainbow_Tower_Waikiki_%2816178632002%29.jpg/960px-Rainbow_Tower_Waikiki_%2816178632002%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="49%" alt="Waikīkī Beach"></a> <a href="https://commons.wikimedia.org/wiki/File:Surfboards_in_Waikiki.JPG"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Surfboards_in_Waikiki.JPG/960px-Surfboards_in_Waikiki.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="49%" alt="Waikīkī Beach"></a>
+
+<sub>Photos: [Highsmith, Carol M., 1946-](https://commons.wikimedia.org/wiki/File:Aerial_view_of_Waikiki_Beach_and_Honolulu,_Hawaii,_Highsmith.jpg), Public domain · [Pickle the cool](https://commons.wikimedia.org/wiki/File:City_of_Waikiki_view.jpg), CC BY-SA 4.0 · [Edmund Garman from Salem, Oregon, USA](https://commons.wikimedia.org/wiki/File:Rainbow_Tower_Waikiki_(16178632002).jpg), CC BY 2.0 · [Cristo Vlahos](https://commons.wikimedia.org/wiki/File:Surfboards_in_Waikiki.JPG), CC BY-SA 3.0 (Wikimedia Commons)</sub>
+
+**📸 Kalākaua Avenue**
+
+<a href="https://commons.wikimedia.org/wiki/File:Kalakaua_Avenue_(15625051226).jpg"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Kalakaua_Avenue_%2815625051226%29.jpg/960px-Kalakaua_Avenue_%2815625051226%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="49%" alt="Kalākaua Avenue"></a> <a href="https://commons.wikimedia.org/wiki/File:Kalakaua_avenue_in_the_evening_-_panoramio.jpg"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Kalakaua_avenue_in_the_evening_-_panoramio.jpg/960px-Kalakaua_avenue_in_the_evening_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="49%" alt="Kalākaua Avenue"></a>
+
+<sub>Photos: [Prayitno / Thank you for (12 millions +) view from Los Angel](https://commons.wikimedia.org/wiki/File:Kalakaua_Avenue_(15625051226).jpg), CC BY 2.0 · [verygreen](https://commons.wikimedia.org/wiki/File:Kalakaua_avenue_in_the_evening_-_panoramio.jpg), CC BY-SA 3.0 (Wikimedia Commons)</sub>
+
+**📸 Duke Kahanamoku statue**
+
+<a href="https://commons.wikimedia.org/wiki/File:Duke_Paoa_Kahanamoku_Statue.jpg"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Duke_Paoa_Kahanamoku_Statue.jpg/960px-Duke_Paoa_Kahanamoku_Statue.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="49%" alt="Duke Kahanamoku statue"></a> <a href="https://commons.wikimedia.org/wiki/File:Duke_Kahanamoku_statue.jpg"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Duke_Kahanamoku_statue.jpg/960px-Duke_Kahanamoku_statue.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="49%" alt="Duke Kahanamoku statue"></a>
+
+<sub>Photos: [DestinationFearFan](https://commons.wikimedia.org/wiki/File:Duke_Paoa_Kahanamoku_Statue.jpg), CC BY-SA 4.0 · [Fjmustak](https://commons.wikimedia.org/wiki/File:Duke_Kahanamoku_statue.jpg), CC BY-SA 4.0 (Wikimedia Commons)</sub>
+
+</details>
+
+
 ### Sun Nov 1: Diamond Head + Waikīkī
 - 🕕 ~6:00–6:30 AM: rideshare to **Diamond Head** (Lēʻahi), ~10–15 min from Waikīkī. Your body clock still thinks it's mid-morning, so an early start is easy.
 - 🥾 Hike: ~1.6 miles round trip, ~560 ft climb, steep switchbacks, stairs and a tunnel; allow **1.5–2 hours**. Little shade: water, hat, sunscreen.
@@ -57,6 +92,23 @@
 - 🌅 Sunset from the beach or the Duke Kahanamoku statue area; dinner.
 - 🕐 NYC falls back today, so Hawaiʻi is now **5 hours behind NYC**.
 
+<details open><summary><b>Photos</b></summary>
+
+**📸 Diamond Head (Lēʻahi)**
+
+<a href="https://commons.wikimedia.org/wiki/File:2023-04-18,_Diamond_Head_Summit_Trail,_114530.jpg"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/2023-04-18%2C_Diamond_Head_Summit_Trail%2C_114530.jpg/960px-2023-04-18%2C_Diamond_Head_Summit_Trail%2C_114530.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="49%" alt="Diamond Head (Lēʻahi)"></a> <a href="https://commons.wikimedia.org/wiki/File:Diamond_Head.jpg"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Diamond_Head.jpg/960px-Diamond_Head.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="49%" alt="Diamond Head (Lēʻahi)"></a> <a href="https://commons.wikimedia.org/wiki/File:Diamond_Head_East_View_%5E_Eric_Tessmer_Hawaii_-_panoramio.jpg"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Diamond_Head_East_View_%5E_Eric_Tessmer_Hawaii_-_panoramio.jpg/960px-Diamond_Head_East_View_%5E_Eric_Tessmer_Hawaii_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="49%" alt="Diamond Head (Lēʻahi)"></a> <a href="https://commons.wikimedia.org/wiki/File:Diamond_Head_Hawaii_-_panoramio.jpg"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Diamond_Head_Hawaii_-_panoramio.jpg/960px-Diamond_Head_Hawaii_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="49%" alt="Diamond Head (Lēʻahi)"></a>
+
+<sub>Photos: [Steven Pavlov](https://commons.wikimedia.org/wiki/File:2023-04-18,_Diamond_Head_Summit_Trail,_114530.jpg), CC BY-SA 4.0 · [VideoFrog](https://commons.wikimedia.org/wiki/File:Diamond_Head.jpg), CC BY 2.0 · [Eric Tessmer](https://commons.wikimedia.org/wiki/File:Diamond_Head_East_View_%5E_Eric_Tessmer_Hawaii_-_panoramio.jpg), CC BY 3.0 · [Eric Tessmer](https://commons.wikimedia.org/wiki/File:Diamond_Head_Hawaii_-_panoramio.jpg), CC BY 3.0 (Wikimedia Commons)</sub>
+
+**📸 Surfing at Waikīkī**
+
+<a href="https://commons.wikimedia.org/wiki/File:%27Canoe_Surfing,_Waikiki%27_by_D._Howard_Hitchcock.JPG"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/%27Canoe_Surfing%2C_Waikiki%27_by_D._Howard_Hitchcock.JPG/960px-%27Canoe_Surfing%2C_Waikiki%27_by_D._Howard_Hitchcock.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="32%" alt="Surfing at Waikīkī"></a> <a href="https://commons.wikimedia.org/wiki/File:Surfing_@_Waikiki_Beach_(15068357533).jpg"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Surfing_%40_Waikiki_Beach_%2815068357533%29.jpg/960px-Surfing_%40_Waikiki_Beach_%2815068357533%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="32%" alt="Surfing at Waikīkī"></a> <a href="https://commons.wikimedia.org/wiki/File:Surfing_@_Waikiki_Beach_(15501979860).jpg"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Surfing_%40_Waikiki_Beach_%2815501979860%29.jpg/960px-Surfing_%40_Waikiki_Beach_%2815501979860%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="32%" alt="Surfing at Waikīkī"></a>
+
+<sub>Photos: [D. Howard Hitchcock](https://commons.wikimedia.org/wiki/File:%27Canoe_Surfing,_Waikiki%27_by_D._Howard_Hitchcock.JPG), Public domain · [Prayitno / Thank you for (12 millions +) view from Los Angel](https://commons.wikimedia.org/wiki/File:Surfing_@_Waikiki_Beach_(15068357533).jpg), CC BY 2.0 · [Prayitno / Thank you for (12 millions +) view from Los Angel](https://commons.wikimedia.org/wiki/File:Surfing_@_Waikiki_Beach_(15501979860).jpg), CC BY 2.0 (Wikimedia Commons)</sub>
+
+</details>
+
+
 ### Mon Nov 2: Pearl Harbor
 - 🕖 Leave ~1 hour before your **USS Arizona** program time (rideshare ~25–40 min).
 - ⚓ The Arizona program is ~45 min (film + boat to the memorial). Add the free museums at the visitor center; allow **3–4 hours** total, more with the Battleship Missouri.
@@ -64,6 +116,29 @@
 - 👕 Respectful clothing; it's a war grave.
 - Afternoon free: pool and nap, Ala Moana shopping, or **Bishop Museum** (~2–3 h, ~$30/adult).
 - Pack for tomorrow's island hop.
+
+<details open><summary><b>Photos</b></summary>
+
+**📸 USS Arizona Memorial**
+
+<a href="https://commons.wikimedia.org/wiki/File:Aboard_the_Memorial_-_Arizona_survivors,_cremated_and_urns_added.jpg"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Aboard_the_Memorial_-_Arizona_survivors%2C_cremated_and_urns_added.jpg/960px-Aboard_the_Memorial_-_Arizona_survivors%2C_cremated_and_urns_added.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="32%" alt="USS Arizona Memorial"></a> <a href="https://commons.wikimedia.org/wiki/File:Aboard_the_U.S.S._Arizona_Memorial_-_looking_into_the_back.jpg"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Aboard_the_U.S.S._Arizona_Memorial_-_looking_into_the_back.jpg/960px-Aboard_the_U.S.S._Arizona_Memorial_-_looking_into_the_back.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="32%" alt="USS Arizona Memorial"></a> <a href="https://commons.wikimedia.org/wiki/File:Arizona_Memorial_at_Pearl_Harbor,_Hawaii.JPG"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Arizona_Memorial_at_Pearl_Harbor%2C_Hawaii.JPG/960px-Arizona_Memorial_at_Pearl_Harbor%2C_Hawaii.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="32%" alt="USS Arizona Memorial"></a>
+
+<sub>Photos: [SCFoxJD](https://commons.wikimedia.org/wiki/File:Aboard_the_Memorial_-_Arizona_survivors,_cremated_and_urns_added.jpg), CC BY-SA 4.0 · [SCFoxJD](https://commons.wikimedia.org/wiki/File:Aboard_the_U.S.S._Arizona_Memorial_-_looking_into_the_back.jpg), CC BY-SA 4.0 · [Cristo Vlahos](https://commons.wikimedia.org/wiki/File:Arizona_Memorial_at_Pearl_Harbor,_Hawaii.JPG), CC BY-SA 3.0 (Wikimedia Commons)</sub>
+
+**📸 Pearl Harbor National Memorial**
+
+<a href="https://commons.wikimedia.org/wiki/File:USS_Arizona_Memorial.JPG"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/USS_Arizona_Memorial.JPG/960px-USS_Arizona_Memorial.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="49%" alt="Pearl Harbor National Memorial"></a> <a href="https://commons.wikimedia.org/wiki/File:Pearl_Harbor_Visitor_Center_is_the_entry_point_of_the_Pearl_Harbor_National_Memorial.jpg"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Pearl_Harbor_Visitor_Center_is_the_entry_point_of_the_Pearl_Harbor_National_Memorial.jpg/960px-Pearl_Harbor_Visitor_Center_is_the_entry_point_of_the_Pearl_Harbor_National_Memorial.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="49%" alt="Pearl Harbor National Memorial"></a>
+
+<sub>Photos: [Victor-ny](https://commons.wikimedia.org/wiki/File:USS_Arizona_Memorial.JPG), CC BY-SA 3.0 · [DavidaJohanson](https://commons.wikimedia.org/wiki/File:Pearl_Harbor_Visitor_Center_is_the_entry_point_of_the_Pearl_Harbor_National_Memorial.jpg), CC BY-SA 4.0 (Wikimedia Commons)</sub>
+
+**📸 Bishop Museum**
+
+<a href="https://commons.wikimedia.org/wiki/File:Amy_B._H._Greenwell_Ethnobotanical_Garden,_Captain_Cook,_Hawai%E2%80%98i_Island.jpg"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Amy_B._H._Greenwell_Ethnobotanical_Garden%2C_Captain_Cook%2C_Hawai%E2%80%98i_Island.jpg/960px-Amy_B._H._Greenwell_Ethnobotanical_Garden%2C_Captain_Cook%2C_Hawai%E2%80%98i_Island.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="32%" alt="Bishop Museum"></a> <a href="https://commons.wikimedia.org/wiki/File:BPBishopMuseum-Bishophall-far.JPG"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/BPBishopMuseum-Bishophall-far.JPG/960px-BPBishopMuseum-Bishophall-far.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="32%" alt="Bishop Museum"></a> <a href="https://commons.wikimedia.org/wiki/File:BPBishopMuseum-Hawaiianhall-frontend.JPG"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/BPBishopMuseum-Hawaiianhall-frontend.JPG/960px-BPBishopMuseum-Hawaiianhall-frontend.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="32%" alt="Bishop Museum"></a>
+
+<sub>Photos: [Bishop Museum](https://commons.wikimedia.org/wiki/File:Amy_B._H._Greenwell_Ethnobotanical_Garden,_Captain_Cook,_Hawai%E2%80%98i_Island.jpg), CC BY-SA 3.0 · [Joel Bradshaw](https://commons.wikimedia.org/wiki/File:BPBishopMuseum-Bishophall-far.JPG), Public domain · [Joel Bradshaw](https://commons.wikimedia.org/wiki/File:BPBishopMuseum-Hawaiianhall-frontend.JPG), Public domain (Wikimedia Commons)</sub>
+
+</details>
+
 
 ### Tue Nov 3: → Maui
 - Breakfast, check out, rideshare to HNL (~25–40 min).
@@ -110,6 +185,61 @@ Pick from these if you have energy, if the weather changes, or to swap days. Rou
 | **Ala Moana Center + Beach Park** | Big open-air mall, calm lagoon beach | 2 h | Free | Good rainy-afternoon fallback |
 | **Puʻu ʻUalakaʻa lookout (Tantalus)** | Sunset over the whole city | 30 min | $7 parking | Needs a car or rideshare both ways |
 
+<details open><summary><b>Photos</b></summary>
+
+Waikīkī Beach, surf lessons and Bishop Museum are pictured in the day plan above.
+
+**📸 Sunset sail off Waikīkī**
+
+<a href="https://commons.wikimedia.org/wiki/File:Catamarans,_Waikiki.jpg"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Catamarans%2C_Waikiki.jpg/960px-Catamarans%2C_Waikiki.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="49%" alt="Sunset sail off Waikīkī"></a> <a href="https://commons.wikimedia.org/wiki/File:Waikiki_Beach_(6480776787).jpg"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Waikiki_Beach_%286480776787%29.jpg/960px-Waikiki_Beach_%286480776787%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="49%" alt="Sunset sail off Waikīkī"></a>
+
+<sub>Photos: [Ossewa](https://commons.wikimedia.org/wiki/File:Catamarans,_Waikiki.jpg), CC BY-SA 4.0 · [Phil Whitehouse from London, United Kingdom](https://commons.wikimedia.org/wiki/File:Waikiki_Beach_(6480776787).jpg), CC BY 2.0 (Wikimedia Commons)</sub>
+
+**📸 Kapiʻolani Park + Queen's Surf**
+
+<a href="https://commons.wikimedia.org/wiki/File:Kapiolani_Park_-_panoramio.jpg"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Kapiolani_Park_-_panoramio.jpg/960px-Kapiolani_Park_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="32%" alt="Kapiʻolani Park + Queen&#x27;s Surf"></a> <a href="https://commons.wikimedia.org/wiki/File:Under_the_banyan_tree.jpg"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Under_the_banyan_tree.jpg/960px-Under_the_banyan_tree.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="32%" alt="Kapiʻolani Park + Queen&#x27;s Surf"></a> <a href="https://commons.wikimedia.org/wiki/File:Banyan_tree,_Waikiki_Beach,_Oahu,_Hawaii,_USA4.jpg"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Banyan_tree%2C_Waikiki_Beach%2C_Oahu%2C_Hawaii%2C_USA4.jpg/960px-Banyan_tree%2C_Waikiki_Beach%2C_Oahu%2C_Hawaii%2C_USA4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="32%" alt="Kapiʻolani Park + Queen&#x27;s Surf"></a>
+
+<sub>Photos: [kajikawa](https://commons.wikimedia.org/wiki/File:Kapiolani_Park_-_panoramio.jpg), CC BY 3.0 · [Janine from Mililani, Hawaii, United States](https://commons.wikimedia.org/wiki/File:Under_the_banyan_tree.jpg), CC BY 2.0 · [Diego Delso](https://commons.wikimedia.org/wiki/File:Banyan_tree,_Waikiki_Beach,_Oahu,_Hawaii,_USA4.jpg), CC BY-SA 3.0 (Wikimedia Commons)</sub>
+
+**📸 ʻIolani Palace**
+
+<a href="https://commons.wikimedia.org/wiki/File:Coat_of_Arms_(2856237729).jpg"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Coat_of_Arms_%282856237729%29.jpg/960px-Coat_of_Arms_%282856237729%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="32%" alt="ʻIolani Palace"></a> <a href="https://commons.wikimedia.org/wiki/File:Grand_Staircase_-_Iolani_Palce_(9487418505).jpg"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Grand_Staircase_-_Iolani_Palce_%289487418505%29.jpg/960px-Grand_Staircase_-_Iolani_Palce_%289487418505%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="32%" alt="ʻIolani Palace"></a> <a href="https://commons.wikimedia.org/wiki/File:Iolani_Palace_(51872681413).jpg"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Iolani_Palace_%2851872681413%29.jpg/960px-Iolani_Palace_%2851872681413%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="32%" alt="ʻIolani Palace"></a>
+
+<sub>Photos: [Cliff from Arlington, Virginia, USA](https://commons.wikimedia.org/wiki/File:Coat_of_Arms_(2856237729).jpg), CC BY 2.0 · [Daniel Ramirez from Honolulu, USA](https://commons.wikimedia.org/wiki/File:Grand_Staircase_-_Iolani_Palce_(9487418505).jpg), CC BY 2.0 · [Gage Skidmore from Surprise, AZ, United States of America](https://commons.wikimedia.org/wiki/File:Iolani_Palace_(51872681413).jpg), CC BY-SA 2.0 (Wikimedia Commons)</sub>
+
+**📸 Chinatown, Honolulu**
+
+<a href="https://commons.wikimedia.org/wiki/File:Honolulu-Chinatown-WoFat-building.JPG"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Honolulu-Chinatown-WoFat-building.JPG/960px-Honolulu-Chinatown-WoFat-building.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="70%" alt="Chinatown, Honolulu"></a>
+
+<sub>Photos: [Joel Bradshaw](https://commons.wikimedia.org/wiki/File:Honolulu-Chinatown-WoFat-building.JPG), Public domain (Wikimedia Commons)</sub>
+
+**📸 Punchbowl (National Memorial Cemetery)**
+
+<a href="https://commons.wikimedia.org/wiki/File:National_Memorial_Cemetery_of_the_Pacific_2005.jpg"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/National_Memorial_Cemetery_of_the_Pacific_2005.jpg/960px-National_Memorial_Cemetery_of_the_Pacific_2005.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="49%" alt="Punchbowl (National Memorial Cemetery)"></a> <a href="https://commons.wikimedia.org/wiki/File:National_Memorial_Cemetery_of_the_Pacific_(51871630202).jpg"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/National_Memorial_Cemetery_of_the_Pacific_%2851871630202%29.jpg/960px-National_Memorial_Cemetery_of_the_Pacific_%2851871630202%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="49%" alt="Punchbowl (National Memorial Cemetery)"></a>
+
+<sub>Photos: [Cleared as filed at English Wikipedia](https://commons.wikimedia.org/wiki/File:National_Memorial_Cemetery_of_the_Pacific_2005.jpg), CC BY-SA 3.0 · [Gage Skidmore from Surprise, AZ, United States of America](https://commons.wikimedia.org/wiki/File:National_Memorial_Cemetery_of_the_Pacific_(51871630202).jpg), CC BY-SA 2.0 (Wikimedia Commons)</sub>
+
+**📸 Foster Botanical Garden**
+
+<a href="https://commons.wikimedia.org/wiki/File:%27Ohai-ali%27i_plant_in_bloom.jpg"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/%27Ohai-ali%27i_plant_in_bloom.jpg/960px-%27Ohai-ali%27i_plant_in_bloom.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="32%" alt="Foster Botanical Garden"></a> <a href="https://commons.wikimedia.org/wiki/File:Banyan_tree_Foster_Botanical_Gardens.jpg"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Banyan_tree_Foster_Botanical_Gardens.jpg/960px-Banyan_tree_Foster_Botanical_Gardens.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="32%" alt="Foster Botanical Garden"></a> <a href="https://commons.wikimedia.org/wiki/File:Butterfly_Garden_-_plants_attract_butterflies.jpg"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Butterfly_Garden_-_plants_attract_butterflies.jpg/960px-Butterfly_Garden_-_plants_attract_butterflies.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="32%" alt="Foster Botanical Garden"></a>
+
+<sub>Photos: [SCFoxJD](https://commons.wikimedia.org/wiki/File:%27Ohai-ali%27i_plant_in_bloom.jpg), CC BY-SA 4.0 · [Elizabeth Main](https://commons.wikimedia.org/wiki/File:Banyan_tree_Foster_Botanical_Gardens.jpg), CC BY-SA 4.0 · [SCFoxJD](https://commons.wikimedia.org/wiki/File:Butterfly_Garden_-_plants_attract_butterflies.jpg), CC BY-SA 4.0 (Wikimedia Commons)</sub>
+
+**📸 Ala Moana Center + Beach Park**
+
+<a href="https://commons.wikimedia.org/wiki/File:Nieman_Marcus_Ala_Moana.jpg"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Nieman_Marcus_Ala_Moana.jpg/960px-Nieman_Marcus_Ala_Moana.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="70%" alt="Ala Moana Center + Beach Park"></a>
+
+<sub>Photos: [TastyPoutine](https://commons.wikimedia.org/wiki/File:Nieman_Marcus_Ala_Moana.jpg), CC BY-SA 3.0 (Wikimedia Commons)</sub>
+
+**📸 Puʻu ʻUalakaʻa lookout (Tantalus)**
+
+<a href="https://commons.wikimedia.org/wiki/File:Round_Top_Drive_with_view_of_UH_Manoa,_Diamond_Head_and_the_city_of_Honolulu.jpg"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Round_Top_Drive_with_view_of_UH_Manoa%2C_Diamond_Head_and_the_city_of_Honolulu.jpg/960px-Round_Top_Drive_with_view_of_UH_Manoa%2C_Diamond_Head_and_the_city_of_Honolulu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="49%" alt="Puʻu ʻUalakaʻa lookout (Tantalus)"></a> <a href="https://commons.wikimedia.org/wiki/File:2023-04-22,_Pu%CA%BBu_%CA%BBUalaka%CA%BBa_State_Wayside,_Honolulu,_Hawaii,_022.jpg"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/2023-04-22%2C_Pu%CA%BBu_%CA%BBUalaka%CA%BBa_State_Wayside%2C_Honolulu%2C_Hawaii%2C_022.jpg/960px-2023-04-22%2C_Pu%CA%BBu_%CA%BBUalaka%CA%BBa_State_Wayside%2C_Honolulu%2C_Hawaii%2C_022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="49%" alt="Puʻu ʻUalakaʻa lookout (Tantalus)"></a>
+
+<sub>Photos: [The Eloquent Peasant](https://commons.wikimedia.org/wiki/File:Round_Top_Drive_with_view_of_UH_Manoa,_Diamond_Head_and_the_city_of_Honolulu.jpg), CC BY-SA 4.0 · [Steven Pavlov](https://commons.wikimedia.org/wiki/File:2023-04-22,_Pu%CA%BBu_%CA%BBUalaka%CA%BBa_State_Wayside,_Honolulu,_Hawaii,_022.jpg), CC BY-SA 4.0 (Wikimedia Commons)</sub>
+
+</details>
+
+
 ### East Oʻahu (half day; car, tour or rideshare)
 
 ![Sandy Beach, Oʻahu](https://www.andrewshoemaker.com/images/640/a-place-in-the-sun-palm-tree-sandy-beach-oahu-hawaii.jpg)
@@ -123,6 +253,47 @@ Pick from these if you have energy, if the weather changes, or to swap days. Rou
 | **Sandy Beach** | Beautiful but dangerous shorebreak | Look only | Free | Don't swim here |
 | **Lanikai + Kailua** | Postcard beaches, Mokulua islets, Kailua town cafés | Half day | Free | Lanikai has no parking; go by tour/rideshare. Lanikai Pillbox hike for the view (~1 h) |
 
+<details open><summary><b>Photos</b></summary>
+
+**📸 Hanauma Bay**
+
+<a href="https://commons.wikimedia.org/wiki/File:Hanauma_Bay.JPG"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Hanauma_Bay.JPG/960px-Hanauma_Bay.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="32%" alt="Hanauma Bay"></a> <a href="https://commons.wikimedia.org/wiki/File:Hanauma_Bay_Beach_Detail.JPG"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Hanauma_Bay_Beach_Detail.JPG/960px-Hanauma_Bay_Beach_Detail.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="32%" alt="Hanauma Bay"></a> <a href="https://commons.wikimedia.org/wiki/File:Hanauma_Bay_Oahu_Hawaii_Photo_Don_Ramey_Logan.jpg"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Hanauma_Bay_Oahu_Hawaii_Photo_Don_Ramey_Logan.jpg/960px-Hanauma_Bay_Oahu_Hawaii_Photo_Don_Ramey_Logan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="32%" alt="Hanauma Bay"></a>
+
+<sub>Photos: [ErgoSum88](https://commons.wikimedia.org/wiki/File:Hanauma_Bay.JPG), Public domain · [Cristo Vlahos](https://commons.wikimedia.org/wiki/File:Hanauma_Bay_Beach_Detail.JPG), CC BY-SA 3.0 · [Don Ramey Logan](https://commons.wikimedia.org/wiki/File:Hanauma_Bay_Oahu_Hawaii_Photo_Don_Ramey_Logan.jpg), CC BY-SA 3.0 (Wikimedia Commons)</sub>
+
+**📸 Hālona Blowhole + Cove**
+
+<a href="https://commons.wikimedia.org/wiki/File:Cockroach_Cove,_AKA_H%C4%81lona_Cove_03.jpg"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Cockroach_Cove%2C_AKA_H%C4%81lona_Cove_03.jpg/960px-Cockroach_Cove%2C_AKA_H%C4%81lona_Cove_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="49%" alt="Hālona Blowhole + Cove"></a> <a href="https://commons.wikimedia.org/wiki/File:Halona_Blowhole_a0002860.jpg"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Halona_Blowhole_a0002860.jpg/960px-Halona_Blowhole_a0002860.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="49%" alt="Hālona Blowhole + Cove"></a>
+
+<sub>Photos: [FeldBum](https://commons.wikimedia.org/wiki/File:Cockroach_Cove,_AKA_H%C4%81lona_Cove_03.jpg), CC BY-SA 4.0 · [This file was created by Thomas Tunsch. It is not in the pub](https://commons.wikimedia.org/wiki/File:Halona_Blowhole_a0002860.jpg), CC BY-SA 4.0 (Wikimedia Commons)</sub>
+
+**📸 Makapuʻu Lighthouse Trail**
+
+<a href="https://commons.wikimedia.org/wiki/File:Makapu%27u_Lighthouse_from_hiking_trail.JPG"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Makapu%27u_Lighthouse_from_hiking_trail.JPG/960px-Makapu%27u_Lighthouse_from_hiking_trail.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="32%" alt="Makapuʻu Lighthouse Trail"></a> <a href="https://commons.wikimedia.org/wiki/File:Makapu%CA%BBu_Lighthouse.jpg"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Makapu%CA%BBu_Lighthouse.jpg/960px-Makapu%CA%BBu_Lighthouse.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="32%" alt="Makapuʻu Lighthouse Trail"></a> <a href="https://commons.wikimedia.org/wiki/File:Makapu%27u_Lighthouse_from_hiking_trail_2.JPG"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Makapu%27u_Lighthouse_from_hiking_trail_2.JPG/960px-Makapu%27u_Lighthouse_from_hiking_trail_2.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="32%" alt="Makapuʻu Lighthouse Trail"></a>
+
+<sub>Photos: [Kaleismith](https://commons.wikimedia.org/wiki/File:Makapu%27u_Lighthouse_from_hiking_trail.JPG), CC BY-SA 3.0 · [Zhong54](https://commons.wikimedia.org/wiki/File:Makapu%CA%BBu_Lighthouse.jpg), CC BY-SA 3.0 · [Kaleismith](https://commons.wikimedia.org/wiki/File:Makapu%27u_Lighthouse_from_hiking_trail_2.JPG), CC BY-SA 3.0 (Wikimedia Commons)</sub>
+
+**📸 Sandy Beach**
+
+<a href="https://commons.wikimedia.org/wiki/File:Sandy_Beach,_Oahu_(15307974116).jpg"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Sandy_Beach%2C_Oahu_%2815307974116%29.jpg/960px-Sandy_Beach%2C_Oahu_%2815307974116%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="49%" alt="Sandy Beach"></a> <a href="https://commons.wikimedia.org/wiki/File:Sandy_Beach_Park,_Kalanianaole_Hwy,_Honolulu_(503323)_(17852385636).jpg"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Sandy_Beach_Park%2C_Kalanianaole_Hwy%2C_Honolulu_%28503323%29_%2817852385636%29.jpg/960px-Sandy_Beach_Park%2C_Kalanianaole_Hwy%2C_Honolulu_%28503323%29_%2817852385636%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="49%" alt="Sandy Beach"></a>
+
+<sub>Photos: [Jeremy from Sydney, Australia](https://commons.wikimedia.org/wiki/File:Sandy_Beach,_Oahu_(15307974116).jpg), CC BY 2.0 · [Robert Linsdell from St. Andrews, Canada](https://commons.wikimedia.org/wiki/File:Sandy_Beach_Park,_Kalanianaole_Hwy,_Honolulu_(503323)_(17852385636).jpg), CC BY 2.0 (Wikimedia Commons)</sub>
+
+**📸 Lanikai + Kailua**
+
+<a href="https://commons.wikimedia.org/wiki/File:Canoes_in_Mokulua.jpg"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Canoes_in_Mokulua.jpg/960px-Canoes_in_Mokulua.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="49%" alt="Lanikai + Kailua"></a> <a href="https://commons.wikimedia.org/wiki/File:Mokulua_Islands,_Oahu_Hawaii.JPG"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Mokulua_Islands%2C_Oahu_Hawaii.JPG/960px-Mokulua_Islands%2C_Oahu_Hawaii.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="49%" alt="Lanikai + Kailua"></a> <a href="https://commons.wikimedia.org/wiki/File:Lanikai_Beach,_Hawaii.JPG"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Lanikai_Beach%2C_Hawaii.JPG/960px-Lanikai_Beach%2C_Hawaii.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="49%" alt="Lanikai + Kailua"></a> <a href="https://commons.wikimedia.org/wiki/File:Lanikai_Strand_auf_Oahu.jpg"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Lanikai_Strand_auf_Oahu.jpg/960px-Lanikai_Strand_auf_Oahu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="49%" alt="Lanikai + Kailua"></a>
+
+<sub>Photos: [Cristo Vlahos](https://commons.wikimedia.org/wiki/File:Canoes_in_Mokulua.jpg), CC BY-SA 3.0 · [Cristo Vlahos](https://commons.wikimedia.org/wiki/File:Mokulua_Islands,_Oahu_Hawaii.JPG), CC BY-SA 3.0 · [Cristo Vlahos](https://commons.wikimedia.org/wiki/File:Lanikai_Beach,_Hawaii.JPG), CC BY-SA 3.0 · [Hakilon](https://commons.wikimedia.org/wiki/File:Lanikai_Strand_auf_Oahu.jpg), CC BY 3.0 (Wikimedia Commons)</sub>
+
+**📸 Lanikai Pillbox hike**
+
+<a href="https://commons.wikimedia.org/wiki/File:Lanikai_Pillbox_trail_(53313260179).jpg"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Lanikai_Pillbox_trail_%2853313260179%29.jpg/960px-Lanikai_Pillbox_trail_%2853313260179%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="49%" alt="Lanikai Pillbox hike"></a> <a href="https://commons.wikimedia.org/wiki/File:Lanikai_Pillbox_trail_(53312899101).jpg"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Lanikai_Pillbox_trail_%2853312899101%29.jpg/960px-Lanikai_Pillbox_trail_%2853312899101%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="49%" alt="Lanikai Pillbox hike"></a>
+
+<sub>Photos: [Raita Futo from Tokyo, Japan](https://commons.wikimedia.org/wiki/File:Lanikai_Pillbox_trail_(53313260179).jpg), CC BY 2.0 · [Raita Futo from Tokyo, Japan](https://commons.wikimedia.org/wiki/File:Lanikai_Pillbox_trail_(53312899101).jpg), CC BY 2.0 (Wikimedia Commons)</sub>
+
+</details>
+
+
 ![Lanikai Beach, Oʻahu](https://www.andrewshoemaker.com/images/640/blue-hawaii-lanikai-beach-oahu.jpg)
 <sub>Lanikai Beach · [Photo: Andrew Shoemaker](https://www.andrewshoemaker.com/photo/blue-hawaii-lanikai-beach-oahu/)</sub>
 
@@ -135,6 +306,41 @@ Pick from these if you have energy, if the weather changes, or to swap days. Rou
 | **Mokoliʻi (Chinaman's Hat)** | Iconic islet off Kualoa Regional Park | 30 min | Free | Photo stop |
 | **Byōdō-In Temple (Valley of the Temples)** | Replica of a Japanese temple under the Koʻolau cliffs | 1 h | Small fee | Morning |
 | **Hoʻomaluhia Botanical Garden** | Mountain-wall garden with a lake | 1–2 h | Free | Morning for still water |
+
+<details open><summary><b>Photos</b></summary>
+
+**📸 Nuʻuanu Pali Lookout**
+
+<a href="https://commons.wikimedia.org/wiki/File:Cliffs_of_the_Koolau_Range,_Oahu_58.jpg"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Cliffs_of_the_Koolau_Range%2C_Oahu_58.jpg/960px-Cliffs_of_the_Koolau_Range%2C_Oahu_58.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="32%" alt="Nuʻuanu Pali Lookout"></a> <a href="https://commons.wikimedia.org/wiki/File:Oahu_Landscape.jpg"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Oahu_Landscape.jpg/960px-Oahu_Landscape.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="32%" alt="Nuʻuanu Pali Lookout"></a> <a href="https://commons.wikimedia.org/wiki/File:Pali_Lookout_(5721444258).jpg"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Pali_Lookout_%285721444258%29.jpg/960px-Pali_Lookout_%285721444258%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="32%" alt="Nuʻuanu Pali Lookout"></a>
+
+<sub>Photos: [Lukas from Tokyo, Japan](https://commons.wikimedia.org/wiki/File:Cliffs_of_the_Koolau_Range,_Oahu_58.jpg), CC BY 2.0 · [Bernard Spragg. NZ](https://commons.wikimedia.org/wiki/File:Oahu_Landscape.jpg), CC0 · [InSapphoWeTrust from Los Angeles, California, USA](https://commons.wikimedia.org/wiki/File:Pali_Lookout_(5721444258).jpg), CC BY-SA 2.0 (Wikimedia Commons)</sub>
+
+**📸 Kualoa Ranch**
+
+<a href="https://commons.wikimedia.org/wiki/File:Chinaman%27s_Hat_-_Oahu_Hawaii.JPG"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Chinaman%27s_Hat_-_Oahu_Hawaii.JPG/960px-Chinaman%27s_Hat_-_Oahu_Hawaii.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="32%" alt="Kualoa Ranch"></a> <a href="https://commons.wikimedia.org/wiki/File:Jurassic_Valley.jpg"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Jurassic_Valley.jpg/960px-Jurassic_Valley.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="32%" alt="Kualoa Ranch"></a> <a href="https://commons.wikimedia.org/wiki/File:Kaneohe_Bucht.jpg"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Kaneohe_Bucht.jpg/960px-Kaneohe_Bucht.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="32%" alt="Kualoa Ranch"></a>
+
+<sub>Photos: [Cristo Vlahos](https://commons.wikimedia.org/wiki/File:Chinaman%27s_Hat_-_Oahu_Hawaii.JPG), CC BY-SA 3.0 · [Schm6041](https://commons.wikimedia.org/wiki/File:Jurassic_Valley.jpg), CC BY 4.0 · [Hakilon](https://commons.wikimedia.org/wiki/File:Kaneohe_Bucht.jpg), CC BY-SA 3.0 (Wikimedia Commons)</sub>
+
+**📸 Mokoliʻi (Chinaman's Hat)**
+
+<a href="https://commons.wikimedia.org/wiki/File:Mokoli%27i_islet_Chinaman%27s_Hat.JPG"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Mokoli%27i_islet_Chinaman%27s_Hat.JPG/960px-Mokoli%27i_islet_Chinaman%27s_Hat.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="49%" alt="Mokoliʻi (Chinaman&#x27;s Hat)"></a> <a href="https://commons.wikimedia.org/wiki/File:Chinaman%27s_Hat_-_Mokoli%CA%BBi_(O%27ahu).JPG"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Chinaman%27s_Hat_-_Mokoli%CA%BBi_%28O%27ahu%29.JPG/960px-Chinaman%27s_Hat_-_Mokoli%CA%BBi_%28O%27ahu%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="49%" alt="Mokoliʻi (Chinaman&#x27;s Hat)"></a>
+
+<sub>Photos: [Tonchino](https://commons.wikimedia.org/wiki/File:Mokoli%27i_islet_Chinaman%27s_Hat.JPG), CC BY-SA 3.0 · [No machine-readable author provided. Caracas1830 assumed (ba](https://commons.wikimedia.org/wiki/File:Chinaman%27s_Hat_-_Mokoli%CA%BBi_(O%27ahu).JPG), CC BY-SA 2.5 (Wikimedia Commons)</sub>
+
+**📸 Byōdō-In Temple**
+
+<a href="https://commons.wikimedia.org/wiki/File:Byodo-In_Temple_in_Hawaii.jpg"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Byodo-In_Temple_in_Hawaii.jpg/960px-Byodo-In_Temple_in_Hawaii.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="32%" alt="Byōdō-In Temple"></a> <a href="https://commons.wikimedia.org/wiki/File:Byodo-In_Temple_Oahu_01.jpg"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Byodo-In_Temple_Oahu_01.jpg/960px-Byodo-In_Temple_Oahu_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="32%" alt="Byōdō-In Temple"></a> <a href="https://commons.wikimedia.org/wiki/File:Byodo-In_Temple,_Oahu_(27590505020).jpg"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Byodo-In_Temple%2C_Oahu_%2827590505020%29.jpg/960px-Byodo-In_Temple%2C_Oahu_%2827590505020%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="32%" alt="Byōdō-In Temple"></a>
+
+<sub>Photos: [Puneet Abbott](https://commons.wikimedia.org/wiki/File:Byodo-In_Temple_in_Hawaii.jpg), CC BY 2.0 · [Cristo Vlahos](https://commons.wikimedia.org/wiki/File:Byodo-In_Temple_Oahu_01.jpg), CC BY-SA 3.0 · [Thomas Woodtli from Zürich, Switzerland](https://commons.wikimedia.org/wiki/File:Byodo-In_Temple,_Oahu_(27590505020).jpg), CC BY-SA 2.0 (Wikimedia Commons)</sub>
+
+**📸 Hoʻomaluhia Botanical Garden**
+
+<a href="https://commons.wikimedia.org/wiki/File:Ho%27omaluhia_Botanical_Garden_-_lake_view.JPG"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Ho%27omaluhia_Botanical_Garden_-_lake_view.JPG/960px-Ho%27omaluhia_Botanical_Garden_-_lake_view.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="32%" alt="Hoʻomaluhia Botanical Garden"></a> <a href="https://commons.wikimedia.org/wiki/File:Ho%27omaluhia_Botanical_Garden_-_mountain_view.JPG"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Ho%27omaluhia_Botanical_Garden_-_mountain_view.JPG/960px-Ho%27omaluhia_Botanical_Garden_-_mountain_view.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="32%" alt="Hoʻomaluhia Botanical Garden"></a> <a href="https://commons.wikimedia.org/wiki/File:Ho%27omaluhia_Botanical_Garden_-_tree_view.JPG"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Ho%27omaluhia_Botanical_Garden_-_tree_view.JPG/960px-Ho%27omaluhia_Botanical_Garden_-_tree_view.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="32%" alt="Hoʻomaluhia Botanical Garden"></a>
+
+<sub>Photos: [Daderot.](https://commons.wikimedia.org/wiki/File:Ho%27omaluhia_Botanical_Garden_-_lake_view.JPG), CC BY-SA 3.0 · [Daderot.](https://commons.wikimedia.org/wiki/File:Ho%27omaluhia_Botanical_Garden_-_mountain_view.JPG), CC BY-SA 3.0 · [Daderot.](https://commons.wikimedia.org/wiki/File:Ho%27omaluhia_Botanical_Garden_-_tree_view.JPG), CC BY-SA 3.0 (Wikimedia Commons)</sub>
+
+</details>
+
 
 ![Mokoliʻi (Chinaman's Hat), Kualoa](https://www.andrewshoemaker.com/images/640/mokolii-chinamans-hat-oahu-hawaii.jpg)
 <sub>Mokoliʻi, off Kualoa · [Photo: Andrew Shoemaker](https://www.andrewshoemaker.com/photo/mokolii-chinamans-hat-oahu-hawaii/)</sub>
@@ -152,6 +358,47 @@ Dropped because it's a long day and **November is big-surf season**: the beaches
 | **Dole Plantation** | Pineapple stop on the drive up | Grounds free |
 | **Polynesian Cultural Center** | Pacific island villages + evening show | Half to full day, from ~$90/pp; far from Waikīkī |
 
+<details open><summary><b>Photos</b></summary>
+
+**📸 Haleʻiwa town**
+
+<a href="https://commons.wikimedia.org/wiki/File:Liliuokalani_Protestant_Church,_Haleiwa,_Hawaii_(4549284204).jpg"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Liliuokalani_Protestant_Church%2C_Haleiwa%2C_Hawaii_%284549284204%29.jpg/960px-Liliuokalani_Protestant_Church%2C_Haleiwa%2C_Hawaii_%284549284204%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="70%" alt="Haleʻiwa town"></a>
+
+<sub>Photos: [Ken Lund from Reno, Nevada, USA](https://commons.wikimedia.org/wiki/File:Liliuokalani_Protestant_Church,_Haleiwa,_Hawaii_(4549284204).jpg), CC BY-SA 2.0 (Wikimedia Commons)</sub>
+
+**📸 Waimea Bay, Sunset Beach, Banzai Pipeline**
+
+<a href="https://commons.wikimedia.org/wiki/File:Sunset_Beach,_Oahu,_Hawaii,_USA4.jpg"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Sunset_Beach%2C_Oahu%2C_Hawaii%2C_USA4.jpg/960px-Sunset_Beach%2C_Oahu%2C_Hawaii%2C_USA4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="32%" alt="Waimea Bay, Sunset Beach, Banzai Pipeline"></a> <a href="https://commons.wikimedia.org/wiki/File:Sunset_at_Sunset_Beach,_Pupukea,_Oahu,_Hawaii.jpg"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Sunset_at_Sunset_Beach%2C_Pupukea%2C_Oahu%2C_Hawaii.jpg/960px-Sunset_at_Sunset_Beach%2C_Pupukea%2C_Oahu%2C_Hawaii.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="32%" alt="Waimea Bay, Sunset Beach, Banzai Pipeline"></a> <a href="https://commons.wikimedia.org/wiki/File:WaimeaBay.jpg"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/WaimeaBay.jpg/960px-WaimeaBay.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="32%" alt="Waimea Bay, Sunset Beach, Banzai Pipeline"></a>
+
+<sub>Photos: [Diego Delso](https://commons.wikimedia.org/wiki/File:Sunset_Beach,_Oahu,_Hawaii,_USA4.jpg), CC BY-SA 3.0 · [The Eloquent Peasant](https://commons.wikimedia.org/wiki/File:Sunset_at_Sunset_Beach,_Pupukea,_Oahu,_Hawaii.jpg), CC BY-SA 4.0 · [Travisthurston](https://commons.wikimedia.org/wiki/File:WaimeaBay.jpg), CC BY-SA 3.0 (Wikimedia Commons)</sub>
+
+**📸 Laniākea (turtles)**
+
+<a href="https://commons.wikimedia.org/wiki/File:Sea_turtles_at_Laniakea_Beach,_Hawaii.jpg"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Sea_turtles_at_Laniakea_Beach%2C_Hawaii.jpg/960px-Sea_turtles_at_Laniakea_Beach%2C_Hawaii.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="49%" alt="Laniākea (turtles)"></a> <a href="https://commons.wikimedia.org/wiki/File:Laniakea_Turtle_Beach_-_panoramio.jpg"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Laniakea_Turtle_Beach_-_panoramio.jpg/960px-Laniakea_Turtle_Beach_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="49%" alt="Laniākea (turtles)"></a>
+
+<sub>Photos: [BjL1504](https://commons.wikimedia.org/wiki/File:Sea_turtles_at_Laniakea_Beach,_Hawaii.jpg), CC BY-SA 4.0 · [verygreen](https://commons.wikimedia.org/wiki/File:Laniakea_Turtle_Beach_-_panoramio.jpg), CC BY-SA 3.0 (Wikimedia Commons)</sub>
+
+**📸 Waimea Valley**
+
+<a href="https://commons.wikimedia.org/wiki/File:Waimea_Valley.jpg"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Waimea_Valley.jpg/960px-Waimea_Valley.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="49%" alt="Waimea Valley"></a> <a href="https://commons.wikimedia.org/wiki/File:Waimea_Valley_Audubon_Center,_Oahu,_Hawaii_-_lake_view.JPG"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Waimea_Valley_Audubon_Center%2C_Oahu%2C_Hawaii_-_lake_view.JPG/960px-Waimea_Valley_Audubon_Center%2C_Oahu%2C_Hawaii_-_lake_view.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="49%" alt="Waimea Valley"></a>
+
+<sub>Photos: [Shocked-Lemur983](https://commons.wikimedia.org/wiki/File:Waimea_Valley.jpg), CC BY-SA 4.0 · [Daderot.](https://commons.wikimedia.org/wiki/File:Waimea_Valley_Audubon_Center,_Oahu,_Hawaii_-_lake_view.JPG), CC BY-SA 3.0 (Wikimedia Commons)</sub>
+
+**📸 Dole Plantation**
+
+<a href="https://commons.wikimedia.org/wiki/File:Dolejf2103.JPG"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Dolejf2103.JPG/960px-Dolejf2103.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="49%" alt="Dole Plantation"></a> <a href="https://commons.wikimedia.org/wiki/File:Ananas~May_2008-1.jpg"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Ananas~May_2008-1.jpg/960px-Ananas~May_2008-1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="49%" alt="Dole Plantation"></a>
+
+<sub>Photos: [Ramon FVelasquez](https://commons.wikimedia.org/wiki/File:Dolejf2103.JPG), CC BY-SA 3.0 · [Alvesgaspar](https://commons.wikimedia.org/wiki/File:Ananas~May_2008-1.jpg), CC BY-SA 3.0 (Wikimedia Commons)</sub>
+
+**📸 Polynesian Cultural Center**
+
+<a href="https://commons.wikimedia.org/wiki/File:Polynesian_Cultural_Center_-_Canoe_Pageant_(8328375917).jpg"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Polynesian_Cultural_Center_-_Canoe_Pageant_%288328375917%29.jpg/960px-Polynesian_Cultural_Center_-_Canoe_Pageant_%288328375917%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="49%" alt="Polynesian Cultural Center"></a> <a href="https://commons.wikimedia.org/wiki/File:Polynesian_Cultural_Center_Rower.jpg"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Polynesian_Cultural_Center_Rower.jpg/960px-Polynesian_Cultural_Center_Rower.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="49%" alt="Polynesian Cultural Center"></a>
+
+<sub>Photos: [Daniel Ramirez from Honolulu, USA](https://commons.wikimedia.org/wiki/File:Polynesian_Cultural_Center_-_Canoe_Pageant_(8328375917).jpg), CC BY 2.0 · [JayH](https://commons.wikimedia.org/wiki/File:Polynesian_Cultural_Center_Rower.jpg), Public domain (Wikimedia Commons)</sub>
+
+</details>
+
+
 ![Kaʻaʻawa, windward Oʻahu](https://www.andrewshoemaker.com/images/640/kaaawa-sands-north-shore-oahu-hawaii.jpg)
 <sub>Kaʻaʻawa · [Photo: Andrew Shoemaker](https://www.andrewshoemaker.com/photo/kaaawa-sands-north-shore-oahu-hawaii/)</sub>
 
@@ -159,6 +406,17 @@ Dropped because it's a long day and **November is big-surf season**: the beaches
 - **Lūʻau:** Oʻahu has several (beach lūʻau west of Honolulu, hotel lūʻau in Waikīkī). If you want one lūʻau on the trip, doing it on Maui is easier (see [`maui.md`](maui.md)).
 - **Sunset cocktails:** Waikīkī beachfront bars with live Hawaiian music most evenings.
 - **Halloween on Kalākaua (Oct 31):** big street crowd and costumes.
+
+<details open><summary><b>Photos</b></summary>
+
+**📸 Lūʻau**
+
+<a href="https://commons.wikimedia.org/wiki/File:Luau-hula-SL.jpg"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Luau-hula-SL.jpg/960px-Luau-hula-SL.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="32%" alt="Lūʻau"></a> <a href="https://commons.wikimedia.org/wiki/File:Luau_Dancer_-_Maui,_Hawaii.jpg"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Luau_Dancer_-_Maui%2C_Hawaii.jpg/960px-Luau_Dancer_-_Maui%2C_Hawaii.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="32%" alt="Lūʻau"></a> <a href="https://commons.wikimedia.org/wiki/File:Old_Lahaina_Luau_2009-07.jpg"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Old_Lahaina_Luau_2009-07.jpg/960px-Old_Lahaina_Luau_2009-07.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="32%" alt="Lūʻau"></a>
+
+<sub>Photos: [Shawn Lea from Jackson, MS, US](https://commons.wikimedia.org/wiki/File:Luau-hula-SL.jpg), CC BY 2.0 · [Matt](https://commons.wikimedia.org/wiki/File:Luau_Dancer_-_Maui,_Hawaii.jpg), CC BY-SA 2.0 · [Luke H. Gordon from Greenwood Lake, NY, USA](https://commons.wikimedia.org/wiki/File:Old_Lahaina_Luau_2009-07.jpg), CC BY 2.0 (Wikimedia Commons)</sub>
+
+</details>
+
 
 ---
 
@@ -168,6 +426,35 @@ Dropped because it's a long day and **November is big-surf season**: the beaches
 - **Shave ice:** a must at least once.
 - **Lactose intolerance:** malasadas, haupia (coconut) desserts and many plate lunches can contain dairy; ask. Poke and most Japanese food are safe bets.
 - **One nicer dinner:** reserve a Waikīkī oceanfront restaurant for Oct 31 or Nov 2 if you want a sunset table.
+
+<details open><summary><b>Photos</b></summary>
+
+**📸 Shave ice**
+
+<a href="https://commons.wikimedia.org/wiki/File:Hawaiian_Blizzard_syrup.jpg"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Hawaiian_Blizzard_syrup.jpg/960px-Hawaiian_Blizzard_syrup.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="49%" alt="Shave ice"></a> <a href="https://commons.wikimedia.org/wiki/File:Hilo_Ice_Shave.JPG"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Hilo_Ice_Shave.JPG/960px-Hilo_Ice_Shave.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="49%" alt="Shave ice"></a>
+
+<sub>Photos: [_e.t from Saratoga, USA](https://commons.wikimedia.org/wiki/File:Hawaiian_Blizzard_syrup.jpg), CC BY-SA 2.0 · [AlaskaDave](https://commons.wikimedia.org/wiki/File:Hilo_Ice_Shave.JPG), CC BY-SA 3.0 (Wikimedia Commons)</sub>
+
+**📸 Malasadas**
+
+<a href="https://commons.wikimedia.org/wiki/File:Malassadas_from_Leonard%27s_Bakery.jpg"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Malassadas_from_Leonard%27s_Bakery.jpg/960px-Malassadas_from_Leonard%27s_Bakery.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="49%" alt="Malasadas"></a> <a href="https://commons.wikimedia.org/wiki/File:Leonard%27s_Bakery,_Honolulu,_Hawaii_(4540006860).jpg"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Leonard%27s_Bakery%2C_Honolulu%2C_Hawaii_%284540006860%29.jpg/960px-Leonard%27s_Bakery%2C_Honolulu%2C_Hawaii_%284540006860%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="49%" alt="Malasadas"></a>
+
+<sub>Photos: [Sherbeey](https://commons.wikimedia.org/wiki/File:Malassadas_from_Leonard%27s_Bakery.jpg), CC0 · [Ken Lund from Las Vegas, Nevada, USA](https://commons.wikimedia.org/wiki/File:Leonard%27s_Bakery,_Honolulu,_Hawaii_(4540006860).jpg), CC BY-SA 2.0 (Wikimedia Commons)</sub>
+
+**📸 Poke + plate lunch**
+
+<a href="https://commons.wikimedia.org/wiki/File:Fried_Tofu_Poke_Bowl_(S)_with_kimchi_sauce_-_Kitokito.jpg"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Fried_Tofu_Poke_Bowl_%28S%29_with_kimchi_sauce_-_Kitokito.jpg/960px-Fried_Tofu_Poke_Bowl_%28S%29_with_kimchi_sauce_-_Kitokito.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="32%" alt="Poke + plate lunch"></a> <a href="https://commons.wikimedia.org/wiki/File:Wardsplatelunch.jpg"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Wardsplatelunch.jpg/960px-Wardsplatelunch.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="32%" alt="Poke + plate lunch"></a> <a href="https://commons.wikimedia.org/wiki/File:L%26L_Hawaiian_BBQ_beef_curry_meal.JPG"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/L%26L_Hawaiian_BBQ_beef_curry_meal.JPG/960px-L%26L_Hawaiian_BBQ_beef_curry_meal.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="32%" alt="Poke + plate lunch"></a>
+
+<sub>Photos: [Andy Li](https://commons.wikimedia.org/wiki/File:Fried_Tofu_Poke_Bowl_(S)_with_kimchi_sauce_-_Kitokito.jpg), CC0 · [christian razukas from Honolulu, Hawaii](https://commons.wikimedia.org/wiki/File:Wardsplatelunch.jpg), CC BY-SA 2.0 · [BrokenSphere](https://commons.wikimedia.org/wiki/File:L%26L_Hawaiian_BBQ_beef_curry_meal.JPG), CC BY-SA 3.0 (Wikimedia Commons)</sub>
+
+**📸 Açaí bowl**
+
+<a href="https://commons.wikimedia.org/wiki/File:Acai_bowl_-_A%C3%A7a%C3%AD_na_tigela.jpg"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Acai_bowl_-_A%C3%A7a%C3%AD_na_tigela.jpg/960px-Acai_bowl_-_A%C3%A7a%C3%AD_na_tigela.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="70%" alt="Açaí bowl"></a>
+
+<sub>Photos: [chahayes](https://commons.wikimedia.org/wiki/File:Acai_bowl_-_A%C3%A7a%C3%AD_na_tigela.jpg), CC BY 2.0 (Wikimedia Commons)</sub>
+
+</details>
+
 
 ---
 
@@ -210,4 +497,4 @@ Dropped because it's a long day and **November is big-surf season**: the beaches
 - [Hanauma Bay (City & County of Honolulu)](https://www.honolulu.gov/dpr/hanauma-bay-nature-preserve/)
 - [Hawaii-Guide: Oʻahu sights](https://www.hawaii-guide.com/oahu/sights) (fees, hours and time needed for the "everything else" tables)
 - Flight times from the live search in [`bookings.md`](bookings.md); hotel and budget numbers from [`references.md`](references.md) docs #1, #3, #6.
-- Photos: [Andrew Shoemaker, Hawaiʻi landscapes](https://www.andrewshoemaker.com/gallery/paradise-hawaii-landscape-photography/); copyright stays with the photographer.
+- Photos: [Andrew Shoemaker, Hawaiʻi landscapes](https://www.andrewshoemaker.com/gallery/paradise-hawaii-landscape-photography/); copyright stays with the photographer. Gallery photos: Wikimedia Commons, credited under each set.
