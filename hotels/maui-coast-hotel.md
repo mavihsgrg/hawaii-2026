@@ -8,6 +8,18 @@
 
 ---
 
+## 🖼️ Photos
+![Maui Coast Hotel pool](https://image-tc.galaxy.tf/wijpeg-1bxoa65d8g8r5fj7xgk7w8od7/pools_standard.jpg)
+![Kai Aliʻi Suite bedroom](https://image-tc.galaxy.tf/wijpeg-5s0ek1h9ikjzqqqbst3uv3z2i/kai-aliisuite-king.jpg)
+![Kai Aliʻi Suite living room](https://image-tc.galaxy.tf/wijpeg-85ihlu2kwnaobr8hxmau77off/kai-aliisuite-livingroom.jpg)
+![Resort view](https://image-tc.galaxy.tf/wijpeg-2rbwq5nldgm95wegk4rhk2n9c/vert-resort-view.jpg)
+![Fitness center](https://image-tc.galaxy.tf/wijpeg-5w6hz8vm9igu9zcfnibl8rdo3/fitness-center_standard.jpg)
+<sub>Source: mauicoasthotel.com Kai Tower page (hotel's own photos, hosted on its site)</sub>
+
+## 🏷️ Deals
+- No deal found for Nov 2026. Trip.com offers a 10% coupon for new app users (check the terms).
+- See [`deals-and-review.md`](deals-and-review.md) for the full comparison.
+
 ## ✅ Summary
 
 | | |

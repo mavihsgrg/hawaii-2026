@@ -8,6 +8,14 @@
 
 ---
 
+## 🖼️ Photos
+![OUTRIGGER Reef Waikīkī, Voyager 47 gradient](https://www.outrigger.com/AdaptiveImages/optimizely/5d82a9a9-308f-42cd-a310-c7c503b24549/outrigger-reef-waikiki-beach-resort-voyager47-21-gradient-top.jpg?quality=100&width=1400&height=912&stamp=54c8639d009337cbc88e898b6eda48e070d14a6b&format=webp)
+<sub>Source: outrigger.com (hotel's own photo). More on the [rooms page](https://www.outrigger.com/hawaii/oahu/outrigger-reef-waikiki-beach-resort/rooms-suites).</sub>
+
+## 🏷️ Deals
+- No deal found for Nov 2026. Luxury Escapes and Costco offers had expired. Ask the hotel for its best rate.
+- See [`deals-and-review.md`](deals-and-review.md) for the full comparison.
+
 ## ✅ Summary
 
 | | |
@@ -19,6 +27,7 @@
 | **Parking** | Valet **$60/day** (confirmed by two listings). Self-park not confirmed |
 | **Pool** | Open 8:00 AM – 9:00 PM |
 | **Nightly rate** | Reported "starts in the mid-$300s" before tax and resort fee (undated). Live check needed |
+| **Check before booking** | A search result hinted the pool and Voyager 47 Club Lounge close Oct 5 – Dec 18. Not confirmed; ask the hotel |
 | **Fit** | Strong. Beach at the doorstep, no car needed, walkable to Kalākaua Ave and Monkeypod |
 
 ---
