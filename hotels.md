@@ -97,7 +97,7 @@ I couldn't verify hotel photo files, so the links below go to each hotel's offic
 
 | Listing | Why it could work | Tradeoffs | Link |
 |---|---|---|---|
-| Oceanfront condo, 1 bedroom, 2 baths, lanai off the living room (sleeps 4) | Lanai opens onto the beach; 4.87 rating (38 reviews); near Fort DeRussy Beach Park | Only 38 reviews; no listing link was returned, so search Airbnb for "Waikīkī oceanfront 1 bedroom" | Search Airbnb (no direct link found) |
+| Ilikai oceanfront units (21st floor, 2112, and others) | Oceanfront tower on Waikīkī; ocean and Diamond Head views; lanai; pool; laundry on each floor | Review counts differ by site (about 290–443 reviews); confirm the unit's view and pool access on the live page | [Ilikai 21st floor](https://www.airbnb.co.uk/rooms/47306882) · [Ilikai 2112](https://www.airbnb.gy/rooms/38634) · [Gorgeous Waikīkī Beach Ilikai](https://www.airbnb.co.uk/rooms/1303637) |
 | Ocean View, Steps to Beach, Waikīkī Penthouse (2 guests) | Top-floor lanai with ocean view; 4.61 rating (402 reviews); legal resort-zoned | Steps from the beach, not directly on it | [Listing](https://www.airbnb.co.uk/rooms/16248024) |
 | Affordable Luxury in Waikīkī (aparthotel room, Superhost, 2 guests) | Shared pool and sauna; 4.78 rating (248 reviews); ~10 min walk to Fort DeRussy | Not beachfront; a hotel-style room, not a full apartment | [Listing](https://www.airbnb.co.uk/rooms/4015861) |
 | Simply Beautiful Waikīkī Apartment | Apartment with a kitchen | Not yet checked for ratings or price | [Listing](https://www.airbnb.com/rooms/17079406) |
@@ -150,3 +150,46 @@ These came from undated or mixed-date sources, so **every price below needs a li
 - **Oʻahu:** OUTRIGGER Reef stays the pick. A beachfront-area Airbnb is the alternative if you want a kitchen; check the all-in total first.
 - **Maui:** Maui Coast Kai Tower stays the pick. A Kamaole ocean-view Airbnb for 2 is worth pricing as the alternative.
 - **Next step:** pull live prices for these links on your dates, then update the table at the top.
+
+---
+
+## 🔍 Round 2 research (2026-10-18): more options, with what we know
+
+**Read this first:** I could not see live prices or availability for Nov 2026 on any site. Each figure below is a snapshot from a listing, review site or deal page, and the date of the snapshot is noted where the source gave one. Book only after checking the all-in total for your exact dates.
+
+### Oʻahu (Waikīkī)
+
+| Option | What we know | Price evidence | Fit | Link |
+|---|---|---|---|---|
+| **OUTRIGGER Reef Waikīkī** (current pick) | Beachfront; Tripadvisor "from" about $281 | Undated | Strong: beach, no car | [Official](https://www.outrigger.com/hawaii/oahu/outrigger-reef-waikiki-beach-resort) |
+| **Ilikai oceanfront Airbnb** (new) | Oceanfront tower with ocean and Diamond Head views; lanai; pool; a kitchen (Airbnb) | Varies by unit; check the total | Strong if you want a kitchen and ocean view | [Ilikai 21st floor](https://www.airbnb.co.uk/rooms/47306882) |
+| **Alohilani Resort Waikīkī Beach** | Travelzoo deal: from $249/night for stays Sep 7 – Nov 30, 2026; daily resort fee waived with a $50 resort credit | Travelzoo membership costs $50/yr. Check whether the deal needs air | Strong value if the deal is bookable without air | [Deal (Slickdeals)](https://slickdeals.net/f/19606950-travelzoo-members-alohilani-resort-waikiki-beach-oahu-hawaii-from-249-per-night-no-daily-resort-fee-50-resort-credit-travel-september-november-2026) |
+| Outrigger Waikīkī Beach Resort | Directly on the sand; one guide says $300–400/night | Undated | Lively; similar to Reef | [Official](https://www.outrigger.com/hawaii/oahu/outrigger-waikiki-beach-resort) |
+| Hyatt Place Waikīkī Beach | Reported $214/night, $254 with taxes and fees (late March 2026 stay) | Undated for November | Budget beachfront-area option | [Search result](https://travelocity.com/Waikiki-Honolulu-Hotels-Beach-Hotel.0-n6048741-0-tBeachHotel.Travel-Guide-Filter-Hotels) |
+| Halekulani | Luxury; one source says no resort fee; deals reported from about $427 | Mixed sources | Over budget at peak; check for a deal | — |
+
+### Maui (Kīhei / Wailea / West Maui)
+
+| Option | What we know | Price evidence | Fit | Link |
+|---|---|---|---|---|
+| **Maui Coast Hotel, Kai Tower** (current pick) | 4.4/5 on Tripadvisor (2,680 reviews); standard-room range $271–497; resort fee reportedly waived on a trade page | Your quote ~$1,695 for 5 nights (~$339/night all-in) | Strong: central to Kīhei; pool | [Tripadvisor](https://www.tripadvisor.com/Hotel_Review-g60632-d111818-Reviews-Maui_Coast_Hotel-Kihei_Maui_Hawaii.html) |
+| **Maui Kamaole G-212 condo** (new) | 10.0/10 from 89 reviews; ocean front; across the street from Kamaole Beach Park III; April 2026 reviews | Check total | Strong: ocean view, kitchen, quiet | [To-Hawaii listing](https://www.to-hawaii.com/vacation-rentals/oceanfront-maui-kamaole-condo/34074657/) |
+| **Kohea Kai Hotel Maui** (new) | 4.2/5 (269 reviews); a harsh review says dirty, others say clean | $210–379 standard room | Budget option, Kīhei | [Tripadvisor](https://www.tripadvisor.com/Hotel_Review-g60632-d10815570-Reviews-Kohea_Kai_Hotel_Maui-Kihei_Maui_Hawaii.html) |
+| Mana Kai Maui | 4.3/5 (788 reviews); location 4.8; range $263–884 | Wide range; check Nov dates | Beachfront-area Kīhei | [Tripadvisor](https://www.tripadvisor.com/Hotel_Review-g60632-d111817-Reviews-or10-Mana_Kai_Maui-Kihei_Maui_Hawaii.html) |
+| Hawaiʻi Food & Wine Festival partner hotel (new) | Special rate from $275/night; waived resort fee; free self-parking; Oct 16 – Nov 8, 2026; hotel not named | $275/night | Strong if the hotel is in South Maui; find its name on the festival page | [Festival travel page](https://hawaiifoodandwinefestival.com/travel/) |
+| Marriott Wailea Beach Resort | $660/night in January 2026 + $59 resort fee | Over budget | Wailea, birthday dinner nearby | [Travelocity](https://www.travelocity.com/Wailea-Kihei-Hotels-Marriott-Hotels-Resorts.0-n7739-0--bMarriottHotelsResorts.Travel-Guide-Filter-Hotels) |
+| Napili Kai (West Maui) | Trade source says no resort fee; no rate found | Unknown | Beachfront West Maui; long drive to Hāna and Haleakalā | — |
+| Grand Wailea | $991/night (April 2026) + fees | Way over budget | No | — |
+
+### What changed
+- **Oʻahu:** the **Ilikai oceanfront Airbnb** and the **Alohilani Travelzoo deal** are real new options that could beat OUTRIGGER Reef on value. OUTRIGGER Reef stays the simplest choice (beach, resort services, no kitchen needed).
+- **Maui:** the **Kamaole G-212 oceanfront condo** is the strongest Airbnb-style alternative. The **Hawaiʻi Food & Wine Festival hotel at $275** is worth checking, since its rate is well below Maui Coast's average nightly cost if the festival hotel is in South Maui.
+- **Dropped:** Grand Wailea and Marriott Wailea, both far over budget.
+
+### Shortlist after this round
+| Stay | 1st choice | Alternatives to check |
+|---|---|---|
+| Oʻahu (Oct 31 – Nov 3) | OUTRIGGER Reef | Ilikai oceanfront Airbnb · Alohilani (Travelzoo deal) |
+| Maui (Nov 3 – 8) | Maui Coast Kai Tower | Kamaole G-212 oceanfront condo · Hawaiʻi Food & Wine Festival hotel (~$275) · Kohea Kai (budget) |
+
+**Before you choose:** get a live all-in quote for each on your exact dates. The Hawaiʻi Food & Wine hotel name and the Alohilani air requirement are the two things to confirm first.
