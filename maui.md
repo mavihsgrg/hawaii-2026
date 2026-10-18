@@ -46,12 +46,24 @@
 
 **Hotel:** Maui Coast Hotel, Kīhei, Kai Tower king (~$1,695 all-in for 5 nights). Chosen over Aston Kāʻanapali Villas (~$1,770) because Kīhei is 25–40 min from the Molokini harbor, ~15 min from Wailea for the birthday dinner, and the closest practical base for Haleakalā.
 
+<!-- map:maui_hub -->
+**🗺️ Everything from the hotel (H)** · numbered pins and distances in [map.md](map.md#maui-hub)
+
+<a href="maps/maui_hub_street.jpg"><img src="maps/maui_hub_street.jpg" width="49%" alt="Everything from the hotel (map)"></a> <a href="maps/maui_hub_sat.jpg"><img src="maps/maui_hub_sat.jpg" width="49%" alt="Everything from the hotel (satellite)"></a>
+
+
 ### Tue Nov 3: arrive Maui
 - ✈️ Midday flight from Honolulu; budget **4–6 hours door to door** from the Waikīkī hotel.
 - 🚐 Prebooked shared shuttle (Roberts Hawaiʻi / SpeediShuttle) or rideshare, **OGG → Kīhei 30–45 min**, ~$40–70 for two.
 - 🛒 Groceries in Kīhei after check-in (walk or a short ride), or a delivery app: water, snacks for Hāna, breakfast things.
 - 🏨 Check in, pool, short beach walk (Kamaʻole Beach Parks are across the road from many Kīhei hotels).
 - 🍽️ Casual dinner in Kīhei. No summit, no Hāna, no early start tomorrow beyond the snorkel.
+
+<!-- map:maui_airport -->
+**🗺️ Route from the hotel:** 13.2 mi · 30–45 min (+ shuttle stops) · 🚐 Prebooked shared shuttle or rideshare (~$40–70 each way) · [▶ directions](https://www.google.com/maps/dir/?api=1&origin=20.72386,-156.44605&destination=20.89570,-156.43405&travelmode=driving) · [more in map.md](map.md#m-airport)
+
+<a href="maps/maui_airport_street.jpg"><img src="maps/maui_airport_street.jpg" width="49%" alt="Hotel ↔ OGG airport (map)"></a> <a href="maps/maui_airport_sat.jpg"><img src="maps/maui_airport_sat.jpg" width="49%" alt="Hotel ↔ OGG airport (satellite)"></a>
+
 
 <details open><summary><b>Photos</b></summary>
 
@@ -77,6 +89,12 @@
 - If either of you is new to snorkeling: ask for flotation vests and stay with the guide. Destinations can change with conditions; turtles aren't guaranteed.
 - Afternoon: lunch, shower, nap/pool. Evening: easy dinner close by.
 - **If cancelled:** move it to Nov 5 (and push Hāna) or Nov 7 morning.
+
+<!-- map:maui_molokini -->
+**🗺️ Route from the hotel:** 9.4 mi · 25–40 min; check in 45 min early · then ~11 mi by boat (~5 h trip) · 🚖 Prebooked dawn taxi there, rideshare back (~$55–80) · [▶ directions](https://www.google.com/maps/dir/?api=1&origin=20.72386,-156.44605&destination=20.79135,-156.51113&travelmode=driving) · [more in map.md](map.md#m-molokini)
+
+<a href="maps/maui_molokini_street.jpg"><img src="maps/maui_molokini_street.jpg" width="49%" alt="Hotel → Māʻalaea Harbor → boat to Molokini (map)"></a> <a href="maps/maui_molokini_sat.jpg"><img src="maps/maui_molokini_sat.jpg" width="49%" alt="Hotel → Māʻalaea Harbor → boat to Molokini (satellite)"></a>
+
 
 <details open><summary><b>Photos</b></summary>
 
@@ -111,6 +129,12 @@
 - Typical stops: Twin Falls, rainbow eucalyptus, Keʻanae Peninsula, Puaʻa Kaʻa falls, Waiʻānapanapa, Hāna town, sometimes Kīpahulu (Haleakalā's coastal section) and the Pīpīwai trail.
 - ❌ The Pools of ʻOheʻo are closed to swimming.
 - 🪫 **If the week feels too full, this is the first thing to drop.** Slow version: Wailea Beach Path walk, beach, pool, sunset.
+
+<!-- map:maui_hana -->
+**🗺️ Route from the hotel:** 67.4 mi · **10–12 h round-trip day** with stops · 🚐 Guided tour, hotel pickup ~6:30–7:00 AM · [▶ directions](https://www.google.com/maps/dir/?api=1&origin=20.72386,-156.44605&destination=20.76710,-155.99075&travelmode=driving&waypoints=20.90926%2C-156.37013%7C20.93442%2C-156.35585%7C20.91180%2C-156.24320%7C20.86549%2C-156.14610%7C20.78655%2C-156.00212) · [more in map.md](map.md#m-hana)
+
+<a href="maps/maui_hana_street.jpg"><img src="maps/maui_hana_street.jpg" width="49%" alt="Hotel → Road to Hāna (map)"></a> <a href="maps/maui_hana_sat.jpg"><img src="maps/maui_hana_sat.jpg" width="49%" alt="Hotel → Road to Hāna (satellite)"></a>
+
 
 <details open><summary><b>Photos</b></summary>
 
@@ -177,6 +201,12 @@
 - Alternatives: **Monkeypod Wailea** (casual, lively), **Mama's Fish House** (special, but ~45+ min away near Pāʻia).
 - ⛔ No Hāna, no summit, no early check-ins.
 
+<!-- map:maui_wailea -->
+**🗺️ Route from the hotel:** 4.2 mi · ~15 min; then Tikehau (Wailea Village) and dancing in Kīhei · 🚕 Rideshare there; prebooked taxi Wailea Village → Tiki Lounge ~9 PM, walk back (~$30–60) · [▶ directions](https://www.google.com/maps/dir/?api=1&origin=20.72386,-156.44605&destination=20.67748,-156.43222&travelmode=driving) · [more in map.md](map.md#m-wailea)
+
+<a href="maps/maui_wailea_street.jpg"><img src="maps/maui_wailea_street.jpg" width="49%" alt="Hotel → Hotel Wailea (birthday dinner) (map)"></a> <a href="maps/maui_wailea_sat.jpg"><img src="maps/maui_wailea_sat.jpg" width="49%" alt="Hotel → Hotel Wailea (birthday dinner) (satellite)"></a>
+
+
 <details open><summary><b>Photos</b></summary>
 
 **📸 Wailea Beach + Beach Path**
@@ -211,6 +241,12 @@
 - Afternoon: viewpoints and short walks (Pu'u ʻUlaʻula summit, Kalahaku overlook, the first part of Sliding Sands trail). Nothing strenuous; the altitude is real.
 - 🌙 The guide drives down in the dark; back at the hotel ~8 PM. No dinner booking needed tonight.
 - If clouds or wind close the summit: South Maui beach day (ask the tour about rescheduling).
+
+<!-- map:maui_haleakala -->
+**🗺️ Route from the hotel:** 47.9 mi · 2.5–3 h up, sea level → ~10,000 ft; back ~8 PM · 🚐 Guided sunset tour, hotel pickup ~1:30 PM (entry + dinner included) · [▶ directions](https://www.google.com/maps/dir/?api=1&origin=20.72386,-156.44605&destination=20.71511,-156.24981&travelmode=driving&waypoints=20.79203%2C-156.32371) · [more in map.md](map.md#m-haleakala)
+
+<a href="maps/maui_haleakala_street.jpg"><img src="maps/maui_haleakala_street.jpg" width="49%" alt="Hotel → Haleakalā summit (sunset) (map)"></a> <a href="maps/maui_haleakala_sat.jpg"><img src="maps/maui_haleakala_sat.jpg" width="49%" alt="Hotel → Haleakalā summit (sunset) (satellite)"></a>
+
 
 <details open><summary><b>Photos</b></summary>
 
@@ -282,6 +318,20 @@
 | **Shore snorkel lesson** | If Molokini gets cancelled or feels too much | 2 h | Several Kīhei shops |
 | **Maui Ocean Center** (Māʻalaea) | Aquarium, good rain-day option | 2 h | Next to Molokini harbor |
 
+<!-- map:area_maui_south -->
+**🗺️ South Maui: where these are from the hotel (H).** Getting there without a car: Walk to Kamaʻole; rideshare elsewhere (prebook the ride back from Big Beach).
+
+<a href="maps/area_maui_south_street.jpg"><img src="maps/area_maui_south_street.jpg" width="49%" alt="South Maui (map)"></a> <a href="maps/area_maui_south_sat.jpg"><img src="maps/area_maui_south_sat.jpg" width="49%" alt="South Maui (satellite)"></a>
+
+| Pin | Place | From the hotel | Drive (no traffic) | Map |
+|:-:|---|---:|---:|---|
+| 1 | Kamaʻole Beach Park III | 0.8 mi | 3 min | [▶ directions](https://www.google.com/maps/dir/?api=1&origin=20.72386,-156.44605&destination=20.71400,-156.44700&travelmode=driving) · [pin](https://www.google.com/maps/@?api=1&map_action=map&center=20.71400,-156.44700&zoom=15&basemap=roadmap) |
+| 2 | Wailea Beach + Beach Path | 3.5 mi | 10 min | [▶ directions](https://www.google.com/maps/dir/?api=1&origin=20.72386,-156.44605&destination=20.68256,-156.44311&travelmode=driving) · [pin](https://www.google.com/maps/@?api=1&map_action=map&center=20.68256,-156.44311&zoom=15&basemap=roadmap) |
+| 3 | Maluaka Beach (Turtle Town) | 6.1 mi | 17 min | [▶ directions](https://www.google.com/maps/dir/?api=1&origin=20.72386,-156.44605&destination=20.64678,-156.44273&travelmode=driving) · [pin](https://www.google.com/maps/@?api=1&map_action=map&center=20.64678,-156.44273&zoom=15&basemap=roadmap) |
+| 4 | Mākena / Big Beach | 7.3 mi | 19 min | [▶ directions](https://www.google.com/maps/dir/?api=1&origin=20.72386,-156.44605&destination=20.63150,-156.44600&travelmode=driving) · [pin](https://www.google.com/maps/@?api=1&map_action=map&center=20.63150,-156.44600&zoom=15&basemap=roadmap) |
+| 5 | Maui Ocean Center | 9.3 mi | 22 min | [▶ directions](https://www.google.com/maps/dir/?api=1&origin=20.72386,-156.44605&destination=20.79278,-156.51188&travelmode=driving) · [pin](https://www.google.com/maps/@?api=1&map_action=map&center=20.79278,-156.51188&zoom=15&basemap=roadmap) |
+
+
 <details open><summary><b>Photos</b></summary>
 
 Wailea Beach and Big Beach are pictured in the birthday plan above.
@@ -319,6 +369,17 @@ Wailea Beach and Big Beach are pictured in the birthday plan above.
 | **ʻĪao Valley State Monument** | Lush green valley and the ʻĪao Needle; short 0.6-mile loop | 45–90 min + drive | Reservation required. Shorter alternative to Hāna. [Park](https://dlnr.hawaii.gov/dsp/parks/maui/iao-valley-state-monument/) · [booking](https://gostateparks.hawaii.gov/iao-valley/about) |
 | **Wailuku town** | Old main street, local lunch spots | 1 h | Pairs with ʻĪao |
 
+<!-- map:area_maui_central -->
+**🗺️ Central Maui: where these are from the hotel (H).** Getting there without a car: Rideshare or a half-day tour.
+
+<a href="maps/area_maui_central_street.jpg"><img src="maps/area_maui_central_street.jpg" width="49%" alt="Central Maui (map)"></a> <a href="maps/area_maui_central_sat.jpg"><img src="maps/area_maui_central_sat.jpg" width="49%" alt="Central Maui (satellite)"></a>
+
+| Pin | Place | From the hotel | Drive (no traffic) | Map |
+|:-:|---|---:|---:|---|
+| 1 | Wailuku town | 14.1 mi | 36 min | [▶ directions](https://www.google.com/maps/dir/?api=1&origin=20.72386,-156.44605&destination=20.88947,-156.50894&travelmode=driving) · [pin](https://www.google.com/maps/@?api=1&map_action=map&center=20.88947,-156.50894&zoom=15&basemap=roadmap) |
+| 2 | ʻĪao Valley | 16.0 mi | 38 min | [▶ directions](https://www.google.com/maps/dir/?api=1&origin=20.72386,-156.44605&destination=20.88059,-156.54712&travelmode=driving) · [pin](https://www.google.com/maps/@?api=1&map_action=map&center=20.88059,-156.54712&zoom=15&basemap=roadmap) |
+
+
 <details open><summary><b>Photos</b></summary>
 
 **📸 ʻĪao Valley + ʻĪao Needle**
@@ -346,6 +407,18 @@ Wailea Beach and Big Beach are pictured in the birthday plan above.
 | **Makawao** | Paniolo (cowboy) town, galleries, bakery | Short browse |
 | **Haleakalā daytime** | Crater viewpoints without the sunset crowd | Swap if you'd rather be back for dinner |
 
+<!-- map:area_maui_upcountry -->
+**🗺️ Upcountry: where these are from the hotel (H).** Getting there without a car: On the Haleakalā tour; otherwise a tour or rideshare.
+
+<a href="maps/area_maui_upcountry_street.jpg"><img src="maps/area_maui_upcountry_street.jpg" width="49%" alt="Upcountry (map)"></a> <a href="maps/area_maui_upcountry_sat.jpg"><img src="maps/area_maui_upcountry_sat.jpg" width="49%" alt="Upcountry (satellite)"></a>
+
+| Pin | Place | From the hotel | Drive (no traffic) | Map |
+|:-:|---|---:|---:|---|
+| 1 | Kula (Upcountry) | 24.3 mi | 47 min | [▶ directions](https://www.google.com/maps/dir/?api=1&origin=20.72386,-156.44605&destination=20.79203,-156.32371&travelmode=driving) · [pin](https://www.google.com/maps/@?api=1&map_action=map&center=20.79203,-156.32371&zoom=15&basemap=roadmap) |
+| 2 | Makawao | 22.6 mi | 44 min | [▶ directions](https://www.google.com/maps/dir/?api=1&origin=20.72386,-156.44605&destination=20.85110,-156.32372&travelmode=driving) · [pin](https://www.google.com/maps/@?api=1&map_action=map&center=20.85110,-156.32372&zoom=15&basemap=roadmap) |
+| 3 | Haleakalā Visitor Center (summit) | 48.1 mi | 1 h 46 min | [▶ directions](https://www.google.com/maps/dir/?api=1&origin=20.72386,-156.44605&destination=20.71511,-156.24981&travelmode=driving) · [pin](https://www.google.com/maps/@?api=1&map_action=map&center=20.71511,-156.24981&zoom=15&basemap=roadmap) |
+
+
 <details open><summary><b>Photos</b></summary>
 
 **📸 Kula + lavender farm**
@@ -369,6 +442,18 @@ Wailea Beach and Big Beach are pictured in the birthday plan above.
 | **Pāʻia** | Surf town, shops, cafés; start of the Road to Hāna | ~35 min from Kīhei |
 | **Hoʻokipa Lookout** | Windsurfers by day, **turtles hauled out on the sand late afternoon** | Keep 10 ft away |
 | **Mama's Fish House** | Maui's most famous special-occasion restaurant | Book well ahead; long drive from Kīhei |
+
+<!-- map:area_maui_north -->
+**🗺️ North Shore: where these are from the hotel (H).** Getting there without a car: Rideshare (the ride back is harder) or a tour that stops there.
+
+<a href="maps/area_maui_north_street.jpg"><img src="maps/area_maui_north_street.jpg" width="49%" alt="North Shore (map)"></a> <a href="maps/area_maui_north_sat.jpg"><img src="maps/area_maui_north_sat.jpg" width="49%" alt="North Shore (satellite)"></a>
+
+| Pin | Place | From the hotel | Drive (no traffic) | Map |
+|:-:|---|---:|---:|---|
+| 1 | Pāʻia town | 18.3 mi | 37 min | [▶ directions](https://www.google.com/maps/dir/?api=1&origin=20.72386,-156.44605&destination=20.90926,-156.37013&travelmode=driving) · [pin](https://www.google.com/maps/@?api=1&map_action=map&center=20.90926,-156.37013&zoom=15&basemap=roadmap) |
+| 2 | Mama's Fish House | 18.9 mi | 39 min | [▶ directions](https://www.google.com/maps/dir/?api=1&origin=20.72386,-156.44605&destination=20.92906,-156.36698&travelmode=driving) · [pin](https://www.google.com/maps/@?api=1&map_action=map&center=20.92906,-156.36698&zoom=15&basemap=roadmap) |
+| 3 | Hoʻokipa Lookout | 19.8 mi | 41 min | [▶ directions](https://www.google.com/maps/dir/?api=1&origin=20.72386,-156.44605&destination=20.93442,-156.35585&travelmode=driving) · [pin](https://www.google.com/maps/@?api=1&map_action=map&center=20.93442,-156.35585&zoom=15&basemap=roadmap) |
+
 
 <details open><summary><b>Photos</b></summary>
 
@@ -401,6 +486,20 @@ Wailea Beach and Big Beach are pictured in the birthday plan above.
 | **Kapalua Coastal Trail** | Easy coastal walk | |
 | **Nakalele Blowhole** | Dramatic blowhole on the wild north coast | Stay well back; people have died there |
 | **Lahaina** | Recovering after the 2023 fire. The harbor and some north Front Street restaurants are open again; large areas are still resident-only | Visit respectfully: stay in public areas, don't stop in the burn zone, spend at local businesses. [Guide](https://hawaii.com/blog/visiting-lahaina-maui-2026) |
+
+<!-- map:area_maui_west -->
+**🗺️ West Maui: where these are from the hotel (H).** Getting there without a car: Tour or a lūʻau package with transport; rideshare ~$70–100 each way.
+
+<a href="maps/area_maui_west_street.jpg"><img src="maps/area_maui_west_street.jpg" width="49%" alt="West Maui (map)"></a> <a href="maps/area_maui_west_sat.jpg"><img src="maps/area_maui_west_sat.jpg" width="49%" alt="West Maui (satellite)"></a>
+
+| Pin | Place | From the hotel | Drive (no traffic) | Map |
+|:-:|---|---:|---:|---|
+| 1 | Lahaina (rebuilding; visit respectfully) | 24.0 mi | 49 min | [▶ directions](https://www.google.com/maps/dir/?api=1&origin=20.72386,-156.44605&destination=20.87044,-156.67806&travelmode=driving) · [pin](https://www.google.com/maps/@?api=1&map_action=map&center=20.87044,-156.67806&zoom=15&basemap=roadmap) |
+| 2 | Kāʻanapali Beach + Black Rock | 27.3 mi | 56 min | [▶ directions](https://www.google.com/maps/dir/?api=1&origin=20.72386,-156.44605&destination=20.91796,-156.69668&travelmode=driving) · [pin](https://www.google.com/maps/@?api=1&map_action=map&center=20.91796,-156.69668&zoom=15&basemap=roadmap) |
+| 3 | Nāpili Bay | 33.3 mi | 66 min | [▶ directions](https://www.google.com/maps/dir/?api=1&origin=20.72386,-156.44605&destination=20.99629,-156.66838&travelmode=driving) · [pin](https://www.google.com/maps/@?api=1&map_action=map&center=20.99629,-156.66838&zoom=15&basemap=roadmap) |
+| 4 | Kapalua Bay + Coastal Trail | 33.4 mi | 67 min | [▶ directions](https://www.google.com/maps/dir/?api=1&origin=20.72386,-156.44605&destination=21.00010,-156.66700&travelmode=driving) · [pin](https://www.google.com/maps/@?api=1&map_action=map&center=21.00010,-156.66700&zoom=15&basemap=roadmap) |
+| 5 | Nakalele Blowhole | 41.0 mi | 87 min | [▶ directions](https://www.google.com/maps/dir/?api=1&origin=20.72386,-156.44605&destination=21.02709,-156.58861&travelmode=driving) · [pin](https://www.google.com/maps/@?api=1&map_action=map&center=21.02709,-156.58861&zoom=15&basemap=roadmap) |
+
 
 <details open><summary><b>Photos</b></summary>
 

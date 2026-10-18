@@ -1,0 +1,182 @@
+{
+ "REEF>KUHIO": {
+  "dist_m": 1470.3,
+  "dur_s": 204
+ },
+ "REEF>KAPIOLANI": {
+  "dist_m": 3305.3,
+  "dur_s": 419.9
+ },
+ "REEF>ALAMOANA": {
+  "dist_m": 2401,
+  "dur_s": 349.3
+ },
+ "REEF>IOLANI": {
+  "dist_m": 5218.9,
+  "dur_s": 576
+ },
+ "REEF>CHINATOWN": {
+  "dist_m": 6300.6,
+  "dur_s": 634.6
+ },
+ "REEF>FOSTER": {
+  "dist_m": 6561.4,
+  "dur_s": 609.6
+ },
+ "REEF>PUNCHBOWL": {
+  "dist_m": 5521.8,
+  "dur_s": 543.8
+ },
+ "REEF>BISHOP": {
+  "dist_m": 9219.8,
+  "dur_s": 750.8
+ },
+ "REEF>TANTALUS": {
+  "dist_m": 7971,
+  "dur_s": 799.7
+ },
+ "REEF>HANAUMA": {
+  "dist_m": 17672.2,
+  "dur_s": 1562.5
+ },
+ "REEF>HALONA": {
+  "dist_m": 19369.7,
+  "dur_s": 1603.3
+ },
+ "REEF>SANDY": {
+  "dist_m": 19913.8,
+  "dur_s": 1633.8
+ },
+ "REEF>MAKAPUU": {
+  "dist_m": 23321.7,
+  "dur_s": 1885.1
+ },
+ "REEF>LANIKAI": {
+  "dist_m": 27196.1,
+  "dur_s": 2191.6
+ },
+ "REEF>KAILUA": {
+  "dist_m": 25446.4,
+  "dur_s": 2001.5
+ },
+ "REEF>PALI": {
+  "dist_m": 21310.7,
+  "dur_s": 1587.4
+ },
+ "REEF>HOOMALUHIA": {
+  "dist_m": 23497,
+  "dur_s": 1960
+ },
+ "REEF>BYODOIN": {
+  "dist_m": 26013.3,
+  "dur_s": 2085.5
+ },
+ "REEF>MOKOLII": {
+  "dist_m": 36630.5,
+  "dur_s": 2925.2
+ },
+ "REEF>KUALOA": {
+  "dist_m": 36872,
+  "dur_s": 2910.2
+ },
+ "REEF>DOLE": {
+  "dist_m": 43892,
+  "dur_s": 2702.6
+ },
+ "REEF>HALEIWA": {
+  "dist_m": 54857.1,
+  "dur_s": 3468.2
+ },
+ "REEF>LANIAKEA": {
+  "dist_m": 57072.2,
+  "dur_s": 3564.9
+ },
+ "REEF>WAIMEABAY": {
+  "dist_m": 61679.6,
+  "dur_s": 3932.6
+ },
+ "REEF>WAIMEAVALLEY": {
+  "dist_m": 62848,
+  "dur_s": 4171.1
+ },
+ "REEF>PIPELINE": {
+  "dist_m": 65513.4,
+  "dur_s": 4255.3
+ },
+ "REEF>PCC": {
+  "dist_m": 55663.2,
+  "dur_s": 4427.1
+ },
+ "MCH>KAMAOLE": {
+  "dist_m": 1346.4,
+  "dur_s": 167.3
+ },
+ "MCH>WAILEABEACH": {
+  "dist_m": 5712,
+  "dur_s": 617.4
+ },
+ "MCH>MALUAKA": {
+  "dist_m": 9833.4,
+  "dur_s": 1014
+ },
+ "MCH>BIGBEACH": {
+  "dist_m": 11679.8,
+  "dur_s": 1163.5
+ },
+ "MCH>OCEANCENTER": {
+  "dist_m": 15002.6,
+  "dur_s": 1349
+ },
+ "MCH>WAILUKU": {
+  "dist_m": 22736.6,
+  "dur_s": 2156.8
+ },
+ "MCH>IAO": {
+  "dist_m": 25751.5,
+  "dur_s": 2259.2
+ },
+ "MCH>KULA": {
+  "dist_m": 39133.5,
+  "dur_s": 2836
+ },
+ "MCH>MAKAWAO": {
+  "dist_m": 36347.4,
+  "dur_s": 2643.2
+ },
+ "MCH>HALE": {
+  "dist_m": 77488.7,
+  "dur_s": 6355.6
+ },
+ "MCH>PAIA": {
+  "dist_m": 29399.9,
+  "dur_s": 2213.4
+ },
+ "MCH>MAMAS": {
+  "dist_m": 30433.2,
+  "dur_s": 2351.6
+ },
+ "MCH>HOOKIPA": {
+  "dist_m": 31886.6,
+  "dur_s": 2453.7
+ },
+ "MCH>LAHAINA": {
+  "dist_m": 38649.3,
+  "dur_s": 2963.4
+ },
+ "MCH>KAANAPALI": {
+  "dist_m": 43868,
+  "dur_s": 3342.3
+ },
+ "MCH>NAPILI": {
+  "dist_m": 53512.3,
+  "dur_s": 3982.6
+ },
+ "MCH>KAPALUA": {
+  "dist_m": 53700.8,
+  "dur_s": 4022.9
+ },
+ "MCH>NAKALELE": {
+  "dist_m": 65931.4,
+  "dur_s": 5239.8
+ }
+}
