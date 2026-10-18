@@ -22,6 +22,7 @@
 | [`budget.md`](budget.md) | Estimated vs. actual spend, and the split between you two | Update when something is paid |
 | [`packing.md`](packing.md) | Shared packing checklist | Tick as you pack |
 | [`references.md`](references.md) | Index of all 8 Google Docs + local research + island guides + web guides, which are current vs. historical, and where they disagree | Read-only inputs |
+| `photos/` | Public-domain photos stored in the repo (Diamond Head, USS Arizona) and used by `tentative_plan.md` | Credit the source under each image |
 | `docs/` | PDFs/screenshots of tickets & confirmations (**don't commit IDs/passport scans**, see below) | |
 | [`2026-10-12_itinerary_options.md`](2026-10-12_itinerary_options.md) | Raw research dump, kept for reference (not maintained) | |
 
