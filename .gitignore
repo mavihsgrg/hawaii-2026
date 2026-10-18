@@ -3,3 +3,7 @@
 docs/*passport*
 docs/*license*
 docs/*id_*
+
+# Claude Code: local worktrees and personal settings
+.claude/worktrees/
+.claude/settings.local.json
