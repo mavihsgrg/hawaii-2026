@@ -1,0 +1,436 @@
+<title>Waikīkī Hotel Shortlist</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Gloock&family=Public+Sans:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+/* Layout: a field guide. Verdict up top, then the shore map beside its numbered key, then price evidence, shortlist, caveats, full ledger. */
+:root {
+  --bg: #f2f6f5; --surface: #ffffff; --ink: #10242b; --muted: #536a70; --line: #d3dedc; --soft: #e6eeec;
+  --accent: #b8235a; --accent-soft: #fbe7ef; --fit: #0f766e; --fit-soft: #dff3ef; --over: #85949a; --warn: #a14a07; --warn-soft: #fdf0e1;
+  --map-filter: none;
+  --display: "Gloock", "Iowan Old Style", Georgia, serif;
+  --body: "Public Sans", -apple-system, "Segoe UI", sans-serif;
+  --mono: "IBM Plex Mono", ui-monospace, Menlo, monospace;
+}
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) {
+  --bg: #0c181c; --surface: #12232a; --ink: #e4eeec; --muted: #94a8ad; --line: #26393f; --soft: #182c33;
+  --accent: #f06a9b; --accent-soft: #3a1626; --fit: #34c7b4; --fit-soft: #113a35; --over: #6c7d82; --warn: #f2a54a; --warn-soft: #3a2810;
+  --map-filter: brightness(.74) saturate(.8) contrast(1.05); color-scheme: dark } }
+:root[data-theme="dark"] {
+  --bg: #0c181c; --surface: #12232a; --ink: #e4eeec; --muted: #94a8ad; --line: #26393f; --soft: #182c33;
+  --accent: #f06a9b; --accent-soft: #3a1626; --fit: #34c7b4; --fit-soft: #113a35; --over: #6c7d82; --warn: #f2a54a; --warn-soft: #3a2810;
+  --map-filter: brightness(.74) saturate(.8) contrast(1.05); color-scheme: dark }
+
+* { box-sizing: border-box }
+body { background: var(--bg); color: var(--ink); font: 15px/1.6 var(--body); }
+.wrap { max-width: 1120px; margin: 0 auto; padding-block: 40px 64px;
+  padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px)); display: grid; gap: 56px; }
+h1, h2, h3 { font-family: var(--display); font-weight: 400; text-wrap: balance; margin: 0; letter-spacing: -.01em }
+h1 { font-size: clamp(36px, 6vw, 60px); line-height: 1.02 }
+h2 { font-size: clamp(26px, 3.4vw, 34px); line-height: 1.1 }
+h3 { font-size: 21px; line-height: 1.2 }
+p { margin: 0; max-width: 66ch }
+a { color: inherit; text-decoration-color: var(--accent); text-underline-offset: 3px }
+a:hover { color: var(--accent) }
+.eyebrow { font: 500 12px/1.4 var(--mono); letter-spacing: .08em; text-transform: uppercase; color: var(--muted) }
+.num { font-family: var(--mono); font-variant-numeric: tabular-nums }
+.muted { color: var(--muted) }
+section { display: grid; gap: 20px; min-width: 0 }
+.sec-head { display: grid; gap: 8px }
+:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px }
+
+/* hero */
+header { display: grid; gap: 22px }
+.lede { font-size: 18px; line-height: 1.55 }
+.verdict { display: grid; grid-template-columns: minmax(0, 1.3fr) minmax(0, 1fr); gap: 0; background: var(--surface); border: 1px solid var(--line); border-radius: 14px; overflow: hidden }
+.verdict > div { padding: 22px 24px; display: grid; gap: 10px; align-content: start; min-width: 0 }
+.verdict .pick { border-right: 1px solid var(--line) }
+.pick .tag { justify-self: start; background: var(--accent); color: var(--surface); font: 600 11px/1 var(--mono); letter-spacing: .08em; text-transform: uppercase; padding: 6px 9px; border-radius: 4px }
+.figures { display: flex; flex-wrap: wrap; gap: 8px 28px; margin-top: 4px }
+.fig { display: grid; gap: 2px }
+.fig b { font: 500 26px/1.1 var(--mono); font-variant-numeric: tabular-nums }
+.fig span { font-size: 12px; color: var(--muted) }
+.facts { list-style: none; margin: 0; padding: 0; display: grid; gap: 8px; font-size: 14px }
+.facts li { display: grid; grid-template-columns: 112px 1fr; gap: 10px }
+.facts li span:first-child { color: var(--muted) }
+
+/* map */
+.mapgrid { display: grid; grid-template-columns: minmax(0, 1.15fr) minmax(0, 1fr); gap: 20px; align-items: start }
+.filters { display: flex; flex-wrap: wrap; gap: 8px }
+.chip { font: 500 13px/1 var(--body); padding: 8px 12px; border-radius: 999px; border: 1px solid var(--line); background: var(--surface); color: var(--ink); cursor: pointer }
+.chip[aria-pressed="true"] { background: var(--ink); color: var(--bg); border-color: var(--ink) }
+.map { position: relative; width: 100%; max-width: 100%; aspect-ratio: 1141 / 1400; border-radius: 12px; overflow: hidden; border: 1px solid var(--line); background: var(--soft) }
+.map img { position: absolute; inset: 0; width: 100%; height: 100%; filter: var(--map-filter); user-select: none }
+.pin { position: absolute; transform: translate(-50%, -50%); width: 26px; height: 26px; border-radius: 50%; border: 2px solid #fff;
+  font: 600 11px/1 var(--mono); color: #fff; display: grid; place-items: center; cursor: pointer; padding: 0; transition: transform .15s; box-shadow: 0 1px 3px rgb(0 0 0 / .35) }
+.pin.fit { background: var(--fit) } .pin.over { background: var(--over) } .pin.pick { background: var(--accent); width: 32px; height: 32px; font-size: 13px; z-index: 3 }
+.pin.dim { opacity: .18 }
+.pin:hover, .pin.active { transform: translate(-50%, -50%) scale(1.3); z-index: 5 }
+.pin.active { outline: 3px solid var(--ink); outline-offset: 1px }
+.map .att { position: absolute; right: 6px; bottom: 4px; font-size: 10px; color: #333; background: rgb(255 255 255 / .75); padding: 1px 5px; border-radius: 3px }
+.map .label { position: absolute; font: 500 11px/1 var(--mono); letter-spacing: .06em; text-transform: uppercase; color: #3b5560; opacity: .8; pointer-events: none }
+.legend { display: flex; flex-wrap: wrap; gap: 6px 16px; font-size: 13px; color: var(--muted) }
+.legend i { display: inline-block; width: 12px; height: 12px; border-radius: 50%; vertical-align: -1px; margin-right: 6px }
+.side { display: grid; gap: 14px; min-width: 0 }
+.detail { background: var(--surface); border: 1px solid var(--line); border-radius: 12px; padding: 20px; display: grid; gap: 12px; min-width: 0 }
+.detail .top { display: flex; gap: 12px; align-items: baseline; justify-content: space-between; flex-wrap: wrap }
+.status { font: 600 11px/1 var(--mono); letter-spacing: .06em; text-transform: uppercase; padding: 5px 8px; border-radius: 4px; white-space: nowrap }
+.status.fit { background: var(--fit-soft); color: var(--fit) } .status.over { background: var(--soft); color: var(--muted) } .status.pick { background: var(--accent-soft); color: var(--accent) }
+.kv { display: grid; grid-template-columns: 96px 1fr; gap: 4px 12px; font-size: 14px }
+.kv dt { color: var(--muted) } .kv dd { margin: 0; min-width: 0 }
+.rooms { width: 100%; border-collapse: collapse; font-size: 13px }
+.rooms td { padding: 6px 0; border-top: 1px solid var(--line); vertical-align: top }
+.rooms td + td { text-align: right; padding-left: 10px; white-space: nowrap }
+.rooms tr.under td:last-child { color: var(--fit); font-weight: 600 }
+.pc { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; font-size: 13px }
+.pc ul { margin: 4px 0 0; padding-left: 16px; display: grid; gap: 4px }
+.pc h4 { margin: 0; font: 600 11px/1 var(--mono); letter-spacing: .06em; text-transform: uppercase; color: var(--muted) }
+.inset { background: var(--surface); border: 1px solid var(--line); border-radius: 12px; padding: 14px; display: grid; gap: 10px }
+.inset .map { aspect-ratio: 961 / 751 }
+
+/* chart */
+.chartbox { background: var(--surface); border: 1px solid var(--line); border-radius: 12px; padding: 18px 14px 10px; overflow-x: auto; position: relative }
+.chartbox svg { display: block; min-width: 640px; width: 100%; height: auto }
+.chartbox text { fill: var(--muted); font: 11px var(--mono) }
+.chartbox .hn { fill: var(--ink); font: 500 12px var(--body) }
+.chartbox .row:hover .hn { fill: var(--accent) }
+.tip { position: absolute; pointer-events: none; background: var(--ink); color: var(--bg); font-size: 12px; line-height: 1.4; padding: 8px 10px; border-radius: 6px; max-width: 260px; z-index: 10 }
+
+/* shortlist */
+.cards { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 16px }
+.card { background: var(--surface); border: 1px solid var(--line); border-radius: 12px; padding: 18px; display: grid; gap: 10px; align-content: start }
+.card.is-pick { border-color: var(--accent); box-shadow: 0 0 0 1px var(--accent) inset }
+.card .rank { font: 500 12px/1 var(--mono); color: var(--muted) }
+.card .price { display: flex; gap: 14px; align-items: baseline; flex-wrap: wrap }
+.card .price b { font: 500 22px/1 var(--mono) }
+.card ul { margin: 0; padding-left: 16px; font-size: 14px; display: grid; gap: 4px }
+.card .why { font-size: 14px }
+.linkbtn { font: 500 13px var(--body); background: none; border: 0; padding: 0; color: var(--ink); text-decoration: underline; text-decoration-color: var(--accent); text-underline-offset: 3px; cursor: pointer; justify-self: start }
+
+/* watch-outs */
+.notes { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 14px }
+.note { border-left: 3px solid var(--warn); background: var(--warn-soft); padding: 14px 16px; border-radius: 0 10px 10px 0; display: grid; gap: 6px; font-size: 14px }
+.note.good { border-color: var(--fit); background: var(--fit-soft) }
+.note strong { font-weight: 600 }
+
+/* ledger */
+.tablewrap { overflow-x: auto; background: var(--surface); border: 1px solid var(--line); border-radius: 12px }
+table.ledger { border-collapse: collapse; width: 100%; min-width: 860px; font-size: 13px }
+.ledger th { text-align: left; font: 600 11px/1.2 var(--mono); letter-spacing: .05em; text-transform: uppercase; color: var(--muted); padding: 12px 10px; border-bottom: 1px solid var(--line); white-space: nowrap; position: sticky; top: 0; background: var(--surface) }
+.ledger th button { all: unset; cursor: pointer } .ledger th button:focus-visible { outline: 2px solid var(--accent) }
+.ledger td { padding: 10px; border-bottom: 1px solid var(--line); vertical-align: top }
+.ledger tr:last-child td { border-bottom: 0 }
+.ledger tr { cursor: pointer } .ledger tr:hover td { background: var(--soft) }
+.ledger .r { text-align: right; white-space: nowrap }
+.ledger .n { font: 600 11px var(--mono); color: var(--muted) }
+.dot { display: inline-block; width: 8px; height: 8px; border-radius: 50%; margin-right: 6px; vertical-align: 1px }
+
+footer { font-size: 13px; color: var(--muted); display: grid; gap: 8px; border-top: 1px solid var(--line); padding-top: 20px }
+footer p { max-width: 90ch }
+
+@media (max-width: 860px) {
+  .verdict, .mapgrid, .notes { grid-template-columns: minmax(0, 1fr) }
+  .verdict .pick { border-right: 0; border-bottom: 1px solid var(--line) }
+  .cards { grid-template-columns: minmax(0, 1fr) }
+  .pin { width: 22px; height: 22px; font-size: 10px } .pin.pick { width: 28px; height: 28px }
+  .pc { grid-template-columns: 1fr }
+}
+@media (min-width: 861px) and (max-width: 1040px) { .cards { grid-template-columns: repeat(2, minmax(0, 1fr)) } }
+@media (prefers-reduced-motion: reduce) { .pin { transition: none } }
+</style>
+
+<div class="wrap">
+  <header>
+    <div class="eyebrow">Oʻahu leg · Sat Oct 31 → Tue Nov 3, 2026 · 3 nights · 2 adults, king bed</div>
+    <h1>Where to sleep in Waikīkī</h1>
+    <p class="lede">We priced 34 hotels live on Booking.com for your exact dates. 23 have a king room under the $500-a-night cap once tax and resort fees are in. The OUTRIGGER Reef still wins: it sits on the sand, has a lanai, and is on the quiet end on Halloween night.</p>
+    <div class="verdict">
+      <div class="pick">
+        <span class="tag">Book this</span>
+        <h3>OUTRIGGER Reef · Partial Ocean View King</h3>
+        <div class="figures">
+          <div class="fig"><b>$1,421</b><span>3 nights, all-in</span></div>
+          <div class="fig"><b>$474</b><span>per night, all-in</span></div>
+          <div class="fig"><b>$26</b><span>under the cap / night</span></div>
+        </div>
+        <p class="muted" style="font-size:14px">The Booking.com total is $1,197, which includes the $50/night resort fee. Taxes of 18.7% come on top. On a tight budget, the Standard King on the "Late Escape Deal" is <span class="num">$1,314</span> all-in.</p>
+      </div>
+      <div>
+        <ul class="facts">
+          <li><span>Free cancel</span><span>Before Oct 28, 2026</span></li>
+          <li><span>Pay</span><span>Nothing until Oct 26</span></li>
+          <li><span>Check-in</span><span>From 3:00 PM · out by 11:00 AM</span></li>
+          <li><span>Booking.com</span><span>8.8 / 10 · 1,517 reviews · location 9.4</span></li>
+          <li><span>Resort fee buys</span><span>Free Honolulu Museum of Art entry for 2, $5 off Bishop Museum, beach towels, Wi-Fi</span></li>
+          <li><span>Runner-up</span><span>Kaimana Beach, Diamond Head View King, <span class="num">$1,161</span>. On the sand, quiet, far end</span></li>
+        </ul>
+      </div>
+    </div>
+  </header>
+
+  <section id="map">
+    <div class="sec-head">
+      <div class="eyebrow">The shore</div>
+      <h2>Every hotel on the map</h2>
+      <p class="muted">Pins are numbered west to east along the beach. Tap one for its rooms, prices and reviews.</p>
+    </div>
+    <div class="filters" role="group" aria-label="Filter hotels">
+      <button class="chip" id="f-all" data-f="all" aria-pressed="true">All 34</button>
+      <button class="chip" id="f-fit" data-f="fit" aria-pressed="false">King under $500/night</button>
+      <button class="chip" id="f-sand" data-f="sand" aria-pressed="false">On the sand</button>
+      <button class="chip" id="f-balc" data-f="balc" aria-pressed="false">Balcony likely</button>
+    </div>
+    <div class="mapgrid">
+      <div style="display:grid;gap:10px;min-width:0">
+        <div class="map" id="waikiki">
+          <img src="map_waikiki.jpg" alt="Street map of Waikīkī from the Ala Wai harbor to Kapiʻolani Park">
+          <span class="label" style="left:12%;top:72%">Māmala Bay</span>
+          <span class="att">Esri, HERE, Garmin, © OpenStreetMap</span>
+        </div>
+        <div class="legend">
+          <span><i style="background:var(--accent)"></i>Current pick</span>
+          <span><i style="background:var(--fit)"></i>King room under $500/night all-in</span>
+          <span><i style="background:var(--over)"></i>Over budget</span>
+        </div>
+      </div>
+      <div class="side">
+        <div class="detail" id="detail" aria-live="polite"></div>
+        <div class="inset">
+          <div class="eyebrow">Outside Waikīkī</div>
+          <div class="map" id="oahu">
+            <img src="map_oahu.jpg" alt="Map of Oʻahu">
+            <span class="att">Esri, HERE, Garmin, © OpenStreetMap</span>
+          </div>
+          <p class="muted" style="font-size:13px">The Kahala, Turtle Bay and Four Seasons Ko Olina are all over budget. They're also a long rideshare from Diamond Head and Pearl Harbor.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section id="prices">
+    <div class="sec-head">
+      <div class="eyebrow">The money</div>
+      <h2>Every room we priced, against the cap</h2>
+      <p class="muted">Each dot is one room type: the 3-night Booking.com total plus 18.7% tax, divided by 3. Anything left of the line fits the budget. A ring marks the room we'd book at that hotel.</p>
+    </div>
+    <div class="legend">
+      <span><i style="background:var(--fit)"></i>Under $500/night all-in</span>
+      <span><i style="background:var(--over)"></i>Over</span>
+      <span><i style="background:transparent;box-shadow:0 0 0 2px var(--accent) inset"></i>Room to book</span>
+    </div>
+    <div class="chartbox" id="chart"></div>
+  </section>
+
+  <section id="shortlist">
+    <div class="sec-head">
+      <div class="eyebrow">The shortlist</div>
+      <h2>Six worth booking</h2>
+      <p class="muted">Ranked for this trip: a beach you can walk onto, a king bed, ideally a lanai, and no car.</p>
+    </div>
+    <div class="cards" id="cards"></div>
+  </section>
+
+  <section id="watch">
+    <div class="sec-head">
+      <div class="eyebrow">Before you book</div>
+      <h2>Things that could change the answer</h2>
+    </div>
+    <div class="notes">
+      <div class="note good"><strong>The pool closure is at the other OUTRIGGER</strong><span>The Oct 5 – Dec 18 pool and sun-deck closure is at OUTRIGGER <em>Waikīkī Beach</em> Resort, not the Reef. No Reef closure turned up. Its guests are being sent to the Reef's pool, so expect it to be busier. A quick call to the Reef settles it.</span></div>
+      <div class="note"><strong>Halloween is your arrival night</strong><span>Kalākaua Avenue gets the state's biggest costume crowd on Sat Oct 31. Hotels facing Kalākaua (Moana, Hyatt Regency, ʻAlohilani, Marriott, Beachcomber) will be loud late. The Reef sits on Kalia Road and is calmer.</span></div>
+      <div class="note"><strong>OUTRIGGER Waikīkī Beach is mid-renovation</strong><span>Recent reviews mention construction noise, dust and a closed lounge, fitness center and ABC store. It's also $807 a night for the cheapest king. Skip it.</span></div>
+      <div class="note"><strong>Marriott balconies</strong><span>Balconies were locked for repairs Jan – Jul 2026, and work was still going on in May. Get "balcony open" in writing before booking.</span></div>
+      <div class="note"><strong>ʻAlohilani "Ocean View" is a stretch</strong><span>Reviewers say "Ocean View" rooms don't face the water directly, and most standard rooms have no lanai. Only Oceanfront rooms look straight out, and those are over the cap.</span></div>
+      <div class="note"><strong>Rates move</strong><span>The Reef's 13% "Late Escape Deal" can end at any time. Booking now still lets you cancel for free until Oct 28.</span></div>
+    </div>
+  </section>
+
+  <section id="all">
+    <div class="sec-head">
+      <div class="eyebrow">The ledger</div>
+      <h2>All 34 hotels</h2>
+      <p class="muted">Click a column to sort and a row to see it on the map. "Best king" is the priciest king room that still fits under the cap, which is usually the best view.</p>
+    </div>
+    <div class="tablewrap">
+      <table class="ledger" id="ledger">
+        <thead><tr>
+          <th><button data-k="n">#</button></th>
+          <th><button data-k="short">Hotel</button></th>
+          <th>Beach</th>
+          <th class="r"><button data-k="score">Booking</button></th>
+          <th class="r"><button data-k="fee">Fee/night</button></th>
+          <th class="r"><button data-k="cheap">Cheapest/night</button></th>
+          <th><button data-k="best">Best king under cap</button></th>
+          <th>Balcony</th>
+        </tr></thead>
+        <tbody></tbody>
+      </table>
+    </div>
+  </section>
+
+  <footer>
+    <p><strong>How these numbers were made.</strong> Live Booking.com search on Oct 18, 2026, for Oct 31 – Nov 3, 2 adults, 1 room. Booking's 3-night total includes the resort fee. Hawaiʻi tax (11% TAT + 3% Oʻahu TAT + 4.712% GET = 18.712%) is added on top, and also applies to the resort fee. Review scores are Booking.com's. Balcony notes marked "unconfirmed" come from general knowledge, not a listing. Prices change hourly, so recheck before you pay.</p>
+    <p>Data: <code>hotels.json</code> (34 hotels, with sources) · <code>notes.md</code> · <code>booking_live_2026-10-18.csv</code>. Maps: Esri World Street Map, © OpenStreetMap contributors.</p>
+  </footer>
+</div>
+
+<script src="hotels.js"></script>
+<script>
+(function () {
+  const H = window.HOTELS, M = window.HOTEL_META, CAP = M.cap_night;
+  const PICK = "outrigger-reef";
+  const SHORT = ["outrigger-reef", "kaimana-beach", "hilton-hawaiian-village", "hyatt-regency", "halepuna", "twin-fin"];
+  const WHY = {
+    "outrigger-reef": "On the sand at the quiet Fort DeRussy end. The room has a lanai, and live Hawaiian music plays nightly at Kani Ka Pila Grille downstairs.",
+    "kaimana-beach": "The only budget-fit hotel actually on the sand away from the crowds. Diamond Head is right behind you for the Nov 1 hike. Rooms are small.",
+    "hilton-hawaiian-village": "A full resort on its own lagoon and beach, with Friday fireworks and a lanai in the Tapa tower. It's a 20-minute walk to central Waikīkī.",
+    "hyatt-regency": "Oceanfront king across the street from Kūhiō Beach, right at the cap. It faces Kalākaua, so ask for a high floor on Halloween.",
+    "halepuna": "Halekulani's sister hotel: no resort fee, a 9.1 score and a calm, polished feel. The cheapest room sees the city, not the ocean.",
+    "twin-fin": "The value play. A Premier Oceanfront King at $377 all-in, across the street from the beach. A 7.9 score means more basic service.",
+  };
+  const by = Object.fromEntries(H.map(h => [h.slug, h]));
+  const $ = s => document.querySelector(s);
+  const usd = n => "$" + n.toLocaleString("en-US");
+  const kind = h => h.slug === PICK ? "pick" : (h.fits ? "fit" : "over");
+  const sand = h => /on sand|on beach|on the sand/i.test(h.beach);
+  const balc = h => !/^none|^unconfirmed$/i.test(h.balconies) && !/no lanai/i.test(h.balconies.split(";")[0]);
+  const cheapest = h => h.rooms.length ? h.rooms[0].night : null;
+  const esc = s => String(s).replace(/[&<>"]/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
+
+  // ---- map pins
+  const pins = {};
+  for (const h of H) {
+    const b = document.createElement("button");
+    b.className = "pin " + kind(h);
+    b.style.left = (h.x * 100) + "%"; b.style.top = (h.y * 100) + "%";
+    b.textContent = h.n;
+    b.setAttribute("aria-label", `${h.n}. ${h.short}`);
+    b.title = h.short + (h.approx ? " (approximate location)" : "");
+    b.addEventListener("click", () => select(h.slug, false));
+    (h.map === "waikiki" ? $("#waikiki") : $("#oahu")).appendChild(b);
+    pins[h.slug] = b;
+  }
+
+  function select(slug, scroll) {
+    const h = by[slug];
+    Object.values(pins).forEach(p => p.classList.remove("active"));
+    pins[slug].classList.add("active");
+    const k = kind(h);
+    const statusText = k === "pick" ? "Current pick" : (k === "fit" ? "Fits budget" : "Over budget");
+    const rooms = h.rooms.map(r => `<tr class="${r.night <= CAP ? "under" : ""}"><td>${esc(r.label)}</td><td class="num">${usd(r.allin)}</td><td class="num">${usd(r.night)}/n</td></tr>`).join("");
+    $("#detail").innerHTML = `
+      <div class="top"><h3>${h.n}. ${esc(h.short)}</h3><span class="status ${k}">${statusText}</span></div>
+      <p class="muted" style="font-size:14px">${esc(h.verdict)}</p>
+      <dl class="kv">
+        <dt>Where</dt><dd>${esc(h.area)}${h.approx ? " · pin approximate" : ""}</dd>
+        <dt>Beach</dt><dd>${esc(h.beach)}</dd>
+        <dt>Reviews</dt><dd>${h.score ? `<span class="num">${h.score}</span> / 10 on Booking.com · ${h.reviews.toLocaleString()} reviews` : "Not found"}</dd>
+        <dt>Resort fee</dt><dd>${h.fee === 0 ? "None" : h.fee ? usd(h.fee) + " a night, in the totals below" : "Not confirmed"}</dd>
+        <dt>Balcony</dt><dd>${esc(h.balconies)}</dd>
+        ${h.deal ? `<dt>Deal</dt><dd>${esc(h.deal)}</dd>` : ""}
+      </dl>
+      ${rooms ? `<table class="rooms"><tbody>${rooms}</tbody></table><p class="muted" style="font-size:12px">All-in for 3 nights, then per night. Green fits the $500 cap.</p>` : ""}
+      <div class="pc"><div><h4>Good</h4><ul>${h.pros.map(p => `<li>${esc(p)}</li>`).join("")}</ul></div>
+      <div><h4>Watch</h4><ul>${h.cons.map(p => `<li>${esc(p)}</li>`).join("")}</ul></div></div>
+      <a href="${esc(h.url)}" target="_blank" rel="noopener">Hotel website ↗</a>`;
+    if (scroll) document.getElementById("map").scrollIntoView({ behavior: matchMedia("(prefers-reduced-motion: reduce)").matches ? "auto" : "smooth" });
+  }
+
+  // ---- filters
+  document.querySelectorAll(".chip").forEach(c => c.addEventListener("click", () => {
+    document.querySelectorAll(".chip").forEach(x => x.setAttribute("aria-pressed", x === c ? "true" : "false"));
+    const f = c.dataset.f;
+    for (const h of H) {
+      const show = f === "all" || (f === "fit" && h.fits) || (f === "sand" && sand(h)) || (f === "balc" && balc(h));
+      pins[h.slug].classList.toggle("dim", !show);
+    }
+  }));
+
+  // ---- price chart (dot plot, one row per hotel, sorted by cheapest room)
+  (function chart() {
+    const rows = H.filter(h => h.rooms.length).sort((a, b) => cheapest(a) - cheapest(b));
+    const W = 760, L = 170, R = 24, T = 26, RH = 22, MAXV = 1450, MINV = 150;
+    const Hh = T + rows.length * RH + 24;
+    const x = v => L + (Math.min(v, MAXV) - MINV) / (MAXV - MINV) * (W - L - R);
+    let s = `<svg viewBox="0 0 ${W} ${Hh}" role="img" aria-label="All-in price per night for every room priced, by hotel">`;
+    for (const t of [200, 400, 600, 800, 1000, 1200, 1400]) {
+      s += `<line x1="${x(t)}" x2="${x(t)}" y1="${T - 6}" y2="${Hh - 20}" stroke="var(--line)" stroke-width="1"/>`;
+      s += `<text x="${x(t)}" y="${Hh - 6}" text-anchor="middle">$${t}</text>`;
+    }
+    s += `<rect x="${L}" y="${T - 6}" width="${x(CAP) - L}" height="${Hh - T - 14}" fill="var(--fit-soft)" opacity=".55"/>`;
+    s += `<line x1="${x(CAP)}" x2="${x(CAP)}" y1="${T - 14}" y2="${Hh - 20}" stroke="var(--fit)" stroke-width="2"/>`;
+    s += `<text x="${x(CAP) + 6}" y="${T - 12}" style="fill:var(--fit);font-weight:500">$500 cap</text>`;
+    rows.forEach((h, i) => {
+      const y = T + i * RH + RH / 2;
+      const vals = h.rooms.map(r => r.night);
+      s += `<g class="row" data-slug="${h.slug}" style="cursor:pointer">`;
+      s += `<rect x="0" y="${y - RH / 2}" width="${W}" height="${RH}" fill="transparent"/>`;
+      s += `<text class="hn" x="${L - 12}" y="${y + 4}" text-anchor="end">${esc(h.short)}</text>`;
+      s += `<line x1="${x(Math.min(...vals))}" x2="${x(Math.max(...vals))}" y1="${y}" y2="${y}" stroke="var(--line)" stroke-width="2"/>`;
+      h.rooms.forEach(r => {
+        const isBest = h.best && h.best.label === r.label;
+        if (isBest) s += `<circle cx="${x(r.night)}" cy="${y}" r="8.5" fill="none" stroke="var(--accent)" stroke-width="2"/>`;
+        s += `<circle class="d" cx="${x(r.night)}" cy="${y}" r="5" fill="${r.night <= CAP ? "var(--fit)" : "var(--over)"}" stroke="var(--surface)" stroke-width="2"
+          data-tip="${esc(h.short)} · ${esc(r.label)}<br><b>${usd(r.night)}</b>/night all-in · ${usd(r.allin)} for 3 nights${r.night > MAXV ? " (off the scale)" : ""}"/>`;
+      });
+      s += `</g>`;
+    });
+    s += `</svg><div class="tip" hidden></div>`;
+    const box = $("#chart"); box.innerHTML = s;
+    const tip = box.querySelector(".tip");
+    box.addEventListener("mousemove", e => {
+      const d = e.target.closest(".d");
+      if (!d) { tip.hidden = true; return; }
+      tip.innerHTML = d.dataset.tip; tip.hidden = false;
+      const br = box.getBoundingClientRect();
+      let left = e.clientX - br.left + box.scrollLeft + 14;
+      if (left + 260 > box.scrollWidth) left -= 290;
+      tip.style.left = left + "px"; tip.style.top = (e.clientY - br.top + 12) + "px";
+    });
+    box.addEventListener("mouseleave", () => tip.hidden = true);
+    box.addEventListener("click", e => { const g = e.target.closest(".row"); if (g) select(g.dataset.slug, true); });
+  })();
+
+  // ---- shortlist cards
+  $("#cards").innerHTML = SHORT.map((slug, i) => {
+    const h = by[slug], b = h.best;
+    return `<article class="card ${slug === PICK ? "is-pick" : ""}">
+      <div class="rank">${i === 0 ? "Pick" : "No. " + (i + 1)} · pin ${h.n}</div>
+      <h3>${esc(h.short)}</h3>
+      <div class="muted" style="font-size:13px">${esc(b.label)}</div>
+      <div class="price"><b>${usd(b.allin)}</b><span class="muted num">${usd(b.night)}/night all-in</span></div>
+      <p class="why">${WHY[slug]}</p>
+      <ul><li>${esc(h.beach)}</li><li>Booking.com ${h.score} · ${h.reviews.toLocaleString()} reviews</li></ul>
+      <button class="linkbtn" data-slug="${slug}">Show on map</button>
+    </article>`;
+  }).join("");
+  document.querySelectorAll(".card .linkbtn").forEach(b => b.addEventListener("click", () => select(b.dataset.slug, true)));
+
+  // ---- ledger
+  let sortK = "n", sortDir = 1;
+  const val = (h, k) => k === "cheap" ? cheapest(h) : k === "best" ? (h.best ? h.best.night : null) : h[k];
+  function ledger() {
+    const rows = H.slice().sort((a, b) => {
+      const va = val(a, sortK), vb = val(b, sortK);
+      if (va == null) return 1; if (vb == null) return -1;
+      return (typeof va === "string" ? va.localeCompare(vb) : va - vb) * sortDir;
+    });
+    $("#ledger tbody").innerHTML = rows.map(h => `<tr data-slug="${h.slug}">
+      <td class="n">${h.n}</td>
+      <td><span class="dot" style="background:var(--${kind(h) === "pick" ? "accent" : kind(h)})"></span><strong>${esc(h.short)}</strong><div class="muted" style="font-size:12px">${esc(h.area)}</div></td>
+      <td>${esc(h.beach)}</td>
+      <td class="r num">${h.score ?? "–"}</td>
+      <td class="r num">${h.fee === 0 ? "none" : h.fee ? usd(h.fee) : "?"}</td>
+      <td class="r num">${cheapest(h) ? usd(cheapest(h)) : "–"}</td>
+      <td>${h.best ? `<span class="num">${usd(h.best.night)}</span> <span class="muted">${esc(h.best.label)}</span>` : `<span class="muted">None under cap</span>`}</td>
+      <td class="muted">${esc(h.balconies.split(/[;(]/)[0])}</td></tr>`).join("");
+  }
+  document.querySelectorAll(".ledger th button").forEach(b => b.addEventListener("click", () => {
+    sortDir = sortK === b.dataset.k ? -sortDir : 1; sortK = b.dataset.k; ledger();
+  }));
+  $("#ledger tbody").addEventListener("click", e => { const tr = e.target.closest("tr"); if (tr) select(tr.dataset.slug, true); });
+  ledger();
+  select(PICK, false);
+})();
+</script>

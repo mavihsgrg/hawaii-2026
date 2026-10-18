@@ -34,5 +34,5 @@ def render(name, north, south, west, east, z):
     print("saved", name, W, H)
 
 if __name__ == "__main__":
-    render("map_waikiki", 21.2930, 21.2560, -157.8470, -157.8070, 16)
+    render("map_waikiki", 21.2885, 21.2605, -157.8425, -157.8180, 16)
     render("map_oahu", 21.72, 21.24, -158.30, -157.64, 11)
