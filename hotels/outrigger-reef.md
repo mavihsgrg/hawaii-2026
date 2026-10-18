@@ -1,6 +1,6 @@
 # OUTRIGGER Reef Waikīkī Beach Resort
 
-> **Role in trip:** Oʻahu base, **Oct 31 → Nov 3 (3 nights)**. Current pick, not booked.
+> **Role in trip:** Oʻahu base, **Oct 31 → Nov 3 (3 nights)**. ✅ **Booked**: Booking.com 5237944073, Oct 31 – Nov 3, Partial Ocean View 1 King, $1,296.69 (pay at hotel). See [`../bookings.md`](../bookings.md).
 > **Budget:** $500 cap removed (2026-10-18). Options up to ~$1,000/night all-in.
 > Research date: 2026-10-18. Prices are not confirmed for these dates. Book only after checking the all-in total.
 
