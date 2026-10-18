@@ -18,6 +18,8 @@
 
 ## ✅ Summary
 
+> ✅ **Booked Oct 18** on Booking.com: **Partial Ocean View 1 King**, Oct 31 → Nov 3, **$1,296.69 all-in** for 2 (room $942.30 + taxes $204.39 + resort fee $150). Conf 5237944073 (PIN in email). Free cancellation until **Oct 27, 11:59 PM**. Resort fee collected at check-out.
+
 | | |
 |---|---|
 | **Location** | Waikīkī, directly on Waikīkī Beach |
@@ -81,9 +83,10 @@ Sizes and beds come from the hotel site and third-party listings, which don't al
 ---
 
 ## ✅ Before booking
-- [ ] Live all-in total for Oct 31 – Nov 3 (room + resort fee + tax)
-- [ ] Room category, with a **king bed** requested in writing
-- [ ] Cancellation deadline (and time zone)
+- [x] Live all-in total for Oct 31 – Nov 3: **$1,296.69** (room + resort fee + tax)
+- [x] Room category: **Partial Ocean View 1 King**, non-smoking
+- [x] Cancellation deadline: free until **Oct 27, 11:59 PM**; after that the first night is charged
+- [ ] Ask the hotel: is the pool / Voyager 47 lounge closed Oct 5 – Dec 18?
 - [ ] Airport transfer: rideshare or flat-rate taxi from HNL (no booking needed; see `commute.md`)
 - [ ] Early arrival: is the room ready before 3 PM check-in? (flight lands ~2–3 PM)
 - [ ] Store the bags on checkout day (Nov 3) if the flight to Maui is late

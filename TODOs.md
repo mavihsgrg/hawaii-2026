@@ -29,7 +29,8 @@
 - [ ] Flights JFK → HNL, **Oct 31** · S · Oct 19 · nonstops: Delta JFK 10:00 → HNL 2:58 PM or Alaska JFK 8:55 → 2:10 PM; 1-stop (cheaper): United EWR 10:00 → 5:04 PM
 - [ ] Island hop HNL → OGG, **Nov 3**, midday · S · Oct 19 · Southwest or Hawaiian (Alaska), ~$138 for two. A separate ticket isn't protected, so leave buffer.
 - [ ] OGG → NYC **Nov 8**, arriving **Nov 9** · S · Oct 19 · Alaska OGG 2:08 PM → JFK 6:30 AM (via HNL) or AA OGG 2:31 PM → JFK 6:59 AM (via LAX)
-- [ ] Oʻahu hotel Oct 31–Nov 3: **OUTRIGGER Reef** (< $500/night all-in) · Both · Oct 19
+- [x] Oʻahu hotel Oct 31–Nov 3: **OUTRIGGER Reef** ✅ booked Oct 18 · Partial Ocean View 1 King · $1,296.69 · conf 5237944073 · **free cancel until Oct 27, 11:59 PM**
+- [ ] Ask OUTRIGGER Reef (+1 808 923 3111): is the pool / Voyager 47 lounge closed Oct 5 – Dec 18? early check-in or bag drop on Oct 31? bag storage on Nov 3 · S · Oct 24
 - [ ] Maui hotel Nov 3–8: **Maui Coast Hotel, Kīhei, Kai Tower king** (~$1,695 all-in) · Both · Oct 19 · confirm king bed, final tax, free-cancel date
 - [ ] 🥾 Diamond Head timed entry, Nov 1 ($5/pp, [gostateparks.hawaii.gov](https://gostateparks.hawaii.gov/diamondhead/about)) · S · **now** (opens 30 days ahead, sells out)
 - [ ] ⚓ USS Arizona program, Nov 2 ($1/pp, recreation.gov) · S · **now**, or the next-day release Nov 1, 3 PM HST

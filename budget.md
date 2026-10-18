@@ -14,7 +14,7 @@
 | Category | Item | Estimate | Actual | Paid by | Notes |
 |---|---|---:|---:|---|---|
 | Flights | JFK → HNL ×2, HNL → OGG ×2, OGG → NYC ×2 | $1,981–2,168 | | | island hop ~$138 of this |
-| Lodging | OUTRIGGER Reef, 3 nights | $1,050–1,500 | | | |
+| Lodging | OUTRIGGER Reef, 3 nights ✅ booked | $1,296.69 | $1,296.69 | | Booking.com, auto-charged to card; resort fee ($150) paid at check-out is included |
 | Lodging | Maui Coast Hotel, 5 nights | ~$1,695 | | | all-in quote |
 | Transport | Rideshares, taxis, airport shuttle, NYC airport rides (no rental car) | $480–800 | | | Hawaiʻi legs ~$310–510 in [`commute.md`](commute.md) + NYC rides |
 | Activity | Diamond Head + USS Arizona | $12 | | | |

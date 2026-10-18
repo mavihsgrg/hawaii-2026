@@ -61,7 +61,7 @@
 | ✈️ | JFK → HNL, Oct 31 | ⬜ to book | **Oct 19** |
 | ✈️ | HNL → OGG, Nov 3 | ⬜ to book | **Oct 19** |
 | ✈️ | OGG → NYC, Nov 8 (lands Nov 9) | ⬜ to book | **Oct 19** |
-| 🏨 | OUTRIGGER Reef, Oct 31 → Nov 3 | ⬜ to book | **Oct 19** |
+| 🏨 | OUTRIGGER Reef, Oct 31 → Nov 3 · Partial Ocean View King · conf 5237944073 | ✅ booked | free cancel until **Oct 27** |
 | 🏨 | Maui Coast Hotel, Nov 3 → Nov 8 | ⬜ to book | **Oct 19** |
 | 🚕 | HNL → Waikīkī (rideshare or flat-rate taxi, no booking needed) | — | — |
 | 🚐 | OGG ↔ Kīhei shuttle, Nov 3 + Nov 8 | ⬜ to book | Oct 24 |
@@ -76,7 +76,7 @@
 | 🚕 | Wailea Village → Tiki Lounge taxi, Nov 6 ~9 PM | ⬜ to book | Nov 5 |
 | 🎟️ | Haleakalā sunset tour with Kīhei pickup, Nov 7 | ⬜ to book | **Oct 21** (small vans sell out) |
 
-**0 of 16 booked.** When something is booked, change ⬜ to ✅, and put the confirmation number in [`bookings.md`](bookings.md).
+**1 of 16 booked.** When something is booked, change ⬜ to ✅, and put the confirmation number in [`bookings.md`](bookings.md).
 
 ---
 
@@ -90,7 +90,7 @@
 
 | 🏨 Hotel | 🚶 Getting around | 💵 Budget rule |
 |---|---|---|
-| **OUTRIGGER Reef Waikīkī Beach Resort**, on the sand, 3 nights<br>Fallbacks: Prince Waikīkī, OUTRIGGER Waikīkī | **No car.** Walk, rideshare or taxi from the airport, rideshare to Diamond Head and Pearl Harbor | Under **$500/night** including taxes and resort fees · ~$1,050–1,500 total |
+| **OUTRIGGER Reef Waikīkī Beach Resort** ✅ booked, Partial Ocean View 1 King, 3 nights, $1,296.69 all-in<br>Fallbacks: Prince Waikīkī, OUTRIGGER Waikīkī | **No car.** Walk, rideshare or taxi from the airport, rideshare to Diamond Head and Pearl Harbor | Under **$500/night** including taxes and resort fees · ~$1,050–1,500 total |
 
 <details>
 <summary>🗺️ Oʻahu map</summary>
@@ -311,7 +311,7 @@ Every ride, with options and prices: **[`commute.md`](commute.md)**.
 | | Estimate |
 |---|---:|
 | ✈️ Flights (all three legs) | $1,981–2,168 |
-| 🏨 OUTRIGGER Reef, 3 nights | $1,050–1,500 |
+| 🏨 OUTRIGGER Reef, 3 nights ✅ booked | $1,297 |
 | 🏨 Maui Coast Hotel, 5 nights | ~$1,695 |
 | 🚐 Transfers, taxis + rides (no rental car) | $480–800 |
 | 🎟️ Diamond Head, Arizona, Molokini, Hāna, Haleakalā sunset tour | ~$1,520–1,620 |

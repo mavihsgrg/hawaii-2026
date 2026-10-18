@@ -38,7 +38,7 @@
 | **Nov 2** | Mon | ⚓ **Pearl Harbor / USS Arizona** | Free: pool, nap, shopping, optional Bishop Museum | Pack, last Waikīkī dinner |
 | **Nov 3** | Tue | Breakfast, check out, ride to HNL | ✈️ Midday HNL → OGG ([`maui.md`](maui.md)) | |
 
-**Hotel:** OUTRIGGER Reef Waikīkī Beach Resort (price it first). Fallbacks: Prince Waikīkī, OUTRIGGER Waikīkī Beach Resort. Rule: **under $500/night including taxes + resort fees**.
+**Hotel:** ✅ **OUTRIGGER Reef Waikīkī Beach Resort**, booked: Partial Ocean View 1 King, Oct 31 (from 3 PM) → Nov 3 (by 11 AM), **$1,296.69 all-in** (~$432/night). Booking.com conf **5237944073** (PIN in your email; not stored here). Free cancellation until **Oct 27, 11:59 PM**. Details in [`bookings.md`](bookings.md).
 
 <!-- map:oahu_hub -->
 **🗺️ Everything from the hotel (H)** · numbered pins and distances in [map.md](map.md#oahu-hub)
@@ -177,7 +177,7 @@
 | What | When to book | Cost (two) | Where | Status |
 |---|---|---:|---|---|
 | ✈️ JFK → HNL Oct 31 | **By Oct 19** | part of ~$1,981–2,168 total airfare | Airline site (Delta / Alaska) | ⬜ |
-| 🏨 OUTRIGGER Reef Oct 31 → Nov 3 | **By Oct 19** | ~$1,050–1,500 | Hotel site or Booking.com | ⬜ |
+| 🏨 OUTRIGGER Reef Oct 31 → Nov 3 | Booked Oct 18 | $1,296.69 | Booking.com, conf 5237944073 | ✅ |
 | 🚕 HNL → Waikīkī | No booking (rideshare or flat-rate taxi); shuttle optional | ~$30–50 | Uber / Lyft / taxi rank (see [`commute.md`](commute.md)) | — |
 | 🌋 Diamond Head timed entry, Nov 1 | **Now** (opens 30 days ahead, sells out) | $10 + fees | [gostateparks.hawaii.gov/diamondhead](https://gostateparks.hawaii.gov/diamondhead/about) | ⬜ |
 | ⚓ USS Arizona program, Nov 2 | **Now** if any left; otherwise the **next-day release Nov 1, 3 PM HST** | $2 | [recreation.gov](https://www.recreation.gov/ticket/facility/233338) | ⬜ |

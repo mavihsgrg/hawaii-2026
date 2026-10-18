@@ -22,7 +22,7 @@
 ## 🏨 Hotels
 | Island | Hotel | Check-in → out | Conf # | Address | Cancel by | Notes |
 |---|---|---|---|---|---|---|
-| Oʻahu | | Oct 31 → Nov 3 | | | | |
+| Oʻahu ✅ | **OUTRIGGER Reef Waikīkī Beach Resort** · Partial Ocean View 1 King, non-smoking · Booking.com | Oct 31 (from 3 PM) → Nov 3 (by 11 AM) | **5237944073** (Booking.com; PIN in email) | 2169 Kalia Rd, Honolulu, HI 96815 · +1 808 923 3111 | **Free until Oct 27, 11:59 PM**; from Oct 28 the 1st night is charged (refund drops to $708.30) | **$1,296.69** all-in for 2 (room $942.30 + taxes $204.39 + resort fee $150). Booking.com charges the card automatically; $0 paid so far. Resort fee is collected at check-out. Perks: 15% off food & drink, free Honolulu Museum of Art for 2, $5 off Bishop Museum (show key card). Special request sent: birthday treats + ocean-facing room |
 | Maui | | Nov 3 → Nov 8 | | | | ask about late checkout / hospitality room |
 
 ## 🚐 Transfers & rides (no car)
