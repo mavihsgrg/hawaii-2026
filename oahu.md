@@ -40,6 +40,12 @@
 
 **Hotel:** OUTRIGGER Reef Waikīkī Beach Resort (price it first). Fallbacks: Prince Waikīkī, OUTRIGGER Waikīkī Beach Resort. Rule: **under $500/night including taxes + resort fees**.
 
+<!-- map:oahu_hub -->
+**🗺️ Everything from the hotel (H)** · numbered pins and distances in [map.md](map.md#oahu-hub)
+
+<a href="maps/oahu_hub_street.jpg"><img src="maps/oahu_hub_street.jpg" width="49%" alt="Everything from the hotel (map)"></a> <a href="maps/oahu_hub_sat.jpg"><img src="maps/oahu_hub_sat.jpg" width="49%" alt="Everything from the hotel (satellite)"></a>
+
+
 ### Sat Oct 31: arrive
 - ✈️ Morning nonstop from JFK. Options seen this week: **Delta JFK 10:00 AM → HNL 2:58 PM**, **Alaska JFK 8:55 AM → HNL 2:10 PM**. ~11 hours in the air; Hawaiʻi is **6 hours behind NYC** today.
 - 🚐 HNL → Waikīkī: prebooked shared or private transfer, or rideshare from the marked pickup area (~25–40 min depending on traffic).
@@ -48,6 +54,12 @@
 - 🎃 It's **Halloween**: Waikīkī and Kalākaua Ave get busy and costumed. Fun to watch for an hour; skip it if you're tired.
 - Carry-on: swimsuits, meds, a change of clothes, chargers (in case bags are late).
 - ⛔ Nothing time-sensitive today.
+
+<!-- map:oahu_airport -->
+**🗺️ Route from the hotel:** 9.4 mi · 30–45 min with bags; leave ~2.5 h before the Nov 3 flight · 🚕 Rideshare or flat-rate taxi (~$30–50 each way); shuttle optional · [▶ directions](https://www.google.com/maps/dir/?api=1&origin=21.27825,-157.83279&destination=21.32114,-157.91844&travelmode=driving) · [more in map.md](map.md#o-airport)
+
+<a href="maps/oahu_airport_street.jpg"><img src="maps/oahu_airport_street.jpg" width="49%" alt="Hotel ↔ HNL airport (map)"></a> <a href="maps/oahu_airport_sat.jpg"><img src="maps/oahu_airport_sat.jpg" width="49%" alt="Hotel ↔ HNL airport (satellite)"></a>
+
 
 <details open><summary><b>Photos</b></summary>
 
@@ -92,6 +104,12 @@
 - 🌅 Sunset from the beach or the Duke Kahanamoku statue area; dinner.
 - 🕐 NYC falls back today, so Hawaiʻi is now **5 hours behind NYC**.
 
+<!-- map:oahu_dh -->
+**🗺️ Route from the hotel:** 3.4 mi · 15–20 min; hike 1.5–2 h (~560 ft climb) · 🚕 Rideshare both ways (~$25–40 total) · [▶ directions](https://www.google.com/maps/dir/?api=1&origin=21.27825,-157.83279&destination=21.26249,-157.80679&travelmode=driving) · [more in map.md](map.md#o-dh)
+
+<a href="maps/oahu_dh_street.jpg"><img src="maps/oahu_dh_street.jpg" width="49%" alt="Hotel → Diamond Head (map)"></a> <a href="maps/oahu_dh_sat.jpg"><img src="maps/oahu_dh_sat.jpg" width="49%" alt="Hotel → Diamond Head (satellite)"></a>
+
+
 <details open><summary><b>Photos</b></summary>
 
 **📸 Diamond Head (Lēʻahi)**
@@ -116,6 +134,12 @@
 - 👕 Respectful clothing; it's a war grave.
 - Afternoon free: pool and nap, Ala Moana shopping, or **Bishop Museum** (~2–3 h, ~$30/adult).
 - Pack for tomorrow's island hop.
+
+<!-- map:oahu_ph -->
+**🗺️ Route from the hotel:** 23.3 mi · 30–40 min out in H-1 traffic; 3–4 h at Pearl Harbor · 🚕 Rideshare each leg (~$60–100 total); no bags allowed at Pearl Harbor · [▶ directions](https://www.google.com/maps/dir/?api=1&origin=21.27825,-157.83279&destination=21.27825,-157.83279&travelmode=driving&waypoints=21.36748%2C-157.93845%7C21.33308%2C-157.87071) · [more in map.md](map.md#o-ph)
+
+<a href="maps/oahu_ph_street.jpg"><img src="maps/oahu_ph_street.jpg" width="49%" alt="Hotel → Pearl Harbor → Bishop Museum → Hotel (map)"></a> <a href="maps/oahu_ph_sat.jpg"><img src="maps/oahu_ph_sat.jpg" width="49%" alt="Hotel → Pearl Harbor → Bishop Museum → Hotel (satellite)"></a>
+
 
 <details open><summary><b>Photos</b></summary>
 
@@ -186,6 +210,24 @@ Pick from these if you have energy, if the weather changes, or to swap days. Rou
 | **Ala Moana Center + Beach Park** | Big open-air mall, calm lagoon beach | 2 h | Free | Good rainy-afternoon fallback |
 | **Puʻu ʻUalakaʻa lookout (Tantalus)** | Sunset over the whole city | 30 min | $7 parking | Needs a car or rideshare both ways |
 
+<!-- map:area_oahu_honolulu -->
+**🗺️ Waikīkī + Honolulu: where these are from the hotel (H).** Getting there without a car: Walk (Waikīkī), or a short rideshare.
+
+<a href="maps/area_oahu_honolulu_street.jpg"><img src="maps/area_oahu_honolulu_street.jpg" width="49%" alt="Waikīkī + Honolulu (map)"></a> <a href="maps/area_oahu_honolulu_sat.jpg"><img src="maps/area_oahu_honolulu_sat.jpg" width="49%" alt="Waikīkī + Honolulu (satellite)"></a>
+
+| Pin | Place | From the hotel | Drive (no traffic) | Map |
+|:-:|---|---:|---:|---|
+| 1 | Kūhiō Beach (calmest swimming) | 0.9 mi | 3 min | [▶ directions](https://www.google.com/maps/dir/?api=1&origin=21.27825,-157.83279&destination=21.27380,-157.82550&travelmode=driving) · [pin](https://www.google.com/maps/@?api=1&map_action=map&center=21.27380,-157.82550&zoom=15&basemap=roadmap) |
+| 2 | Kapiʻolani Park + Queen's Surf | 2.1 mi | 7 min | [▶ directions](https://www.google.com/maps/dir/?api=1&origin=21.27825,-157.83279&destination=21.26535,-157.81916&travelmode=driving) · [pin](https://www.google.com/maps/@?api=1&map_action=map&center=21.26535,-157.81916&zoom=15&basemap=roadmap) |
+| 3 | Ala Moana Center + Beach Park | 1.5 mi | 6 min | [▶ directions](https://www.google.com/maps/dir/?api=1&origin=21.27825,-157.83279&destination=21.29147,-157.84378&travelmode=driving) · [pin](https://www.google.com/maps/@?api=1&map_action=map&center=21.29147,-157.84378&zoom=15&basemap=roadmap) |
+| 4 | ʻIolani Palace | 3.2 mi | 10 min | [▶ directions](https://www.google.com/maps/dir/?api=1&origin=21.27825,-157.83279&destination=21.30681,-157.85877&travelmode=driving) · [pin](https://www.google.com/maps/@?api=1&map_action=map&center=21.30681,-157.85877&zoom=15&basemap=roadmap) |
+| 5 | Chinatown | 3.9 mi | 11 min | [▶ directions](https://www.google.com/maps/dir/?api=1&origin=21.27825,-157.83279&destination=21.31290,-157.86280&travelmode=driving) · [pin](https://www.google.com/maps/@?api=1&map_action=map&center=21.31290,-157.86280&zoom=15&basemap=roadmap) |
+| 6 | Foster Botanical Garden | 4.1 mi | 10 min | [▶ directions](https://www.google.com/maps/dir/?api=1&origin=21.27825,-157.83279&destination=21.31635,-157.85779&travelmode=driving) · [pin](https://www.google.com/maps/@?api=1&map_action=map&center=21.31635,-157.85779&zoom=15&basemap=roadmap) |
+| 7 | Punchbowl cemetery | 3.4 mi | 9 min | [▶ directions](https://www.google.com/maps/dir/?api=1&origin=21.27825,-157.83279&destination=21.31247,-157.84610&travelmode=driving) · [pin](https://www.google.com/maps/@?api=1&map_action=map&center=21.31247,-157.84610&zoom=15&basemap=roadmap) |
+| 8 | Bishop Museum (optional) | 5.7 mi | 13 min | [▶ directions](https://www.google.com/maps/dir/?api=1&origin=21.27825,-157.83279&destination=21.33308,-157.87071&travelmode=driving) · [pin](https://www.google.com/maps/@?api=1&map_action=map&center=21.33308,-157.87071&zoom=15&basemap=roadmap) |
+| 9 | Puʻu ʻUalakaʻa lookout (Tantalus) | 5.0 mi | 13 min | [▶ directions](https://www.google.com/maps/dir/?api=1&origin=21.27825,-157.83279&destination=21.31500,-157.81900&travelmode=driving) · [pin](https://www.google.com/maps/@?api=1&map_action=map&center=21.31500,-157.81900&zoom=15&basemap=roadmap) |
+
+
 <details open><summary><b>Photos</b></summary>
 
 Waikīkī Beach, surf lessons and Bishop Museum are pictured in the day plan above.
@@ -254,6 +296,21 @@ Waikīkī Beach, surf lessons and Bishop Museum are pictured in the day plan abo
 | **Sandy Beach** | Beautiful but dangerous shorebreak | Look only | Free | Don't swim here |
 | **Lanikai + Kailua** | Postcard beaches, Mokulua islets, Kailua town cafés | Half day | Free | Lanikai has no parking; go by tour/rideshare. Lanikai Pillbox hike for the view (~1 h) |
 
+<!-- map:area_oahu_east -->
+**🗺️ East Oʻahu: where these are from the hotel (H).** Getting there without a car: Rideshare or a tour; the coast road loops round to Kailua.
+
+<a href="maps/area_oahu_east_street.jpg"><img src="maps/area_oahu_east_street.jpg" width="49%" alt="East Oʻahu (map)"></a> <a href="maps/area_oahu_east_sat.jpg"><img src="maps/area_oahu_east_sat.jpg" width="49%" alt="East Oʻahu (satellite)"></a>
+
+| Pin | Place | From the hotel | Drive (no traffic) | Map |
+|:-:|---|---:|---:|---|
+| 1 | Hanauma Bay | 11.0 mi | 26 min | [▶ directions](https://www.google.com/maps/dir/?api=1&origin=21.27825,-157.83279&destination=21.26900,-157.69380&travelmode=driving) · [pin](https://www.google.com/maps/@?api=1&map_action=map&center=21.26900,-157.69380&zoom=15&basemap=roadmap) |
+| 2 | Hālona Blowhole | 12.0 mi | 27 min | [▶ directions](https://www.google.com/maps/dir/?api=1&origin=21.27825,-157.83279&destination=21.28229,-157.67676&travelmode=driving) · [pin](https://www.google.com/maps/@?api=1&map_action=map&center=21.28229,-157.67676&zoom=15&basemap=roadmap) |
+| 3 | Sandy Beach (look only) | 12.4 mi | 27 min | [▶ directions](https://www.google.com/maps/dir/?api=1&origin=21.27825,-157.83279&destination=21.28640,-157.67337&travelmode=driving) · [pin](https://www.google.com/maps/@?api=1&map_action=map&center=21.28640,-157.67337&zoom=15&basemap=roadmap) |
+| 4 | Makapuʻu Lighthouse Trail | 14.5 mi | 31 min | [▶ directions](https://www.google.com/maps/dir/?api=1&origin=21.27825,-157.83279&destination=21.30970,-157.65050&travelmode=driving) · [pin](https://www.google.com/maps/@?api=1&map_action=map&center=21.30970,-157.65050&zoom=15&basemap=roadmap) |
+| 5 | Lanikai Beach | 16.9 mi | 37 min | [▶ directions](https://www.google.com/maps/dir/?api=1&origin=21.27825,-157.83279&destination=21.39173,-157.71481&travelmode=driving) · [pin](https://www.google.com/maps/@?api=1&map_action=map&center=21.39173,-157.71481&zoom=15&basemap=roadmap) |
+| 6 | Kailua Beach + town | 15.8 mi | 33 min | [▶ directions](https://www.google.com/maps/dir/?api=1&origin=21.27825,-157.83279&destination=21.39659,-157.72592&travelmode=driving) · [pin](https://www.google.com/maps/@?api=1&map_action=map&center=21.39659,-157.72592&zoom=15&basemap=roadmap) |
+
+
 <details open><summary><b>Photos</b></summary>
 
 **📸 Hanauma Bay**
@@ -308,6 +365,20 @@ Waikīkī Beach, surf lessons and Bishop Museum are pictured in the day plan abo
 | **Byōdō-In Temple (Valley of the Temples)** | Replica of a Japanese temple under the Koʻolau cliffs | 1 h | Small fee | Morning |
 | **Hoʻomaluhia Botanical Garden** | Mountain-wall garden with a lake | 1–2 h | Free | Morning for still water |
 
+<!-- map:area_oahu_windward -->
+**🗺️ Windward side: where these are from the hotel (H).** Getting there without a car: Tour, or rideshare out (rides back are harder to find).
+
+<a href="maps/area_oahu_windward_street.jpg"><img src="maps/area_oahu_windward_street.jpg" width="49%" alt="Windward side (map)"></a> <a href="maps/area_oahu_windward_sat.jpg"><img src="maps/area_oahu_windward_sat.jpg" width="49%" alt="Windward side (satellite)"></a>
+
+| Pin | Place | From the hotel | Drive (no traffic) | Map |
+|:-:|---|---:|---:|---|
+| 1 | Nuʻuanu Pali Lookout | 13.2 mi | 26 min | [▶ directions](https://www.google.com/maps/dir/?api=1&origin=21.27825,-157.83279&destination=21.36670,-157.79330&travelmode=driving) · [pin](https://www.google.com/maps/@?api=1&map_action=map&center=21.36670,-157.79330&zoom=15&basemap=roadmap) |
+| 2 | Hoʻomaluhia Botanical Garden | 14.6 mi | 33 min | [▶ directions](https://www.google.com/maps/dir/?api=1&origin=21.27825,-157.83279&destination=21.38700,-157.80900&travelmode=driving) · [pin](https://www.google.com/maps/@?api=1&map_action=map&center=21.38700,-157.80900&zoom=15&basemap=roadmap) |
+| 3 | Byōdō-In Temple | 16.2 mi | 35 min | [▶ directions](https://www.google.com/maps/dir/?api=1&origin=21.27825,-157.83279&destination=21.43088,-157.83183&travelmode=driving) · [pin](https://www.google.com/maps/@?api=1&map_action=map&center=21.43088,-157.83183&zoom=15&basemap=roadmap) |
+| 4 | Mokoliʻi (Chinaman's Hat) | 22.8 mi | 49 min | [▶ directions](https://www.google.com/maps/dir/?api=1&origin=21.27825,-157.83279&destination=21.51297,-157.83675&travelmode=driving) · [pin](https://www.google.com/maps/@?api=1&map_action=map&center=21.51297,-157.83675&zoom=15&basemap=roadmap) |
+| 5 | Kualoa Ranch | 22.9 mi | 49 min | [▶ directions](https://www.google.com/maps/dir/?api=1&origin=21.27825,-157.83279&destination=21.52083,-157.83726&travelmode=driving) · [pin](https://www.google.com/maps/@?api=1&map_action=map&center=21.52083,-157.83726&zoom=15&basemap=roadmap) |
+
+
 <details open><summary><b>Photos</b></summary>
 
 **📸 Nuʻuanu Pali Lookout**
@@ -358,6 +429,22 @@ Dropped because it's a long day and **November is big-surf season**: the beaches
 | **Waimea Valley** | Botanical garden walk to a waterfall | ~$25/pp, 2–3 h |
 | **Dole Plantation** | Pineapple stop on the drive up | Grounds free |
 | **Polynesian Cultural Center** | Pacific island villages + evening show | Half to full day, from ~$90/pp; far from Waikīkī |
+
+<!-- map:area_oahu_north -->
+**🗺️ North Shore: where these are from the hotel (H).** Getting there without a car: Full-day tour (not in the plan).
+
+<a href="maps/area_oahu_north_street.jpg"><img src="maps/area_oahu_north_street.jpg" width="49%" alt="North Shore (map)"></a> <a href="maps/area_oahu_north_sat.jpg"><img src="maps/area_oahu_north_sat.jpg" width="49%" alt="North Shore (satellite)"></a>
+
+| Pin | Place | From the hotel | Drive (no traffic) | Map |
+|:-:|---|---:|---:|---|
+| 1 | Dole Plantation | 27.3 mi | 45 min | [▶ directions](https://www.google.com/maps/dir/?api=1&origin=21.27825,-157.83279&destination=21.52591,-158.03780&travelmode=driving) · [pin](https://www.google.com/maps/@?api=1&map_action=map&center=21.52591,-158.03780&zoom=15&basemap=roadmap) |
+| 2 | Haleʻiwa town | 34.1 mi | 58 min | [▶ directions](https://www.google.com/maps/dir/?api=1&origin=21.27825,-157.83279&destination=21.58763,-158.10356&travelmode=driving) · [pin](https://www.google.com/maps/@?api=1&map_action=map&center=21.58763,-158.10356&zoom=15&basemap=roadmap) |
+| 3 | Laniākea (turtles) | 35.5 mi | 59 min | [▶ directions](https://www.google.com/maps/dir/?api=1&origin=21.27825,-157.83279&destination=21.60918,-158.09485&travelmode=driving) · [pin](https://www.google.com/maps/@?api=1&map_action=map&center=21.60918,-158.09485&zoom=15&basemap=roadmap) |
+| 4 | Waimea Bay | 38.3 mi | 66 min | [▶ directions](https://www.google.com/maps/dir/?api=1&origin=21.27825,-157.83279&destination=21.64100,-158.06600&travelmode=driving) · [pin](https://www.google.com/maps/@?api=1&map_action=map&center=21.64100,-158.06600&zoom=15&basemap=roadmap) |
+| 5 | Waimea Valley | 39.1 mi | 70 min | [▶ directions](https://www.google.com/maps/dir/?api=1&origin=21.27825,-157.83279&destination=21.63637,-158.05480&travelmode=driving) · [pin](https://www.google.com/maps/@?api=1&map_action=map&center=21.63637,-158.05480&zoom=15&basemap=roadmap) |
+| 6 | Banzai Pipeline / ʻEhukai | 40.7 mi | 71 min | [▶ directions](https://www.google.com/maps/dir/?api=1&origin=21.27825,-157.83279&destination=21.66484,-158.05091&travelmode=driving) · [pin](https://www.google.com/maps/@?api=1&map_action=map&center=21.66484,-158.05091&zoom=15&basemap=roadmap) |
+| 7 | Polynesian Cultural Center | 34.6 mi | 74 min | [▶ directions](https://www.google.com/maps/dir/?api=1&origin=21.27825,-157.83279&destination=21.64025,-157.92044&travelmode=driving) · [pin](https://www.google.com/maps/@?api=1&map_action=map&center=21.64025,-157.92044&zoom=15&basemap=roadmap) |
+
 
 <details open><summary><b>Photos</b></summary>
 
