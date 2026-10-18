@@ -7,8 +7,17 @@
 ## 📑 Contents
 
 - [✅ The final plan](#-the-final-plan)
+  - [Sat Oct 31: arrive](#sat-oct-31-arrive)
+  - [Sun Nov 1: Diamond Head + Waikīkī](#sun-nov-1-diamond-head--waikīkī)
+  - [Mon Nov 2: Pearl Harbor](#mon-nov-2-pearl-harbor)
+  - [Tue Nov 3: → Maui](#tue-nov-3--maui)
 - [🎟️ Bookings for Oʻahu (do these now)](#-bookings-for-oʻahu-do-these-now)
 - [🌺 Everything else to do on Oʻahu](#-everything-else-to-do-on-oʻahu)
+  - [Waikīkī and Honolulu (all easy without a car)](#waikīkī-and-honolulu-all-easy-without-a-car)
+  - [East Oʻahu (half day; car, tour or rideshare)](#east-oʻahu-half-day-car-tour-or-rideshare)
+  - [Windward side (full day; tour or car)](#windward-side-full-day-tour-or-car)
+  - [North Shore (full day; tour or car) · ❌ not in the plan](#north-shore-full-day-tour-or-car---not-in-the-plan)
+  - [Evenings](#evenings)
 - [🍽️ Food ideas (no reservations needed unless noted)](#-food-ideas-no-reservations-needed-unless-noted)
 - [🌧️ Rain and backup swaps](#-rain-and-backup-swaps)
 - [💵 Oʻahu costs (two people)](#-oʻahu-costs-two-people)

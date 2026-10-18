@@ -6,7 +6,7 @@
 ## 📑 Contents
 
 - [📄 Planning docs (Google Docs)](#-planning-docs-google-docs)
-- [⚠️ Where the docs disagree (resolve in `overall_plan.md` → Decision board)](#-where-the-docs-disagree-resolve-in-overall_planmd--decision-board)
+- [⚠️ Where the docs disagree (resolve in overall_plan.md → Decision board)](#-where-the-docs-disagree-resolve-in-overall_planmd--decision-board)
 - [Constraints pulled from the docs](#constraints-pulled-from-the-docs)
 - [🌐 Trip-planning guides used](#-trip-planning-guides-used)
 - [🛑 Status checks (Oct 17)](#-status-checks-oct-17)

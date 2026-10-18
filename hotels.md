@@ -6,12 +6,17 @@
 ## 📑 Contents
 
 - [✅ To finalize (current picks)](#-to-finalize-current-picks)
+  - [Final checklist before booking](#final-checklist-before-booking)
 - [🌺 Oʻahu options (Oct 31 → Nov 3)](#-oʻahu-options-oct-31--nov-3)
 - [🏝️ Maui options (Nov 3 → Nov 8)](#-maui-options-nov-3--nov-8)
 - [📸 Photos](#-photos)
 - [📝 Notes](#-notes)
 - [🏠 Airbnb options (checked 2026-10-18)](#-airbnb-options-checked-2026-10-18)
+  - [Oʻahu, Waikīkī](#oʻahu-waikīkī)
+  - [Maui, Kīhei / Kamaole](#maui-kīhei--kamaole)
 - [🏨 Other hotels worth a look](#-other-hotels-worth-a-look)
+  - [Oʻahu, under $500/night (reported rates, varied dates)](#oʻahu-under-500night-reported-rates-varied-dates)
+  - [Maui, Kīhei / Wailea](#maui-kīhei--wailea)
 - [🔎 Updated shortlist from this round](#-updated-shortlist-from-this-round)
 
 ---

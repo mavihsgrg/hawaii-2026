@@ -9,6 +9,15 @@
 
 - [At a glance](#at-a-glance)
 - [Day by day](#day-by-day)
+  - [Sat Oct 31: arrive Oʻahu](#sat-oct-31-arrive-oʻahu)
+  - [Sun Nov 1: Diamond Head + Waikīkī](#sun-nov-1-diamond-head--waikīkī)
+  - [Mon Nov 2: Pearl Harbor](#mon-nov-2-pearl-harbor)
+  - [Tue Nov 3: → Maui](#tue-nov-3--maui)
+  - [Wed Nov 4: snorkel](#wed-nov-4-snorkel)
+  - [Thu Nov 5: Road to Hāna](#thu-nov-5-road-to-hāna)
+  - [Fri Nov 6: 🎂 birthday](#fri-nov-6--birthday)
+  - [Sat Nov 7: Haleakalā sunset](#sat-nov-7-haleakalā-sunset)
+  - [Sun Nov 8: depart](#sun-nov-8-depart)
 - [Key times](#key-times)
 
 ## At a glance

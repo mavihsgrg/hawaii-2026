@@ -12,9 +12,9 @@ This repo uses a single branch, `main`. Never create other branches, never force
 1. **Check the branch.** Run `git branch --show-current`. If it is not `main`, stop and ask the user before doing anything else. (A worktree session shows its own `worktree-*` branch; in that case, push with `git push origin HEAD:main` after confirming the commit is a fast-forward of `origin/main`.)
 2. **Look at what changed.** Run `git status --short` and `git diff --stat`. If nothing changed, say so and stop.
 3. **Stage everything except local-only files.** Run `git add -A`, then unstage local settings with `git reset -q -- .claude/settings.local.json` and anything else that is local-only. Never stage passport or ID scans (`docs/` is set up in `.gitignore` for these). Confirm with `git diff --cached --stat`.
-4. **Write the commit message.** One short imperative line that says what changed, for example `Add Maui hotel shortlist` or `Update budget after Aston quote`. If several unrelated things changed, add a short body with one line per change. End the message with this exact trailer, after a blank line:
+4. **Write the commit message.** One short imperative line that says what changed, for example `Add Maui hotel shortlist` or `Update budget after Aston quote`. If several unrelated things changed, add a short body with one line per change. End the message, after a blank line, with the `Co-Authored-By:` trailer for the model currently in use (the session's attribution reminder gives the exact line), for example:
 
-   `Co-Authored-By: Claude Haiku 5.5 <noreply@anthropic.com>`
+   `Co-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>`
 
 5. **Commit.** Write the message to a file in `$CLAUDE_JOB_DIR/tmp`, then run `git commit -q -F <file>` so the trailer and quotes survive.
 6. **Push.** Run `git push origin main` (or `git push origin HEAD:main` from a worktree). If the push is rejected because the remote moved, run `git pull --ff-only origin main` and push again. Never rebase or force. If the fast-forward pull fails, stop and report the conflict.
