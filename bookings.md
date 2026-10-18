@@ -49,7 +49,6 @@ The Southwest itinerary email shows a **rental car at Kahului Airport, Nov 3 →
 | By | What | Book here | Notes |
 |---|---|---|---|
 | **Now** | 🥾 Diamond Head timed entry, Sun Nov 1 (~6:30 AM slot) | [gostateparks.hawaii.gov/diamondhead](https://gostateparks.hawaii.gov/diamondhead/about) | $5/pp; sells out; arrive within 30 min of the slot |
-| **Now** | ⚓ USS Arizona program, Mon Nov 2 | [recreation.gov · Pearl Harbor](https://www.recreation.gov/ticket/facility/233338) | $1/pp; if sold out, next-day release Nov 1, 3 PM HST |
 | **Oct 21** | 🌋 Haleakalā sunset tour with Kīhei pickup, Sat Nov 7 | [Polynesian Adventure (official)](https://www.polyad.com/tour/maui-haleakala-sunset-tour/) · [same tour on Expedia](https://www.expedia.com/things-to-do/haleakala-sunset-tour.a390930.activity-details) | ~$237/adult, entry + dinner; pickup ~1:30 PM; confirm Maui Coast Hotel pickup |
 | Oct 24 | 🤿 PacWhale Molokini + Turtle Arches, Wed Nov 4 | [pacwhale.com](https://www.pacwhale.com/ecotour/molokini-turtle-arches-snorkel/) | ~$220/adult; no hotel pickup (dawn taxi) |
 | Oct 24 | 🌿 Road to Hāna guided tour, Thu Nov 5 | [Tour Maui](https://www.tourmaui.com/tours/road-to-hana-tour/) · [Polynesian Adventure](https://www.polyad.com/tour/road-to-hana-tour/) | ~$590–650 for two; confirm Kīhei pickup and Waiʻānapanapa |
@@ -78,7 +77,7 @@ Options and prices for each ride: [`commute.md`](commute.md).
 | Date | What | Check-in time | Meeting point | Conf # | Paid | Cancel / weather policy |
 |---|---|---|---|---|---|---|
 | Nov 1 | 🥾 Diamond Head timed entry | | Diamond Head State Monument | | | |
-| Nov 2 | ⚓ USS Arizona program | | Pearl Harbor visitor center | | | |
+| Nov 2 | ⚓ USS Arizona program ✅ **11:15 AM – 12:00 PM**, 2 tickets | be at the visitor center ~10:15 AM (leave Waikīkī ~9:30) | Pearl Harbor National Memorial visitor center | Recreation.gov order **0935827091** | $2.00 | no bags allowed; [My reservations](https://www.recreation.gov/account/orders) |
 | Nov 4 | 🤿 PacWhale Molokini + Turtle Arches | ~45 min before departure | Māʻalaea Harbor | | | |
 | Nov 5 | 🌿 Road to Hāna guided tour | ~6:30–7:00 AM | Maui Coast Hotel (confirm) | | | |
 | Nov 6 | 💆 Couples spa | ~1 PM | Wailea resort spa | | | |

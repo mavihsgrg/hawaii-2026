@@ -19,7 +19,7 @@
 - [ ] **Alaska free 24-h cancel ends Oct 19:** AS 829 (JFK → HNL) at **12:17 PM ET**, return AS 1145/830 at **12:29 PM ET**. Keep both? · Both · **Oct 19 noon ET** · [Alaska → Manage trip](https://www.alaskaair.com/booking/reservation-lookup)
 - [ ] **🚗 Maui rental car (Nov 3–6) vs the no-car plan:** cancel it, or keep it and extend to Nov 8 (see [`bookings.md`](bookings.md#car)) · Both · Oct 20 · [Southwest → Manage reservation](https://www.southwest.com/air/manage-reservation/)
 - [ ] 🥾 **Diamond Head** timed entry, Sun Nov 1 (~6:30 AM) · S · **now** (sells out) · [gostateparks.hawaii.gov](https://gostateparks.hawaii.gov/diamondhead/about)
-- [ ] ⚓ **USS Arizona** program, Mon Nov 2 · S · **now**, or the next-day release Nov 1, 3 PM HST · [recreation.gov](https://www.recreation.gov/ticket/facility/233338)
+- [x] ⚓ **USS Arizona** booked: Mon Nov 2, 11:15 AM, 2 tickets, Recreation.gov order 0935827091 (be there ~10:15 AM)
 - [ ] Request PTO / block calendar Oct 30 – Nov 9 (and Tanu's Nov 9) · Both · Oct 19
 
 <a id="decide"></a>
