@@ -2,12 +2,13 @@
 
 > Booked amounts are actual. Open items are estimates. Update "Paid by" when someone pays.
 > Last updated 2026-10-18. Flights total $2,031.32 incl. Southwest.
+> Log spending during the trip in the shared [Hawaiʻi Trip Ledger](https://claude.ai/artifact/DmVk4Cb87eo6eUDodCc8s8) (source: [`expenses/tracker.html`](expenses/tracker.html)). It works out who owes whom.
 
 | Category | Item | Status | Amount | Paid by | Notes |
 |---|---|---|---|---|---|
-| Flights | Alaska JFK → HNL, Oct 31 (AS 829, Wizfair 392513) | Booked | **$1,252.34** | | 2 pax |
-| Flights | Southwest HNL → OGG, Nov 3 (28UG6J) | Booked | **$199.80** | | Basic fare, 2 pax |
-| Flights | Alaska OGG → JFK, Nov 8 (AS 1145 + AS 830, Wizfair 392514) | Booked | **$579.18** | | 2 pax, lands Nov 9 |
+| Flights | Alaska JFK → HNL, Oct 31 (AS 829, Wizfair 392513) | Booked | **$1,252.34** || Shivam | 2 pax |
+| Flights | Southwest HNL → OGG, Nov 3 (28UG6J) | Booked | **$199.80** || Shivam | Basic fare, 2 pax |
+| Flights | Alaska OGG → JFK, Nov 8 (AS 1145 + AS 830, Wizfair 392514) | Booked | **$579.18** || Shivam | 2 pax, lands Nov 9 |
 | Lodging | OUTRIGGER Reef, Oct 31 – Nov 3 | Booked | **$1,296.69** | Pay at hotel | Includes $50/night resort fee |
 | Lodging | Maui Coast Hotel, Nov 3 – 8 | Booked | **$1,715.30** | Pay at hotel | Includes $194.95 resort fee |
 | Car | Maui rental, Kahului | Booked (dates to fix) | _TBD_ | | Extend to Nov 8 |
@@ -26,5 +27,7 @@
 ## Settle-up
 | Person | Paid | Share | Owes / owed |
 |---|---:|---:|---:|
-| Shivam | | | |
-| Partner | | | |
+| Shivam | $2,031.32 | $1,015.66 | owed $1,015.66 |
+| Tanu | $0.00 | $1,015.66 | owes $1,015.66 |
+
+> Paid items only, split 50/50 (as of 2026-10-18). Both hotels ($3,011.99) are paid at check-in and are not counted yet. Live numbers are in the ledger.

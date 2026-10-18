@@ -1,0 +1,417 @@
+<title>Hawaiʻi Trip Ledger</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,700&family=Atkinson+Hyperlegible:wght@400;700&display=swap">
+<style>
+/* Layout: one column ledger — settle-up band, two person columns, add form, then the day-by-day list */
+:root {
+  --bg: #eef4f3;
+  --surface: #ffffff;
+  --ink: #0f2b2a;
+  --muted: #557270;
+  --line: #d3e2e0;
+  --shivam: #1c6a86;
+  --tanu: #a63c74;
+  --due: #a06a0c;
+  --good: #2f7a4f;
+  --accent: #0f7f78;
+  --display: "Bricolage Grotesque", "Avenir Next", system-ui, sans-serif;
+  --body: "Atkinson Hyperlegible", system-ui, -apple-system, sans-serif;
+}
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) {
+  --bg: #0c1a1a; --surface: #132525; --ink: #e2efed; --muted: #8fb0ac; --line: #24403e;
+  --shivam: #6cc0dd; --tanu: #ec8dbf; --due: #e2b45a; --good: #79c99a; --accent: #4fc7bd; color-scheme: dark } }
+:root[data-theme="dark"] {
+  --bg: #0c1a1a; --surface: #132525; --ink: #e2efed; --muted: #8fb0ac; --line: #24403e;
+  --shivam: #6cc0dd; --tanu: #ec8dbf; --due: #e2b45a; --good: #79c99a; --accent: #4fc7bd; color-scheme: dark }
+
+body { background: var(--bg); color: var(--ink); font: 15px/1.5 var(--body); }
+.wrap { max-width: 920px; margin: 0 auto; padding-block: 28px 64px;
+  padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px));
+  display: grid; gap: 28px; }
+h1, h2 { font-family: var(--display); text-wrap: balance; margin: 0; }
+h1 { font-size: clamp(28px, 6vw, 40px); line-height: 1.05; font-weight: 700; letter-spacing: -0.01em; }
+h2 { font-size: 19px; font-weight: 700; }
+.eyebrow { font-size: 12px; text-transform: uppercase; letter-spacing: 0.08em; color: var(--muted); font-weight: 700; }
+.num { font-variant-numeric: tabular-nums; }
+header { display: grid; gap: 6px; }
+header p { margin: 0; color: var(--muted); }
+
+.settle { background: var(--surface); border: 1px solid var(--line); border-radius: 14px; padding: 22px; display: grid; gap: 18px; }
+.settle-line { font-family: var(--display); font-size: clamp(22px, 5vw, 30px); font-weight: 700; line-height: 1.2; }
+.settle-line .who-s { color: var(--shivam); } .settle-line .who-t { color: var(--tanu); }
+.people { display: grid; grid-template-columns: 1fr 1fr; gap: 14px; }
+.person { border-top: 4px solid var(--c); padding-top: 10px; display: grid; gap: 4px; min-width: 0; }
+.person.s { --c: var(--shivam); } .person.t { --c: var(--tanu); }
+.person .name { font-weight: 700; color: var(--c); }
+.person .big { font-family: var(--display); font-size: 26px; font-weight: 700; }
+.person .meta { color: var(--muted); font-size: 13px; }
+.dueline { color: var(--due); font-size: 14px; }
+
+.split { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1.4fr); gap: 28px; align-items: start; }
+@media (max-width: 720px) { .split { grid-template-columns: 1fr; } .people { grid-template-columns: 1fr 1fr; } }
+
+form { display: grid; gap: 12px; background: var(--surface); border: 1px solid var(--line); border-radius: 14px; padding: 18px; }
+label { display: grid; gap: 4px; font-size: 13px; color: var(--muted); font-weight: 700; }
+input, select { font: inherit; color: var(--ink); background: var(--bg); border: 1px solid var(--line); border-radius: 8px; padding: 9px 10px; min-width: 0; width: 100%; box-sizing: border-box; }
+input:focus-visible, select:focus-visible, button:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+.row2 { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; }
+fieldset { border: 0; padding: 0; margin: 0; display: grid; gap: 6px; }
+legend { font-size: 13px; color: var(--muted); font-weight: 700; padding: 0; margin-bottom: 4px; }
+.seg { display: flex; flex-wrap: wrap; gap: 6px; }
+.seg input { position: absolute; opacity: 0; width: 1px; height: 1px; }
+.seg label { cursor: pointer; border: 1px solid var(--line); border-radius: 999px; padding: 6px 12px; color: var(--ink); font-weight: 400; font-size: 14px; }
+.seg input:checked + label { background: var(--ink); color: var(--bg); border-color: var(--ink); }
+.seg input:focus-visible + label { outline: 2px solid var(--accent); outline-offset: 2px; }
+button { font: inherit; cursor: pointer; border-radius: 8px; border: 1px solid var(--line); background: var(--surface); color: var(--ink); padding: 8px 12px; }
+button.primary { background: var(--accent); border-color: var(--accent); color: var(--surface); font-weight: 700; padding: 11px; }
+button:disabled { opacity: 0.5; cursor: not-allowed; }
+.formnote { font-size: 13px; color: var(--muted); min-height: 1.2em; margin: 0; }
+
+.listhead { display: flex; flex-wrap: wrap; gap: 10px; justify-content: space-between; align-items: center; }
+.filters { display: flex; flex-wrap: wrap; gap: 6px; }
+.filters button { border-radius: 999px; padding: 5px 11px; font-size: 13px; }
+.filters button[aria-pressed="true"] { background: var(--ink); color: var(--bg); border-color: var(--ink); }
+.day { display: grid; gap: 0; margin-top: 14px; }
+.dayhead { display: flex; justify-content: space-between; gap: 8px; font-size: 13px; color: var(--muted); padding-bottom: 6px; border-bottom: 1px solid var(--line); }
+.island { font-weight: 700; color: var(--accent); }
+.item { display: grid; grid-template-columns: 6px minmax(0, 1fr) auto; gap: 12px; padding: 11px 0; border-bottom: 1px solid var(--line); align-items: start; }
+.item .stripe { align-self: stretch; border-radius: 3px; background: var(--c); }
+.item.s { --c: var(--shivam); } .item.t { --c: var(--tanu); } .item.u { --c: var(--line); }
+.item .what { font-weight: 700; overflow-wrap: anywhere; }
+.item .sub { font-size: 13px; color: var(--muted); display: flex; flex-wrap: wrap; gap: 4px 10px; }
+.item .amt { text-align: right; display: grid; gap: 4px; justify-items: end; }
+.item .amt strong { font-size: 16px; }
+.pill { font-size: 11px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.06em; padding: 2px 7px; border-radius: 999px; border: 1px solid currentColor; }
+.pill.due { color: var(--due); } .pill.paid { color: var(--good); }
+.acts { display: flex; gap: 6px; flex-wrap: wrap; justify-content: flex-end; }
+.acts button { font-size: 12px; padding: 3px 8px; }
+.acts button.danger { color: var(--tanu); }
+.empty { color: var(--muted); padding: 18px 0; }
+
+.cats { display: grid; gap: 10px; }
+.cat { display: grid; gap: 4px; }
+.cat .top { display: flex; justify-content: space-between; gap: 8px; font-size: 14px; }
+.cat .top span:last-child { color: var(--muted); }
+.bar { height: 8px; background: var(--line); border-radius: 4px; overflow: hidden; display: flex; }
+.bar i { display: block; height: 100%; }
+.bar .bs { background: var(--shivam); } .bar .bt { background: var(--tanu); } .bar .bd { background: var(--due); opacity: 0.55; }
+.legend { display: flex; flex-wrap: wrap; gap: 12px; font-size: 12px; color: var(--muted); }
+.legend span::before { content: ""; display: inline-block; width: 10px; height: 10px; border-radius: 2px; margin-right: 5px; vertical-align: -1px; background: var(--k); }
+@media (prefers-reduced-motion: no-preference) { .bar i { transition: width .4s ease; } }
+</style>
+
+<div class="wrap">
+  <header>
+    <div class="eyebrow">Oʻahu → Maui · Oct 31 – Nov 9, 2026</div>
+    <h1>Hawaiʻi Trip Ledger</h1>
+    <p>Everything Shivam and Tanu spend on the trip, who paid, and who owes whom.</p>
+  </header>
+
+  <section class="settle" aria-labelledby="settle-h">
+    <div class="eyebrow" id="settle-h">Settle up · paid so far</div>
+    <div class="settle-line" id="settleLine">Loading the ledger…</div>
+    <div class="people">
+      <div class="person s">
+        <span class="name">Shivam</span>
+        <span class="big num" id="paidS">—</span>
+        <span class="meta num" id="metaS">paid</span>
+      </div>
+      <div class="person t">
+        <span class="name">Tanu</span>
+        <span class="big num" id="paidT">—</span>
+        <span class="meta num" id="metaT">paid</span>
+      </div>
+    </div>
+    <div class="dueline num" id="dueLine" hidden></div>
+  </section>
+
+  <div class="split">
+    <div style="display:grid;gap:28px;min-width:0">
+      <form id="addForm" autocomplete="off">
+        <h2>Add an expense</h2>
+        <label for="fItem">What
+          <input id="fItem" required maxlength="120" placeholder="Poke at Ono Seafood">
+        </label>
+        <div class="row2">
+          <label for="fAmount">Amount (USD)
+            <input id="fAmount" required type="number" inputmode="decimal" min="0.01" step="0.01" placeholder="42.50">
+          </label>
+          <label for="fDate">Date
+            <input id="fDate" required type="date">
+          </label>
+        </div>
+        <label for="fCat">Category
+          <select id="fCat"></select>
+        </label>
+        <fieldset>
+          <legend>Paid by</legend>
+          <div class="seg">
+            <input type="radio" name="paidBy" id="pS" value="shivam" checked><label for="pS">Shivam</label>
+            <input type="radio" name="paidBy" id="pT" value="tanu"><label for="pT">Tanu</label>
+          </div>
+        </fieldset>
+        <fieldset>
+          <legend>Split</legend>
+          <div class="seg">
+            <input type="radio" name="split" id="sH" value="half" checked><label for="sH">50 / 50</label>
+            <input type="radio" name="split" id="sS" value="shivam"><label for="sS">All Shivam's</label>
+            <input type="radio" name="split" id="sT" value="tanu"><label for="sT">All Tanu's</label>
+          </div>
+        </fieldset>
+        <fieldset>
+          <legend>Status</legend>
+          <div class="seg">
+            <input type="radio" name="status" id="stP" value="paid" checked><label for="stP">Paid</label>
+            <input type="radio" name="status" id="stD" value="due"><label for="stD">Booked, pay later</label>
+          </div>
+        </fieldset>
+        <label for="fNote">Note (optional)
+          <input id="fNote" maxlength="200" placeholder="Card, conf #, anything">
+        </label>
+        <button class="primary" id="addBtn" type="submit">Add expense</button>
+        <p class="formnote" id="formNote" role="status"></p>
+      </form>
+
+      <section class="cats" aria-labelledby="cats-h">
+        <h2 id="cats-h">By category vs. budget</h2>
+        <div class="legend">
+          <span style="--k:var(--shivam)">Shivam paid</span>
+          <span style="--k:var(--tanu)">Tanu paid</span>
+          <span style="--k:var(--due)">Booked, not paid</span>
+        </div>
+        <div id="catList"></div>
+      </section>
+    </div>
+
+    <section aria-labelledby="list-h" style="min-width:0">
+      <div class="listhead">
+        <h2 id="list-h">Expenses</h2>
+        <div class="filters" id="filters">
+          <button type="button" data-f="all" aria-pressed="true">All</button>
+          <button type="button" data-f="shivam" aria-pressed="false">Shivam paid</button>
+          <button type="button" data-f="tanu" aria-pressed="false">Tanu paid</button>
+          <button type="button" data-f="due" aria-pressed="false">Pay later</button>
+        </div>
+      </div>
+      <div id="list"><p class="empty">Loading expenses…</p></div>
+    </section>
+  </div>
+</div>
+
+<script>
+// Budget ranges from budget.md (USD, both of us).
+const CATS = [
+  { id: "flights",    name: "Flights",          lo: 2031.32, hi: 2031.32 },
+  { id: "lodging",    name: "Lodging",          lo: 3011.99, hi: 3011.99 },
+  { id: "transport",  name: "Rides & transport", lo: 480,    hi: 800 },
+  { id: "activities", name: "Activities",       lo: 1504,    hi: 1622 },
+  { id: "food",       name: "Food & groceries", lo: 900,     hi: 1400 },
+  { id: "birthday",   name: "Birthday (Nov 6)", lo: 730,     hi: 1330 },
+  { id: "misc",       name: "Tips, souvenirs, misc", lo: 500, hi: 1000 },
+];
+const NAMES = { shivam: "Shivam", tanu: "Tanu" };
+const usd = n => n.toLocaleString("en-US", { style: "currency", currency: "USD" });
+const $ = id => document.getElementById(id);
+
+function islandFor(d) {
+  if (d < "2026-10-31") return "Before the trip";
+  if (d <= "2026-11-02") return "Oʻahu";
+  if (d <= "2026-11-07") return "Maui";
+  if (d <= "2026-11-09") return "Travel home";
+  return "After the trip";
+}
+function prettyDate(d) {
+  const [y, m, day] = d.split("-").map(Number);
+  return new Date(y, m - 1, day).toLocaleDateString("en-US", { weekday: "short", month: "short", day: "numeric" });
+}
+function shares(e) {
+  const a = Number(e.amount) || 0;
+  if (e.split === "shivam") return { shivam: a, tanu: 0 };
+  if (e.split === "tanu") return { shivam: 0, tanu: a };
+  return { shivam: a / 2, tanu: a / 2 };
+}
+
+let rows = [];
+let filter = "all";
+let db = null;
+let canWrite = true;
+let confirmDel = null;
+
+$("fCat").innerHTML = CATS.map(c => `<option value="${c.id}">${c.name}</option>`).join("");
+$("fCat").value = "food";
+$("fDate").value = (() => { const t = new Date(); return new Date(t - t.getTimezoneOffset() * 6e4).toISOString().slice(0, 10); })();
+
+function render() {
+  const paid = rows.filter(r => r.status !== "due");
+  const due = rows.filter(r => r.status === "due");
+  const tot = { shivam: 0, tanu: 0 }, share = { shivam: 0, tanu: 0 }, cnt = { shivam: 0, tanu: 0 };
+  for (const r of paid) {
+    if (r.paidBy in tot) { tot[r.paidBy] += Number(r.amount) || 0; cnt[r.paidBy]++; }
+    const s = shares(r); share.shivam += s.shivam; share.tanu += s.tanu;
+  }
+  $("paidS").textContent = usd(tot.shivam);
+  $("paidT").textContent = usd(tot.tanu);
+  $("metaS").textContent = `${cnt.shivam} payment${cnt.shivam === 1 ? "" : "s"} · share ${usd(share.shivam)}`;
+  $("metaT").textContent = `${cnt.tanu} payment${cnt.tanu === 1 ? "" : "s"} · share ${usd(share.tanu)}`;
+
+  const bal = Math.round((tot.shivam - share.shivam) * 100) / 100;
+  const line = $("settleLine");
+  line.textContent = "";
+  if (!rows.length) line.textContent = "Nothing logged yet.";
+  else if (Math.abs(bal) < 0.01) line.textContent = "You're even.";
+  else {
+    const [from, to, cf, ct] = bal > 0 ? ["Tanu", "Shivam", "who-t", "who-s"] : ["Shivam", "Tanu", "who-s", "who-t"];
+    const a = document.createElement("span"); a.className = cf; a.textContent = from;
+    const b = document.createElement("span"); b.className = ct; b.textContent = to;
+    line.append(a, " owes ", b, " ", usd(Math.abs(bal)));
+  }
+  const dueTot = due.reduce((s, r) => s + (Number(r.amount) || 0), 0);
+  $("dueLine").hidden = !due.length;
+  $("dueLine").textContent = `Plus ${usd(dueTot)} booked but not paid yet (${due.length} item${due.length === 1 ? "" : "s"}). These count once you mark them paid.`;
+
+  // Categories
+  $("catList").innerHTML = "";
+  for (const c of CATS) {
+    const mine = rows.filter(r => r.category === c.id);
+    const s = mine.filter(r => r.status !== "due" && r.paidBy === "shivam").reduce((x, r) => x + Number(r.amount), 0);
+    const t = mine.filter(r => r.status !== "due" && r.paidBy === "tanu").reduce((x, r) => x + Number(r.amount), 0);
+    const d = mine.filter(r => r.status === "due").reduce((x, r) => x + Number(r.amount), 0);
+    const scale = Math.max(c.hi, s + t + d) || 1;
+    const el = document.createElement("div"); el.className = "cat";
+    const top = document.createElement("div"); top.className = "top";
+    const n = document.createElement("span"); n.textContent = c.name;
+    const v = document.createElement("span"); v.className = "num";
+    v.textContent = `${usd(s + t + d)} of ${c.lo === c.hi ? usd(c.hi) : usd(c.lo) + "–" + usd(c.hi).replace(".00", "")}`.replace(/\.00(?=\D|$)/g, "");
+    top.append(n, v);
+    const bar = document.createElement("div"); bar.className = "bar";
+    bar.innerHTML = `<i class="bs" style="width:${(s / scale) * 100}%"></i><i class="bt" style="width:${(t / scale) * 100}%"></i><i class="bd" style="width:${(d / scale) * 100}%"></i>`;
+    el.append(top, bar);
+    $("catList").append(el);
+  }
+
+  // List
+  const list = $("list");
+  list.innerHTML = "";
+  const shown = rows.filter(r => filter === "all" ? true : filter === "due" ? r.status === "due" : r.paidBy === filter && r.status !== "due");
+  if (!shown.length) {
+    const p = document.createElement("p"); p.className = "empty";
+    p.textContent = rows.length ? "Nothing matches this filter." : "No expenses yet. Add the first one with the form.";
+    list.append(p); return;
+  }
+  const byDay = new Map();
+  for (const r of shown) { if (!byDay.has(r.date)) byDay.set(r.date, []); byDay.get(r.date).push(r); }
+  for (const [day, items] of [...byDay].sort((a, b) => b[0].localeCompare(a[0]))) {
+    const sec = document.createElement("div"); sec.className = "day";
+    const h = document.createElement("div"); h.className = "dayhead";
+    const l = document.createElement("span"); l.textContent = prettyDate(day) + " · ";
+    const isl = document.createElement("span"); isl.className = "island"; isl.textContent = islandFor(day); l.append(isl);
+    const sum = document.createElement("span"); sum.className = "num"; sum.textContent = usd(items.reduce((x, r) => x + Number(r.amount), 0));
+    h.append(l, sum); sec.append(h);
+    for (const r of items.sort((a, b) => (b.createdAt || 0) - (a.createdAt || 0))) sec.append(itemEl(r));
+    list.append(sec);
+  }
+}
+
+function itemEl(r) {
+  const el = document.createElement("div");
+  el.className = "item " + (r.paidBy === "shivam" ? "s" : r.paidBy === "tanu" ? "t" : "u");
+  const stripe = document.createElement("span"); stripe.className = "stripe";
+  const mid = document.createElement("div");
+  const what = document.createElement("div"); what.className = "what"; what.textContent = r.item;
+  const sub = document.createElement("div"); sub.className = "sub";
+  const cat = CATS.find(c => c.id === r.category);
+  const bits = [
+    (r.status === "due" ? "Booked by " : "Paid by ") + (NAMES[r.paidBy] || "?"),
+    r.split === "half" ? "50/50" : "All " + NAMES[r.split] + "'s",
+    cat ? cat.name : r.category,
+  ];
+  if (r.note) bits.push(r.note);
+  for (const b of bits) { const s = document.createElement("span"); s.textContent = b; sub.append(s); }
+  mid.append(what, sub);
+  const amt = document.createElement("div"); amt.className = "amt";
+  const st = document.createElement("strong"); st.className = "num"; st.textContent = usd(Number(r.amount));
+  const pill = document.createElement("span"); pill.className = "pill " + (r.status === "due" ? "due" : "paid");
+  pill.textContent = r.status === "due" ? "Pay later" : "Paid";
+  amt.append(st, pill);
+  if (db && canWrite) {
+    const acts = document.createElement("div"); acts.className = "acts";
+    if (r.status === "due") {
+      const mp = document.createElement("button"); mp.type = "button"; mp.textContent = "Mark paid";
+      mp.onclick = () => write(() => db.doc("expenses/" + r.id).update({ status: "paid" }));
+      acts.append(mp);
+    }
+    const del = document.createElement("button"); del.type = "button"; del.className = "danger";
+    del.textContent = confirmDel === r.id ? "Confirm delete" : "Delete";
+    del.onclick = () => {
+      if (confirmDel !== r.id) { confirmDel = r.id; render(); return; }
+      confirmDel = null; write(() => db.doc("expenses/" + r.id).delete());
+    };
+    acts.append(del);
+    amt.append(acts);
+  }
+  el.append(stripe, mid, amt);
+  return el;
+}
+
+async function write(fn) {
+  try { await fn(); }
+  catch (e) {
+    if (e && e.code === "invalid_argument") { canWrite = false; setWritable(); }
+    $("formNote").textContent = e && e.code === "quota_exceeded" ? "The ledger is full. Delete a few old entries, then try again." : "That change didn't save. Check your connection and try again.";
+  }
+}
+
+function setWritable() {
+  const off = !db || !canWrite;
+  for (const el of $("addForm").elements) el.disabled = off;
+  if (!db) $("formNote").textContent = "Sign in to claude.ai to see and add expenses.";
+  else if (!canWrite) $("formNote").textContent = "You can view this ledger but not add to it. Ask Shivam for Contributor access.";
+  render();
+}
+
+$("filters").addEventListener("click", e => {
+  const b = e.target.closest("button[data-f]"); if (!b) return;
+  filter = b.dataset.f;
+  for (const x of $("filters").children) x.setAttribute("aria-pressed", String(x === b));
+  render();
+});
+
+$("addForm").addEventListener("submit", async e => {
+  e.preventDefault();
+  if (!db) return;
+  const f = new FormData(e.target);
+  const amount = Math.round(parseFloat($("fAmount").value) * 100) / 100;
+  if (!(amount > 0)) { $("formNote").textContent = "Enter an amount above $0."; return; }
+  const doc = {
+    item: $("fItem").value.trim(), amount, date: $("fDate").value, category: $("fCat").value,
+    paidBy: f.get("paidBy"), split: f.get("split"), status: f.get("status"),
+    note: $("fNote").value.trim(), createdAt: Date.now(),
+  };
+  $("addBtn").disabled = true;
+  try {
+    await db.collection("expenses").add(doc);
+    $("formNote").textContent = `Added ${doc.item} · ${usd(amount)}.`;
+    $("fItem").value = ""; $("fAmount").value = ""; $("fNote").value = "";
+    $("fItem").focus();
+  } catch (err) {
+    if (err && err.code === "invalid_argument") { canWrite = false; setWritable(); }
+    else $("formNote").textContent = err && err.code === "quota_exceeded" ? "The ledger is full. Delete a few old entries, then try again." : "That expense didn't save. Check your connection and try again.";
+  } finally { $("addBtn").disabled = !db || !canWrite; }
+});
+
+(async () => {
+  db = await (window.claude?.use?.("db") ?? null);
+  if (!db) { $("settleLine").textContent = "Sign in to see the ledger."; $("list").innerHTML = '<p class="empty">Sign in to claude.ai to see expenses.</p>'; setWritable(); return; }
+  try {
+    const user = await window.claude.use("user");
+    const w = user ? await user.can("data.write") : null;
+    if (w === false) canWrite = false;
+  } catch (_) {}
+  setWritable();
+  db.collection("expenses").onSnapshot(snap => {
+    rows = snap.docs.map(d => ({ id: d.id, ...d.data() })).filter(r => r.date && r.item);
+    render();
+  }, () => { $("list").innerHTML = '<p class="empty">The ledger stopped updating. Reload the page.</p>'; });
+})();
+</script>
