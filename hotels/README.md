@@ -5,7 +5,8 @@ Summary and the current picks: [`../hotels.md`](../hotels.md).
 
 ## Status (2026-10-18)
 - **Oʻahu:** ✅ booked. Hotel and confirmation number still to add to `../bookings.md`.
-- **Maui:** open. Research is Maui-only now: see [`options-up-to-1000.md`](options-up-to-1000.md).
+- **Maui:** ✅ booked. Maui Coast Hotel, Hoku King, Nov 3–8 (conf 6290500360). Room is Hoku King, not the Kai Ocean View King we planned. See [`maui-coast-hotel.md`](maui-coast-hotel.md).
+- **Flights:** ✅ booked (Alaska JFK→HNL Oct 31; Southwest HNL→OGG Nov 3; Alaska OGG→JFK Nov 8). Details in `../bookings.md`.
 
 ## Current picks
 | Island | Hotel | Page |

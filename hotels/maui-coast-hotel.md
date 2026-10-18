@@ -1,6 +1,6 @@
 # Maui Coast Hotel, Kīhei
 
-> **Role in trip:** Maui base, **Nov 3 → Nov 8 (5 nights)**. Current pick, not booked.
+> **Role in trip:** Maui base, **Nov 3 → Nov 8 (5 nights)**. ✅ **Booked** on Booking.com, conf **6290500360**, total $1,715.30. **Room booked: Hoku King**, not the Kai Ocean View King in our plan. Free cancellation until Oct 30, 11:59 PM HST.
 > **Budget:** $500 cap removed (2026-10-18). Options up to ~$1,000/night all-in.
 > Research date: 2026-10-18. Prices are not confirmed for these dates. Book only after checking the all-in total.
 
