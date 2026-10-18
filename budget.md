@@ -1,13 +1,13 @@
 # Budget
 
 > Booked amounts are actual. Open items are estimates. Update "Paid by" when someone pays.
-> Last updated 2026-10-18. Flights for Alaska legs (Wizfair 392513 and 392514): total is on the invoice PDFs in Gmail and not yet entered.
+> Last updated 2026-10-18. Flights total $2,031.32 incl. Southwest.
 
 | Category | Item | Status | Amount | Paid by | Notes |
 |---|---|---|---|---|---|
-| Flights | Alaska JFK → HNL, Oct 31 (392513) | Booked | _see invoice_ | | 2 pax |
+| Flights | Alaska JFK → HNL, Oct 31 (AS 829, Wizfair 392513) | Booked | **$1,252.34** | | 2 pax |
 | Flights | Southwest HNL → OGG, Nov 3 (28UG6J) | Booked | **$199.80** | | Basic fare, 2 pax |
-| Flights | Alaska OGG → JFK, Nov 8 (392514) | Booked | _see invoice_ | | 2 pax, lands Nov 9 |
+| Flights | Alaska OGG → JFK, Nov 8 (AS 1145 + AS 830, Wizfair 392514) | Booked | **$579.18** | | 2 pax, lands Nov 9 |
 | Lodging | OUTRIGGER Reef, Oct 31 – Nov 3 | Booked | **$1,296.69** | Pay at hotel | Includes $50/night resort fee |
 | Lodging | Maui Coast Hotel, Nov 3 – 8 | Booked | **$1,715.30** | Pay at hotel | Includes $194.95 resort fee |
 | Car | Maui rental, Kahului | Booked (dates to fix) | _TBD_ | | Extend to Nov 8 |
