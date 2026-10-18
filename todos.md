@@ -6,7 +6,7 @@
 ## 🔴 Do first
 - [ ] **Alaska free cancel ends tomorrow (Oct 19):** AS 829 until 12:17 PM ET, and the return until 12:29 PM ET. Decide now whether to keep both · Both · **Oct 19 12:17 PM ET**
 - [ ] **Alaska vegetarian meal:** requested, but missing from the confirmation. Add it on alaskaair.com · S · Oct 20
-- [ ] **Car on Maui:** the Kahului rental shows Nov 3 – 6, but the stay runs to Nov 8. Extend it to Nov 8 · S · Oct 20
+- [ ] **Cancel the Kahului rental car (Nov 3–6):** no car on this trip. Cancel it in the rental's account or the Southwest itinerary, and confirm in writing · S · **Oct 20**
 - [ ] **Maui room:** Maui Coast booked a Hoku King. Ask the hotel to change it to the Kai Ocean View King (ocean view, high floor) · S · Oct 25
 - [ ] **OUTRIGGER booking email:** changed Oct 18. Check the booking is still under your email · S · Oct 20
 - [ ] **OUTRIGGER pool:** an unconfirmed note says the pool and club lounge close Oct 5 – Dec 18. Ask the hotel · S · Oct 25
@@ -23,8 +23,10 @@
 - [ ] **Molokini snorkel, Nov 4** (if chosen): PacWhale, no hotel pickup, so use the car · S · Oct 24
 - [ ] **Diamond Head** timed entry (if chosen) · S · Oct 25
 - [ ] **Pearl Harbor / USS Arizona** reservation (if chosen) · S · Oct 25
-- [ ] **Hāna:** guided tour, or Waiʻānapanapa reservation if self-driving · S · Oct 25
-- [ ] **Haleakalā:** tour with pickup, or self-drive with the $30 entry · S · Oct 25
+- [ ] **Hāna:** guided tour with hotel pickup (no self-drive) · S · Oct 25
+- [ ] **Haleakalā sunset tour with hotel pickup** (no car, so no self-drive): book by **Oct 21** if sold out risk · S · Oct 21
+- [ ] **Harbor transport for Molokini** (Māʻalaea): rideshare or pre-booked van · S · Oct 24
+- [ ] **Airport transfers:** Oct 31 HNL → Waikīkī, Nov 3 HNL → OGG → Maui Coast, Nov 8 Maui Coast → OGG · S · Oct 25
 
 ## 🟢 Before you go (Oct 25 – 30)
 - [ ] Check the Maui Coast cancellation window closes **Oct 30 11:59 PM HST** (after that, $269.39) · S · Oct 30

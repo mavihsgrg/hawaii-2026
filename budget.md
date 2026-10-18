@@ -10,8 +10,8 @@
 | Flights | Alaska OGG → JFK, Nov 8 (AS 1145 + AS 830, Wizfair 392514) | Booked | **$579.18** | | 2 pax, lands Nov 9 |
 | Lodging | OUTRIGGER Reef, Oct 31 – Nov 3 | Booked | **$1,296.69** | Pay at hotel | Includes $50/night resort fee |
 | Lodging | Maui Coast Hotel, Nov 3 – 8 | Booked | **$1,715.30** | Pay at hotel | Includes $194.95 resort fee |
-| Car | Maui rental, Kahului | Booked (dates to fix) | _TBD_ | | Extend to Nov 8 |
-| Parking | OUTRIGGER parking, 3 days | Optional | $60/day ($180) | | Only if you drive on Oʻahu |
+| Car | Maui rental, Kahului (Nov 3–6) | **Cancel** (no car) | _TBD_ | | Cancel by Oct 20 |
+| Transport | Rideshares and airport transfers, both islands | Estimate | $450–750 | | No car. Covers 3 airport rides, Oʻahu rides, Maui tour pickups |
 | Activity | Molokini snorkel, Nov 4 | Open | ~$440 | | PacWhale |
 | Activity | Haleakalā sunset tour w/ pickup | Open | $462–520 | | Or self-drive: $30 entry |
 | Activity | Hāna guided tour | Open | $590–650 | | Optional |
