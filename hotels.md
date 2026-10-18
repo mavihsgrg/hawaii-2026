@@ -1,7 +1,7 @@
 # Hotels: options and what to finalize
 
 > Updated 2026-10-18. Nothing is booked. Prices are Oct 12 snapshots from the hotel research doc (`references.md` #3). Re-check before paying.
-> Rule: **under $500/night including taxes and mandatory fees**.
+> Budget: $500 cap removed (2026-10-18). Options up to ~$1,000/night all-in.
 > Detailed room and review pages: [`hotels/outrigger-reef.md`](hotels/outrigger-reef.md) · [`hotels/maui-coast-hotel.md`](hotels/maui-coast-hotel.md)
 
 ## 📑 Contents
@@ -31,7 +31,7 @@
 
 | Stay | Dates | Pick | Why | Price (Oct 12) | Still to check | Deadline |
 |---|---|---|---|---|---|---|
-| **Oʻahu** | Oct 31 → Nov 3 (3 nights) | **OUTRIGGER Reef Waikīkī Beach Resort** | Beachfront, walkable, Monkeypod dinner, nightly Hawaiian music; no car needed | Unverified. ~$50/night resort fee + tax, parking extra | Exact-date all-in total, king bed, cancellation cutoff | **Oct 19** |
+| **Oʻahu** | Oct 31 → Nov 3 (3 nights) | ✅ **Booked** (hotel and confirmation number to add) | Beachfront, walkable, Monkeypod dinner, nightly Hawaiian music; no car needed | Unverified. ~$50/night resort fee + tax, parking extra | Exact-date all-in total, king bed, cancellation cutoff | **Oct 19** |
 | **Maui** | Nov 3 → Nov 8 (5 nights) | **Maui Coast Hotel, Kīhei · Kai Tower king** | Closest practical base for Molokini, Haleakalā and the Nov 6 Wailea dinner; fridge (check: listings say no full kitchen) | ~$1,695 all-in (5 nights). $46.29/night resort fee incl. tax; no parking needed (no car) | Confirm the Kai Tower king rate (earlier calendar rates weren't guaranteed), courtesy shuttle?, luggage hold + late checkout on Nov 8 | **Oct 19** |
 
 **Decided (Oct 18):** OUTRIGGER Reef + Maui Coast Hotel. Book both by Oct 19, then copy the confirmation numbers into [`bookings.md`](bookings.md) and the totals into [`budget.md`](budget.md).

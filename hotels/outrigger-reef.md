@@ -1,7 +1,7 @@
 # OUTRIGGER Reef Waikīkī Beach Resort
 
 > **Role in trip:** Oʻahu base, **Oct 31 → Nov 3 (3 nights)**. Current pick, not booked.
-> **Budget rule:** under $500/night all-in (taxes + mandatory fees).
+> **Budget:** $500 cap removed (2026-10-18). Options up to ~$1,000/night all-in.
 > Research date: 2026-10-18. Prices are not confirmed for these dates. Book only after checking the all-in total.
 
 **Official:** [Hotel page](https://www.outrigger.com/hawaii/oahu/outrigger-reef-waikiki-beach-resort) · [Rooms & suites](https://www.outrigger.com/hawaii/oahu/outrigger-reef-waikiki-beach-resort/rooms-suites) · [Booking.com, Oct 31–Nov 3](https://www.booking.com/hotel/us/outrigger-reef-on-the-beach.html?checkin=2026-10-31&checkout=2026-11-03&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD)
