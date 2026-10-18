@@ -2,7 +2,7 @@
 
 > **Role:** Oʻahu option (Oct 31 → Nov 3). Alternative to OUTRIGGER Reef, mainly on value.
 > **Status:** not booked. Research date 2026-10-18.
-> **Budget rule:** under $500/night all-in.
+> **Budget:** $500 cap removed (2026-10-18). Options up to ~$1,000/night all-in.
 
 **Official:** [Alohilani Resort](https://www.alohilaniresort.com/) · **Deal:** [Travelzoo, from $249/night, stays Sep 7 – Nov 30, 2026](https://slickdeals.net/f/19606950-travelzoo-members-alohilani-resort-waikiki-beach-oahu-hawaii-from-249-per-night-no-daily-resort-fee-50-resort-credit-travel-september-november-2026)
 

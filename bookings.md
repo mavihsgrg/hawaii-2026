@@ -12,12 +12,31 @@
 - [🔎 Live search links (2 adults, economy)](#-live-search-links-2-adults-economy)
 
 <a id="flights"></a>
-## ✈️ Flights
-| Date | Route | Airline / flight | Depart → Arrive | Conf # | Seats | Bags | Notes |
+
+## ✅ CONFIRMED (from Gmail, 2026-10-18)
+
+> Passengers: Shivam Garg and Tanu Arya. Hotel PINs are not stored here; use the Booking.com app or email. Emails live in Gmail.
+
+### ✈️ Flights
+| Date | Route | Airline / flight | Times | Conf # | Fare | Cost | Notes |
 |---|---|---|---|---|---|---|---|
-| Oct 31 | NYC → HNL | | | | | | |
-| Nov 3 | HNL → OGG | | | | | | |
-| Nov 8 | OGG → NYC | | | | | | must arrive Nov 9 |
+| Sat Oct 31 | JFK → HNL | Alaska **AS 829** (via Wizfairtravels #392513) | 8:55 AM → 2:10 PM, nonstop, 11h 15m | Wizfair **392513** · Alaska code: in `Ticket_392513.pdf` | Economy | **$1,252.34** (2 pax) | Carry-on 1, no checked bag included. Booked Oct 18 12:17 PM ET; free 24-h cancel until **Oct 19 12:17 PM ET**. Vegetarian meal was requested but the confirmation shows none: add it on alaskaair.com |
+| Tue Nov 3 | HNL → OGG | Southwest **28UG6J** | 1:35 PM → 2:25 PM, nonstop, 50 min | **28UG6J** | Basic | **$199.80** (2 pax) | Basic: seat assigned at check-in; first checked bag $45. Cancel within 24 hrs; flight credit 6 months |
+| Sun Nov 8 | OGG → JFK | Alaska **AS 1145 + AS 830** (via Wizfairtravels #392514) | OGG 2:08 PM → HNL 2:52 PM; HNL 3:45 PM → JFK 6:30 AM Mon Nov 9. 1 stop, 11h 22m | Wizfair **392514** · Alaska code: in `Ticket_392514.pdf` | Economy | **$579.18** (2 pax) | Carry-on 1, no checked bag included. **Lands JFK Nov 9** ✅ Booked Oct 18 12:29 PM ET; free 24-h cancel until **Oct 19 12:29 PM ET** |
+
+### 🏨 Hotels
+| Island | Hotel | Dates | Conf # | Room | Total | Cancel | Notes |
+|---|---|---|---|---|---|---|---|
+| Oʻahu | OUTRIGGER Reef Waikīkī Beach Resort, 2169 Kalia Rd | Check-in Sat Oct 31 (3 PM) → Check-out Tue Nov 3 (11 AM), 3 nights | Booking.com **5237944073** | Partial Ocean View, 1 King | **$1,296.69** (paid $0 up front; pay at hotel) | Free until **Oct 27** 11:59 PM, then $354.15 | Resort fee $50/night incl.; parking $60/day. Special request: birthday treats and a room that extends to the beach. **Booker email changed Oct 18. Check who it's set to.** |
+| Maui | Maui Coast Hotel, 2259 S Kihei Rd | Check-in Tue Nov 3 (4 PM) → Check-out Sun Nov 8 (11 AM), 5 nights | Booking.com **6290500360** | **Hoku King** (not the Kai Ocean View King in our plan) | **$1,715.30** (room $1,250, taxes $227, tourism fee $43.35, resort fee $194.95) | Free until **Oct 30** 11:59 PM HST, then $269.39 | Hotel notes birthday on reservation. Pay at property. Resort fee is taxable |
+
+**Flights total: $2,031.32 for two.** To do: find the 6-letter Alaska confirmation code in each `Ticket_*.pdf` (Gmail), look both up on alaskaair.com → Manage trip, pick seats together, add checked bags if needed (none included), and add meal requests.
+
+### 🚗 Car (Maui)
+- Itinerary shows **Kahului Airport, Nov 3 → Nov 6** (3 days). **The Maui stay runs to Nov 8.** Check whether the car is booked for Nov 3–8 or only Nov 3–6. Our return flight leaves Nov 8 at 2:08 PM.
+
+## ✈️ Flights
+All three flights are booked: see [✅ CONFIRMED → Flights](#-confirmed-from-gmail-2026-10-18) above.
 
 ## 🏨 Hotels
 | Island | Hotel | Check-in → out | Conf # | Address | Cancel by | Notes |

@@ -1,7 +1,7 @@
 # Maui Coast Hotel, Kīhei
 
-> **Role in trip:** Maui base, **Nov 3 → Nov 8 (5 nights)**. Current pick, not booked.
-> **Budget rule:** under $500/night all-in (taxes + mandatory fees).
+> **Role in trip:** Maui base, **Nov 3 → Nov 8 (5 nights)**. ✅ **Booked** on Booking.com, conf **6290500360**, total $1,715.30. **Room booked: Hoku King**, not the Kai Ocean View King in our plan. Free cancellation until Oct 30, 11:59 PM HST.
+> **Budget:** $500 cap removed (2026-10-18). Options up to ~$1,000/night all-in.
 > Research date: 2026-10-18. Prices are not confirmed for these dates. Book only after checking the all-in total.
 
 **Official:** [Hotel](https://www.mauicoasthotel.com/) · [Kai Tower rooms](https://www.mauicoasthotel.com/rooms-suites/kai-tower) · [Booking.com, Nov 3–8](https://www.booking.com/hotel/us/maui-coast.html?checkin=2026-11-03&checkout=2026-11-08&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD) · [TripAdvisor](https://www.tripadvisor.com/Hotel_Review-g60632-d111818-Reviews-Maui_Coast_Hotel-Kihei_Maui_Hawaii.html)

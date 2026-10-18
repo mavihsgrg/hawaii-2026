@@ -1,34 +1,27 @@
 # Budget
 
-> Estimates for the two of us unless noted. Fill in **Actual** when paid, and **Paid by** so settling up is easy.
-> Plan: Oʻahu → Maui, 8 nights, no car. Same total as [`tentative_plan.md`](tentative_plan.md#cost).
+> Booked amounts are actual. Open items are estimates. Update "Paid by" when someone pays.
+> Last updated 2026-10-18. Flights total $2,031.32 incl. Southwest.
 
-## 📑 Contents
-
-- [Estimates](#estimates)
-- [Settle-up](#settle-up)
-
-<a id="estimates"></a>
-## Estimates
-
-| Category | Item | Estimate | Actual | Paid by | Notes |
-|---|---|---:|---:|---|---|
-| Flights | JFK → HNL ×2, HNL → OGG ×2, OGG → NYC ×2 | $1,981–2,168 | | | island hop ~$138 of this |
-| Lodging | OUTRIGGER Reef, 3 nights ✅ booked | $1,296.69 | $1,296.69 | | Booking.com, auto-charged to card; resort fee ($150) paid at check-out is included |
-| Lodging | Maui Coast Hotel, 5 nights | ~$1,695 | | | all-in quote |
-| Transport | Rideshares, taxis, airport shuttle, NYC airport rides (no rental car) | $480–800 | | | Hawaiʻi legs ~$310–510 in [`commute.md`](commute.md) + NYC rides |
-| Activity | Diamond Head + USS Arizona | $12 | | | |
-| Activity | Molokini snorkel (PacWhale) | ~$440 | | | |
-| Activity | Hāna guided tour (Waiʻānapanapa entry included) | $590–650 | | | |
-| Activity | Haleakalā sunset tour w/ Kīhei pickup (entry + dinner incl.) + tip | $475–520 | | | |
-| Birthday | Couples spa ✅ | $400–700 | | | |
-| Birthday | Dinner at Hotel Wailea | $220–400 | | | |
-| Birthday | Cocktails (Tikehau) + Tiki Lounge | $110–230 | | | rides are under Transport |
-| Dining | Other meals/groceries (~9 days) | $780–1,150 | | | |
-| Misc | Tips, bags, souvenirs, contingency | $640–1,330 | | | |
-| **Total** | | **≈ $8,900–11,600** | | | |
-
-Source: Oct 12 snapshots (`references.md` #1, #4, #6), the no-car rides in [`commute.md`](commute.md), and [`birthday.md`](birthday.md).
+| Category | Item | Status | Amount | Paid by | Notes |
+|---|---|---|---|---|---|
+| Flights | Alaska JFK → HNL, Oct 31 (AS 829, Wizfair 392513) | Booked | **$1,252.34** | | 2 pax |
+| Flights | Southwest HNL → OGG, Nov 3 (28UG6J) | Booked | **$199.80** | | Basic fare, 2 pax |
+| Flights | Alaska OGG → JFK, Nov 8 (AS 1145 + AS 830, Wizfair 392514) | Booked | **$579.18** | | 2 pax, lands Nov 9 |
+| Lodging | OUTRIGGER Reef, Oct 31 – Nov 3 | Booked | **$1,296.69** | Pay at hotel | Includes $50/night resort fee |
+| Lodging | Maui Coast Hotel, Nov 3 – 8 | Booked | **$1,715.30** | Pay at hotel | Includes $194.95 resort fee |
+| Car | Maui rental, Kahului | Booked (dates to fix) | _TBD_ | | Extend to Nov 8 |
+| Parking | OUTRIGGER parking, 3 days | Optional | $60/day ($180) | | Only if you drive on Oʻahu |
+| Transport | Rideshares, taxis, airport shuttle, NYC airport rides | Estimate | $480–800 | | Hawaiʻi legs ~$310–510 in [`commute.md`](commute.md) |
+| Activity | Molokini snorkel, Nov 4 | Open | ~$440 | | PacWhale |
+| Activity | Haleakalā sunset tour w/ pickup | Open | $462–520 | | Or self-drive: $30 entry |
+| Activity | Hāna guided tour | Open | $590–650 | | Optional |
+| Activity | Diamond Head + USS Arizona | Open | $12 | | Reservations |
+| Dining | 🎂 Birthday dinner, Nov 6 | Open | $220–400 | | Hotel Wailea (lead) |
+| Dining | 🎂 Cocktails (Tikehau) + Tiki Lounge, Nov 6 | Open | $110–230 | | |
+| Optional | Couples spa, Nov 6 | Open | $400–700 | | Decide by Oct 28 |
+| Food | Groceries and meals, 8 days | Estimate | $900–1,400 | | |
+| Misc | Tips, bags, tolls, souvenirs, contingency | Estimate | $500–1,000 | | |
 
 ## Settle-up
 | Person | Paid | Share | Owes / owed |
