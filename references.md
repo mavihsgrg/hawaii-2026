@@ -16,12 +16,14 @@
 | 7 | [Birthday trip: original master plan](https://docs.google.com/document/d/1-Ack0LZUMOCGvEl6pxG6VcBrVoFynYleNYlqaiqDJJ4/edit) | 🟠 Top section current; rest historical | Budget/booking tracker at the top; below it the older Oʻahu + Four Seasons 7-night plan, booking-order advice, birthday day plan (spa + dinner), packing | Four Seasons discount is **no longer available** |
 | 8 | [Original Maui-only trip](https://docs.google.com/document/d/1EAKUzUuTmiII3c-8_rhm7AQw0DHuZkAiW14L-s6T2vM/edit) | ⚪ Historical | South Maui + Hāna overnight + West Maui with a rental car; great hour-by-hour detail, a luau, Upcountry, packing & backup plans | ~$9,150 mid (7 nights) |
 | 9 | [`2026-10-12_itinerary_options.md`](2026-10-12_itinerary_options.md) | 🟢 Current (local) | Kauaʻi + Maui **with rental cars**: 3 pacing styles (A/B/C), photos, closures, drive times, rain swaps | Activities ≈ $970–1,112 |
+| 10 | [`oahu.md`](oahu.md) | 🟢 Current (local, Oct 18) | Oʻahu leg, Oct 31 – Nov 3: Waikīkī base, no car, final day plan at top | Per the decided plan |
+| 11 | [`maui.md`](maui.md) | 🟢 Current (local, Oct 18) | Maui leg, Nov 3 – Nov 8: Kīhei base, rental car, birthday rest day, final plan at top | Per the decided plan |
 
 ## ⚠️ Where the docs disagree (resolve in `overall_plan.md` → Decision board)
-1. **First island:** Oʻahu (docs 1, 4, 6, 7) vs Kauaʻi (docs 2, 9). Not decided.
+1. **First island:** decided **Oʻahu** (Oct 18). Docs 2 and 9 (Kauaʻi) are kept for reference only.
 2. **Driving:** the newer docs prefer **no driving** (tours + transfers); docs 8 and 9 assume rental cars.
 3. **Island hop:** Nov 3 (itineraries) vs Nov 4 (flight comparison).
-4. **Nights:** 8 nights (NYC Nov 9) vs 7 nights (NYC Nov 8). Nov 9 is preferred, but check the partner's PTO cap.
+4. **Nights:** decided **8 nights** (NYC Nov 9) on Oct 18. Still confirm the partner's PTO cap.
 5. **Prices** are Oct 12 snapshots. Re-price before booking.
 
 ## Constraints pulled from the docs
