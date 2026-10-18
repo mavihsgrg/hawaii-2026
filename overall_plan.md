@@ -1,6 +1,6 @@
 # Hawaiʻi 2026: the overall plan
 
-**First island (Oʻahu or Kauaʻi) Oct 31–Nov 3 · Maui Nov 3–8 · NYC Nov 9 · office Nov 10 · 🎂 Shivam's birthday Nov 6 (Maui)**
+**Oʻahu Oct 31–Nov 3 (decided Oct 18) · Maui Nov 3–8 · NYC Nov 9 · office Nov 10 · 🎂 Shivam's birthday Nov 6 (Maui)**
 All source docs are indexed in [`references.md`](references.md).
 
 > This is the big doc: every option, photos and research. When something is decided, mark it ✅ here and copy it into [`tentative_plan.md`](tentative_plan.md).
@@ -16,21 +16,21 @@ All source docs are indexed in [`references.md`](references.md).
 
 | Decision | Options | Leaning | Status |
 |---|---|---|---|
-| **First island** | **Oʻahu** (Waikīkī, Diamond Head, Pearl Harbor; easy with no car) · **Kauaʻi** (Nā Pali, dramatic nature; some parks closed) | Flights equal (+$15 for Kauaʻi) | 🟡 **decide first** |
-| **Transport** | No driving (tours + transfers, per the newer docs) · rental cars | No driving | 🟡 |
-| **Nights** | 8 (NYC Nov 9) · 7 (NYC Nov 8) | 8 | 🟡 check PTO |
+| **First island** | **Oʻahu** (Waikīkī, Diamond Head, Pearl Harbor; easy with no car) · ~~Kauaʻi~~ (key parks closed, ~$1,000–1,500 more, no nonstop) | **Oʻahu** | ✅ Oct 18 |
+| **Transport** | No driving (tours + transfers, per the newer docs) · rental cars | **No car on Oʻahu; rental car on Maui** | ✅ Oct 18 |
+| **Nights** | 8 (NYC Nov 9) · 7 (NYC Nov 8) | **8** | ✅ Oct 18 (confirm partner's PTO) |
 | Overall style | A Balanced · B Adventurous · C Romance & rest | A Balanced (recommended) | 🟡 |
-| Oʻahu hotel | OUTRIGGER Reef (price first) · Prince Waikīkī · OUTRIGGER Waikīkī | | 🟡 |
-| Kauaʻi hotel | Kauaʻi Shores, Kapaʻa (~$1,140/3 nts) · Royal Sonesta, Līhuʻe · Kōloa Landing (over budget) | | 🟡 |
-| Maui hotel | **Aston Kāʻanapali Villas** (~$1,770/5 nts, West Maui beach, pay Oct 29) · **Maui Coast, Kīhei** (~$1,695, better base for Hāna/Haleakalā/Wailea) · Royal Lahaina | | 🟡 |
-| Nov 1–2 (Oʻahu) | Diamond Head + Waikīkī · Pearl Harbor **or** North Shore tour | | 🟡 |
-| Nov 1 (Kauaʻi) | Nā Pali boat (~$480) · helicopter (~$622) · both (Kauaʻi doc B) | | 🟡 |
-| Nov 2 (Kauaʻi) | Helicopter · Hanalei/North Shore · Hāʻena hike (reopened Oct 15*) · local slow day | | 🟡 |
+| Oʻahu hotel | OUTRIGGER Reef (price first) · Prince Waikīkī · OUTRIGGER Waikīkī | OUTRIGGER Reef | ✅ to book |
+| ~~Kauaʻi hotel~~ ❌ | Kauaʻi Shores, Kapaʻa (~$1,140/3 nts) · Royal Sonesta, Līhuʻe · Kōloa Landing (over budget) | | 🟡 |
+| Maui hotel | **Aston Kāʻanapali Villas** (~$1,770/5 nts, West Maui beach, pay Oct 29) · **Maui Coast, Kīhei** (~$1,695, better base for Hāna/Haleakalā/Wailea) · Royal Lahaina | **Maui Coast, Kīhei** (with a car: closer to Māʻalaea, Wailea, Haleakalā) | ✅ to book |
+| Nov 1–2 (Oʻahu) | Diamond Head + Waikīkī · Pearl Harbor **or** North Shore tour | Nov 1 Diamond Head, Nov 2 Pearl Harbor | ✅ |
+| ~~Nov 1 (Kauaʻi)~~ ❌ | Nā Pali boat (~$480) · helicopter (~$622) · both (Kauaʻi doc B) | | 🟡 |
+| ~~Nov 2 (Kauaʻi)~~ ❌ | Helicopter · Hanalei/North Shore · Hāʻena hike (reopened Oct 15*) · local slow day | | 🟡 |
 | Nov 4 | Molokini guided snorkel · shore snorkel lesson | Molokini | 🟡 |
-| Nov 5 | Road to Hāna (full day) · slow Wailea day · ʻĪao Valley | | 🟡 |
+| Nov 5 | Road to Hāna (full day) · slow Wailea day · ʻĪao Valley | Guided Hāna tour (drop first if too busy) | 🟡 |
 | Nov 6 🎂 | Protected rest day + dinner | ✅ rest day | ✅ / dinner 🟡 |
 | Birthday dinner | Hotel Wailea Restaurant · Monkeypod Wailea · Mama's Fish House | Hotel Wailea | 🟡 |
-| Nov 7 | Haleakalā sunset · sunrise · daytime | Sunset | 🟡 |
+| Nov 7 | Haleakalā sunset · sunrise · daytime | Sunset, self-drive | ✅ |
 
 \* Hāʻena reopening is reported by [Hawaii-Guide](https://www.hawaii-guide.com/blog/haena-kalalau-trail-reopening-summer-2026). It covers day use, Kēʻē Beach and the Hanakāpīʻai hike; camping and the Kalalau Trail past mile 2 are still closed. Verify on [gohaena.com](https://gohaena.com/info-faqs/) before booking.
 
@@ -54,7 +54,7 @@ All source docs are indexed in [`references.md`](references.md).
 
 > Oct 31–Nov 2 has two branches: **🌺 Oʻahu** (below) or **🌿 Kauaʻi** (after it). Maui from Nov 3 is the same for both.
 
-## 🌺 Branch 1: Oʻahu (Oct 31–Nov 3)
+## 🌺 Branch 1: Oʻahu (Oct 31–Nov 3) ✅ chosen
 
 Based on the Oʻahu + Maui doc and the original master plan (`references.md` #1 and #7). No car: airport transfer, rideshares, a guided tour for the North Shore.
 
@@ -75,7 +75,7 @@ Based on the Oʻahu + Maui doc and the original master plan (`references.md` #1 
 
 ---
 
-## 🌿 Branch 2: Kauaʻi (Oct 31–Nov 3)
+## 🌿 Branch 2: Kauaʻi (Oct 31–Nov 3) ❌ not chosen (kept for reference)
 
 ### Sat Oct 31: arrive Kauaʻi 🟡
 - Land LIH → luggage + car or prebooked transfer (60–90 min) → check in
