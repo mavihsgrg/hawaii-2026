@@ -15,7 +15,7 @@
 | 6 | [Budget: Oʻahu + Maui, two people](https://docs.google.com/document/d/1KKY8sU4C7q0R3u99coemtRjYEyOKuu39R3wPvTF0s1s/edit) | 🟢 Current | Compact all-in budget | **$9,235 working** ($7,530–11,000); $8,576 if the Aston quote is all-in; 7 nights saves ~$450–650 |
 | 7 | [Birthday trip: original master plan](https://docs.google.com/document/d/1-Ack0LZUMOCGvEl6pxG6VcBrVoFynYleNYlqaiqDJJ4/edit) | 🟠 Top section current; rest historical | Budget/booking tracker at the top; below it the older Oʻahu + Four Seasons 7-night plan, booking-order advice, birthday day plan (spa + dinner), packing | Four Seasons discount is **no longer available** |
 | 8 | [Original Maui-only trip](https://docs.google.com/document/d/1EAKUzUuTmiII3c-8_rhm7AQw0DHuZkAiW14L-s6T2vM/edit) | ⚪ Historical | South Maui + Hāna overnight + West Maui with a rental car; great hour-by-hour detail, a luau, Upcountry, packing & backup plans | ~$9,150 mid (7 nights) |
-| 9 | [`research/2026-10-12_itinerary_options.md`](research/2026-10-12_itinerary_options.md) | 🟢 Current (local) | Kauaʻi + Maui **with rental cars**: 3 pacing styles (A/B/C), photos, closures, drive times, rain swaps | Activities ≈ $970–1,112 |
+| 9 | [`2026-10-12_itinerary_options.md`](2026-10-12_itinerary_options.md) | 🟢 Current (local) | Kauaʻi + Maui **with rental cars**: 3 pacing styles (A/B/C), photos, closures, drive times, rain swaps | Activities ≈ $970–1,112 |
 
 ## ⚠️ Where the docs disagree (resolve in `overall_plan.md` → Decision board)
 1. **First island:** Oʻahu (docs 1, 4, 6, 7) vs Kauaʻi (docs 2, 9). Not decided.

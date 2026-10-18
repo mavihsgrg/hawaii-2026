@@ -5,7 +5,7 @@ All source docs are indexed in [`references.md`](references.md).
 
 > This is the big doc: every option, photos and research. When something is decided, mark it ✅ here and copy it into [`tentative_plan.md`](tentative_plan.md).
 > Legend: ✅ decided/booked · 🟡 option · ⏳ pending · ❌ dropped
-> Last updated 2026-10-17. Research facts are from Oct 12 unless noted (the original is in [`research/`](research/2026-10-12_itinerary_options.md)).
+> Last updated 2026-10-17. Research facts are from Oct 12 unless noted (the original is in [`2026-10-12_itinerary_options.md`](2026-10-12_itinerary_options.md)).
 
 ![Nā Pali Coast aerial landscape](https://images.squarespace-cdn.com/content/v1/68b230941ce8a03ea731a5d6/1756508380196-AHZZAZUWE9T32EMSMIHI/Na%2BPali%2BCoast%2BHawaii%2BFine%2BArt%2B-%2BCody%2BRoberts.jpg?format=1500w)
 <sub>Nā Pali Coast · [Photo: Cody Roberts](https://www.codyrobertsart.com/shop/p/na-pali)</sub>

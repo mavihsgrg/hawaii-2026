@@ -14,7 +14,7 @@
 | [`packing.md`](packing.md) | Shared packing checklist | Tick as you pack |
 | [`references.md`](references.md) | Index of all 8 Google Docs + local research + web guides, which are current vs. historical, and where they disagree | Read-only inputs |
 | `docs/` | PDFs/screenshots of tickets & confirmations (**don't commit IDs/passport scans**, see below) | |
-| `research/` | Raw research dumps, kept for reference (not maintained) | |
+| [`2026-10-12_itinerary_options.md`](2026-10-12_itinerary_options.md) | Raw research dump, kept for reference (not maintained) | |
 
 ## Workflow
 
