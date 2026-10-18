@@ -4,7 +4,7 @@
 
 - [Carry-on (survives lost luggage)](#carry-on-survives-lost-luggage)
 - [Beach & water](#beach--water)
-- [Haleakalā (it's ~40–50°F at the summit at sunset)](#haleakalā-its-4050f-at-the-summit-at-sunset)
+- [Haleakalā (it's ~35–45°F and windy at the summit at sunset)](#haleakalā-its-3545f-and-windy-at-the-summit-at-sunset)
 - [Day trips](#day-trips)
 - [🎂 Birthday dinner](#-birthday-dinner)
 - [Tech](#tech)
@@ -22,9 +22,9 @@
 - [ ] Hats
 - [ ] Sandals / water shoes
 - [ ] Dry bag for boat tours
-- [ ] Motion-sickness meds (boat/helicopter)
+- [ ] Motion-sickness meds (Molokini boat / Hāna road)
 
-## Haleakalā (it's ~40–50°F at the summit at sunset)
+## Haleakalā (it's ~35–45°F and windy at the summit at sunset)
 - [ ] Warm layer / fleece each
 - [ ] Wind-/rain-resistant jacket each
 - [ ] Long pants, closed shoes
@@ -34,7 +34,7 @@
 - [ ] Small daypack
 - [ ] Refillable water bottles
 - [ ] Sturdy walking shoes
-- [ ] Light rain jacket (North Shore / Hāna rain)
+- [ ] Light rain jacket (Hāna / Upcountry rain)
 - [ ] Snacks for Hāna / summit
 
 ## 🎂 Birthday dinner
@@ -42,5 +42,4 @@
 
 ## Tech
 - [ ] Offline maps downloaded
-- [ ] Hāna audio tour downloaded (if doing it)
 - [ ] Waterproof phone pouch

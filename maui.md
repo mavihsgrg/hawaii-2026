@@ -13,7 +13,7 @@
   - [Fri Nov 6: 🎂 birthday](#fri-nov-6--birthday)
   - [Sat Nov 7: Haleakalā sunset (guided tour)](#sat-nov-7-haleakalā-sunset-guided-tour)
   - [Sun Nov 8: fly home](#sun-nov-8-fly-home)
-- [🎟️ Bookings for Maui](#-bookings-for-maui)
+- [🎟️ Bookings for Maui](#bookings-for-maui)
 - [🌺 Everything else to do on Maui](#-everything-else-to-do-on-maui)
   - [South Maui (Kīhei · Wailea · Mākena): your base](#south-maui-kīhei--wailea--mākena-your-base)
   - [Central Maui](#central-maui)
@@ -22,8 +22,8 @@
   - [West Maui (Kāʻanapali, Nāpili, Kapalua, Lahaina)](#west-maui-kāʻanapali-nāpili-kapalua-lahaina)
   - [Lūʻau (one evening, optional)](#lūʻau-one-evening-optional)
   - [Other ideas](#other-ideas)
-- [🍽️ Food ideas](#-food-ideas)
-- [🌧️ Rain and backup swaps](#-rain-and-backup-swaps)
+- [🍽️ Food ideas](#food-ideas)
+- [🌧️ Rain and backup swaps](#rain-and-backup-swaps)
 - [💵 Maui costs (two people)](#-maui-costs-two-people)
 - [🧭 Practical notes](#-practical-notes)
 - [Sources](#sources)
@@ -245,20 +245,21 @@
 
 ---
 
+<a id="bookings-for-maui"></a>
 ## 🎟️ Bookings for Maui
 
 | What | When to book | Cost (two) | Where | Status |
 |---|---|---:|---|---|
-| ✈️ HNL → OGG Nov 3 | **By Oct 19** | ~$138 | Southwest / Hawaiian | ⏳ |
-| ✈️ OGG → NYC Nov 8 (lands Nov 9) | **By Oct 19** | part of ~$1,981–2,168 total airfare | Airline site | ⏳ |
-| 🏨 Maui Coast Hotel Nov 3 → Nov 8 | **By Oct 19** | ~$1,695 | [Booking.com link in bookings.md](bookings.md) or hotel site | ⏳ |
-| 🚐 OGG ↔ Kīhei shuttle, Nov 3 + Nov 8 | By Oct 24 | ~$80–130 | Roberts Hawaiʻi / SpeediShuttle (see [`commute.md`](commute.md)) | ⏳ |
-| 🚖 Dawn taxi to Māʻalaea, Nov 4 | By Oct 27 | ~$30 | Kīhei taxi (ask the hotel) | ⏳ |
-| 🌋 **Haleakalā sunset tour** Nov 7 | **By Oct 21** | ~$475 + tip | [Polynesian Adventure](https://www.expedia.com/things-to-do/haleakala-sunset-tour.a390930.activity-details) or similar with Kīhei pickup | ⏳ |
-| 🤿 PacWhale Molokini Nov 4 | By Oct 24 | ~$440 | [PacWhale](https://www.pacwhale.com/ecotour/molokini-turtle-arches-snorkel/) | ⏳ |
-| 🌿 Hāna guided tour Nov 5 | By Oct 24 | ~$590–650 | [Tour Maui](https://www.tourmaui.com/tours/road-to-hana-tour/) or similar | ⏳ |
-| 💆 Spa Nov 6 (optional) | By Oct 24 | ~$400–700 | Wailea resort spas | ⏳ |
-| 🍽️ Hotel Wailea dinner Nov 6 | **By Oct 24** (popular) | ~$220–400 | [Hotel Wailea](https://www.hotelwailea.com/dining/the-restaurant/) | ⏳ |
+| ✈️ HNL → OGG Nov 3 | **By Oct 19** | ~$138 | Southwest / Hawaiian | ⬜ |
+| ✈️ OGG → NYC Nov 8 (lands Nov 9) | **By Oct 19** | part of ~$1,981–2,168 total airfare | Airline site | ⬜ |
+| 🏨 Maui Coast Hotel Nov 3 → Nov 8 | **By Oct 19** | ~$1,695 | [Booking.com link in bookings.md](bookings.md) or hotel site | ⬜ |
+| 🚐 OGG ↔ Kīhei shuttle, Nov 3 + Nov 8 | By Oct 24 | ~$80–130 | Roberts Hawaiʻi / SpeediShuttle (see [`commute.md`](commute.md)) | ⬜ |
+| 🚖 Dawn taxi to Māʻalaea, Nov 4 | By Oct 27 | ~$27–35 (+ ~$25–40 rideshare back) | Kīhei taxi (ask the hotel) | ⬜ |
+| 🌋 **Haleakalā sunset tour** Nov 7 | **By Oct 21** | ~$475 + tip | [Polynesian Adventure](https://www.expedia.com/things-to-do/haleakala-sunset-tour.a390930.activity-details) or similar with Kīhei pickup | ⬜ |
+| 🤿 PacWhale Molokini Nov 4 | By Oct 24 | ~$440 | [PacWhale](https://www.pacwhale.com/ecotour/molokini-turtle-arches-snorkel/) | ⬜ |
+| 🌿 Hāna guided tour Nov 5 | By Oct 24 | ~$590–650 | [Tour Maui](https://www.tourmaui.com/tours/road-to-hana-tour/) or similar | ⬜ |
+| 💆 Couples spa Nov 6 ✅ | By Oct 24 | ~$400–700 | Wailea resort spas | ⬜ |
+| 🍽️ Hotel Wailea dinner Nov 6 | **By Oct 24** (popular) | ~$220–400 | [Hotel Wailea](https://www.hotelwailea.com/dining/the-restaurant/) | ⬜ |
 
 **Only if plans change:**
 - **Haleakalā sunrise tour** instead of sunset: tours with South Maui pickup run ~$235–250/adult and handle the park reservation.
@@ -472,6 +473,7 @@ No Lahaina photos on purpose: much of the town is still rebuilding after the 202
 
 ---
 
+<a id="food-ideas"></a>
 ## 🍽️ Food ideas
 - **Birthday:** Hotel Wailea (lead) · Monkeypod Wailea · Mama's Fish House.
 - **Kīhei casual:** poke, plate lunch, fish tacos, food-truck parks.
@@ -481,6 +483,7 @@ No Lahaina photos on purpose: much of the town is still rebuilding after the 202
 
 ---
 
+<a id="rain-and-backup-swaps"></a>
 ## 🌧️ Rain and backup swaps
 
 | If… | Then… | Avoid |

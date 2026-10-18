@@ -11,15 +11,15 @@
   - [Sun Nov 1: Diamond Head + Waikīkī](#sun-nov-1-diamond-head--waikīkī)
   - [Mon Nov 2: Pearl Harbor](#mon-nov-2-pearl-harbor)
   - [Tue Nov 3: → Maui](#tue-nov-3--maui)
-- [🎟️ Bookings for Oʻahu (do these now)](#-bookings-for-oʻahu-do-these-now)
+- [🎟️ Bookings for Oʻahu (do these now)](#bookings-for-oʻahu-do-these-now)
 - [🌺 Everything else to do on Oʻahu](#-everything-else-to-do-on-oʻahu)
   - [Waikīkī and Honolulu (all easy without a car)](#waikīkī-and-honolulu-all-easy-without-a-car)
   - [East Oʻahu (half day; car, tour or rideshare)](#east-oʻahu-half-day-car-tour-or-rideshare)
   - [Windward side (full day; tour or car)](#windward-side-full-day-tour-or-car)
   - [North Shore (full day; tour or car) · ❌ not in the plan](#north-shore-full-day-tour-or-car---not-in-the-plan)
   - [Evenings](#evenings)
-- [🍽️ Food ideas (no reservations needed unless noted)](#-food-ideas-no-reservations-needed-unless-noted)
-- [🌧️ Rain and backup swaps](#-rain-and-backup-swaps)
+- [🍽️ Food ideas (no reservations needed unless noted)](#food-ideas-no-reservations-needed-unless-noted)
+- [🌧️ Rain and backup swaps](#rain-and-backup-swaps)
 - [💵 Oʻahu costs (two people)](#-oʻahu-costs-two-people)
 - [🧭 Practical notes](#-practical-notes)
 - [Sources](#sources)
@@ -147,16 +147,17 @@
 
 ---
 
+<a id="bookings-for-oʻahu-do-these-now"></a>
 ## 🎟️ Bookings for Oʻahu (do these now)
 
 | What | When to book | Cost (two) | Where | Status |
 |---|---|---:|---|---|
-| ✈️ JFK → HNL Oct 31 | **By Oct 19** | part of ~$1,981–2,168 total airfare | Airline site (Delta / Alaska) | ⏳ |
-| 🏨 OUTRIGGER Reef Oct 31 → Nov 3 | **By Oct 19** | ~$1,050–1,500 | Hotel site or Booking.com | ⏳ |
-| 🚐 HNL → Waikīkī transfer | By Oct 24 | ~$40–80 | Roberts Hawaiʻi / SpeediShuttle / rideshare | ⏳ |
-| 🌋 Diamond Head timed entry, Nov 1 | **Now** (opens 30 days ahead, sells out) | $10 + fees | [gostateparks.hawaii.gov/diamondhead](https://gostateparks.hawaii.gov/diamondhead/about) | ⏳ |
-| ⚓ USS Arizona program, Nov 2 | **Now** if any left; otherwise the **next-day release Nov 1, 3 PM HST** | $2 | [recreation.gov](https://www.recreation.gov/ticket/facility/233338) | ⏳ |
-| ✈️ HNL → OGG Nov 3 | **By Oct 19** | ~$138 | Southwest / Hawaiian | ⏳ |
+| ✈️ JFK → HNL Oct 31 | **By Oct 19** | part of ~$1,981–2,168 total airfare | Airline site (Delta / Alaska) | ⬜ |
+| 🏨 OUTRIGGER Reef Oct 31 → Nov 3 | **By Oct 19** | ~$1,050–1,500 | Hotel site or Booking.com | ⬜ |
+| 🚕 HNL → Waikīkī | No booking (rideshare or flat-rate taxi); shuttle optional | ~$30–50 | Uber / Lyft / taxi rank (see [`commute.md`](commute.md)) | — |
+| 🌋 Diamond Head timed entry, Nov 1 | **Now** (opens 30 days ahead, sells out) | $10 + fees | [gostateparks.hawaii.gov/diamondhead](https://gostateparks.hawaii.gov/diamondhead/about) | ⬜ |
+| ⚓ USS Arizona program, Nov 2 | **Now** if any left; otherwise the **next-day release Nov 1, 3 PM HST** | $2 | [recreation.gov](https://www.recreation.gov/ticket/facility/233338) | ⬜ |
+| ✈️ HNL → OGG Nov 3 | **By Oct 19** | ~$138 | Southwest / Hawaiian | ⬜ |
 
 **About the Arizona tickets:** most tickets release **56 days ahead at 3 PM HST**, so the main batch for Nov 2 already went out in September. A second batch releases **the day before at 3 PM HST** (9 PM NYC on Nov 1 is 3 PM in Hawaiʻi; you'll be on the island). Same-day walk-up tickets are no longer offered. Backup: a Pearl Harbor tour package that includes the Arizona program.
 
@@ -178,7 +179,7 @@ Pick from these if you have energy, if the weather changes, or to swap days. Rou
 | **Sunset sail / catamaran** | Diamond Head + skyline from the water | 1.5 h | ~$60–150/pp | Leaves from Waikīkī beach; good for Oct 31 or Nov 2 evening |
 | **Kapiʻolani Park + Queen's Surf** | Banyan trees, quieter beach | 1 h | Free | Walk from the hotel |
 | **ʻIolani Palace** | The only royal palace in the US | 1.5–2 h | from ~$34/pp | Guided tours; weekday mornings |
-| **Bishop Museum** | Best museum of Hawaiian and Pacific culture | 2–3 h | ~$30/pp | Our pick for the Nov 2 afternoon |
+| **Bishop Museum** | Best museum of Hawaiian and Pacific culture | 2–3 h | ~$30/pp | Optional for the Nov 2 afternoon |
 | **Chinatown + Downtown** | Lei shops, bakeries, bars, street art | 1–2 h | Free | Daytime, or First Friday evening |
 | **Punchbowl (National Memorial Cemetery)** | Crater cemetery with a view over Honolulu | 30–45 min | Free | Pairs with Pearl Harbor |
 | **Foster Botanical Garden** | Giant old trees in the city | 1–1.5 h | ~$5/pp | Quiet morning option |
@@ -420,6 +421,7 @@ Dropped because it's a long day and **November is big-surf season**: the beaches
 
 ---
 
+<a id="food-ideas-no-reservations-needed-unless-noted"></a>
 ## 🍽️ Food ideas (no reservations needed unless noted)
 - **Breakfast/brunch:** cafés on Kapahulu and Monsarrat Ave near Diamond Head; açaí bowls and malasadas (Portuguese doughnuts) are the local classics.
 - **Poke + plate lunch:** grab-and-go poke bowls, loco moco, garlic shrimp.
@@ -458,6 +460,7 @@ Dropped because it's a long day and **November is big-surf season**: the beaches
 
 ---
 
+<a id="rain-and-backup-swaps"></a>
 ## 🌧️ Rain and backup swaps
 
 | If… | Then… |

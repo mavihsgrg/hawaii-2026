@@ -2,7 +2,7 @@
 
 Usage:  python3 gen_md.py <repo root>
 Every island is organised around its hotel (the red H): a hub map with every destination,
-then one section per trip out of the hotel, each with a street map and a terrain map.
+then one section per trip out of the hotel, each with a normal map and a satellite map.
 """
 import json, os, sys
 from urllib.parse import quote
@@ -84,7 +84,7 @@ MAUI = dict(hub="MCH", trips=[
          keys=["MCH", "PAIA", "HOOKIPA", "TWIN", "KEANAE", "WAI", "HANA"], dest=["HANA"], zmax=12,
          plan="**10–12 h round-trip day** with stops", how="🚐 Guided tour, hotel pickup ~6:30–7:00 AM"),
     dict(id="maui_wailea", anchor="m-wailea", icon="🎂", title="Hotel → Hotel Wailea (birthday dinner)", days="Fri Nov 6",
-         keys=["MCH", "WAILEA"], dest=["WAILEA"], plan="~15 min", how="🚕 Rideshare there, prebooked taxi back (~$30–50)"),
+         keys=["MCH", "WAILEA"], dest=["WAILEA"], plan="~15 min; then Tikehau (Wailea Village) and dancing in Kīhei", how="🚕 Rideshare there; prebooked taxi Wailea Village → Tiki Lounge ~9 PM, walk back (~$30–60)"),
     dict(id="maui_haleakala", anchor="m-haleakala", icon="🌋", title="Hotel → Haleakalā summit (sunset)", days="Sat Nov 7",
          keys=["MCH", "KULA", "HALE"], dest=["HALE"], zmax=12, plan="2.5–3 h up, sea level → ~10,000 ft; back ~8 PM",
          how="🚐 Guided sunset tour, hotel pickup ~1:30 PM (entry + dinner included)"),
@@ -93,8 +93,8 @@ MAUI = dict(hub="MCH", trips=[
 def island(name, emoji, dates, anchor, spec, base_note, hub_map_kw):
     hub = spec["hub"]
     out = [f'<a id="{anchor}"></a>\n## {emoji} {name} · {dates}\n', f"> **Home base: {L[hub].replace(' (hotel)', '')}.** {base_note}\n",
-           f"### 🏨 The hotel\n\n{closeup(hub, hub=True)}\n",
-           f"### 🗺️ Everything from the hotel\n",
+           f'<a id="{anchor}-hotel"></a>\n### 🏨 The hotel ({name})\n\n{closeup(hub, hub=True)}\n',
+           f'<a id="{anchor}-hub"></a>\n### 🗺️ Everything from the hotel ({name})\n',
            pair(f"{anchor}_hub", f"{name}: everything from the hotel (H)", **hub_map_kw), ""]
     # numbered table matching the hub pins
     rows = ["| Pin | Where | Day | From the hotel | Drive (no traffic) | Plan for | How | Section |", "|:-:|---|---|---:|---:|---|---|---|"]
@@ -148,9 +148,11 @@ if __name__ == "__main__":
     maui = island("Maui", "🌋", "Nov 3 – Nov 8", "maui", MAUI,
                   "No car: airport shuttle, tours with hotel pickup (Hāna, Haleakalā), a dawn taxi to the Molokini boat, rideshare to dinner. Every ride in detail: [`commute.md`](commute.md).",
                   maui_kw)
-    toc = ["- [Big picture](#big)",
-           "- [🌺 Oʻahu · from OUTRIGGER Reef](#oahu)"] + [f"  - [{t['icon']} {t['title']}](#{t['anchor']})" for t in OAHU["trips"]] + \
-          ["- [🌋 Maui · from Maui Coast Hotel](#maui)"] + [f"  - [{t['icon']} {t['title']}](#{t['anchor']})" for t in MAUI["trips"]] + \
+    toc = ["- [✈️ Big picture](#big)",
+           "- [🌺 Oʻahu · Oct 31 – Nov 3](#oahu)", "  - [🏨 The hotel (Oʻahu)](#oahu-hotel)", "  - [🗺️ Everything from the hotel (Oʻahu)](#oahu-hub)"] + \
+          [f"  - [{t['icon']} {t['title']}](#{t['anchor']})" for t in OAHU["trips"]] + \
+          ["- [🌋 Maui · Nov 3 – Nov 8](#maui)", "  - [🏨 The hotel (Maui)](#maui-hotel)", "  - [🗺️ Everything from the hotel (Maui)](#maui-hub)"] + \
+          [f"  - [{t['icon']} {t['title']}](#{t['anchor']})" for t in MAUI["trips"]] + \
           ["- [How to update the maps](#update)"]
     md = f"""# 🗺️ Trip map: everything from the hotel
 

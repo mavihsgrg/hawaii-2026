@@ -14,7 +14,7 @@
 
 - [The day](#the-day)
 - [💆 Spa](#-spa)
-- [🍽️ Dinner](#️-dinner)
+- [🍽️ Dinner](#dinner)
 - [🍸 Drinks](#-drinks)
 - [🪩 Dancing](#-dancing)
 - [🌿 Weed: what's legal](#-weed-whats-legal)
@@ -22,7 +22,7 @@
 - [✅ To do](#-to-do)
 - [💵 Cost](#-cost)
 - [🎒 Pack](#-pack)
-- [🌧️ Backups](#️-backups)
+- [🌧️ Backups](#backups)
 
 ## The day
 
@@ -44,6 +44,7 @@
 - ✅ **Yes.** Couples treatment in the early afternoon, **~$400–700**. **Book by Oct 24.**
 - Candidates: the big Wailea resort spas (Grand Wailea, Fairmont Kea Lani, Four Seasons, Andaz). Ask for a couples room, about 80 minutes, and whether booking includes pool or day access.
 
+<a id="dinner"></a>
 ## 🍽️ Dinner
 
 | Option | Vibe | From Kīhei | Status |
@@ -90,7 +91,8 @@ Maui doesn't really do big clubs or raves. Kīhei's "Barmuda Triangle" on S Kīh
 |---|---|---:|
 | Kīhei → Hotel Wailea (~5 PM) | Uber / Lyft | ~$15–25 |
 | Hotel Wailea → Tikehau | Walk or a short ride (both in Wailea) | ~$0–10 |
-| Wailea Village → Tiki Lounge (~9 PM) | Uber / Lyft; **save a taxi number**, since rideshare is thin at night | ~$15–25 |
+| Wailea spa → Kīhei (~4 PM) | Uber / Lyft | ~$15–25 |
+| Wailea Village → Tiki Lounge (~9 PM) | **Prebooked taxi** (rideshare is thin at night) | ~$15–25 |
 | Tiki Lounge → hotel | 🚶 Walk ~½ mi, ~10 min | free |
 
 Nobody drives tonight, and we don't have a car anyway. Full ride details: [`commute.md`](commute.md).
@@ -100,7 +102,8 @@ Nobody drives tonight, and we don't have a car anyway. Full ride details: [`comm
 - [x] Spa: yes · Both
 - [ ] Book the spa (couples, early afternoon) · P · **by Oct 24**
 - [ ] Book Hotel Wailea dinner, 5:15–5:45 PM, birthday + lactose intolerance noted · P · **by Oct 24**
-- [ ] Book Tikehau Lounge ~7:45 PM on OpenTable · P
+- [ ] Book Tikehau Lounge ~7:45 PM on OpenTable · P · by Oct 24
+- [ ] Prebook a taxi Wailea Village → Tiki Lounge for ~9 PM · S · Nov 5
 - [ ] Check South Shore Tiki Lounge's calendar for a DJ on Fri Nov 6 · week of Nov 2
 - [ ] If we want weed legally: look into the 329V visitor registration (needs a home-state medical card) · S
 - [ ] Add confirmation #s to [`bookings.md`](bookings.md) and costs to [`budget.md`](budget.md)
@@ -113,8 +116,8 @@ Nobody drives tonight, and we don't have a car anyway. Full ride details: [`comm
 | Dinner | $220–400 |
 | Cocktails (2–3 each) | $80–150 |
 | Tiki Lounge (cover? + a drink or two) | $30–80 |
-| Rides | $30–60 |
-| **Total** | **≈ $760–1,390** |
+| Rides | $45–85 |
+| **Total** | **≈ $775–1,415** |
 
 ## 🎒 Pack
 
@@ -122,6 +125,7 @@ Nobody drives tonight, and we don't have a car anyway. Full ride details: [`comm
 - [ ] Reef-safe sunscreen and a beach bag for the morning
 - [ ] IDs (needed for bars)
 
+<a id="backups"></a>
 ## 🌧️ Backups
 
 | If… | Then… |

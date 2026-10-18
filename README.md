@@ -16,15 +16,18 @@
 | [`maui.md`](maui.md) | Island guide for Nov 3 – Nov 8: Kīhei base, no car, birthday rest day, the final plan at the top, options below | Updates the Maui part of the plan |
 | [`birthday.md`](birthday.md) | Everything for the Nov 6 birthday: day plan, spa, dinner, cocktails, dancing, weed rules, rides, to-dos, cost, backups | Book details still go in `bookings.md` and costs in `budget.md` |
 | [`commute.md`](commute.md) | Every ride of the trip (no car): options per leg, cost, our pick, blockers, no-car vs rental-car cost | Update when a ride is booked; confirmation goes in `bookings.md` |
-| [`map.md`](map.md) | Terrain map snapshots of every place (airports onward), a route map for each day, drive distances/times, interactive maps, Google terrain/3D links | Regenerate with `maps/tools/` when the plan changes |
+| [`map.md`](map.md) | Hotel-centred maps per island (normal + satellite), one section per trip out of the hotel, distances/drive times, Google map/terrain/3D links | Regenerate with `maps/tools/` when the plan changes |
 | [`tentative_plan.md`](tentative_plan.md) | The clean, day-by-day plan | **Only things that are decided.** If there are still options, it isn't here yet. |
 | [`overall_plan.md`](overall_plan.md) | The big master doc: every option per day, photos, research, closures, drive times, costs, rain backups | Mark choices ✅ when decided, then copy them into `tentative_plan.md` |
 | [`TODOs.md`](TODOs.md) | Task tracker: what to book/decide, owner, deadline | Tick `[x]` when done; add the confirmation # to `bookings.md` |
 | [`bookings.md`](bookings.md) | Every confirmed reservation: conf #, time, address, cancel policy | The single place to look when you're standing at a check-in desk |
 | [`budget.md`](budget.md) | Estimated vs. actual spend, and the split between you two | Update when something is paid |
 | [`packing.md`](packing.md) | Shared packing checklist | Tick as you pack |
-| [`references.md`](references.md) | Index of all 8 Google Docs + local research + island guides + web guides, which are current vs. historical, and where they disagree | Read-only inputs |
-| `photos/` | Public-domain photos stored in the repo (Diamond Head, USS Arizona) and used by `tentative_plan.md` | Credit the source under each image |
+| [`hotels.md`](hotels.md) | Hotel picks, alternatives, Airbnb + round-2 research, booking checklist | Update when a hotel is booked; conf # goes in `bookings.md` |
+| [`hotels/`](hotels/) | One page per picked hotel (rooms, reviews, costs, pre-booking checklist) | |
+| [`references.md`](references.md) | Index of the 8 Google Docs and every doc in this repo, which are current vs. historical, and where they disagree | Read-only inputs |
+| `maps/` | Map images + `maps/tools/` (`gen_md.py` writes `map.md`; `render.py` makes the older day images) | Don't hand-edit `map.md`; regenerate it |
+| `photos/` | Photos stored in the repo: public-domain Diamond Head / USS Arizona, and `photos/us/` birthday photos (used by `tentative_plan.md`, `birthday.md`) | Credit the source under each image |
 | `docs/` | PDFs/screenshots of tickets & confirmations (**don't commit IDs/passport scans**, see below) | |
 | [`2026-10-12_itinerary_options.md`](2026-10-12_itinerary_options.md) | Raw research dump, kept for reference (not maintained) | |
 
@@ -34,7 +37,7 @@
 2. Add the booking task to `TODOs.md` → book it → move details into `bookings.md` + cost into `budget.md`.
 3. Copy the final version of that day into `tentative_plan.md`.
 
-Status legend used everywhere: ✅ decided/booked · 🟡 option / still deciding · ⏳ booked-pending (waitlist, hold) · ❌ dropped.
+Status legend used everywhere: ✅ decided/booked · ⬜ to book · 🟡 option / still deciding · ⏳ booked-pending (waitlist, hold) · ❌ dropped.
 
 ## Collaborating
 

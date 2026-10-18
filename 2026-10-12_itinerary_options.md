@@ -1,5 +1,7 @@
 # Hawaii together: three itinerary possibilities
 
+> ⚪ **Raw Oct 12 research** (Kauaʻi + Maui with rental cars). Not maintained; the current plan is in [`tentative_plan.md`](tentative_plan.md).
+
 ## 📑 Contents
 
 - [My recommendation](#my-recommendation)

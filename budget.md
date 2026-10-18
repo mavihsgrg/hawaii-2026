@@ -1,36 +1,34 @@
 # Budget
 
-> Estimates for the couple unless noted. Fill in **Actual** when paid, and **Paid by** so settling up is easy.
+> Estimates for the two of us unless noted. Fill in **Actual** when paid, and **Paid by** so settling up is easy.
+> Plan: Oʻahu → Maui, 8 nights, no car. Same total as [`tentative_plan.md`](tentative_plan.md#cost).
 
 ## 📑 Contents
 
+- [Estimates](#estimates)
 - [Settle-up](#settle-up)
+
+<a id="estimates"></a>
+## Estimates
 
 | Category | Item | Estimate | Actual | Paid by | Notes |
 |---|---|---:|---:|---|---|
-| Flights | NYC → HNL/LIH ×2 + return ×2 | $1,981–2,168 | | | |
-| Flights | Island hop → OGG ×2 | incl. above (~$138) | | | |
-| Flights | OGG → NYC ×2 | incl. above | | | |
-| Lodging | First island, 3 nights | $1,050–1,500 | | | |
-| Lodging | Maui, 5 nights | $1,695–2,250 (Aston ≈ $1,770) | | | |
-| Transport | Transfers, taxis + rideshares, no rental car (airports, Pearl Harbor, Māʻalaea, Wailea, NYC) — see `commute.md` | $480–800 | | | |
-| Activity (Oʻahu) | Diamond Head + USS Arizona | $12 | | | |
-| Activity (Oʻahu) | North Shore tour (optional, instead of Pearl Harbor) | $200–350 | | | |
-| Activity (Kauaʻi) | Nā Pali sail **and/or** helicopter | $480–1,102 | | | |
-| Activity | Molokini snorkel | ~$440 | | | |
-| Activity | Hāna guided tour (optional) | $590–650 | | | |
+| Flights | JFK → HNL ×2, HNL → OGG ×2, OGG → NYC ×2 | $1,981–2,168 | | | island hop ~$138 of this |
+| Lodging | OUTRIGGER Reef, 3 nights | $1,050–1,500 | | | |
+| Lodging | Maui Coast Hotel, 5 nights | ~$1,695 | | | all-in quote |
+| Transport | Rideshares, taxis, airport shuttle, NYC airport rides (no rental car) | $480–800 | | | Hawaiʻi legs ~$310–510 in [`commute.md`](commute.md) + NYC rides |
+| Activity | Diamond Head + USS Arizona | $12 | | | |
+| Activity | Molokini snorkel (PacWhale) | ~$440 | | | |
+| Activity | Hāna guided tour (Waiʻānapanapa entry included) | $590–650 | | | |
 | Activity | Haleakalā sunset tour w/ Kīhei pickup (entry + dinner incl.) + tip | $475–520 | | | |
-| Activity | Waiʻānapanapa entry (if Hāna) | $20 | | | |
-| Activity (Kauaʻi) | Hāʻena shuttle (if hiking) | $90 | | | |
-| Dining | 🎂 birthday dinner | $220–400 | | | |
+| Birthday | Couples spa ✅ | $400–700 | | | |
+| Birthday | Dinner at Hotel Wailea | $220–400 | | | |
+| Birthday | Cocktails (Tikehau) + Tiki Lounge | $110–230 | | | rides are under Transport |
 | Dining | Other meals/groceries (~9 days) | $780–1,150 | | | |
 | Misc | Tips, bags, souvenirs, contingency | $640–1,330 | | | |
-| Optional | Couples spa on the birthday | $400–700 | | | |
-| **Total** | | **≈ $9,235 working** ($7,530–11,000, Oʻahu+Maui) | | | |
+| **Total** | | **≈ $8,900–11,600** | | | |
 
-Source: `references.md` #1, #2, #4, #6 (Oct 12 snapshots). Kauaʻi + Maui runs ~$1,000–1,500 higher (boat + helicopter + harbor rides).
-
-Balanced-plan activity benchmark (from research): **≈ $970** with the sail, **≈ $1,112** with the helicopter, before extra taxes/fees.
+Source: Oct 12 snapshots (`references.md` #1, #4, #6), the no-car rides in [`commute.md`](commute.md), and [`birthday.md`](birthday.md).
 
 ## Settle-up
 | Person | Paid | Share | Owes / owed |

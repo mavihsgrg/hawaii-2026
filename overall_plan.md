@@ -2,25 +2,25 @@
 
 ## 📑 Contents
 
-  - [🧭 Decision board](#-decision-board)
-  - [Compare the three styles](#compare-the-three-styles)
-  - [📅 Day by day, with options](#-day-by-day-with-options)
-  - [🌺 Branch 1: Oʻahu (Oct 31–Nov 3) ✅ chosen](#-branch-1-oʻahu-oct-31nov-3--chosen)
-    - [Sat Oct 31: arrive Oʻahu 🟡](#sat-oct-31-arrive-oʻahu-)
-    - [Sun Nov 1: Diamond Head + Waikīkī 🟡](#sun-nov-1-diamond-head--waikīkī-)
-    - [Mon Nov 2: Pearl Harbor or North Shore 🟡](#mon-nov-2-pearl-harbor-or-north-shore-)
-    - [Tue Nov 3: HNL → OGG ✅ (same as below)](#tue-nov-3-hnl--ogg--same-as-below)
-  - [🌿 Branch 2: Kauaʻi (Oct 31–Nov 3) ❌ not chosen (kept for reference)](#-branch-2-kauaʻi-oct-31nov-3--not-chosen-kept-for-reference)
-    - [Sat Oct 31: arrive Kauaʻi 🟡](#sat-oct-31-arrive-kauaʻi-)
-    - [Sun Nov 1: signature Kauaʻi scenery 🟡](#sun-nov-1-signature-kauaʻi-scenery-)
-    - [Mon Nov 2: North Shore or local 🟡](#mon-nov-2-north-shore-or-local-)
-  - [🏝️ Maui (Nov 3–8, same for both branches)](#-maui-nov-38-same-for-both-branches)
-    - [Tue Nov 3: → Maui ✅](#tue-nov-3--maui-)
-    - [Wed Nov 4: snorkel morning 🟡](#wed-nov-4-snorkel-morning-)
-    - [Thu Nov 5: Hāna or slow Maui 🟡](#thu-nov-5-hāna-or-slow-maui-)
-    - [Fri Nov 6: 🎂 birthday ✅](#fri-nov-6--birthday-)
-    - [Sat Nov 7: Haleakalā 🟡](#sat-nov-7-haleakalā-)
-    - [Sun Nov 8: depart ✅](#sun-nov-8-depart-)
+- [🧭 Decision board](#-decision-board)
+- [Compare the three styles (Kauaʻi era, historical)](#compare-the-three-styles)
+- [📅 Day by day, with options](#-day-by-day-with-options)
+- [🌺 Oʻahu (Oct 31–Nov 3) ✅ chosen](#-branch-1-oʻahu-oct-31nov-3--chosen)
+  - [Sat Oct 31: arrive Oʻahu ✅](#sat-oct-31-arrive-oʻahu-)
+  - [Sun Nov 1: Diamond Head + Waikīkī ✅](#sun-nov-1-diamond-head--waikīkī-)
+  - [Mon Nov 2: Pearl Harbor ✅](#mon-nov-2-pearl-harbor-)
+  - [Tue Nov 3: HNL → OGG ✅ (same as below)](#tue-nov-3-hnl--ogg--same-as-below)
+- [🌿 Kauaʻi (Oct 31–Nov 3) ❌ not chosen (kept for reference)](#-branch-2-kauaʻi-oct-31nov-3--not-chosen-kept-for-reference)
+  - [Sat Oct 31: arrive Kauaʻi](#sat-oct-31-arrive-kauaʻi-)
+  - [Sun Nov 1: signature Kauaʻi scenery](#sun-nov-1-signature-kauaʻi-scenery-)
+  - [Mon Nov 2: North Shore or local](#mon-nov-2-north-shore-or-local-)
+- [🏝️ Maui (Nov 3–8)](#maui)
+  - [Tue Nov 3: → Maui ✅](#tue-nov-3--maui-)
+  - [Wed Nov 4: snorkel morning 🟡](#wed-nov-4-snorkel-morning-)
+  - [Thu Nov 5: Hāna or slow Maui 🟡](#thu-nov-5-hāna-or-slow-maui-)
+  - [Fri Nov 6: 🎂 birthday ✅](#fri-nov-6--birthday-)
+  - [Sat Nov 7: Haleakalā ✅](#sat-nov-7-haleakalā-)
+  - [Sun Nov 8: depart ✅](#sun-nov-8-depart-)
 - [📚 Reference: research from Oct 12 (closures updated Oct 17)](#-reference-research-from-oct-12-closures-updated-oct-17)
   - [Picture guide](#picture-guide)
     - [Nā Pali Coast — Kauaʻi’s signature landscape](#nā-pali-coast--kauaʻis-signature-landscape)
@@ -55,7 +55,7 @@ All source docs are indexed in [`references.md`](references.md).
 
 > This is the big doc: every option, photos and research. When something is decided, mark it ✅ here and copy it into [`tentative_plan.md`](tentative_plan.md).
 > Legend: ✅ decided/booked · 🟡 option · ⏳ pending · ❌ dropped
-> Last updated 2026-10-17. Research facts are from Oct 12 unless noted (the original is in [`2026-10-12_itinerary_options.md`](2026-10-12_itinerary_options.md)).
+> Last updated 2026-10-18. Research facts are from Oct 12 unless noted (the original is in [`2026-10-12_itinerary_options.md`](2026-10-12_itinerary_options.md)).
 
 ![Nā Pali Coast aerial landscape](https://images.squarespace-cdn.com/content/v1/68b230941ce8a03ea731a5d6/1756508380196-AHZZAZUWE9T32EMSMIHI/Na%2BPali%2BCoast%2BHawaii%2BFine%2BArt%2B-%2BCody%2BRoberts.jpg?format=1500w)
 <sub>Nā Pali Coast · [Photo: Cody Roberts](https://www.codyrobertsart.com/shop/p/na-pali)</sub>
@@ -69,16 +69,16 @@ All source docs are indexed in [`references.md`](references.md).
 | **First island** | **Oʻahu** (Waikīkī, Diamond Head, Pearl Harbor; easy with no car) · ~~Kauaʻi~~ (key parks closed, ~$1,000–1,500 more, no nonstop) | **Oʻahu** | ✅ Oct 18 |
 | **Transport** | No driving (tours + transfers, per the newer docs) · rental cars | **No car anywhere** (shuttles, taxis, rideshare, tours with pickup; see [`commute.md`](commute.md)) | ✅ Oct 18 |
 | **Nights** | 8 (NYC Nov 9) · 7 (NYC Nov 8) | **8** | ✅ Oct 18 (confirm partner's PTO) |
-| Overall style | A Balanced · B Adventurous · C Romance & rest | A Balanced (recommended) | 🟡 |
+| Overall style | A Balanced · B Adventurous · C Romance & rest | — | ❌ moot (Kauaʻi dropped; the Oʻahu + Maui plan is effectively A) |
 | Oʻahu hotel | OUTRIGGER Reef (price first) · Prince Waikīkī · OUTRIGGER Waikīkī | OUTRIGGER Reef | ✅ to book |
-| ~~Kauaʻi hotel~~ ❌ | Kauaʻi Shores, Kapaʻa (~$1,140/3 nts) · Royal Sonesta, Līhuʻe · Kōloa Landing (over budget) | | 🟡 |
-| Maui hotel | **Aston Kāʻanapali Villas** (~$1,770/5 nts, West Maui beach, pay Oct 29) · **Maui Coast, Kīhei** (~$1,695, better base for Hāna/Haleakalā/Wailea) · Royal Lahaina | **Maui Coast, Kīhei** (with a car: closer to Māʻalaea, Wailea, Haleakalā) | ✅ to book |
+| ~~Kauaʻi hotel~~ | Kauaʻi Shores, Kapaʻa (~$1,140/3 nts) · Royal Sonesta, Līhuʻe · Kōloa Landing (over budget) | | ❌ |
+| Maui hotel | **Aston Kāʻanapali Villas** (~$1,770/5 nts, West Maui beach, pay Oct 29) · **Maui Coast, Kīhei** (~$1,695, better base for Hāna/Haleakalā/Wailea) · Royal Lahaina | **Maui Coast, Kīhei** (no car: tours pick up in South Maui, short taxi to Māʻalaea, rideshare to Wailea) | ✅ to book |
 | Nov 1–2 (Oʻahu) | Diamond Head + Waikīkī · Pearl Harbor **or** North Shore tour | Nov 1 Diamond Head, Nov 2 Pearl Harbor | ✅ |
-| ~~Nov 1 (Kauaʻi)~~ ❌ | Nā Pali boat (~$480) · helicopter (~$622) · both (Kauaʻi doc B) | | 🟡 |
-| ~~Nov 2 (Kauaʻi)~~ ❌ | Helicopter · Hanalei/North Shore · Hāʻena hike (reopened Oct 15*) · local slow day | | 🟡 |
+| ~~Nov 1 (Kauaʻi)~~ | Nā Pali boat (~$480) · helicopter (~$622) · both (Kauaʻi doc B) | | ❌ |
+| ~~Nov 2 (Kauaʻi)~~ | Helicopter · Hanalei/North Shore · Hāʻena hike (reopened Oct 15*) · local slow day | | ❌ |
 | Nov 4 | Molokini guided snorkel · shore snorkel lesson | Molokini | 🟡 |
 | Nov 5 | Road to Hāna (full day) · slow Wailea day · ʻĪao Valley | Guided Hāna tour (drop first if too busy) | 🟡 |
-| Nov 6 🎂 | Protected rest day + dinner | ✅ rest day | ✅ / dinner 🟡 |
+| Nov 6 🎂 | Rest day, couples spa, dinner, drinks, dancing (see [`birthday.md`](birthday.md)) | ✅ rest day + spa | ✅ / dinner 🟡 |
 | Birthday dinner | Hotel Wailea Restaurant · Monkeypod Wailea · Mama's Fish House | Hotel Wailea | 🟡 |
 | Nov 7 | Haleakalā sunset · sunrise · daytime | Sunset, **guided tour with hotel pickup** (~$475 + tip) | ✅ |
 
@@ -102,22 +102,22 @@ All source docs are indexed in [`references.md`](references.md).
 
 ## 📅 Day by day, with options
 
-> Oct 31–Nov 2 has two branches: **🌺 Oʻahu** (below) or **🌿 Kauaʻi** (after it). Maui from Nov 3 is the same for both.
+> **Oʻahu** (below) was chosen on Oct 18. The Kauaʻi branch after it is kept for reference only.
 
 ## 🌺 Branch 1: Oʻahu (Oct 31–Nov 3) ✅ chosen
 
-Based on the Oʻahu + Maui doc and the original master plan (`references.md` #1 and #7). No car: airport transfer, rideshares, a guided tour for the North Shore.
+Based on the Oʻahu + Maui doc and the original master plan (`references.md` #1 and #7). No car: rideshare or taxi everywhere (see [`commute.md`](commute.md)). North Shore dropped (November surf).
 
-### Sat Oct 31: arrive Oʻahu 🟡
-- HNL → Waikīkī transfer (prebook), check in, beach stroll, early dinner near the hotel. It's Halloween, so a party is optional only if you still have energy.
+### Sat Oct 31: arrive Oʻahu ✅
+- HNL → Waikīkī by rideshare or flat-rate taxi, check in, beach stroll, early dinner near the hotel. It's Halloween, so a party is optional only if you still have energy.
 
-### Sun Nov 1: Diamond Head + Waikīkī 🟡
+### Sun Nov 1: Diamond Head + Waikīkī ✅
 - Morning **Diamond Head** timed entry ($5/pp, reserve on gostateparks.hawaii.gov), rideshare there and back
 - Brunch, then a relaxed beach afternoon. Optional beginner surf/paddleboard lesson (~$200–300 for two)
 
-### Mon Nov 2: Pearl Harbor **or** North Shore 🟡
-- 🟡 **Pearl Harbor / USS Arizona** half-day ($1/pp reservation; be there an hour before your slot)
-- 🟡 **North Shore** guided tour (+~$200–350); in November it's for watching big surf, not swimming
+### Mon Nov 2: Pearl Harbor ✅
+- ✅ **Pearl Harbor / USS Arizona** half-day ($1/pp reservation; be there an hour before your slot)
+- ❌ **North Shore** guided tour (dropped: November surf is for watching, not swimming)
 - 🟡 Optional: Bishop Museum in the afternoon
 - Pack for the island hop.
 
@@ -150,11 +150,12 @@ Pick **one**:
 
 ---
 
-## 🏝️ Maui (Nov 3–8, same for both branches)
+<a id="maui"></a>
+## 🏝️ Maui (Nov 3–8)
 
 ### Tue Nov 3: → Maui ✅
-- ✅ Breakfast, check out, ride/return car, island hop (HNL or LIH) → OGG, car or transfer to the hotel. Budget 4–6 hours door to door.
-- ✅ Groceries, pool, casual dinner. No summit, no Hāna.
+- ✅ Breakfast, check out, rideshare to HNL, island hop HNL → OGG, prebooked shuttle to Kīhei. Budget 4–6 hours door to door.
+- ✅ Groceries in Kīhei, pool, casual dinner. No summit, no Hāna.
 
 ### Wed Nov 4: snorkel morning 🟡
 - 🟡 **Molokini + Turtle Arches** (PacWhale, ~5 h, ~$220/pp) from Māʻalaea. Pick a guided trip with flotation if either of you is new to snorkeling.
@@ -164,7 +165,7 @@ Pick **one**:
 
 ### Thu Nov 5: Hāna or slow Maui 🟡
 - 🟡 **Guided Hāna tour with hotel pickup** (~$590–650 for two, e.g. [Tour Maui](https://www.tourmaui.com/tours/road-to-hana-tour/)); the no-driving default. Check that it includes Waiʻānapanapa.
-- 🟡 **Self-drive Road to Hāna:** 6:30–7:00 start, 10–12+ h total. A few stops, lunch, timed **Waiʻānapanapa** slot (reservation required). Consider a guided tour so nobody has to drive the curves all day.
+- ❌ **Self-drive Road to Hāna** (dropped Oct 18: no car): 6:30–7:00 start, 10–12+ h total. A few stops, lunch, timed **Waiʻānapanapa** slot (reservation required). Consider a guided tour so nobody has to drive the curves all day.
   ![Waiʻānapanapa](https://www.to-hawaii.com/maui/beaches/images/waianapanapa/waianapanapa_beach_sunset.jpg)
   <sub>[Photo: To-Hawaii](https://www.to-hawaii.com/maui/beaches/waianapanapa-black-sand-beach.php)</sub>
 - 🟡 **Slow version:** Wailea coastal walk, beach/pool, sunset.
@@ -172,27 +173,29 @@ Pick **one**:
 - ❌ Swimming at the Pools of ʻOheʻo: closed to swimming.
 
 ### Fri Nov 6: 🎂 birthday ✅
-- ✅ No alarm, slow breakfast, beach/pool, lunch, downtime, optional spa
+- ✅ No alarm, slow breakfast, beach/pool, lunch, couples spa ✅, then dinner, cocktails and dancing (full plan: [`birthday.md`](birthday.md))
 - ✅ Sunset stroll → birthday dinner
 - 🟡 Dinner: **The Restaurant at Hotel Wailea** (5–8:30 PM; aim for a 5:15–5:45 seating to catch the light) · Monkeypod Wailea (casual) · Mama's Fish House (special, but a long drive)
 - Tell the restaurant it's a birthday and mention the lactose intolerance.
   ![Makena sunset](https://www.andrewshoemaker.com/images/xl/continuum-makena-maui-sunset.jpg)
   <sub>[Photo: Andrew Shoemaker](https://www.andrewshoemaker.com/photo/continuum-makena-maui-sunset/)</sub>
 
-### Sat Nov 7: Haleakalā 🟡
-- 🟡 **Sunset tour with pickup** (~$462–520 for two, includes entry + dinner, e.g. [Polynesian Adventure](https://www.polyad.com/tour/maui-haleakala-sunset-tour/)); the no-driving default
-- 🟡 **Self-drive sunset** (no reservation): leave South Maui around noon, arrive 2:30–3:00 PM, sunset ~5:50–5:55. Warm layers, food and fuel (none in the park). Late, easy dinner.
-- 🟡 **Sunrise** (reservation on recreation.gov; Nov 7 two-day release = Nov 5, 7 AM HST)
-- 🟡 **Daytime** viewpoints + Upcountry, back by late afternoon
+### Sat Nov 7: Haleakalā ✅
+- ✅ **Sunset tour with Kīhei hotel pickup**, ~$237/adult (~$475 for two) + tip, entry + dinner included, e.g. [Polynesian Adventure](https://www.expedia.com/things-to-do/haleakala-sunset-tour.a390930.activity-details)
+- ❌ **Self-drive sunset** (dropped: no car): leave South Maui around noon, arrive 2:30–3:00 PM, sunset ~5:50–5:55. Warm layers, food and fuel (none in the park). Late, easy dinner.
+- ❌ **Sunrise** (self-drive reservation; only via a sunrise tour if Nov 7 sunset tours are full)
+- ❌ **Daytime** viewpoints + Upcountry (needs a car or a different tour)
   ![Haleakalā sunset](https://bluehawaiianconcierge.com/content/uploads/2026/01/HaleakalaSunset.jpg)
   <sub>[Photo: Blue Hawaiian Concierge](https://bluehawaiianconcierge.com/activities/haleakala-sunset-tour/)</sub>
 
 ### Sun Nov 8: depart ✅
-- ✅ Check out, leave bags, pool/beach, early dinner, return car, OGG → NYC (arrive Nov 9)
+- ✅ Check out, leave bags, pool/beach, prebooked shuttle to OGG (~11:30 AM), OGG → NYC (arrive Nov 9)
 
 ---
 
 # 📚 Reference: research from Oct 12 (closures updated Oct 17)
+
+> ⚠️ **Historical (Oct 12).** Assumes Kauaʻi first and rental cars on both islands. Superseded by the Oct 18 plan (Oʻahu → Maui, no car). Kept for reference; don't plan from it.
 
 ## Picture guide
 

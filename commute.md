@@ -30,7 +30,7 @@
 | Tue Nov 3 | OGG → Maui Coast Hotel, Kīhei | 13 mi | 🚐 **Prebooked shared shuttle**, or rideshare | ~$40–70 | **Yes**, shuttle by Oct 24 |
 | Wed Nov 4 | Kīhei ↔ Māʻalaea Harbor (Molokini boat) | 9 mi | 🚕 **Prebooked taxi** there (early), rideshare/taxi back | ~$55–80 | **Yes**, taxi by Oct 27 |
 | Thu Nov 5 | Road to Hāna | 67 mi each way | 🚐 Tour pickup at the hotel | included | Tour by Oct 24 |
-| Fri Nov 6 🎂 | Kīhei ↔ Hotel Wailea | 4 mi | 🚕 Rideshare both ways; prebook a taxi for the return | ~$30–50 | Return taxi, day before |
+| Fri Nov 6 🎂 | Kīhei → Hotel Wailea → Tikehau → Tiki Lounge, Kīhei | 4 mi each way | 🚕 Rideshare there; **prebooked taxi** Wailea Village → Tiki Lounge ~9 PM; walk back | ~$30–60 | ~9 PM taxi, day before |
 | Sat Nov 7 | Haleakalā summit | 48 mi each way | 🚐 Tour pickup at the hotel | included | **Tour by Oct 21** |
 | Sun Nov 8 | Kīhei → OGG | 13 mi | 🚐 Prebooked shuttle, or rideshare | ~$40–70 | Shuttle by Oct 24 |
 | **Total** | | | | **≈ $310–510** | |
@@ -43,7 +43,7 @@
 - 📱 Install **Uber and Lyft** on both phones and add a card. Compare both for each ride; prices differ.
 - 📇 Save two **Maui taxi** numbers (ask the hotel which ones they use). Maui rideshare is thin **before ~7 AM, late at night and on Sundays**, so early or late rides go to a taxi.
 - 🧳 Pack so each of you can carry your bag up a curb: shuttles and taxis are fine, buses are not (bags must fit on your lap on TheBus/Maui Bus).
-- 🏨 Ask **Maui Coast Hotel** whether it has a courtesy shuttle in Kīhei/Wailea (check: we couldn't confirm one).
+- 🏨 Ask **Maui Coast Hotel** about its courtesy shuttle: listings mention a free shuttle within ~2 mi (would reach Kamaʻole beaches and Kīhei bars, not Wailea or OGG). Confirm.
 
 ---
 
@@ -124,11 +124,11 @@ PacWhale has **no hotel pickup**, and check-in is ~45 min before an early depart
 | Option | Cost for two | Good | Not so good |
 |---|---:|---|---|
 | 🚕 **Uber / Lyft** there ⭐ | ~$15–25 each way (check) | Easy at 5 PM | |
-| 🚖 **Prebooked taxi** for the ride back ⭐ | ~$20–30 | Guaranteed after dinner | Book the day before |
+| 🚖 **Prebooked taxi** Wailea Village (Tikehau) → South Shore Tiki Lounge, Kīhei, ~9 PM ⭐ | ~$15–25 | Guaranteed at night | Book the day before; walk ~½ mi back to the hotel after |
 | 🏨 Hotel courtesy shuttle | free? | If Maui Coast Hotel has one that reaches Wailea | Check |
 | 🚌 Maui Bus Route 10 | $4 | Runs to Wailea | Last buses around 7:30 PM (check): no good after dinner |
 
-Hotel Wailea sits on the hill above Wailea; ask the restaurant to call a cab when you ask for the bill.
+Hotel Wailea sits on the hill above Wailea; Tikehau is a short walk or ride away in Wailea Village. Full evening plan: [`birthday.md`](birthday.md).
 
 ### Sat Nov 7 · Haleakalā sunset (guided tour)
 
@@ -183,7 +183,7 @@ Same options as Nov 3. **Leave ~2.5 h before the flight** (2:08 / 2:31 PM depart
 | Haleakalā | $30 park entry | ~$475 tour + ~$40 tip (dinner + entry included) |
 | **Maui transport total** | **~$370–590** | **~$700–835** |
 
-**Net: no car costs roughly $150–450 more**, almost all of it the Haleakalā tour (which also includes dinner and saves a tired drive down in the dark). Oʻahu was already car-free and doesn't change.
+**Net: no car costs roughly $110–470 more**, almost all of it the Haleakalā tour (which also includes dinner and saves a tired drive down in the dark). Oʻahu was already car-free and doesn't change.
 
 ---
 

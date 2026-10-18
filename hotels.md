@@ -9,7 +9,7 @@
 - [✅ To finalize (current picks)](#-to-finalize-current-picks)
   - [Final checklist before booking](#final-checklist-before-booking)
 - [🌺 Oʻahu options (Oct 31 → Nov 3)](#-oʻahu-options-oct-31--nov-3)
-- [🏝️ Maui options (Nov 3 → Nov 8)](#-maui-options-nov-3--nov-8)
+- [🏝️ Maui options (Nov 3 → Nov 8)](#maui-options-nov-3--nov-8)
 - [📸 Photos](#-photos)
 - [📝 Notes](#-notes)
 - [🏠 Airbnb options (checked 2026-10-18)](#-airbnb-options-checked-2026-10-18)
@@ -19,6 +19,11 @@
   - [Oʻahu, under $500/night (reported rates, varied dates)](#oʻahu-under-500night-reported-rates-varied-dates)
   - [Maui, Kīhei / Wailea](#maui-kīhei--wailea)
 - [🔎 Updated shortlist from this round](#-updated-shortlist-from-this-round)
+- [🔍 Round 2 research (2026-10-18)](#round2)
+  - [Oʻahu (Waikīkī)](#round2-oahu)
+  - [Maui (Kīhei / Wailea / West Maui)](#round2-maui)
+  - [What changed](#round2-changed)
+  - [Shortlist after this round](#round2-shortlist)
 
 ---
 
@@ -27,9 +32,9 @@
 | Stay | Dates | Pick | Why | Price (Oct 12) | Still to check | Deadline |
 |---|---|---|---|---|---|---|
 | **Oʻahu** | Oct 31 → Nov 3 (3 nights) | **OUTRIGGER Reef Waikīkī Beach Resort** | Beachfront, walkable, Monkeypod dinner, nightly Hawaiian music; no car needed | Unverified. ~$50/night resort fee + tax, parking extra | Exact-date all-in total, king bed, cancellation cutoff | **Oct 19** |
-| **Maui** | Nov 3 → Nov 8 (5 nights) | **Maui Coast Hotel, Kīhei · Kai Tower king** | Closest practical base for Molokini, Haleakalā and the Nov 6 Wailea dinner; kitchen-friendly | ~$1,695 all-in (5 nights). $46.29/night resort fee incl. tax; no parking needed (no car) | Confirm the Kai Tower king rate (earlier calendar rates weren't guaranteed), courtesy shuttle?, luggage hold + late checkout on Nov 8 | **Oct 19** |
+| **Maui** | Nov 3 → Nov 8 (5 nights) | **Maui Coast Hotel, Kīhei · Kai Tower king** | Closest practical base for Molokini, Haleakalā and the Nov 6 Wailea dinner; fridge (check: listings say no full kitchen) | ~$1,695 all-in (5 nights). $46.29/night resort fee incl. tax; no parking needed (no car) | Confirm the Kai Tower king rate (earlier calendar rates weren't guaranteed), courtesy shuttle?, luggage hold + late checkout on Nov 8 | **Oct 19** |
 
-**Decision needed (both of you):** confirm the two picks, or switch Maui to Aston (see below). Once confirmed, book, then copy the confirmation numbers into [`bookings.md`](bookings.md) and the totals into [`budget.md`](budget.md).
+**Decided (Oct 18):** OUTRIGGER Reef + Maui Coast Hotel. Book both by Oct 19, then copy the confirmation numbers into [`bookings.md`](bookings.md) and the totals into [`budget.md`](budget.md).
 
 ### Final checklist before booking
 - [ ] Oʻahu: total for Oct 31–Nov 3 with all taxes and resort fees is under $1,500 (3 × $500)
@@ -43,7 +48,7 @@
 
 ## 🌺 Oʻahu options (Oct 31 → Nov 3)
 
-Base: Waikīkī. No car. Rideshare for Diamond Head, bus or taxi for Pearl Harbor.
+Base: Waikīkī. No car. Rideshare for Diamond Head and Pearl Harbor (see [`commute.md`](commute.md)).
 
 | Hotel | Why choose it | Tradeoffs | Price status | Links |
 |---|---|---|---|---|
@@ -53,13 +58,14 @@ Base: Waikīkī. No car. Rideshare for Diamond Head, bus or taxi for Pearl Harbo
 
 ---
 
+<a id="maui-options-nov-3--nov-8"></a>
 ## 🏝️ Maui options (Nov 3 → Nov 8)
 
 Base: Kīhei / Wailea (south), or Kāʻanapali (west). No car on Maui, so the base must be where tours pick up (Hāna, Haleakalā), close to Māʻalaea by taxi, and a short ride from the Nov 6 dinner. South Maui (Kīhei) fits; West Maui would mean long, pricey rides.
 
 | Hotel | Why choose it | Tradeoffs | Price status | Links |
 |---|---|---|---|---|
-| **⭐ Maui Coast Hotel, Kīhei · Kai Tower king** (pick) | Modern rooms; Kīhei dining; closest practical base for Molokini (Māʻalaea), Haleakalā and Wailea | Beach is across the road, not right on it; less of a resort feel | ~$1,695 all-in, 5 nights. $46.29/night resort fee incl. tax; parking extra | [Hotel, Kai Tower](https://www.mauicoasthotel.com/rooms-suites/kai-tower) · [Booking.com, Nov 3–8](https://www.booking.com/hotel/us/maui-coast.html?checkin=2026-11-03&checkout=2026-11-08&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD) |
+| **⭐ Maui Coast Hotel, Kīhei · Kai Tower king** (pick) | Modern rooms; Kīhei dining; closest practical base for Molokini (Māʻalaea), Haleakalā and Wailea | Beach is across the road, not right on it; less of a resort feel | ~$1,695 all-in, 5 nights. $46.29/night resort fee incl. tax; no parking needed (no car) | [Hotel, Kai Tower](https://www.mauicoasthotel.com/rooms-suites/kai-tower) · [Booking.com, Nov 3–8](https://www.booking.com/hotel/us/maui-coast.html?checkin=2026-11-03&checkout=2026-11-08&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD) |
 | Aston Maui Kāʻanapali Villas · Oceanside Premium studio (alternative) | Beachfront; kitchen; two pools; relaxed gardens; quieter resort time | Garden/pool view, not ocean view; no daily cleaning; ~1 hr from Wailea and Haleakalā; Hāna is a long day | Quote $1,491 + 18.71% tax ≈ **$1,770**. **Pay Oct 29; free cancellation before Oct 31.** Confirm the king bed | [Official site](https://www.astonmauikaanapalivillas.com/) · [Booking.com, Nov 3–8](https://www.booking.com/hotel/us/aston-maui-kaanapali-villas.html?checkin=2026-11-03&checkout=2026-11-08&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD) |
 | Royal Lahaina (West Maui, alternative) | Beachfront resort; renovated bungalows; tropical grounds | Bungalow prices may be well above the tower rate; longer drives to Hāna and Haleakalā; $40/day parking | Unverified. $45/night + tax resort fee | [Official site](https://www.royallahaina.com/) · [Booking.com, Nov 3–8](https://www.booking.com/hotel/us/royal-lahaina-resort.html?checkin=2026-11-03&checkout=2026-11-08&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD) |
 | Andaz Maui at Wailea (not priced for these dates) | Beachfront setting in Wailea; resort days without leaving | $50/night resort fee; valet only | Not priced for these dates | [Policies](https://www.hyatt.com/andaz/en-US/oggaw-andaz-maui-at-wailea-resort/policies) |
@@ -154,10 +160,12 @@ These came from undated or mixed-date sources, so **every price below needs a li
 
 ---
 
+<a id="round2"></a>
 ## 🔍 Round 2 research (2026-10-18): more options, with what we know
 
 **Read this first:** I could not see live prices or availability for Nov 2026 on any site. Each figure below is a snapshot from a listing, review site or deal page, and the date of the snapshot is noted where the source gave one. Book only after checking the all-in total for your exact dates.
 
+<a id="round2-oahu"></a>
 ### Oʻahu (Waikīkī)
 
 | Option | What we know | Price evidence | Fit | Link |
@@ -169,6 +177,7 @@ These came from undated or mixed-date sources, so **every price below needs a li
 | Hyatt Place Waikīkī Beach | Reported $214/night, $254 with taxes and fees (late March 2026 stay) | Undated for November | Budget beachfront-area option | [Search result](https://travelocity.com/Waikiki-Honolulu-Hotels-Beach-Hotel.0-n6048741-0-tBeachHotel.Travel-Guide-Filter-Hotels) |
 | Halekulani | Luxury; one source says no resort fee; deals reported from about $427 | Mixed sources | Over budget at peak; check for a deal | — |
 
+<a id="round2-maui"></a>
 ### Maui (Kīhei / Wailea / West Maui)
 
 | Option | What we know | Price evidence | Fit | Link |
@@ -182,11 +191,13 @@ These came from undated or mixed-date sources, so **every price below needs a li
 | Napili Kai (West Maui) | Trade source says no resort fee; no rate found | Unknown | Beachfront West Maui; long drive to Hāna and Haleakalā | — |
 | Grand Wailea | $991/night (April 2026) + fees | Way over budget | No | — |
 
+<a id="round2-changed"></a>
 ### What changed
 - **Oʻahu:** the **Ilikai oceanfront Airbnb** and the **Alohilani Travelzoo deal** are real new options that could beat OUTRIGGER Reef on value. OUTRIGGER Reef stays the simplest choice (beach, resort services, no kitchen needed).
 - **Maui:** the **Kamaole G-212 oceanfront condo** is the strongest Airbnb-style alternative. The **Hawaiʻi Food & Wine Festival hotel at $275** is worth checking, since its rate is well below Maui Coast's average nightly cost if the festival hotel is in South Maui.
 - **Dropped:** Grand Wailea and Marriott Wailea, both far over budget.
 
+<a id="round2-shortlist"></a>
 ### Shortlist after this round
 | Stay | 1st choice | Alternatives to check |
 |---|---|---|

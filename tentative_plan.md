@@ -63,7 +63,7 @@
 | ✈️ | OGG → NYC, Nov 8 (lands Nov 9) | ⬜ to book | **Oct 19** |
 | 🏨 | OUTRIGGER Reef, Oct 31 → Nov 3 | ⬜ to book | **Oct 19** |
 | 🏨 | Maui Coast Hotel, Nov 3 → Nov 8 | ⬜ to book | **Oct 19** |
-| 🚐 | HNL → Waikīkī transfer | ⬜ to book | Oct 24 |
+| 🚕 | HNL → Waikīkī (rideshare or flat-rate taxi, no booking needed) | — | — |
 | 🚐 | OGG ↔ Kīhei shuttle, Nov 3 + Nov 8 | ⬜ to book | Oct 24 |
 | 🚕 | Kīhei → Māʻalaea taxi, Nov 4 early morning (+ ride back) | ⬜ to book | Oct 27 |
 | 🎟️ | Diamond Head timed entry, Nov 1 | ⬜ to book | **Now** (sells out) |
@@ -71,9 +71,12 @@
 | 🎟️ | Molokini snorkel, Nov 4 | ⬜ to book | Oct 24 |
 | 🎟️ | Hāna guided tour, Nov 5 | ⬜ to book | Oct 24 |
 | 🍽️ | Hotel Wailea birthday dinner, Nov 6 | ⬜ to book | Oct 24 |
+| 💆 | Couples spa, Nov 6 | ⬜ to book | Oct 24 |
+| 🍸 | Tikehau Lounge ~7:45 PM, Nov 6 (OpenTable) | ⬜ to book | Oct 24 |
+| 🚕 | Wailea Village → Tiki Lounge taxi, Nov 6 ~9 PM | ⬜ to book | Nov 5 |
 | 🎟️ | Haleakalā sunset tour with Kīhei pickup, Nov 7 | ⬜ to book | **Oct 21** (small vans sell out) |
 
-**0 of 14 booked.** When something is booked, change ⬜ to ✅, and put the confirmation number in [`bookings.md`](bookings.md).
+**0 of 16 booked.** When something is booked, change ⬜ to ✅, and put the confirmation number in [`bookings.md`](bookings.md).
 
 ---
 
@@ -87,12 +90,12 @@
 
 | 🏨 Hotel | 🚶 Getting around | 💵 Budget rule |
 |---|---|---|
-| **OUTRIGGER Reef Waikīkī Beach Resort**, on the sand, 3 nights<br>Fallbacks: Prince Waikīkī, OUTRIGGER Waikīkī | **No car.** Walk, prebooked airport transfer, rideshare to Diamond Head and Pearl Harbor | Under **$500/night** including taxes and resort fees · ~$1,050–1,500 total |
+| **OUTRIGGER Reef Waikīkī Beach Resort**, on the sand, 3 nights<br>Fallbacks: Prince Waikīkī, OUTRIGGER Waikīkī | **No car.** Walk, rideshare or taxi from the airport, rideshare to Diamond Head and Pearl Harbor | Under **$500/night** including taxes and resort fees · ~$1,050–1,500 total |
 
 <details>
 <summary>🗺️ Oʻahu map</summary>
 
-![Oʻahu overview](maps/01_oahu_overview.jpg)
+![Oʻahu: everything from the hotel](maps/oahu_hub_street.jpg)
 </details>
 
 <a id="oct31"></a>
@@ -161,7 +164,7 @@
 <details>
 <summary>🗺️ Maui map</summary>
 
-![Maui overview](maps/02_maui_overview.jpg)
+![Maui: everything from the hotel](maps/maui_hub_street.jpg)
 </details>
 
 <a id="nov3"></a>
@@ -185,7 +188,7 @@
 |---|---|---|
 | 🚕 Prebooked taxi to Māʻalaea Harbor (25–40 min) · 🤿 **PacWhale Molokini + Turtle Arches**, ~5 h · 🚕 ride back | Lunch, shower, nap, pool | Easy dinner nearby |
 
-- 🎟️ ~$440 for two. PacWhale has **no hotel pickup**: **prebook a taxi** for the early run (rideshare on Maui is thin before 7 AM), ~$50–80 round trip. Check in ~45 min early.
+- 🎟️ ~$440 for two. PacWhale has **no hotel pickup**: **prebook a taxi** for the early run (rideshare on Maui is thin before 7 AM), ~$55–80 round trip. Check in ~45 min early.
 - 🔁 Alternative: a Molokini trip that includes South Maui hotel pickup, or one that leaves from the Kīhei boat ramp (a much shorter ride).
 - 🦺 Ask for flotation vests if you're new to snorkeling. Turtles aren't guaranteed.
 - 🌧️ If it's cancelled for weather, move it to Nov 5 or the morning of Nov 7.
@@ -220,7 +223,7 @@
 | 😴 Sleep in, slow breakfast · 🏖️ Wailea Beach (calm) or Big Beach (wild) | 🏊 Pool, nap, couples spa ✅, time to get ready | 🍽️ **The Restaurant at Hotel Wailea** 🟡 at sunset → 🍸 Tikehau Lounge → 🪩 dancing at South Shore Tiki Lounge |
 
 - 🍽️ Book a **5:15–5:45 PM** seating to catch the light (sunset ~5:47). When booking, mention **the birthday** and **lactose intolerance**, and ask for a dairy-free dessert.
-- 🚕 13 min from the hotel. Take a rideshare if you're drinking.
+- 🚕 Rideshare to Hotel Wailea (~15 min); after cocktails at Tikehau, a prebooked taxi from Wailea Village to the Tiki Lounge in Kīhei (~9 PM), then walk back. Details: [`birthday.md`](birthday.md).
 - 💆 Couples spa ✅ (~$400–700), book by Oct 24.
 - 🍸🪩 Cocktails, dancing, rides and costs for the night: [`birthday.md`](birthday.md).
 
@@ -243,7 +246,7 @@
 
 | 🌅 Morning | ☀️ Afternoon | 🌙 Evening |
 |---|---|---|
-| Slow morning, beach, real lunch | 🚐 **Tour pickup at the hotel ~1:30 PM** · Upcountry views on the way up · summit viewpoints | 🌅 Sunset ~5:50 at the summit · dinner included · back at the hotel ~8 PM |
+| Slow morning, beach, real lunch | 🚐 **Tour pickup at the hotel ~1:30 PM** · Upcountry views on the way up · summit viewpoints | 🌅 Sunset ~5:50–5:55 at the summit · dinner included · back at the hotel ~8 PM |
 
 - 🎟️ **Guided sunset tour with Kīhei hotel pickup**, e.g. [Polynesian Adventure Tours "Haleakalā Sunset Tour with Dinner"](https://www.expedia.com/things-to-do/haleakala-sunset-tour.a390930.activity-details): ~6.5 h, park entry, hot drinks and a to-go dinner included, **~$237/adult (~$475 for two) + driver tip**. Confirm the Nov 7 date, price and pickup point before paying.
 - ⏰ **Book by Oct 21.** Small vans sell out; if Nov 7 is full, try Nov 5 (and drop Hāna) rather than the birthday.
@@ -272,7 +275,7 @@
 | | Leg | Plan | Notes |
 |---|---|---|---|
 | ✈️ | **Oct 31** JFK → HNL | Delta 10:00 AM → 2:58 PM, or Alaska 8:55 AM → 2:10 PM (nonstop) | Book on the airline's site |
-| 🚐 | **Oct 31** HNL → Waikīkī | Prebooked transfer | 30–45 min with bags |
+| 🚕 | **Oct 31** HNL → Waikīkī | Rideshare or flat-rate taxi | 30–45 min with bags |
 | ✈️ | **Nov 3** HNL → OGG | Midday, Southwest or Hawaiian, ~$138 for two | Separate ticket: leave buffer |
 | 🚐 | **Nov 3 + Nov 8** OGG ↔ Kīhei | Prebooked shuttle or rideshare | 30–45 min each way |
 | 🚕 | **Nov 3 → 8** on Maui | No car: tours with pickup, a taxi to Māʻalaea, rideshares | See [no car on Maui](#nocar) |
@@ -287,19 +290,19 @@ Every ride, with options and prices: **[`commute.md`](commute.md)**.
 |---|---|---|
 | Nov 3 | Pick up car at OGG, groceries in Kahului | Prebooked shuttle or rideshare to Kīhei; groceries in Kīhei or delivered |
 | Nov 4 | Drive to Māʻalaea | **Prebooked taxi at dawn** (PacWhale has no pickup), rideshare back |
-| Nov 6 | Drive to Hotel Wailea | Rideshare there, prebooked taxi back |
+| Nov 6 | Drive to Hotel Wailea | Rideshare there; prebooked taxi Wailea Village → Kīhei (~9 PM), walk back |
 | Nov 7 | Self-drive Haleakalā ($30) | **Sunset tour with hotel pickup** (~$475 + tip, dinner included) |
 | Nov 8 | Return car at OGG | Prebooked shuttle or rideshare to OGG |
 
 - 🔴 **Only real blocker:** the Haleakalā tour must have seats on Nov 7. **Book by Oct 21.**
-- 💵 **Price:** about **$150–450 more** than renting, almost all of it the Haleakalā tour.
+- 💵 **Price:** about **$110–470 more** than renting, almost all of it the Haleakalā tour.
 - 🧭 Optional trips (ʻĪao, Pāʻia, West Maui, Big Beach) become rideshare or tour only.
 
 | ⏰ Times to know | |
 |---|---|
 | Sunset, Waikīkī | ~6:00 PM |
 | Sunset, Maui coast | ~5:45–5:50 PM |
-| Sunset, Haleakalā summit | ~5:50 PM |
+| Sunset, Haleakalā summit | ~5:50–5:55 PM |
 | Time zone | Hawaiʻi is **6 h behind NYC on Oct 31**, then **5 h behind** from Nov 1 (NYC falls back) |
 
 <a id="cost"></a>
@@ -311,12 +314,11 @@ Every ride, with options and prices: **[`commute.md`](commute.md)**.
 | 🏨 OUTRIGGER Reef, 3 nights | $1,050–1,500 |
 | 🏨 Maui Coast Hotel, 5 nights | ~$1,695 |
 | 🚐 Transfers, taxis + rides (no rental car) | $480–800 |
-| 🎟️ Diamond Head, Arizona, Molokini, Hāna, Haleakalā sunset tour | ~$1,550–1,610 |
-| 🍽️ Birthday dinner | $220–400 |
+| 🎟️ Diamond Head, Arizona, Molokini, Hāna, Haleakalā sunset tour | ~$1,520–1,620 |
+| 🎂 Birthday: dinner, couples spa, drinks + dancing ([`birthday.md`](birthday.md)) | $730–1,330 |
 | 🍽️ Other meals and groceries | $780–1,150 |
 | 🧾 Tips, bags, souvenirs, buffer | $640–1,330 |
-| **Total** | **≈ $8,400–10,650** |
-| 💆 Birthday couples spa | $400–700 |
+| **Total** | **≈ $8,900–11,600** |
 
 Estimates are Oct 12 snapshots; [`budget.md`](budget.md) tracks actual spend and the split.
 

@@ -7,12 +7,16 @@
 
 ## 📑 Contents
 
-- [Big picture](#big)
-- [🌺 Oʻahu · from OUTRIGGER Reef](#oahu)
+- [✈️ Big picture](#big)
+- [🌺 Oʻahu · Oct 31 – Nov 3](#oahu)
+  - [🏨 The hotel (Oʻahu)](#oahu-hotel)
+  - [🗺️ Everything from the hotel (Oʻahu)](#oahu-hub)
   - [✈️ Hotel ↔ HNL airport](#o-airport)
   - [🥾 Hotel → Diamond Head](#o-dh)
   - [⚓ Hotel → Pearl Harbor → Bishop Museum → Hotel](#o-ph)
-- [🌋 Maui · from Maui Coast Hotel](#maui)
+- [🌋 Maui · Nov 3 – Nov 8](#maui)
+  - [🏨 The hotel (Maui)](#maui-hotel)
+  - [🗺️ Everything from the hotel (Maui)](#maui-hub)
   - [✈️ Hotel ↔ OGG airport](#m-airport)
   - [🤿 Hotel → Māʻalaea Harbor → boat to Molokini](#m-molokini)
   - [🌿 Hotel → Road to Hāna](#m-hana)
@@ -38,13 +42,15 @@
 
 > **Home base: OUTRIGGER Reef Waikīkī.** No car: rideshare, taxi, transfers. Everything is within ~12 miles. Every ride in detail: [`commute.md`](commute.md).
 
-### 🏨 The hotel
+<a id="oahu-hotel"></a>
+### 🏨 The hotel (Oʻahu)
 
 <img src="maps/c_reef_street.jpg" width="49%" alt="OUTRIGGER Reef Waikīkī (hotel) (map)"> <img src="maps/c_reef_sat.jpg" width="49%" alt="OUTRIGGER Reef Waikīkī (hotel) (satellite)">
 
 <sub>`21.27825,-157.83279` · open in Google: [map](https://www.google.com/maps/@?api=1&map_action=map&center=21.27825,-157.83279&zoom=15&basemap=roadmap) · [terrain](https://www.google.com/maps/@?api=1&map_action=map&center=21.27825,-157.83279&zoom=15&basemap=terrain) · [satellite](https://www.google.com/maps/@?api=1&map_action=map&center=21.27825,-157.83279&zoom=16&basemap=satellite) · [3D](https://earth.google.com/web/@21.27825,-157.83279,300a,2500d,35y,0h,60t,0r)</sub>
 
-### 🗺️ Everything from the hotel
+<a id="oahu-hub"></a>
+### 🗺️ Everything from the hotel (Oʻahu)
 
 <a href="maps/oahu_hub_street.jpg"><img src="maps/oahu_hub_street.jpg" width="49%" alt="Oʻahu: everything from the hotel (H) (map)"></a> <a href="maps/oahu_hub_sat.jpg"><img src="maps/oahu_hub_sat.jpg" width="49%" alt="Oʻahu: everything from the hotel (H) (satellite)"></a>
 
@@ -126,13 +132,15 @@
 
 > **Home base: Maui Coast Hotel, Kīhei.** No car: airport shuttle, tours with hotel pickup (Hāna, Haleakalā), a dawn taxi to the Molokini boat, rideshare to dinner. Every ride in detail: [`commute.md`](commute.md).
 
-### 🏨 The hotel
+<a id="maui-hotel"></a>
+### 🏨 The hotel (Maui)
 
 <img src="maps/c_mch_street.jpg" width="49%" alt="Maui Coast Hotel, Kīhei (hotel) (map)"> <img src="maps/c_mch_sat.jpg" width="49%" alt="Maui Coast Hotel, Kīhei (hotel) (satellite)">
 
 <sub>`20.72386,-156.44605` · open in Google: [map](https://www.google.com/maps/@?api=1&map_action=map&center=20.72386,-156.44605&zoom=15&basemap=roadmap) · [terrain](https://www.google.com/maps/@?api=1&map_action=map&center=20.72386,-156.44605&zoom=15&basemap=terrain) · [satellite](https://www.google.com/maps/@?api=1&map_action=map&center=20.72386,-156.44605&zoom=16&basemap=satellite) · [3D](https://earth.google.com/web/@20.72386,-156.44605,300a,2500d,35y,0h,60t,0r)</sub>
 
-### 🗺️ Everything from the hotel
+<a id="maui-hub"></a>
+### 🗺️ Everything from the hotel (Maui)
 
 <a href="maps/maui_hub_street.jpg"><img src="maps/maui_hub_street.jpg" width="49%" alt="Maui: everything from the hotel (H) (map)"></a> <a href="maps/maui_hub_sat.jpg"><img src="maps/maui_hub_sat.jpg" width="49%" alt="Maui: everything from the hotel (H) (satellite)"></a>
 
@@ -142,7 +150,7 @@
 | 2 | **Māʻalaea Harbor (Molokini boat)** | Wed Nov 4 | 9.4 mi | 22 min | 25–40 min; check in 45 min early | 🚖 Prebooked dawn taxi there, rideshare back (~$55–80) | [🤿 go](#m-molokini) |
 | 3 | **Molokini Crater** | Wed Nov 4 | by boat from Māʻalaea | ~1 h by boat | ~1 h by boat each way; ~5 h trip | 🚤 PacWhale boat from Māʻalaea (pin 2) | [🤿 go](#m-molokini) |
 | 4 | **Hāna town** | Thu Nov 5 | 67.4 mi | 2 h 41 min | **10–12 h round-trip day** with stops | 🚐 Guided tour, hotel pickup ~6:30–7:00 AM | [🌿 go](#m-hana) |
-| 5 | **Hotel Wailea (birthday dinner)** | Fri Nov 6 | 4.2 mi | 13 min | ~15 min | 🚕 Rideshare there, prebooked taxi back (~$30–50) | [🎂 go](#m-wailea) |
+| 5 | **Hotel Wailea (birthday dinner)** | Fri Nov 6 | 4.2 mi | 13 min | ~15 min; then Tikehau (Wailea Village) and dancing in Kīhei | 🚕 Rideshare there; prebooked taxi Wailea Village → Tiki Lounge ~9 PM, walk back (~$30–60) | [🎂 go](#m-wailea) |
 | 6 | **Haleakalā Visitor Center (summit)** | Sat Nov 7 | 47.9 mi | 1 h 51 min | 2.5–3 h up, sea level → ~10,000 ft; back ~8 PM | 🚐 Guided sunset tour, hotel pickup ~1:30 PM (entry + dinner included) | [🌋 go](#m-haleakala) |
 
 <a id="m-airport"></a>
@@ -232,7 +240,7 @@
 
 | Distance | Drive time (no traffic) | Plan for | How we get there |
 |---:|---:|---|---|
-| **4.2 mi** | 13 min | ~15 min | 🚕 Rideshare there, prebooked taxi back (~$30–50) |
+| **4.2 mi** | 13 min | ~15 min; then Tikehau (Wailea Village) and dancing in Kīhei | 🚕 Rideshare there; prebooked taxi Wailea Village → Tiki Lounge ~9 PM, walk back (~$30–60) |
 
 [▶ Directions from the hotel in Google Maps](https://www.google.com/maps/dir/?api=1&origin=20.72386,-156.44605&destination=20.67748,-156.43222&travelmode=driving)
 

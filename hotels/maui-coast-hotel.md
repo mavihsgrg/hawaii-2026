@@ -67,18 +67,18 @@ From the hotel's Kai Tower page and Booking.com. Views are **not guaranteed**. P
 |---|---|---|
 | Room, 5 nights | ~$1,695 quoted (~$339/night all-in) | From the Oct 12 research doc; re-check |
 | Resort fee | $46.29/night incl. tax | Hotels.com, Sembo |
-| Parking | ~$20.94/night (self-park, likely) | Unconfirmed |
+| Parking | Not needed (no car) | — |
 | Hawaiʻi tax (GET + TAT) | Included in the quote? | Confirm at checkout |
 
-**Budget check:** 5 nights at ~$339 all-in ≈ $1,695. Under the $2,500 cap (5 × $500), with room for parking.
+**Budget check:** 5 nights at ~$339 all-in ≈ $1,695. Under the $2,500 cap (5 × $500).
 
 ---
 
 ## ✅ Before booking
-- [ ] Live all-in total for Nov 3–8, with resort fee, tax and parking
+- [ ] Live all-in total for Nov 3–8, with resort fee and tax
 - [ ] Room: **Kai Ocean View King**, high floor, ocean view, **king bed**, in writing
-- [ ] Parking: is it free, or $20.94/night? Get it in writing
-- [ ] Late checkout or bag storage on Nov 8 (the flight to NYC leaves in the evening)
-- [ ] Airport transfer: the rental car is picked up at OGG; no hotel shuttle to the airport is confirmed
+- [ ] Courtesy shuttle: how far does it go (Kīhei bars? Wailea?), and which taxi company do they use?
+- [ ] Late checkout or bag storage on Nov 8 (shuttle to OGG ~11:30 AM for the ~2 PM flight)
+- [ ] Airport transfer: prebooked shared shuttle OGG ↔ Kīhei (Nov 3 + Nov 8); ask whether the hotel shuttle reaches OGG
 - [ ] Cancellation deadline and time zone
 - [ ] Birthday note on the reservation (Nov 6)

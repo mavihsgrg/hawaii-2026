@@ -75,6 +75,6 @@ Sizes and beds come from the hotel site and third-party listings, which don't al
 - [ ] Live all-in total for Oct 31 – Nov 3 (room + resort fee + tax)
 - [ ] Room category, with a **king bed** requested in writing
 - [ ] Cancellation deadline (and time zone)
-- [ ] Airport transfer: the hotel's shuttle, or a prebooked private transfer
-- [ ] Early arrival: is the room ready before 3 PM check-in? (flight lands ~3–5 PM)
+- [ ] Airport transfer: rideshare or flat-rate taxi from HNL (no booking needed; see `commute.md`)
+- [ ] Early arrival: is the room ready before 3 PM check-in? (flight lands ~2–3 PM)
 - [ ] Store the bags on checkout day (Nov 3) if the flight to Maui is late
