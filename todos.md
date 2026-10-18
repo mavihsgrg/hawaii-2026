@@ -4,6 +4,8 @@
 > Owners: **S** = Shivam, **P** = partner, **Both**.
 
 ## 🔴 Do first
+- [ ] **Alaska free cancel ends tomorrow (Oct 19):** AS 829 until 12:17 PM ET, and the return until 12:29 PM ET. Decide now whether to keep both · Both · **Oct 19 12:17 PM ET**
+- [ ] **Alaska vegetarian meal:** requested, but missing from the confirmation. Add it on alaskaair.com · S · Oct 20
 - [ ] **Car on Maui:** the Kahului rental shows Nov 3 – 6, but the stay runs to Nov 8. Extend it to Nov 8 · S · Oct 20
 - [ ] **Maui room:** Maui Coast booked a Hoku King. Ask the hotel to change it to the Kai Ocean View King (ocean view, high floor) · S · Oct 25
 - [ ] **OUTRIGGER booking email:** changed Oct 18. Check the booking is still under your email · S · Oct 20
