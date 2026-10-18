@@ -1,0 +1,22 @@
+# key: (label, query, approx lat, lon, island)
+PLACES = {
+ "HNL":   ("HNL airport (Daniel K. Inouye Intl)", "Daniel K. Inouye International Airport", 21.3187,-157.9225,"oahu"),
+ "REEF":  ("OUTRIGGER Reef Waikīkī (hotel)", "Outrigger Reef Waikiki Beach Resort", 21.2797,-157.8330,"oahu"),
+ "DH":    ("Diamond Head State Monument", "Diamond Head State Monument", 21.2638,-157.8058,"oahu"),
+ "PH":    ("Pearl Harbor National Memorial", "Pearl Harbor National Memorial Visitor Center", 21.3678,-157.9393,"oahu"),
+ "BISHOP":("Bishop Museum (optional)", "Bishop Museum Honolulu", 21.3331,-157.8706,"oahu"),
+ "OGG":   ("OGG airport (Kahului)", "Kahului Airport", 20.8986,-156.4305,"maui"),
+ "COSTCO":("Costco Kahului (groceries)", "Costco Kahului", 20.8865,-156.4445,"maui"),
+ "MCH":   ("Maui Coast Hotel, Kīhei (hotel)", "Maui Coast Hotel Kihei", 20.7310,-156.4525,"maui"),
+ "MAALAEA":("Māʻalaea Harbor (Molokini boat)", "Maalaea Harbor", 20.7920,-156.5110,"maui"),
+ "MOLOKINI":("Molokini Crater", "Molokini", 20.6327,-156.4960,"maui"),
+ "PAIA":  ("Pāʻia town", "Paia, Maui", 20.9036,-156.3700,"maui"),
+ "HOOKIPA":("Hoʻokipa Lookout", "Hookipa Beach Park", 20.9339,-156.3567,"maui"),
+ "TWIN":  ("Twin Falls", "Twin Falls Maui Haiku", 20.9118,-156.2432,"maui"),
+ "KEANAE":("Keʻanae Peninsula", "Keanae Peninsula", 20.8622,-156.1458,"maui"),
+ "WAI":   ("Waiʻānapanapa State Park", "Waianapanapa State Park", 20.7863,-156.0035,"maui"),
+ "HANA":  ("Hāna town", "Hana, Maui", 20.7577,-155.9897,"maui"),
+ "WAILEA":("Hotel Wailea (birthday dinner)", "Hotel Wailea", 20.6939,-156.4373,"maui"),
+ "KULA":  ("Kula (Upcountry)", "Kula, Maui", 20.7900,-156.3270,"maui"),
+ "HALE":  ("Haleakalā Visitor Center (summit)", "Haleakala Visitor Center", 20.7148,-156.2486,"maui"),
+}

@@ -1,0 +1,82 @@
+{
+ "REEF": {
+  "REEF": {
+   "dist_m": 0,
+   "dur_s": 0
+  },
+  "HNL": {
+   "dist_m": 15098.4,
+   "dur_s": 1180.7
+  },
+  "DH": {
+   "dist_m": 5500.6,
+   "dur_s": 865
+  },
+  "PH": {
+   "dist_m": 18719.5,
+   "dur_s": 1312.1
+  },
+  "BISHOP": {
+   "dist_m": 9219.8,
+   "dur_s": 750.8
+  }
+ },
+ "MCH": {
+  "MCH": {
+   "dist_m": 0,
+   "dur_s": 0
+  },
+  "OGG": {
+   "dist_m": 21296.3,
+   "dur_s": 1699
+  },
+  "COSTCO": {
+   "dist_m": 19556,
+   "dur_s": 1620
+  },
+  "MAALAEA": {
+   "dist_m": 15135.2,
+   "dur_s": 1346.3
+  },
+  "MOLOKINI": {
+   "dist_m": 11548.6,
+   "dur_s": 1178.1
+  },
+  "PAIA": {
+   "dist_m": 29399.9,
+   "dur_s": 2213.4
+  },
+  "HOOKIPA": {
+   "dist_m": 31886.6,
+   "dur_s": 2453.7
+  },
+  "TWIN": {
+   "dist_m": 46920.5,
+   "dur_s": 3377.5
+  },
+  "KEANAE": {
+   "dist_m": 71060.6,
+   "dur_s": 5527.3
+  },
+  "WAI": {
+   "dist_m": 95827.1,
+   "dur_s": 7880.4
+  },
+  "HANA": {
+   "dist_m": 97829.2,
+   "dur_s": 7944.1
+  },
+  "WAILEA": {
+   "dist_m": 6768.1,
+   "dur_s": 777.5
+  },
+  "KULA": {
+   "dist_m": 39133.5,
+   "dur_s": 2836
+  },
+  "HALE": {
+   "dist_m": 77488.7,
+   "dur_s": 6355.6
+  }
+ }
+}
