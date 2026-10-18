@@ -1,5 +1,26 @@
 # Hawaiʻi 2026: the overall plan
 
+## 📑 Contents
+
+- [🧭 Decision board](#-decision-board)
+- [Compare the three styles](#compare-the-three-styles)
+- [📅 Day by day, with options](#-day-by-day-with-options)
+- [🌺 Branch 1: Oʻahu (Oct 31–Nov 3) ✅ chosen](#-branch-1-oʻahu-oct-31nov-3--chosen)
+- [🌿 Branch 2: Kauaʻi (Oct 31–Nov 3) ❌ not chosen (kept for reference)](#-branch-2-kauaʻi-oct-31nov-3--not-chosen-kept-for-reference)
+- [🏝️ Maui (Nov 3–8, same for both branches)](#-maui-nov-38-same-for-both-branches)
+- [Picture guide](#picture-guide)
+- [A: Balanced day by day](#a-balanced-day-by-day)
+- [B and C: the changes to make](#b-and-c-the-changes-to-make)
+- [How Black Tomato fits](#how-black-tomato-fits)
+- [Current access and reservation facts](#current-access-and-reservation-facts)
+- [Driving allowances and where to stay](#driving-allowances-and-where-to-stay)
+- [Activity choices and initial cost benchmarks](#activity-choices-and-initial-cost-benchmarks)
+- [Rain, cancellations and closures: concrete swaps](#rain-cancellations-and-closures-concrete-swaps)
+- [Birthday dinner possibilities](#birthday-dinner-possibilities)
+- [Timing and packing details that matter](#timing-and-packing-details-that-matter)
+- [Booking sequence](#booking-sequence)
+- [Useful source links](#useful-source-links)
+
 **Oʻahu Oct 31–Nov 3 (decided Oct 18) · Maui Nov 3–8 · NYC Nov 9 · office Nov 10 · 🎂 Shivam's birthday Nov 6 (Maui)**
 All source docs are indexed in [`references.md`](references.md).
 

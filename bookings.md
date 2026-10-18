@@ -2,6 +2,15 @@
 
 > Only real, confirmed bookings. All times HST unless noted. Put PDFs/screenshots in `docs/`.
 
+## 📑 Contents
+
+- [✈️ Flights](#-flights)
+- [🏨 Hotels](#-hotels)
+- [🚗 Rental cars](#-rental-cars)
+- [🎟️ Activities & reservations](#-activities--reservations)
+- [🍽️ Dining](#-dining)
+- [🔎 Live search links (2 adults, economy)](#-live-search-links-2-adults-economy)
+
 ## ✈️ Flights
 | Date | Route | Airline / flight | Depart → Arrive | Conf # | Seats | Bags | Notes |
 |---|---|---|---|---|---|---|---|

@@ -1,5 +1,22 @@
 # Hawaii together: three itinerary possibilities
 
+## 📑 Contents
+
+- [My recommendation](#my-recommendation)
+- [Compare the versions](#compare-the-versions)
+- [Picture guide](#picture-guide)
+- [A: Balanced day by day](#a-balanced-day-by-day)
+- [B and C: the changes to make](#b-and-c-the-changes-to-make)
+- [How Black Tomato fits](#how-black-tomato-fits)
+- [Current access and reservation facts](#current-access-and-reservation-facts)
+- [Driving allowances and where to stay](#driving-allowances-and-where-to-stay)
+- [Activity choices and initial cost benchmarks](#activity-choices-and-initial-cost-benchmarks)
+- [Rain, cancellations and closures: concrete swaps](#rain-cancellations-and-closures-concrete-swaps)
+- [Birthday dinner possibilities](#birthday-dinner-possibilities)
+- [Timing and packing details that matter](#timing-and-packing-details-that-matter)
+- [Booking sequence](#booking-sequence)
+- [Useful source links](#useful-source-links)
+
 Prepared October 12, 2026 for Shivam and his girlfriend. **Kauaʻi October 31–November 3; Maui November 3–8; NYC arrival November 9 preferred; office November 10.** November 6 is Shivam’s birthday. Hotel dates are your selected working dates; exact flight arrival/departure times still need to match them. All activity times below are planning estimates, not reservations.
 
 ## My recommendation

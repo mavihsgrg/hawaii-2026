@@ -3,6 +3,17 @@
 > Updated 2026-10-18. Nothing is booked. Prices are Oct 12 snapshots from the hotel research doc (`references.md` #3). Re-check before paying.
 > Rule: **under $500/night including taxes and mandatory fees**.
 
+## 📑 Contents
+
+- [✅ To finalize (current picks)](#-to-finalize-current-picks)
+- [🌺 Oʻahu options (Oct 31 → Nov 3)](#-oʻahu-options-oct-31--nov-3)
+- [🏝️ Maui options (Nov 3 → Nov 8)](#-maui-options-nov-3--nov-8)
+- [📸 Photos](#-photos)
+- [📝 Notes](#-notes)
+- [🏠 Airbnb options (checked 2026-10-18)](#-airbnb-options-checked-2026-10-18)
+- [🏨 Other hotels worth a look](#-other-hotels-worth-a-look)
+- [🔎 Updated shortlist from this round](#-updated-shortlist-from-this-round)
+
 ---
 
 ## ✅ To finalize (current picks)
@@ -70,3 +81,67 @@ I couldn't verify hotel photo files, so the links below go to each hotel's offic
 - **Aston vs Maui Coast:** Aston is the better beach stay; Maui Coast is the better base for this trip's outings (Molokini, Haleakalā, Hāna pickup, the Wailea dinner). That's why Maui Coast is the pick.
 - Airbnb or Vrbo is possible; compare the same dates, include cleaning fees, and check legal short-stay rules.
 - Sources: hotel research doc (`references.md` #3); island guides [`oahu.md`](oahu.md) and [`maui.md`](maui.md).
+
+---
+
+## 🏠 Airbnb options (checked 2026-10-18)
+
+> The search couldn't see November 2026 availability or live prices. Open each link, enter Oct 31–Nov 3 (Oʻahu) or Nov 3–8 (Maui) for 2 guests, and write down the **all-in total** before comparing. Maui Airbnb pricing can include cleaning fees and Hawaiʻi taxes.
+
+### Oʻahu, Waikīkī
+
+| Listing | Why it could work | Tradeoffs | Link |
+|---|---|---|---|
+| Oceanfront condo, 1 bedroom, 2 baths, lanai off the living room (sleeps 4) | Lanai opens onto the beach; 4.87 rating (38 reviews); near Fort DeRussy Beach Park | Only 38 reviews; no listing link was returned, so search Airbnb for "Waikīkī oceanfront 1 bedroom" | Search Airbnb (no direct link found) |
+| Ocean View, Steps to Beach, Waikīkī Penthouse (2 guests) | Top-floor lanai with ocean view; 4.61 rating (402 reviews); legal resort-zoned | Steps from the beach, not directly on it | [Listing](https://www.airbnb.co.uk/rooms/16248024) |
+| Affordable Luxury in Waikīkī (aparthotel room, Superhost, 2 guests) | Shared pool and sauna; 4.78 rating (248 reviews); ~10 min walk to Fort DeRussy | Not beachfront; a hotel-style room, not a full apartment | [Listing](https://www.airbnb.co.uk/rooms/4015861) |
+| Simply Beautiful Waikīkī Apartment | Apartment with a kitchen | Not yet checked for ratings or price | [Listing](https://www.airbnb.com/rooms/17079406) |
+
+**Oʻahu verdict:** the 4.8+ rated beachfront-area condos are the best Airbnb options if you want a kitchen. OUTRIGGER Reef is still simpler: no cleaning fee surprises and a resort on the beach.
+
+### Maui, Kīhei / Kamaole
+
+| Listing | Why it could work | Tradeoffs | Link |
+|---|---|---|---|
+| Kamaole Beach Royale, 201 (spacious) | Near Kamaole beaches; a kitchen for groceries | Not yet checked for rating or price | [Listing](https://www.airbnb.gy/rooms/9040977) |
+| Maui Kamaole, unit I-118 (ground floor, sleeps 4, ocean views) | Ocean views; ground floor, so no stairs with luggage | Sleeps 4, so you'd pay for an unused bed | [Airbnb results](https://www.airbnb.com/rooms/36734147) |
+| Ocean View Maui Getaway, steps to beach, pool, A/C | Steps to the beach; pool; A/C | Not yet checked for rating or price | [Listing](https://hichee.com/listings/105889) |
+| Maui Kamaole #G-114 (1 bed, sleeps 2, "Exceptional Ocean Views") | Ocean views for 2 guests; pool and hot tub; ~5 min walk to Kamaole Beach Park 3 | Listed through Travelocity; confirm the view on the live page | [Listing](https://www.travelocity.com/Kihei-Hotels-Exceptional-Ocean-Views-Renovated-Maui-Kamaole-G-114.h57944606.Hotel-Information) |
+| Kihei Akahi, 1-bed Superhost condo (sleeps 2) | Short walk to Kamaole Beach; A/C in living room and bedroom; 11 years hosting | No ocean view mentioned; no direct listing link returned | [Kamaole Beach Park I stays](https://www.airbnb.com.au/kamaole-beach-park-i-hi/stays/washer-and-dryer) (area results) |
+
+**Maui verdict:** a Kamaole ocean-view condo for 2 guests could beat Maui Coast on kitchen and space, and it's about the same location. Check the total and the view before choosing it over the Kai Tower king.
+
+---
+
+## 🏨 Other hotels worth a look
+
+These came from undated or mixed-date sources, so **every price below needs a live check**.
+
+### Oʻahu, under $500/night (reported rates, varied dates)
+
+| Hotel | Why | Reported rate | Link |
+|---|---|---|---|
+| Shoreline Hotel Waikīkī | Modern boutique, island-chic style | ~$159 | Rate from an undated search snippet; check the hotel site |
+| Surfjack Hotel & Swim Club | Retro-modern bungalows and suites; Chef Ed's restaurant | ~$217 | [Source](https://www.shermanstravel.com/advice/waikikis-new-wave-of-affordable-boutique-chains) |
+| Coconut Waikīkī Hotel | Mountain views; 3 blocks from the beach | ~$139–159 | [Source](https://www.shermanstravel.com/advice/waikikis-new-wave-of-affordable-boutique-chains) |
+| Hotel Renew | Wellness focus; 1 block from Kūhiō Beach | From ~$135 | [Source](https://www.shermanstravel.com/advice/waikikis-new-wave-of-affordable-boutique-chains) |
+| Lotus Honolulu at Diamond Head | Diamond Head area; $25 resort fee includes valet and bikes | ~$249 | [Source](https://www.journeyera.com/boutique-hotels-oahu/) |
+| The Modern Honolulu | Boutique; near Ala Moana (not central Waikīkī); "4th night free" promo seen | ~$269 | [Source](https://www.journeyera.com/boutique-hotels-oahu/) |
+
+### Maui, Kīhei / Wailea
+
+| Hotel | Why | Reported rate | Link |
+|---|---|---|---|
+| Signature Residences at Maui Banyan | Near Kamaole Beach Park; a residence-style stay | ~$447 | [Hotels.com, Kīhei](https://ca.hotels.com/ho2907653920) |
+| Hilton Grand Vacations Club Maui Bay Villas | Private beach access (North Kīhei) | Not shown | [Hotels.com, Kīhei](https://ca.hotels.com/ho3433016096) |
+| Mana Kai Maui | Beachfront access | Not shown | [Hotels.com, Kīhei](https://www.hotelscombined.com.sg/Place/Kihei.htm) |
+| Residence Inn by Marriott Maui Wailea | All-suite, free breakfast; not described as beachfront | Not shown | [Hotelierschoice](https://hotelierschoice.com/es/cities/maui/) |
+
+**Over $500, so not an option on budget:** Four Seasons Maui at Wailea (~$1,235), Fairmont Kea Lani (~$899), Andaz Maui (~$815). Hotel Wailea is still the Nov 6 dinner spot.
+
+---
+
+## 🔎 Updated shortlist from this round
+- **Oʻahu:** OUTRIGGER Reef stays the pick. A beachfront-area Airbnb is the alternative if you want a kitchen; check the all-in total first.
+- **Maui:** Maui Coast Kai Tower stays the pick. A Kamaole ocean-view Airbnb for 2 is worth pricing as the alternative.
+- **Next step:** pull live prices for these links on your dates, then update the table at the top.

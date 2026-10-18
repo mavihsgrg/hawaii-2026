@@ -2,6 +2,10 @@
 
 > Estimates for the couple unless noted. Fill in **Actual** when paid, and **Paid by** so settling up is easy.
 
+## 📑 Contents
+
+- [Settle-up](#settle-up)
+
 | Category | Item | Estimate | Actual | Paid by | Notes |
 |---|---|---:|---:|---|---|
 | Flights | NYC → HNL/LIH ×2 + return ×2 | $1,981–2,168 | | | |

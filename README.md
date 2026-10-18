@@ -1,5 +1,11 @@
 # Hawaiʻi 2026 — Oʻahu + Maui
 
+## 📑 Contents
+
+- [Where things live](#where-things-live)
+- [Workflow](#workflow)
+- [Collaborating](#collaborating)
+
 **Oct 31 – Nov 8, 2026** · first island **Oʻahu** Oct 31–Nov 3 (no car) · Maui Nov 3–8 (rental car, Kīhei base) · Shivam's birthday Nov 6 (Maui) · back in NYC Nov 9, office Nov 10
 
 ## Where things live

@@ -4,6 +4,16 @@
 > Format: `- [ ] task · owner · due · notes`. Tick `[x]` when done and add details to [`bookings.md`](bookings.md).
 > Owners: **S** = Shivam, **P** = partner, **Both**. Sources for every item are in [`references.md`](references.md).
 
+## 📑 Contents
+
+- [🔴 Decide today/tomorrow (blocks everything else)](#-decide-todaytomorrow-blocks-everything-else)
+- [🔴 Book by Oct 19: the backbone](#-book-by-oct-19-the-backbone)
+- [🟠 Decide together (by Oct 21)](#-decide-together-by-oct-21)
+- [🟡 Book activities (by Oct 24)](#-book-activities-by-oct-24)
+- [🟢 Before departure (Oct 25–30)](#-before-departure-oct-2530)
+- [🔵 During the trip](#-during-the-trip)
+- [✅ Done](#-done)
+
 ## 🔴 Decide today/tomorrow (blocks everything else)
 - [x] **First island: Oʻahu or Kauaʻi?** → ✅ **Oʻahu** (Oct 18). Flights differ by only ~$15; choose on experience (Oʻahu = Waikīkī, Diamond Head, Pearl Harbor, easy without a car; Kauaʻi = Nā Pali, dramatic nature, some areas still closed) · Both · Oct 18
 - [x] **Drive or no-drive?** → ✅ no car on Oʻahu, rental car on Maui (Oct 18). The newer docs assume tours + transfers. Decide per island (no car on Oʻahu is easy; Kauaʻi/Maui without a car means pre-booked rides) · Both · Oct 18

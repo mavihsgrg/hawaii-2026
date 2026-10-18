@@ -3,6 +3,14 @@
 > Index of everything written so far, newest/most relevant first. These are **inputs**: decisions get recorded in `overall_plan.md` → `tentative_plan.md`.
 > Reviewed 2026-10-17. None of these docs contain a confirmed booking.
 
+## 📑 Contents
+
+- [📄 Planning docs (Google Docs)](#-planning-docs-google-docs)
+- [⚠️ Where the docs disagree (resolve in `overall_plan.md` → Decision board)](#-where-the-docs-disagree-resolve-in-overall_planmd--decision-board)
+- [Constraints pulled from the docs](#constraints-pulled-from-the-docs)
+- [🌐 Trip-planning guides used](#-trip-planning-guides-used)
+- [🛑 Status checks (Oct 17)](#-status-checks-oct-17)
+
 ## 📄 Planning docs (Google Docs)
 
 | # | Doc | Status | What's in it | Key numbers |

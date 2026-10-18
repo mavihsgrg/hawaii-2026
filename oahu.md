@@ -4,6 +4,17 @@
 > Created 2026-10-18. Nothing is booked yet: see [`bookings.md`](bookings.md). Overall trip: [`tentative_plan.md`](tentative_plan.md).
 > Base: **Waikīkī, no car** (transfers + rideshare). Then → [`maui.md`](maui.md) on Nov 3.
 
+## 📑 Contents
+
+- [✅ The final plan](#-the-final-plan)
+- [🎟️ Bookings for Oʻahu (do these now)](#-bookings-for-oʻahu-do-these-now)
+- [🌺 Everything else to do on Oʻahu](#-everything-else-to-do-on-oʻahu)
+- [🍽️ Food ideas (no reservations needed unless noted)](#-food-ideas-no-reservations-needed-unless-noted)
+- [🌧️ Rain and backup swaps](#-rain-and-backup-swaps)
+- [💵 Oʻahu costs (two people)](#-oʻahu-costs-two-people)
+- [🧭 Practical notes](#-practical-notes)
+- [Sources](#sources)
+
 ![Waikīkī beach, blue water](https://www.andrewshoemaker.com/images/640/waikiki-blue-beach-abstract-panorama.jpg)
 <sub>Waikīkī · [Photo: Andrew Shoemaker](https://www.andrewshoemaker.com/photo/waikiki-blue-beach-abstract-panorama/)</sub>
 

@@ -1,5 +1,14 @@
 # Packing list
 
+## 📑 Contents
+
+- [Carry-on (survives lost luggage)](#carry-on-survives-lost-luggage)
+- [Beach & water](#beach--water)
+- [Haleakalā (it's ~40–50°F at the summit at sunset)](#haleakalā-its-4050f-at-the-summit-at-sunset)
+- [Day trips](#day-trips)
+- [🎂 Birthday dinner](#-birthday-dinner)
+- [Tech](#tech)
+
 ## Carry-on (survives lost luggage)
 - [ ] IDs / Real ID, wallet, cards
 - [ ] Medications (incl. lactase pills)

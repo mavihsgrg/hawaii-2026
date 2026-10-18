@@ -4,6 +4,17 @@
 > Created 2026-10-18. Nothing is booked yet: see [`bookings.md`](bookings.md). Overall trip: [`tentative_plan.md`](tentative_plan.md). Previous leg: [`oahu.md`](oahu.md).
 > Base: **Kīhei, with a rental car** (OGG Nov 3 → Nov 8). **Nov 6 is Shivam's birthday** and stays a protected rest day.
 
+## 📑 Contents
+
+- [✅ The final plan](#-the-final-plan)
+- [🎟️ Bookings for Maui](#-bookings-for-maui)
+- [🌺 Everything else to do on Maui](#-everything-else-to-do-on-maui)
+- [🍽️ Food ideas](#-food-ideas)
+- [🌧️ Rain and backup swaps](#-rain-and-backup-swaps)
+- [💵 Maui costs (two people)](#-maui-costs-two-people)
+- [🧭 Practical notes](#-practical-notes)
+- [Sources](#sources)
+
 ![Wailea Beach aerial panorama](https://www.andrewshoemaker.com/images/640/wailea-beach-maui-aerial-panorama-hawaii.jpg)
 <sub>Wailea Beach, South Maui · [Photo: Andrew Shoemaker](https://www.andrewshoemaker.com/photo/wailea-beach-maui-aerial-panorama-hawaii/)</sub>
 

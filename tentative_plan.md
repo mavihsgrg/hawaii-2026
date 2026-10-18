@@ -5,6 +5,12 @@
 > Last updated: 2026-10-18 · Status: 🟢 plan agreed, **nothing booked yet** (see [`bookings.md`](bookings.md)).
 > Decided Oct 18: **Oʻahu first, then Maui** · **8 nights** (NYC Nov 9, pending the partner's time off) · **no car on Oʻahu, rental car on Maui**.
 
+## 📑 Contents
+
+- [At a glance](#at-a-glance)
+- [Day by day](#day-by-day)
+- [Key times](#key-times)
+
 ## At a glance
 
 | Date | Day | Island / base | Plan |

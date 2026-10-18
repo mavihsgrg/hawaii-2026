@@ -5,6 +5,15 @@
 > **Interactive maps** (the `geojson` blocks) render as zoomable maps on GitHub.
 > Distances and no-traffic drive times come from OSRM (OpenStreetMap routing). **"Plan for"** is the realistic time from our research, with traffic, parking and the slow Hāna road. Generated 2026-10-18 for the decided plan (Oʻahu → Maui).
 
+## 📑 Contents
+
+- [Big picture](#big-picture)
+- [All distances at a glance](#all-distances-at-a-glance)
+- [Oʻahu (Oct 31 – Nov 3)](#oʻahu-oct-31--nov-3)
+- [Maui (Nov 3 – 8)](#maui-nov-3--8)
+- [Every location, close up](#every-location-close-up)
+- [How to update the maps](#how-to-update-the-maps)
+
 **Jump to:** [Big picture](#big) · [All distances](#all) · [Oʻahu](#oahu) · [Maui](#maui) · [Every location](#every) · [How to update](#update)
 
 <a id="big"></a>
