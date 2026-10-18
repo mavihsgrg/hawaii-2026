@@ -16,6 +16,7 @@
 | [`maui.md`](maui.md) | Island guide for Nov 3 – Nov 8: Kīhei base, no car, birthday rest day, the final plan at the top, options below | Updates the Maui part of the plan |
 | [`birthday.md`](birthday.md) | Everything for the Nov 6 birthday: day plan, spa, dinner, cocktails, dancing, weed rules, rides, to-dos, cost, backups | Book details still go in `bookings.md` and costs in `budget.md` |
 | [`commute.md`](commute.md) | Every ride of the trip (no car): options per leg, cost, our pick, blockers, no-car vs rental-car cost | Update when a ride is booked; confirmation goes in `bookings.md` |
+| [`photos.md`](photos.md) | Photo guide: up to 6 photos of every hotel, restaurant, bar and place in the plan (Oʻahu, Maui, Kauaʻi), with a full index and Google Images/Maps links | Add photos by hand; credit the source under each one |
 | [`map.md`](map.md) | Hotel-centred maps per island (normal + satellite), one section per trip out of the hotel, distances/drive times, Google map/terrain/3D links | Regenerate with `maps/tools/` when the plan changes |
 | [`tentative_plan.md`](tentative_plan.md) | The clean, day-by-day plan | **Only things that are decided.** If there are still options, it isn't here yet. |
 | [`overall_plan.md`](overall_plan.md) | The big master doc: every option per day, photos, research, closures, drive times, costs, rain backups | Mark choices ✅ when decided, then copy them into `tentative_plan.md` |
