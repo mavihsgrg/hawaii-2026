@@ -153,7 +153,7 @@ def render(name, title, keys=(), routes=(), lines=(), W=1200, H=800, zmax=15, pa
 
 # ---------- the trip ----------
 OAHU_LEGS = [["HNL", "REEF"], ["REEF", "DH"], ["REEF", "PH", "BISHOP", "REEF"], ["REEF", "HNL"]]
-MAUI_LEGS = [["OGG", "COSTCO", "MCH"], ["MCH", "MAALAEA"], ["MCH", "PAIA", "HOOKIPA", "TWIN", "KEANAE", "WAI", "HANA"],
+MAUI_LEGS = [["OGG", "MCH"], ["MCH", "MAALAEA"], ["MCH", "PAIA", "HOOKIPA", "TWIN", "KEANAE", "WAI", "HANA"],
              ["MCH", "WAILEA"], ["MCH", "KULA", "HALE"], ["MCH", "OGG"]]
 
 if __name__ == "__main__":
@@ -173,16 +173,16 @@ if __name__ == "__main__":
     render("d3_nov02", "Mon Nov 2 · Hotel → Pearl Harbor → (Bishop Museum) → Hotel", keys=["REEF", "PH", "BISHOP"],
            routes=[["REEF", "PH", "BISHOP", "REEF"]])
     render("d4_nov03_oahu", "Tue Nov 3 · Hotel → HNL airport", keys=["REEF", "HNL"], routes=[["REEF", "HNL"]])
-    render("d4_nov03_maui", "Tue Nov 3 · OGG airport → Costco → Maui Coast Hotel, Kīhei", keys=["OGG", "COSTCO", "MCH"],
-           routes=[["OGG", "COSTCO", "MCH"]])
-    render("d5_nov04", "Wed Nov 4 · Hotel → Māʻalaea Harbor → boat to Molokini", keys=["MCH", "MAALAEA", "MOLOKINI"],
+    render("d4_nov03_maui", "Tue Nov 3 · OGG airport → Maui Coast Hotel, Kīhei (shuttle / rideshare)", keys=["OGG", "MCH"],
+           routes=[["OGG", "MCH"]])
+    render("d5_nov04", "Wed Nov 4 · Taxi to Māʻalaea Harbor → boat to Molokini", keys=["MCH", "MAALAEA", "MOLOKINI"],
            routes=[["MCH", "MAALAEA"]], lines=[("MAALAEA", "MOLOKINI", "boat ~1 h each way")], zmax=13)
     render("d6_nov05", "Thu Nov 5 · Road to Hāna (tour route)", keys=["MCH", "PAIA", "HOOKIPA", "TWIN", "KEANAE", "WAI", "HANA"],
            routes=[["MCH", "PAIA", "HOOKIPA", "TWIN", "KEANAE", "WAI", "HANA"]], zmax=12, pad=70)
-    render("d7_nov06", "Fri Nov 6 (birthday) · Hotel → Hotel Wailea (birthday dinner)", keys=["MCH", "WAILEA"], routes=[["MCH", "WAILEA"]])
-    render("d8_nov07", "Sat Nov 7 · Hotel → Kula → Haleakalā summit (sunset)", keys=["MCH", "KULA", "HALE"],
+    render("d7_nov06", "Fri Nov 6 (birthday) · Rideshare to Hotel Wailea (birthday dinner)", keys=["MCH", "WAILEA"], routes=[["MCH", "WAILEA"]])
+    render("d8_nov07", "Sat Nov 7 · Haleakalā sunset tour (hotel pickup) via Kula", keys=["MCH", "KULA", "HALE"],
            routes=[["MCH", "KULA", "HALE"]], zmax=12)
-    render("d9_nov08", "Sun Nov 8 · Hotel → OGG airport", keys=["MCH", "OGG"], routes=[["MCH", "OGG"]])
+    render("d9_nov08", "Sun Nov 8 · Hotel → OGG airport (shuttle / rideshare)", keys=["MCH", "OGG"], routes=[["MCH", "OGG"]])
     # every location, close up
     CLOSE_Z = {"MOLOKINI": 15, "HANA": 15, "PAIA": 15, "KULA": 14, "KEANAE": 15, "HALE": 15, "HNL": 14, "OGG": 14, "DH": 15, "PH": 15}
     for k in PLACES:

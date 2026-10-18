@@ -92,13 +92,13 @@ md = f"""# 🗺️ Trip map: every place, every drive
 | Mon Nov 2 | Hotel → Pearl Harbor | {mi(R['REEF>PH>BISHOP>REEF']['legs'][0]['dist_m'])} | {mins(R['REEF>PH>BISHOP>REEF']['legs'][0]['dur_s'])} | 30–40 min (H-1 traffic) | Rideshare |
 | Mon Nov 2 | Pearl Harbor → Bishop Museum → Hotel | {mi(R['REEF>PH>BISHOP>REEF']['legs'][1]['dist_m']+R['REEF>PH>BISHOP>REEF']['legs'][2]['dist_m'])} | {mins(R['REEF>PH>BISHOP>REEF']['legs'][1]['dur_s']+R['REEF>PH>BISHOP>REEF']['legs'][2]['dur_s'])} | 30–45 min | Rideshare |
 | Tue Nov 3 | Hotel → HNL | {mi(R['REEF>HNL']['dist_m'])} | {mins(R['REEF>HNL']['dur_s'])} | leave ~2.5 h before the flight | Transfer |
-| Tue Nov 3 | OGG → Costco → Maui Coast Hotel | {mi(R['OGG>COSTCO>MCH']['dist_m'])} | {mins(R['OGG>COSTCO>MCH']['dur_s'])} | 1–1.5 h incl. car pickup + shop | 🚗 Rental car |
-| Wed Nov 4 | Hotel → Māʻalaea Harbor | {mi(R['MCH>MAALAEA']['dist_m'])} | {mins(R['MCH>MAALAEA']['dur_s'])} | 25–40 min; check in 45 min early | 🚗 |
+| Tue Nov 3 | OGG → Maui Coast Hotel | {mi(R['OGG>MCH']['dist_m'])} | {mins(R['OGG>MCH']['dur_s'])} | 30–45 min (+ shuttle stops) | 🚐 Prebooked shuttle or rideshare |
+| Wed Nov 4 | Hotel → Māʻalaea Harbor | {mi(R['MCH>MAALAEA']['dist_m'])} | {mins(R['MCH>MAALAEA']['dur_s'])} | 25–40 min; check in 45 min early | 🚖 Prebooked dawn taxi; rideshare back |
 | Wed Nov 4 | Māʻalaea → Molokini | ~11 mi by sea | — | ~1 h each way, ~5 h trip | 🚤 PacWhale |
 | Thu Nov 5 | Hotel → Hāna (all stops) | {mi(R['>'.join(hana)]['dist_m'])} one way | {mins(R['>'.join(hana)]['dur_s'])} | **10–12 h round-trip day** | 🚐 Guided tour |
-| Fri Nov 6 🎂 | Hotel → Hotel Wailea | {mi(R['MCH>WAILEA']['dist_m'])} | {mins(R['MCH>WAILEA']['dur_s'])} | 15 min (rideshare if drinking) | 🚗 / rideshare |
-| Sat Nov 7 | Hotel → Kula → Haleakalā summit | {mi(R['MCH>KULA>HALE']['dist_m'])} | {mins(R['MCH>KULA>HALE']['dur_s'])} | **2.5–3 h + gate queue** (NPS) | 🚗 |
-| Sun Nov 8 | Hotel → OGG | {mi(R['MCH>OGG']['dist_m'])} | {mins(R['MCH>OGG']['dur_s'])} | 30–45 min + car return | 🚗 |
+| Fri Nov 6 🎂 | Hotel → Hotel Wailea | {mi(R['MCH>WAILEA']['dist_m'])} | {mins(R['MCH>WAILEA']['dur_s'])} | 15 min | 🚕 Rideshare there, prebooked taxi back |
+| Sat Nov 7 | Hotel → Kula → Haleakalā summit | {mi(R['MCH>KULA>HALE']['dist_m'])} | {mins(R['MCH>KULA>HALE']['dur_s'])} | **2.5–3 h** up; tour pickup ~1:30 PM, back ~8 PM | 🚐 Guided sunset tour (hotel pickup) |
+| Sun Nov 8 | Hotel → OGG | {mi(R['MCH>OGG']['dist_m'])} | {mins(R['MCH>OGG']['dur_s'])} | 30–45 min; leave ~2.5 h before the flight | 🚐 Prebooked shuttle or rideshare |
 
 ---
 
@@ -146,13 +146,13 @@ No car: transfer + rideshares. Everything is within ~12 miles of the hotel.
 <a id="maui"></a>
 ## Maui (Nov 3 – 8)
 
-Rental car from OGG, based in Kīhei. Hāna is a guided tour; everything else is a self-drive.
+**No car**, based in Kīhei. Hāna and Haleakalā are guided tours with hotel pickup; the airport is a prebooked shuttle; Molokini is a dawn taxi to the harbor; dinner is a rideshare. Every ride and its options: [`commute.md`](commute.md).
 
 ![Maui overview](maps/02_maui_overview.jpg)
 
 **Interactive map:**
 
-{geojson(MAUI_ALL, [["OGG","COSTCO","MCH"], ["MCH","MAALAEA"], hana, ["MCH","WAILEA"], ["MCH","KULA","HALE"]], [("MAALAEA","MOLOKINI","Boat to Molokini")])}
+{geojson(MAUI_ALL, [["OGG","MCH"], ["MCH","MAALAEA"], hana, ["MCH","WAILEA"], ["MCH","KULA","HALE"]], [("MAALAEA","MOLOKINI","Boat to Molokini")])}
 
 ### From the hotel to everything on Maui
 
@@ -162,13 +162,13 @@ Rental car from OGG, based in Kīhei. Hāna is a guided tour; everything else is
 
 ![Nov 3 Maui](maps/d4_nov03_maui.jpg)
 
-{leg_table(["OGG","COSTCO","MCH"], ["Car pickup takes 30–45 min first", "Plus shopping time"])}
+{leg_table(["OGG","MCH"], ["🚐 Prebooked shared shuttle (a few hotel stops) or rideshare; groceries in Kīhei after check-in"])}
 
 ### Wed Nov 4: Molokini snorkel
 
 ![Nov 4](maps/d5_nov04.jpg)
 
-{leg_table(["MCH","MAALAEA"], ["25–40 min; check in 45 min before departure"])}
+{leg_table(["MCH","MAALAEA"], ["🚖 Prebooked taxi at dawn (no hotel pickup; rideshare thin before 7 AM); check in 45 min before departure"])}
 
 Then about 11 miles by boat to Molokini, a sunken crater rim in the ʻAlalākeiki Channel. Around 5 hours in total, with Turtle Arches on the way back.
 
@@ -184,21 +184,21 @@ The road has 59 bridges (many single-lane) and 600+ curves; the routing engine's
 
 ![Nov 6](maps/d7_nov06.jpg)
 
-{leg_table(["MCH","WAILEA"], ["15 min; take a rideshare if you're drinking"])}
+{leg_table(["MCH","WAILEA"], ["🚕 15 min by rideshare; prebook a taxi for the ride back after dinner"])}
 
 ### Sat Nov 7: Haleakalā sunset
 
 ![Nov 7](maps/d8_nov07.jpg)
 
-{leg_table(["MCH","KULA","HALE"], ["~50 min to Upcountry", "60–75 min of switchbacks, sea level → 9,740 ft"])}
+{leg_table(["MCH","KULA","HALE"], ["🚐 On the tour: ~50 min to Upcountry", "60–75 min of switchbacks, sea level → 9,740 ft"])}
 
-You climb from sea level to **~10,000 ft** in about 50 miles: dozens of switchbacks above Kula, ~35–45 °F with wind at sunset, then the drive down in the dark. NPS says to allow **~3 hours from Wailea** and to arrive 3 hours before sunset.
+🚐 **Guided sunset tour with hotel pickup** (~1:30 PM, back ~8 PM; park entry and a to-go dinner included). The van climbs from sea level to **~10,000 ft** in about 50 miles: dozens of switchbacks above Kula, ~35–45 °F with wind at sunset, then the guide drives down in the dark. The route shown is the usual one; the tour's may differ.
 
 ### Sun Nov 8: hotel → OGG
 
 ![Nov 8](maps/d9_nov08.jpg)
 
-{leg_table(["MCH","OGG"], ["30–45 min; fill up the tank and allow time for the car return"])}
+{leg_table(["MCH","OGG"], ["🚐 30–45 min by prebooked shuttle or rideshare; leave the hotel ~11:30 AM"])}
 
 ---
 

@@ -6,7 +6,7 @@ PLACES = {
  "PH":    ("Pearl Harbor National Memorial", "Pearl Harbor National Memorial Visitor Center", 21.3678,-157.9393,"oahu"),
  "BISHOP":("Bishop Museum (optional)", "Bishop Museum Honolulu", 21.3331,-157.8706,"oahu"),
  "OGG":   ("OGG airport (Kahului)", "Kahului Airport", 20.8986,-156.4305,"maui"),
- "COSTCO":("Costco Kahului (groceries)", "Costco Kahului", 20.8865,-156.4445,"maui"),
+ "COSTCO":("Costco Kahului (optional groceries)", "Costco Kahului", 20.8865,-156.4445,"maui"),
  "MCH":   ("Maui Coast Hotel, Kīhei (hotel)", "Maui Coast Hotel Kihei", 20.7310,-156.4525,"maui"),
  "MAALAEA":("Māʻalaea Harbor (Molokini boat)", "Maalaea Harbor", 20.7920,-156.5110,"maui"),
  "MOLOKINI":("Molokini Crater", "Molokini", 20.6327,-156.4960,"maui"),

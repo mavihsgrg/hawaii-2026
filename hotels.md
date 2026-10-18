@@ -27,7 +27,7 @@
 | Stay | Dates | Pick | Why | Price (Oct 12) | Still to check | Deadline |
 |---|---|---|---|---|---|---|
 | **Oʻahu** | Oct 31 → Nov 3 (3 nights) | **OUTRIGGER Reef Waikīkī Beach Resort** | Beachfront, walkable, Monkeypod dinner, nightly Hawaiian music; no car needed | Unverified. ~$50/night resort fee + tax, parking extra | Exact-date all-in total, king bed, cancellation cutoff | **Oct 19** |
-| **Maui** | Nov 3 → Nov 8 (5 nights) | **Maui Coast Hotel, Kīhei · Kai Tower king** | Closest practical base for Molokini, Haleakalā and the Nov 6 Wailea dinner; kitchen-friendly | ~$1,695 all-in (5 nights). $46.29/night resort fee incl. tax; parking extra | Confirm the Kai Tower king rate (earlier calendar rates weren't guaranteed), parking cost, late checkout on Nov 8 | **Oct 19** |
+| **Maui** | Nov 3 → Nov 8 (5 nights) | **Maui Coast Hotel, Kīhei · Kai Tower king** | Closest practical base for Molokini, Haleakalā and the Nov 6 Wailea dinner; kitchen-friendly | ~$1,695 all-in (5 nights). $46.29/night resort fee incl. tax; no parking needed (no car) | Confirm the Kai Tower king rate (earlier calendar rates weren't guaranteed), courtesy shuttle?, luggage hold + late checkout on Nov 8 | **Oct 19** |
 
 **Decision needed (both of you):** confirm the two picks, or switch Maui to Aston (see below). Once confirmed, book, then copy the confirmation numbers into [`bookings.md`](bookings.md) and the totals into [`budget.md`](budget.md).
 
@@ -55,7 +55,7 @@ Base: Waikīkī. No car. Rideshare for Diamond Head, bus or taxi for Pearl Harbo
 
 ## 🏝️ Maui options (Nov 3 → Nov 8)
 
-Base: Kīhei / Wailea (south), or Kāʻanapali (west). Maui has a rental car, so location matters for Hāna, Haleakalā and the Nov 6 dinner.
+Base: Kīhei / Wailea (south), or Kāʻanapali (west). No car on Maui, so the base must be where tours pick up (Hāna, Haleakalā), close to Māʻalaea by taxi, and a short ride from the Nov 6 dinner. South Maui (Kīhei) fits; West Maui would mean long, pricey rides.
 
 | Hotel | Why choose it | Tradeoffs | Price status | Links |
 |---|---|---|---|---|

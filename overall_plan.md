@@ -67,7 +67,7 @@ All source docs are indexed in [`references.md`](references.md).
 | Decision | Options | Leaning | Status |
 |---|---|---|---|
 | **First island** | **Oʻahu** (Waikīkī, Diamond Head, Pearl Harbor; easy with no car) · ~~Kauaʻi~~ (key parks closed, ~$1,000–1,500 more, no nonstop) | **Oʻahu** | ✅ Oct 18 |
-| **Transport** | No driving (tours + transfers, per the newer docs) · rental cars | **No car on Oʻahu; rental car on Maui** | ✅ Oct 18 |
+| **Transport** | No driving (tours + transfers, per the newer docs) · rental cars | **No car anywhere** (shuttles, taxis, rideshare, tours with pickup; see [`commute.md`](commute.md)) | ✅ Oct 18 |
 | **Nights** | 8 (NYC Nov 9) · 7 (NYC Nov 8) | **8** | ✅ Oct 18 (confirm partner's PTO) |
 | Overall style | A Balanced · B Adventurous · C Romance & rest | A Balanced (recommended) | 🟡 |
 | Oʻahu hotel | OUTRIGGER Reef (price first) · Prince Waikīkī · OUTRIGGER Waikīkī | OUTRIGGER Reef | ✅ to book |
@@ -80,7 +80,7 @@ All source docs are indexed in [`references.md`](references.md).
 | Nov 5 | Road to Hāna (full day) · slow Wailea day · ʻĪao Valley | Guided Hāna tour (drop first if too busy) | 🟡 |
 | Nov 6 🎂 | Protected rest day + dinner | ✅ rest day | ✅ / dinner 🟡 |
 | Birthday dinner | Hotel Wailea Restaurant · Monkeypod Wailea · Mama's Fish House | Hotel Wailea | 🟡 |
-| Nov 7 | Haleakalā sunset · sunrise · daytime | Sunset, self-drive | ✅ |
+| Nov 7 | Haleakalā sunset · sunrise · daytime | Sunset, **guided tour with hotel pickup** (~$475 + tip) | ✅ |
 
 \* Hāʻena reopening is reported by [Hawaii-Guide](https://www.hawaii-guide.com/blog/haena-kalalau-trail-reopening-summer-2026). It covers day use, Kēʻē Beach and the Hanakāpīʻai hike; camping and the Kalalau Trail past mile 2 are still closed. Verify on [gohaena.com](https://gohaena.com/info-faqs/) before booking.
 

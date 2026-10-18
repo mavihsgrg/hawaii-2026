@@ -2,7 +2,7 @@
 
 > Island guide for the second leg. **The final plan is at the top**; everything else on the island (options, details, photos, bookings, backups) is below it.
 > Created 2026-10-18. Nothing is booked yet: see [`bookings.md`](bookings.md). Overall trip: [`tentative_plan.md`](tentative_plan.md). Previous leg: [`oahu.md`](oahu.md).
-> Base: **Kīhei, with a rental car** (OGG Nov 3 → Nov 8). **Nov 6 is Shivam's birthday** and stays a protected rest day.
+> Base: **Kīhei, no car**: shuttle from OGG, tours with hotel pickup, taxi/rideshare for short hops (every ride: [`commute.md`](commute.md)). **Nov 6 is Shivam's birthday** and stays a protected rest day.
 
 ## 📑 Contents
 
@@ -11,7 +11,7 @@
   - [Wed Nov 4: Molokini snorkel](#wed-nov-4-molokini-snorkel)
   - [Thu Nov 5: Road to Hāna (guided)](#thu-nov-5-road-to-hāna-guided)
   - [Fri Nov 6: 🎂 birthday](#fri-nov-6--birthday)
-  - [Sat Nov 7: Haleakalā sunset (self-drive)](#sat-nov-7-haleakalā-sunset-self-drive)
+  - [Sat Nov 7: Haleakalā sunset (guided tour)](#sat-nov-7-haleakalā-sunset-guided-tour)
   - [Sun Nov 8: fly home](#sun-nov-8-fly-home)
 - [🎟️ Bookings for Maui](#-bookings-for-maui)
 - [🌺 Everything else to do on Maui](#-everything-else-to-do-on-maui)
@@ -37,19 +37,19 @@
 
 | Date | Day | Morning | Afternoon | Evening |
 |---|---|---|---|---|
-| **Nov 3** | Tue | ✈️ HNL → OGG midday | 🚗 Pick up car, groceries, check in, pool | Casual dinner in Kīhei |
+| **Nov 3** | Tue | ✈️ HNL → OGG midday | 🚐 Shuttle to Kīhei, check in, groceries, pool | Casual dinner in Kīhei |
 | **Nov 4** | Wed | 🤿 **Molokini + Turtle Arches** snorkel from Māʻalaea | Lunch, nap, pool | Easy dinner nearby |
 | **Nov 5** | Thu | 🌿 **Road to Hāna** guided tour, all day (pickup ~6:30–7:00) | (on tour) | Back late, simple dinner |
 | **Nov 6** | Fri 🎂 | No alarm, slow breakfast, beach | Pool, optional couples spa, get ready | 🌅 Sunset → **Hotel Wailea** dinner (~5:15–5:45) |
-| **Nov 7** | Sat | Slow morning, beach | 🌋 Drive up **Haleakalā** (leave ~noon) | Sunset at the summit ~5:50, drive down, late dinner |
-| **Nov 8** | Sun | Check out, pool/beach | Early dinner, return car | ✈️ OGG → NYC overnight, land **Nov 9** |
+| **Nov 7** | Sat | Slow morning, beach | 🌋 **Haleakalā sunset tour**, hotel pickup ~1:30 PM | Sunset at the summit ~5:50, dinner on the tour, back ~8 PM |
+| **Nov 8** | Sun | Check out, pool/beach | 🚐 Shuttle to OGG (~11:30 AM) | ✈️ OGG → NYC overnight, land **Nov 9** |
 
 **Hotel:** Maui Coast Hotel, Kīhei, Kai Tower king (~$1,695 all-in for 5 nights). Chosen over Aston Kāʻanapali Villas (~$1,770) because Kīhei is 25–40 min from the Molokini harbor, ~15 min from Wailea for the birthday dinner, and the closest practical base for Haleakalā.
 
 ### Tue Nov 3: arrive Maui
 - ✈️ Midday flight from Honolulu; budget **4–6 hours door to door** from the Waikīkī hotel.
-- 🚗 Collect the car at OGG (rental shuttle/tram), then **OGG → Kīhei 30–45 min**.
-- 🛒 Groceries on the way (Kahului has the big stores): water, snacks for Hāna and Haleakalā, breakfast things.
+- 🚐 Prebooked shared shuttle (Roberts Hawaiʻi / SpeediShuttle) or rideshare, **OGG → Kīhei 30–45 min**, ~$40–70 for two.
+- 🛒 Groceries in Kīhei after check-in (walk or a short ride), or a delivery app: water, snacks for Hāna, breakfast things.
 - 🏨 Check in, pool, short beach walk (Kamaʻole Beach Parks are across the road from many Kīhei hotels).
 - 🍽️ Casual dinner in Kīhei. No summit, no Hāna, no early start tomorrow beyond the snorkel.
 
@@ -71,7 +71,8 @@
 
 
 ### Wed Nov 4: Molokini snorkel
-- 🚗 Drive to **Māʻalaea Harbor**, 25–40 min. PacWhale has **no hotel pickup**; the car solves it. Confirm check-in time (usually ~45 min before departure).
+- 🚖 **Prebooked taxi** to **Māʻalaea Harbor** at dawn, 25–40 min (~$27–35 each way). PacWhale has **no hotel pickup**, and rideshare is thin before 7 AM. Rideshare back at midday. Confirm check-in time (usually ~45 min before departure).
+- 🔁 Or pick a Molokini trip with South Maui hotel pickup, or one leaving from the Kīhei boat ramp.
 - 🤿 **PacWhale Molokini + Turtle Arches**, ~5 hours, ~$220/adult (~$440 for two). Molokini is a sunken crescent crater with clear water; Turtle Arches is the second stop for green sea turtles.
 - If either of you is new to snorkeling: ask for flotation vests and stay with the guide. Destinations can change with conditions; turtles aren't guaranteed.
 - Afternoon: lunch, shower, nap/pool. Evening: easy dinner close by.
@@ -202,14 +203,14 @@
 ![Mākena coast sunset](https://www.andrewshoemaker.com/images/xl/continuum-makena-maui-sunset.jpg)
 <sub>Mākena sunset · [Photo: Andrew Shoemaker](https://www.andrewshoemaker.com/photo/continuum-makena-maui-sunset/)</sub>
 
-### Sat Nov 7: Haleakalā sunset (self-drive)
-- 🌅 Sunset at the summit ~5:50–5:55 PM. **No reservation needed for sunset**, but there are capacity limits and the park advises arriving **about 3 hours early**.
-- 🚗 Leave Kīhei **around noon**; ~2.5–3 hours to the summit area with traffic. Aim to be inside the park by **2:30–3:00 PM**.
-- 💵 $30 per car (valid 3 days). Pay at the entrance.
-- 🧥 **It's cold up there** (often 30s–40s °F with wind at 10,000 ft). Bring warm layers, hats, a wind jacket, water, snacks. **No food or fuel inside the park**: fill up and eat before you go up.
+### Sat Nov 7: Haleakalā sunset (guided tour)
+- 🌅 Sunset at the summit ~5:50–5:55 PM.
+- 🚐 **Sunset tour with Kīhei hotel pickup**, e.g. [Polynesian Adventure "Haleakalā Sunset Tour with Dinner"](https://www.expedia.com/things-to-do/haleakala-sunset-tour.a390930.activity-details): pickup ~1:30 PM, ~6.5 h, park entry, hot drinks and a to-go dinner included. **~$237/adult (~$475 for two) + driver tip.** Confirm date, price and pickup point.
+- ⏰ **Book by Oct 21**: it's the one thing you can't do without a car. If Nov 7 is full, try Nov 5 (drop Hāna) or a sunrise tour.
+- 🧥 **It's cold up there** (often 30s–40s °F with wind at 10,000 ft). Bring warm layers, hats, a wind jacket. The tour handles food.
 - Afternoon: viewpoints and short walks (Pu'u ʻUlaʻula summit, Kalahaku overlook, the first part of Sliding Sands trail). Nothing strenuous; the altitude is real.
-- 🌙 Drive down slowly in the dark (brake in low gear), then an easy late dinner. No fixed early booking tonight.
-- If clouds or wind close the summit: South Maui beach day, or Upcountry (Kula, Makawao) in daylight.
+- 🌙 The guide drives down in the dark; back at the hotel ~8 PM. No dinner booking needed tonight.
+- If clouds or wind close the summit: South Maui beach day (ask the tour about rescheduling).
 
 <details open><summary><b>Photos</b></summary>
 
@@ -239,7 +240,7 @@
 
 ### Sun Nov 8: fly home
 - Check out (ask for **late checkout** or luggage storage + a shower), pool or beach near the hotel.
-- Early dinner, fuel the car, return it at OGG, and allow airline check-in time.
+- 🚐 Prebooked shuttle or rideshare to OGG; leave the hotel ~11:30 AM for the ~2 PM flights. Ask the hotel to hold bags after checkout.
 - ✈️ Options seen this week: **Alaska OGG 2:08 PM → JFK 6:30 AM via HNL**, **AA OGG 2:31 PM → JFK 6:59 AM via LAX**. Confirm the ticket **lands Nov 9**. Office Nov 10.
 
 ---
@@ -251,16 +252,16 @@
 | ✈️ HNL → OGG Nov 3 | **By Oct 19** | ~$138 | Southwest / Hawaiian | ⏳ |
 | ✈️ OGG → NYC Nov 8 (lands Nov 9) | **By Oct 19** | part of ~$1,981–2,168 total airfare | Airline site | ⏳ |
 | 🏨 Maui Coast Hotel Nov 3 → Nov 8 | **By Oct 19** | ~$1,695 | [Booking.com link in bookings.md](bookings.md) or hotel site | ⏳ |
-| 🚗 Rental car OGG Nov 3 → Nov 8 | **By Oct 19** | not priced yet | Compare on Costco Travel / Discount Hawaii Car Rental / direct | ⏳ |
+| 🚐 OGG ↔ Kīhei shuttle, Nov 3 + Nov 8 | By Oct 24 | ~$80–130 | Roberts Hawaiʻi / SpeediShuttle (see [`commute.md`](commute.md)) | ⏳ |
+| 🚖 Dawn taxi to Māʻalaea, Nov 4 | By Oct 27 | ~$30 | Kīhei taxi (ask the hotel) | ⏳ |
+| 🌋 **Haleakalā sunset tour** Nov 7 | **By Oct 21** | ~$475 + tip | [Polynesian Adventure](https://www.expedia.com/things-to-do/haleakala-sunset-tour.a390930.activity-details) or similar with Kīhei pickup | ⏳ |
 | 🤿 PacWhale Molokini Nov 4 | By Oct 24 | ~$440 | [PacWhale](https://www.pacwhale.com/ecotour/molokini-turtle-arches-snorkel/) | ⏳ |
 | 🌿 Hāna guided tour Nov 5 | By Oct 24 | ~$590–650 | [Tour Maui](https://www.tourmaui.com/tours/road-to-hana-tour/) or similar | ⏳ |
 | 💆 Spa Nov 6 (optional) | By Oct 24 | ~$400–700 | Wailea resort spas | ⏳ |
 | 🍽️ Hotel Wailea dinner Nov 6 | **By Oct 24** (popular) | ~$220–400 | [Hotel Wailea](https://www.hotelwailea.com/dining/the-restaurant/) | ⏳ |
-| 🌋 Haleakalā Nov 7 | Nothing to book for sunset | $30 at gate | — | ✅ |
 
 **Only if plans change:**
-- **Self-driving Hāna** instead of the tour: book a **Waiʻānapanapa** timed entry + parking (30-day release, $10/car + $5/person, no walk-ins).
-- **Haleakalā sunrise** instead of sunset: needs a recreation.gov reservation ($1); Nov 7's two-day release is **Nov 5 at 7 AM HST** (noon NYC).
+- **Haleakalā sunrise tour** instead of sunset: tours with South Maui pickup run ~$235–250/adult and handle the park reservation.
 - **ʻĪao Valley**: reservation $10/car + $5/person.
 
 ---
@@ -496,10 +497,10 @@ No Lahaina photos on purpose: much of the town is still rebuilding after the 202
 | Item | Estimate |
 |---|---:|
 | Hotel, 5 nights (Maui Coast) | ~$1,695 |
-| Rental car, 5 days + gas | not priced yet |
+| Airport shuttle, Māʻalaea taxi, rides (no car) | ~$185–320 |
 | Molokini snorkel | ~$440 |
 | Hāna guided tour | ~$590–650 |
-| Haleakalā entry | $30 |
+| Haleakalā sunset tour (entry + dinner included) | ~$475 + tip |
 | 🎂 Birthday dinner | ~$220–400 |
 | Optional spa | ~$400–700 |
 | Optional lūʻau | check venue |
@@ -510,8 +511,7 @@ No Lahaina photos on purpose: much of the town is still rebuilding after the 202
 ## 🧭 Practical notes
 - **Time:** Hawaiʻi Standard Time, 5 hours behind NYC from Nov 1.
 - **Sunset:** ~5:45–5:50 PM on the coast, ~5:50–5:55 PM at the summit.
-- **Driving:** OGG → Kīhei 30–45 min · Kīhei → Māʻalaea 25–40 min · Kīhei → Wailea ~15 min · South Maui → summit ~2.5–3 h · full Hāna outing 10–12+ h.
-- **Car insurance:** check what the credit card covers before declining the rental company's.
+- **Getting around (no car):** OGG → Kīhei 30–45 min · Kīhei → Māʻalaea 25–40 min · Kīhei → Wailea ~15 min · Haleakalā and Hāna by tour. Rideshare is thin before 7 AM, late at night and on Sundays: save two taxi numbers. Details: [`commute.md`](commute.md).
 - **Reef-safe sunscreen** only (oxybenzone/octinoxate are banned).
 - **Wildlife:** 10 ft from turtles, 50 ft from monk seals.
 - **Recheck closures** (Haleakalā conditions, DLNR parks) on Oct 25 and Oct 30, and each tour pickup the night before.

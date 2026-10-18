@@ -13,15 +13,14 @@
 | Flights | OGG → NYC ×2 | incl. above | | | |
 | Lodging | First island, 3 nights | $1,050–1,500 | | | |
 | Lodging | Maui, 5 nights | $1,695–2,250 (Aston ≈ $1,770) | | | |
-| Transport | Rental cars **or** transfers/rides (airport, harbor, NYC) | $450–750 | | | |
+| Transport | Transfers, taxis + rideshares, no rental car (airports, Pearl Harbor, Māʻalaea, Wailea, NYC) — see `commute.md` | $480–800 | | | |
 | Activity (Oʻahu) | Diamond Head + USS Arizona | $12 | | | |
 | Activity (Oʻahu) | North Shore tour (optional, instead of Pearl Harbor) | $200–350 | | | |
 | Activity (Kauaʻi) | Nā Pali sail **and/or** helicopter | $480–1,102 | | | |
 | Activity | Molokini snorkel | ~$440 | | | |
 | Activity | Hāna guided tour (optional) | $590–650 | | | |
-| Activity | Haleakalā sunset tour w/ pickup | $462–520 | | | |
+| Activity | Haleakalā sunset tour w/ Kīhei pickup (entry + dinner incl.) + tip | $475–520 | | | |
 | Activity | Waiʻānapanapa entry (if Hāna) | $20 | | | |
-| Activity | Haleakalā entry (if self-driving) | $30 | | | |
 | Activity (Kauaʻi) | Hāʻena shuttle (if hiking) | $90 | | | |
 | Dining | 🎂 birthday dinner | $220–400 | | | |
 | Dining | Other meals/groceries (~9 days) | $780–1,150 | | | |

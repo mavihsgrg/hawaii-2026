@@ -6,7 +6,7 @@
 
 - [✈️ Flights](#-flights)
 - [🏨 Hotels](#-hotels)
-- [🚗 Rental cars](#-rental-cars)
+- [🚐 Transfers & rides (no car)](#-transfers--rides-no-car)
 - [🎟️ Activities & reservations](#-activities--reservations)
 - [🍽️ Dining](#-dining)
 - [🔎 Live search links (2 adults, economy)](#-live-search-links-2-adults-economy)
@@ -24,15 +24,22 @@
 | Oʻahu | | Oct 31 → Nov 3 | | | | |
 | Maui | | Nov 3 → Nov 8 | | | | ask about late checkout / hospitality room |
 
-## 🚗 Rental cars
-| Island | Company | Pick-up → drop-off | Conf # | Insurance via | Notes |
-|---|---|---|---|---|---|
-| Maui | | Nov 3 OGG → Nov 8 OGG | | | |
+## 🚐 Transfers & rides (no car)
+No rental car anywhere. Options and prices for each ride: [`commute.md`](commute.md).
+
+| Date | Ride | Company | Pickup time + place | Conf # / phone | Price | Notes |
+|---|---|---|---|---|---|---|
+| Oct 31 | HNL → OUTRIGGER Reef | | | | | rideshare/taxi fine; shuttle optional |
+| Nov 3 | OUTRIGGER Reef → HNL | | | | | leave ~2.5 h before flight |
+| Nov 3 | OGG → Maui Coast Hotel | | | | | prebooked shuttle |
+| Nov 4 | Maui Coast Hotel → Māʻalaea Harbor | | dawn | | | **prebooked taxi** |
+| Nov 6 | Hotel Wailea → Maui Coast Hotel | | after dinner | | | prebook taxi the day before |
+| Nov 8 | Maui Coast Hotel → OGG | | ~11:30 AM | | | prebooked shuttle |
 
 ## 🎟️ Activities & reservations
 | Date | What | Check-in time | Meeting point | Conf # | Paid | Cancel / weather policy |
 |---|---|---|---|---|---|---|
-| | | | | | | |
+| Nov 7 | 🌋 Haleakalā sunset tour (hotel pickup) | ~1:30 PM | Maui Coast Hotel (confirm) | | | |
 
 ## 🍽️ Dining
 | Date | Restaurant | Time | Conf # | Notes |
