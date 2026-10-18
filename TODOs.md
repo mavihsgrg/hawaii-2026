@@ -37,7 +37,7 @@
 - [ ] First-island days (Nov 1–2). Oʻahu: Diamond Head + Pearl Harbor **or** North Shore. Kauaʻi: Nā Pali boat and/or helicopter, Hanalei/Hāʻena · Both
 - [ ] Hāna on Nov 5: guided tour, or drop it? · Both
 - [x] Haleakalā Nov 7: → ✅ sunset tour with pickup (no car) · Both
-- [ ] Birthday: spa yes/no? · Both
+- [x] Birthday: spa → ✅ yes (plan in `birthday.md`) · Both
 
 ## 🟡 Book activities (by Oct 24)
 - [ ] 🎂 Nov 6 birthday dinner: Hotel Wailea Restaurant, ~5:15–5:45 seating; mention the birthday + lactose intolerance (from West Maui it's a long ride, so pick a local option) · P
@@ -45,7 +45,7 @@
 - [ ] _Oʻahu:_ Diamond Head timed entry ($5/pp, gostateparks.hawaii.gov) + USS Arizona ($1/pp, recreation.gov) · S
 - [x] ~~_Kauaʻi:_ Nā Pali sail (Capt Andy's ~$480) and/or helicopter (Island Helicopters ~$622) + rides to the harbor/heliport · S~~ (not going to Kauaʻi)
 - [ ] _Hāna:_ guided tour (~$590–650, check that it includes Waiʻānapanapa) **or** a Waiʻānapanapa timed slot if self-driving · S
-- [ ] _Optional:_ spa on the birthday afternoon (~$400–700) · P
+- [ ] Spa on the birthday afternoon (~$400–700) · P
 
 ## 🟢 Before departure (Oct 25–30)
 - [ ] Recheck closures (DLNR parks, Haleakalā conditions) · S · Oct 25 + Oct 30

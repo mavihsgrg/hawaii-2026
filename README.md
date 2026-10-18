@@ -14,6 +14,7 @@
 |---|---|---|
 | [`oahu.md`](oahu.md) | Island guide for Oct 31 – Nov 3: Waikīkī base, no car, the final plan at the top, options and backups below | Updates the Oʻahu part of the plan |
 | [`maui.md`](maui.md) | Island guide for Nov 3 – Nov 8: Kīhei base, no car, birthday rest day, the final plan at the top, options below | Updates the Maui part of the plan |
+| [`birthday.md`](birthday.md) | Everything for the Nov 6 birthday: day plan, spa, dinner, cocktails, dancing, weed rules, rides, to-dos, cost, backups | Book details still go in `bookings.md` and costs in `budget.md` |
 | [`commute.md`](commute.md) | Every ride of the trip (no car): options per leg, cost, our pick, blockers, no-car vs rental-car cost | Update when a ride is booked; confirmation goes in `bookings.md` |
 | [`map.md`](map.md) | Terrain map snapshots of every place (airports onward), a route map for each day, drive distances/times, interactive maps, Google terrain/3D links | Regenerate with `maps/tools/` when the plan changes |
 | [`tentative_plan.md`](tentative_plan.md) | The clean, day-by-day plan | **Only things that are decided.** If there are still options, it isn't here yet. |
