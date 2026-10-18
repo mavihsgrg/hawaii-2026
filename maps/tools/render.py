@@ -1,4 +1,4 @@
-"""Fetch OSRM routes + OpenTopoMap tiles and render terrain maps for the Hawaii trip."""
+"""Fetch OSRM routes + map tiles (street, satellite or terrain) and render route maps for the Hawaii trip."""
 import json, math, os, sys, time, urllib.request
 from io import BytesIO
 from PIL import Image, ImageDraw, ImageFont
@@ -49,11 +49,21 @@ def ll2px(lat, lon, z):
     y = (0.5 - math.log((1+s)/(1-s)) / (4*math.pi)) * n
     return x, y
 
-def tile(z, x, y):
-    fn = os.path.join(TILES, f"{z}_{x}_{y}.png")
+STYLES = {  # "topo" = terrain (OpenTopoMap), "street" = normal map (CARTO Voyager on OpenStreetMap)
+    "topo": ("{z}_{x}_{y}.png", "https://{s}.tile.opentopomap.org/{z}/{x}/{y}.png",
+             "Map: © OpenStreetMap contributors, SRTM | style © OpenTopoMap (CC-BY-SA) | routes: OSRM"),
+    "street": ("estreet_{z}_{x}_{y}.jpg", "https://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/{z}/{y}/{x}",
+               "Map: Esri, HERE, Garmin, © OpenStreetMap contributors | routes: OSRM"),
+    "sat": ("sat_{z}_{x}_{y}.jpg", "https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}",
+            "Imagery: Esri, Maxar, Earthstar Geographics | routes: OSRM"),
+}
+
+def tile(z, x, y, style="topo"):
+    fname, tmpl, _ = STYLES[style]
+    fn = os.path.join(TILES, fname.format(z=z, x=x, y=y))
     if not os.path.exists(fn):
         sub = "abc"[(x+y) % 3]
-        url = f"https://{sub}.tile.opentopomap.org/{z}/{x}/{y}.png"
+        url = tmpl.format(s=sub, z=z, x=x, y=y)
         for attempt in range(3):
             try:
                 data = urllib.request.urlopen(urllib.request.Request(url, headers=UA), timeout=30).read()
@@ -72,14 +82,14 @@ def fit_zoom(pts, W, H, pad, zmax):
             return z
     return 4
 
-def basemap(center_px, z, W, H):
+def basemap(center_px, z, W, H, style="topo"):
     cx, cy = center_px
     x0, y0 = cx - W/2, cy - H/2
     img = Image.new("RGB", (W, H))
     for tx in range(int(x0//256), int((x0+W)//256)+1):
         for ty in range(int(y0//256), int((y0+H)//256)+1):
             if 0 <= ty < 2**z:
-                img.paste(tile(z, tx % 2**z, ty), (int(tx*256 - x0), int(ty*256 - y0)))
+                img.paste(tile(z, tx % 2**z, ty, style), (int(tx*256 - x0), int(ty*256 - y0)))
     return img, x0, y0
 
 # ---------- drawing ----------
@@ -106,16 +116,18 @@ def scale_bar(d, lat, z, W, H):
     for xx in (x, x+px): d.line([(xx, y-8), (xx, y+4)], fill="#111", width=3)
     d.text((x, y-24), f"{miles:g} mi  ({miles*1.609:.1f} km)", font=font(15), fill="#111")
 
-def render(name, title, keys=(), routes=(), lines=(), W=1200, H=800, zmax=15, pad=90, extra_pts=(), lpos=None):
+def render(name, title, keys=(), routes=(), lines=(), W=1200, H=800, zmax=15, pad=90, extra_pts=(), lpos=None,
+           style="topo", hub=None):
+    """routes: list of key lists (driven); lines: list of (keyA, keyB, label) straight dashed (boat/flight).
+    style: "topo" or "street". hub: key drawn as the red "H" hotel marker (others numbered from 1)."""
     lpos = lpos or {}
-    """routes: list of key lists (driven); lines: list of (keyA, keyB, label) straight dashed (boat/flight)."""
     geoms = [route(list(r)) for r in routes]
     pts = [C[k] for k in keys] + [tuple(p) for p in extra_pts]
     for g in geoms: pts += [(la, lo) for lo, la in g["coords"][::5]]
     for a, b, _ in lines: pts += [C[a], C[b]]
     z = fit_zoom(pts, W, H, pad, zmax)
     xs, ys = zip(*[ll2px(la, lo, z) for la, lo in pts])
-    img, x0, y0 = basemap(((max(xs)+min(xs))/2, (max(ys)+min(ys))/2), z, W, H)
+    img, x0, y0 = basemap(((max(xs)+min(xs))/2, (max(ys)+min(ys))/2), z, W, H, style)
     ov = Image.new("RGBA", (W, H), (0, 0, 0, 0)); d = ImageDraw.Draw(ov)
     P = lambda la, lo: (ll2px(la, lo, z)[0]-x0, ll2px(la, lo, z)[1]-y0)
     for i, g in enumerate(geoms):
@@ -127,10 +139,16 @@ def render(name, title, keys=(), routes=(), lines=(), W=1200, H=800, zmax=15, pa
         dashed(d, [pa, pb], "white", 9); dashed(d, [pa, pb], "#0369a1", 5)
         mx, my = (pa[0]+pb[0])/2, (pa[1]+pb[1])/2
         halo_text(d, (mx+14, my+26), lab, font(18), fill="#0369a1", anchor="lm")
-    for n, k in enumerate(keys, 1):
+    n = 0
+    for k in keys:
         x, y = P(*C[k])
-        d.ellipse([x-15, y-15, x+15, y+15], fill="#111", outline="white", width=3)
-        d.text((x, y), str(n), font=font(16), fill="white", anchor="mm")
+        if k == hub:
+            d.ellipse([x-19, y-19, x+19, y+19], fill="#d62828", outline="white", width=4)
+            d.text((x, y), "H", font=font(20), fill="white", anchor="mm")
+        else:
+            n += 1
+            d.ellipse([x-15, y-15, x+15, y+15], fill="#111", outline="white", width=3)
+            d.text((x, y), str(n), font=font(16), fill="white", anchor="mm")
         f19 = font(19); tw = d.textlength(LABEL[k], font=f19)
         pos = lpos.get(k, "right")
         if pos == "right" and x + 20 + tw > W - 10: pos = "left"
@@ -144,8 +162,8 @@ def render(name, title, keys=(), routes=(), lines=(), W=1200, H=800, zmax=15, pa
     d.rectangle([0, 0, W, 46], fill=(255, 255, 255, 225))
     d.text((16, 23), title, font=font(24), fill="#111", anchor="lm")
     scale_bar(d, (min(p[0] for p in pts)+max(p[0] for p in pts))/2, z, W, H)
-    att = "Map: © OpenStreetMap contributors, SRTM | style © OpenTopoMap (CC-BY-SA) | routes: OSRM"
-    d.rectangle([W-560, H-24, W, H], fill=(255, 255, 255, 200))
+    att = STYLES[style][2]
+    d.rectangle([W - 14 - d.textlength(att, font=font(13)), H-24, W, H], fill=(255, 255, 255, 200))
     d.text((W-8, H-12), att, font=font(13), fill="#333", anchor="rm")
     out = Image.alpha_composite(img.convert("RGBA"), ov).convert("RGB")
     out.save(os.path.join(OUT, name + ".jpg"), quality=84, optimize=True)
