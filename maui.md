@@ -53,12 +53,52 @@
 - 🏨 Check in, pool, short beach walk (Kamaʻole Beach Parks are across the road from many Kīhei hotels).
 - 🍽️ Casual dinner in Kīhei. No summit, no Hāna, no early start tomorrow beyond the snorkel.
 
+<details open><summary><b>Photos</b></summary>
+
+**📸 Kahului Airport (OGG)**
+
+<a href="https://commons.wikimedia.org/wiki/File:Kahului_Overseas.jpg"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Kahului_Overseas.jpg/960px-Kahului_Overseas.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="49%" alt="Kahului Airport (OGG)"></a> <a href="https://commons.wikimedia.org/wiki/File:Starr-060820-8611-Delonix_regia-habit_and_view_ATC_tower-Kahului_Airport-Maui_(24770906921).jpg"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Starr-060820-8611-Delonix_regia-habit_and_view_ATC_tower-Kahului_Airport-Maui_%2824770906921%29.jpg/960px-Starr-060820-8611-Delonix_regia-habit_and_view_ATC_tower-Kahului_Airport-Maui_%2824770906921%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="49%" alt="Kahului Airport (OGG)"></a>
+
+<sub>Photos: [TastyPoutine](https://commons.wikimedia.org/wiki/File:Kahului_Overseas.jpg), CC BY-SA 3.0 · [Forest and Kim Starr](https://commons.wikimedia.org/wiki/File:Starr-060820-8611-Delonix_regia-habit_and_view_ATC_tower-Kahului_Airport-Maui_(24770906921).jpg), CC BY 2.0 (Wikimedia Commons)</sub>
+
+**📸 Kīhei + Kamaʻole Beach Parks**
+
+<a href="https://commons.wikimedia.org/wiki/File:Kamaole_Beach_Maui_Hawaii_(44826482885).jpg"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Kamaole_Beach_Maui_Hawaii_%2844826482885%29.jpg/960px-Kamaole_Beach_Maui_Hawaii_%2844826482885%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="32%" alt="Kīhei + Kamaʻole Beach Parks"></a> <a href="https://commons.wikimedia.org/wiki/File:Kamaole_Beach_Park_III_Maui_Hawaii_(45015662974).jpg"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Kamaole_Beach_Park_III_Maui_Hawaii_%2845015662974%29.jpg/960px-Kamaole_Beach_Park_III_Maui_Hawaii_%2845015662974%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="32%" alt="Kīhei + Kamaʻole Beach Parks"></a> <a href="https://commons.wikimedia.org/wiki/File:Kihei_coast.jpg"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Kihei_coast.jpg/960px-Kihei_coast.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="32%" alt="Kīhei + Kamaʻole Beach Parks"></a>
+
+<sub>Photos: [dronepicr](https://commons.wikimedia.org/wiki/File:Kamaole_Beach_Maui_Hawaii_(44826482885).jpg), CC BY 2.0 · [dronepicr](https://commons.wikimedia.org/wiki/File:Kamaole_Beach_Park_III_Maui_Hawaii_(45015662974).jpg), CC BY 2.0 · [Michael Oswald](https://commons.wikimedia.org/wiki/File:Kihei_coast.jpg), Public domain (Wikimedia Commons)</sub>
+
+</details>
+
+
 ### Wed Nov 4: Molokini snorkel
 - 🚗 Drive to **Māʻalaea Harbor**, 25–40 min. PacWhale has **no hotel pickup**; the car solves it. Confirm check-in time (usually ~45 min before departure).
 - 🤿 **PacWhale Molokini + Turtle Arches**, ~5 hours, ~$220/adult (~$440 for two). Molokini is a sunken crescent crater with clear water; Turtle Arches is the second stop for green sea turtles.
 - If either of you is new to snorkeling: ask for flotation vests and stay with the guide. Destinations can change with conditions; turtles aren't guaranteed.
 - Afternoon: lunch, shower, nap/pool. Evening: easy dinner close by.
 - **If cancelled:** move it to Nov 5 (and push Hāna) or Nov 7 morning.
+
+<details open><summary><b>Photos</b></summary>
+
+**📸 Māʻalaea Harbor**
+
+<a href="https://commons.wikimedia.org/wiki/File:Starr-161216-8350-Cocos_nucifera-Marjorie_Ann_Monroes_boat-Maalaea_Harbor-Maui_(32313510442).jpg"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Starr-161216-8350-Cocos_nucifera-Marjorie_Ann_Monroes_boat-Maalaea_Harbor-Maui_%2832313510442%29.jpg/960px-Starr-161216-8350-Cocos_nucifera-Marjorie_Ann_Monroes_boat-Maalaea_Harbor-Maui_%2832313510442%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="49%" alt="Māʻalaea Harbor"></a> <a href="https://commons.wikimedia.org/wiki/File:Starr-161216-0717-Cocos_nucifera-Marjorie_Ann_Monroes_boat-Maalaea_Harbor-Maui_(32464850715).jpg"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Starr-161216-0717-Cocos_nucifera-Marjorie_Ann_Monroes_boat-Maalaea_Harbor-Maui_%2832464850715%29.jpg/960px-Starr-161216-0717-Cocos_nucifera-Marjorie_Ann_Monroes_boat-Maalaea_Harbor-Maui_%2832464850715%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="49%" alt="Māʻalaea Harbor"></a>
+
+<sub>Photos: [Forest and Kim Starr](https://commons.wikimedia.org/wiki/File:Starr-161216-8350-Cocos_nucifera-Marjorie_Ann_Monroes_boat-Maalaea_Harbor-Maui_(32313510442).jpg), CC BY 3.0 us · [Forest and Kim Starr](https://commons.wikimedia.org/wiki/File:Starr-161216-0717-Cocos_nucifera-Marjorie_Ann_Monroes_boat-Maalaea_Harbor-Maui_(32464850715).jpg), CC BY 3.0 us (Wikimedia Commons)</sub>
+
+**📸 Molokini**
+
+<a href="https://commons.wikimedia.org/wiki/File:Aerial-Makena-Molokini-Kahoolawe.jpg"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Aerial-Makena-Molokini-Kahoolawe.jpg/960px-Aerial-Makena-Molokini-Kahoolawe.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="49%" alt="Molokini"></a> <a href="https://commons.wikimedia.org/wiki/File:Aerial_Molokini.jpeg"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Aerial_Molokini.jpeg/960px-Aerial_Molokini.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="49%" alt="Molokini"></a> <a href="https://commons.wikimedia.org/wiki/File:Molokini-crater-maui.jpg"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Molokini-crater-maui.jpg/960px-Molokini-crater-maui.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="49%" alt="Molokini"></a> <a href="https://commons.wikimedia.org/wiki/File:Molokini_Aerial.jpg"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Molokini_Aerial.jpg/960px-Molokini_Aerial.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="49%" alt="Molokini"></a>
+
+<sub>Photos: [Travis Thurston](https://commons.wikimedia.org/wiki/File:Aerial-Makena-Molokini-Kahoolawe.jpg), CC BY-SA 4.0 · [Colin dm](https://commons.wikimedia.org/wiki/File:Aerial_Molokini.jpeg), CC BY-SA 4.0 · [Bossfrog](https://commons.wikimedia.org/wiki/File:Molokini-crater-maui.jpg), CC BY-SA 4.0 · [Forest & Kim Starr](https://commons.wikimedia.org/wiki/File:Molokini_Aerial.jpg), CC BY 3.0 (Wikimedia Commons)</sub>
+
+**📸 Green sea turtles (Turtle Arches)**
+
+<a href="https://commons.wikimedia.org/wiki/File:Green_Sea_Turtle_on_Ho%27okipa_Beach,_Maui,_Hawaii.jpg"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Green_Sea_Turtle_on_Ho%27okipa_Beach%2C_Maui%2C_Hawaii.jpg/960px-Green_Sea_Turtle_on_Ho%27okipa_Beach%2C_Maui%2C_Hawaii.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="32%" alt="Green sea turtles (Turtle Arches)"></a> <a href="https://commons.wikimedia.org/wiki/File:Green_Sea_Turtle_on_Ho%27okipa_Beach,_Maui,_Hawaii1.jpg"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Green_Sea_Turtle_on_Ho%27okipa_Beach%2C_Maui%2C_Hawaii1.jpg/960px-Green_Sea_Turtle_on_Ho%27okipa_Beach%2C_Maui%2C_Hawaii1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="32%" alt="Green sea turtles (Turtle Arches)"></a> <a href="https://commons.wikimedia.org/wiki/File:Green_Sea_Turtle,_Maui.jpg"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Green_Sea_Turtle%2C_Maui.jpg/960px-Green_Sea_Turtle%2C_Maui.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="32%" alt="Green sea turtles (Turtle Arches)"></a>
+
+<sub>Photos: [Christoph Strässler](https://commons.wikimedia.org/wiki/File:Green_Sea_Turtle_on_Ho%27okipa_Beach,_Maui,_Hawaii.jpg), CC BY-SA 2.0 · [Christoph Strässler](https://commons.wikimedia.org/wiki/File:Green_Sea_Turtle_on_Ho%27okipa_Beach,_Maui,_Hawaii1.jpg), CC BY-SA 2.0 · [Bernard Spragg. NZ](https://commons.wikimedia.org/wiki/File:Green_Sea_Turtle,_Maui.jpg), CC0 (Wikimedia Commons)</sub>
+
+</details>
+
 
 ![Molokini crater from the air](https://www.andrewshoemaker.com/images/640/molokini-blue-maui-hawaii-aerial-crater.jpg)
 <sub>Molokini · [Photo: Andrew Shoemaker](https://www.andrewshoemaker.com/photo/molokini-blue-maui-hawaii-aerial-crater/)</sub>
@@ -70,6 +110,59 @@
 - Typical stops: Twin Falls, rainbow eucalyptus, Keʻanae Peninsula, Puaʻa Kaʻa falls, Waiʻānapanapa, Hāna town, sometimes Kīpahulu (Haleakalā's coastal section) and the Pīpīwai trail.
 - ❌ The Pools of ʻOheʻo are closed to swimming.
 - 🪫 **If the week feels too full, this is the first thing to drop.** Slow version: Wailea Beach Path walk, beach, pool, sunset.
+
+<details open><summary><b>Photos</b></summary>
+
+**📸 Road to Hāna**
+
+<a href="https://commons.wikimedia.org/wiki/File:20190213_SKJ0772-HDR.jpg"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/20190213_SKJ0772-HDR.jpg/960px-20190213_SKJ0772-HDR.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="49%" alt="Road to Hāna"></a> <a href="https://commons.wikimedia.org/wiki/File:20190213_SKJ1287.jpg"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/20190213_SKJ1287.jpg/960px-20190213_SKJ1287.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="49%" alt="Road to Hāna"></a> <a href="https://commons.wikimedia.org/wiki/File:Finally_Hana_Maui_(43923446570).jpg"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Finally_Hana_Maui_%2843923446570%29.jpg/960px-Finally_Hana_Maui_%2843923446570%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="49%" alt="Road to Hāna"></a> <a href="https://commons.wikimedia.org/wiki/File:Haipua%27ena_Falls.jpg"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Haipua%27ena_Falls.jpg/960px-Haipua%27ena_Falls.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="49%" alt="Road to Hāna"></a>
+
+<sub>Photos: [Theskuj](https://commons.wikimedia.org/wiki/File:20190213_SKJ0772-HDR.jpg), CC BY-SA 4.0 · [Theskuj](https://commons.wikimedia.org/wiki/File:20190213_SKJ1287.jpg), CC BY-SA 4.0 · [dronepicr](https://commons.wikimedia.org/wiki/File:Finally_Hana_Maui_(43923446570).jpg), CC BY 2.0 · [Shawn M. Kent](https://commons.wikimedia.org/wiki/File:Haipua%27ena_Falls.jpg), CC BY-SA 4.0 (Wikimedia Commons)</sub>
+
+**📸 Rainbow eucalyptus**
+
+<a href="https://commons.wikimedia.org/wiki/File:EucalyptusDeglupta_TallTree.jpg"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/EucalyptusDeglupta_TallTree.jpg/960px-EucalyptusDeglupta_TallTree.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="49%" alt="Rainbow eucalyptus"></a> <a href="https://commons.wikimedia.org/wiki/File:Eucalyptus_deglupta_Blume-1.jpg"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Eucalyptus_deglupta_Blume-1.jpg/960px-Eucalyptus_deglupta_Blume-1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="49%" alt="Rainbow eucalyptus"></a>
+
+<sub>Photos: [Bruceanthro](https://commons.wikimedia.org/wiki/File:EucalyptusDeglupta_TallTree.jpg), CC0 · [WoreczkoJan](https://commons.wikimedia.org/wiki/File:Eucalyptus_deglupta_Blume-1.jpg), CC BY 4.0 (Wikimedia Commons)</sub>
+
+**📸 Keʻanae Peninsula**
+
+<a href="https://commons.wikimedia.org/wiki/File:Keanae.jpg"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Keanae.jpg/960px-Keanae.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="32%" alt="Keʻanae Peninsula"></a> <a href="https://commons.wikimedia.org/wiki/File:Maui-Keanae-school-oblleft.JPG"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Maui-Keanae-school-oblleft.JPG/960px-Maui-Keanae-school-oblleft.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="32%" alt="Keʻanae Peninsula"></a> <a href="https://commons.wikimedia.org/wiki/File:Keanae_Road_to_Hana._Maui._(11106935413).jpg"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Keanae_Road_to_Hana._Maui._%2811106935413%29.jpg/960px-Keanae_Road_to_Hana._Maui._%2811106935413%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="32%" alt="Keʻanae Peninsula"></a>
+
+<sub>Photos: [https://www.flickr.com/photos/navin75/](https://commons.wikimedia.org/wiki/File:Keanae.jpg), CC BY-SA 2.0 · [Joel Bradshaw](https://commons.wikimedia.org/wiki/File:Maui-Keanae-school-oblleft.JPG), CC0 · [Bernard Spragg. NZ from Christchurch, New Zealand](https://commons.wikimedia.org/wiki/File:Keanae_Road_to_Hana._Maui._(11106935413).jpg), CC0 (Wikimedia Commons)</sub>
+
+**📸 Puaʻa Kaʻa falls**
+
+<a href="https://commons.wikimedia.org/wiki/File:Puaa_Kaa_Falls.jpg"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Puaa_Kaa_Falls.jpg/960px-Puaa_Kaa_Falls.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="70%" alt="Puaʻa Kaʻa falls"></a>
+
+<sub>Photos: [Holly Cheng](https://commons.wikimedia.org/wiki/File:Puaa_Kaa_Falls.jpg), CC BY-SA 3.0 (Wikimedia Commons)</sub>
+
+**📸 Waiʻānapanapa (black sand beach)**
+
+<a href="https://commons.wikimedia.org/wiki/File:Waianapanapa_black_sand_beach_Lava_tube_Maui_Hawaii_(45690809712).jpg"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Waianapanapa_black_sand_beach_Lava_tube_Maui_Hawaii_%2845690809712%29.jpg/960px-Waianapanapa_black_sand_beach_Lava_tube_Maui_Hawaii_%2845690809712%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="49%" alt="Waiʻānapanapa (black sand beach)"></a> <a href="https://commons.wikimedia.org/wiki/File:Waianapanapa_black_sand_beach_Maui_Hawaii_Road_to_Hana_(43923399650).jpg"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Waianapanapa_black_sand_beach_Maui_Hawaii_Road_to_Hana_%2843923399650%29.jpg/960px-Waianapanapa_black_sand_beach_Maui_Hawaii_Road_to_Hana_%2843923399650%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="49%" alt="Waiʻānapanapa (black sand beach)"></a> <a href="https://commons.wikimedia.org/wiki/File:Waianapanapa_black_sand_beach_Maui_Hawaii_Road_to_Hana_pano_(45690795822).jpg"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Waianapanapa_black_sand_beach_Maui_Hawaii_Road_to_Hana_pano_%2845690795822%29.jpg/960px-Waianapanapa_black_sand_beach_Maui_Hawaii_Road_to_Hana_pano_%2845690795822%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="49%" alt="Waiʻānapanapa (black sand beach)"></a> <a href="https://commons.wikimedia.org/wiki/File:Waianapanapa_black_sand_beach_Lava_tube_Maui_Hawaii_Road_to_Hana_pano_(45690802432).jpg"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Waianapanapa_black_sand_beach_Lava_tube_Maui_Hawaii_Road_to_Hana_pano_%2845690802432%29.jpg/960px-Waianapanapa_black_sand_beach_Lava_tube_Maui_Hawaii_Road_to_Hana_pano_%2845690802432%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="49%" alt="Waiʻānapanapa (black sand beach)"></a>
+
+<sub>Photos: [dronepicr](https://commons.wikimedia.org/wiki/File:Waianapanapa_black_sand_beach_Lava_tube_Maui_Hawaii_(45690809712).jpg), CC BY 2.0 · [dronepicr](https://commons.wikimedia.org/wiki/File:Waianapanapa_black_sand_beach_Maui_Hawaii_Road_to_Hana_(43923399650).jpg), CC BY 2.0 · [dronepicr](https://commons.wikimedia.org/wiki/File:Waianapanapa_black_sand_beach_Maui_Hawaii_Road_to_Hana_pano_(45690795822).jpg), CC BY 2.0 · [dronepicr](https://commons.wikimedia.org/wiki/File:Waianapanapa_black_sand_beach_Lava_tube_Maui_Hawaii_Road_to_Hana_pano_(45690802432).jpg), CC BY 2.0 (Wikimedia Commons)</sub>
+
+**📸 Hāna town + Hāmoa**
+
+<a href="https://commons.wikimedia.org/wiki/File:Hana,_Maui,_2006_(cropped).jpg"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Hana%2C_Maui%2C_2006_%28cropped%29.jpg/960px-Hana%2C_Maui%2C_2006_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="32%" alt="Hāna town + Hāmoa"></a> <a href="https://commons.wikimedia.org/wiki/File:Hana_Lava_tube_garden_(43923295880).jpg"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Hana_Lava_tube_garden_%2843923295880%29.jpg/960px-Hana_Lava_tube_garden_%2843923295880%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="32%" alt="Hāna town + Hāmoa"></a> <a href="https://commons.wikimedia.org/wiki/File:Hasegawa_General_Store.jpg"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Hasegawa_General_Store.jpg/960px-Hasegawa_General_Store.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="32%" alt="Hāna town + Hāmoa"></a>
+
+<sub>Photos: [KanoaWithington at English Wikipedia](https://commons.wikimedia.org/wiki/File:Hana,_Maui,_2006_(cropped).jpg), CC BY-SA 3.0 · [dronepicr](https://commons.wikimedia.org/wiki/File:Hana_Lava_tube_garden_(43923295880).jpg), CC BY 2.0 · [Lechhansl](https://commons.wikimedia.org/wiki/File:Hasegawa_General_Store.jpg), CC BY-SA 3.0 (Wikimedia Commons)</sub>
+
+**📸 Kīpahulu: Pīpīwai trail, bamboo forest, Waimoku Falls**
+
+<a href="https://commons.wikimedia.org/wiki/File:Waimoku_Falls,_HI.jpg"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Waimoku_Falls%2C_HI.jpg/960px-Waimoku_Falls%2C_HI.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="32%" alt="Kīpahulu: Pīpīwai trail, bamboo forest, Waimoku Falls"></a> <a href="https://commons.wikimedia.org/wiki/File:Waimoku_Falls_in_Haleakala_National_Park,_Maui,_Hawaii.jpg"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Waimoku_Falls_in_Haleakala_National_Park%2C_Maui%2C_Hawaii.jpg/960px-Waimoku_Falls_in_Haleakala_National_Park%2C_Maui%2C_Hawaii.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="32%" alt="Kīpahulu: Pīpīwai trail, bamboo forest, Waimoku Falls"></a> <a href="https://commons.wikimedia.org/wiki/File:Waimoku_Falls_in_Haleakala_National_Park,_Maui,_Hawaii1.jpg"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Waimoku_Falls_in_Haleakala_National_Park%2C_Maui%2C_Hawaii1.jpg/960px-Waimoku_Falls_in_Haleakala_National_Park%2C_Maui%2C_Hawaii1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="32%" alt="Kīpahulu: Pīpīwai trail, bamboo forest, Waimoku Falls"></a>
+
+<sub>Photos: [Ekrem Canli](https://commons.wikimedia.org/wiki/File:Waimoku_Falls,_HI.jpg), CC BY-SA 4.0 · [Christoph Strässler](https://commons.wikimedia.org/wiki/File:Waimoku_Falls_in_Haleakala_National_Park,_Maui,_Hawaii.jpg), CC BY-SA 2.0 · [Christoph Strässler](https://commons.wikimedia.org/wiki/File:Waimoku_Falls_in_Haleakala_National_Park,_Maui,_Hawaii1.jpg), CC BY-SA 2.0 (Wikimedia Commons)</sub>
+
+**📸 Pools of ʻOheʻo (look only)**
+
+<a href="https://commons.wikimedia.org/wiki/File:Seven_Sacred_Pools_at_Oheo_Gulch.jpg"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Seven_Sacred_Pools_at_Oheo_Gulch.jpg/960px-Seven_Sacred_Pools_at_Oheo_Gulch.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="49%" alt="Pools of ʻOheʻo (look only)"></a> <a href="https://commons.wikimedia.org/wiki/File:Pools_-_Ohe%27o_gulch.jpg"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Pools_-_Ohe%27o_gulch.jpg/960px-Pools_-_Ohe%27o_gulch.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="49%" alt="Pools of ʻOheʻo (look only)"></a>
+
+<sub>Photos: [JHill from Philadelphia, USA](https://commons.wikimedia.org/wiki/File:Seven_Sacred_Pools_at_Oheo_Gulch.jpg), CC BY-SA 2.0 · [Didier B (Sam67fr)](https://commons.wikimedia.org/wiki/File:Pools_-_Ohe%27o_gulch.jpg), CC BY-SA 3.0 (Wikimedia Commons)</sub>
+
+</details>
+
 
 ![Waiʻānapanapa black sand beach](https://www.to-hawaii.com/maui/beaches/images/waianapanapa/waianapanapa_beach_sunset.jpg)
 <sub>Waiʻānapanapa · [Photo: To-Hawaii](https://www.to-hawaii.com/maui/beaches/waianapanapa-black-sand-beach.php)</sub>
@@ -83,6 +176,29 @@
 - Alternatives: **Monkeypod Wailea** (casual, lively), **Mama's Fish House** (special, but ~45+ min away near Pāʻia).
 - ⛔ No Hāna, no summit, no early check-ins.
 
+<details open><summary><b>Photos</b></summary>
+
+**📸 Wailea Beach + Beach Path**
+
+<a href="https://commons.wikimedia.org/wiki/File:Wailea_Strand_Maui,_Hawaii_(30800152707).jpg"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Wailea_Strand_Maui%2C_Hawaii_%2830800152707%29.jpg/960px-Wailea_Strand_Maui%2C_Hawaii_%2830800152707%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="49%" alt="Wailea Beach + Beach Path"></a> <a href="https://commons.wikimedia.org/wiki/File:Wailea_Beach_Maui_Hawaii_(45016201794).jpg"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Wailea_Beach_Maui_Hawaii_%2845016201794%29.jpg/960px-Wailea_Beach_Maui_Hawaii_%2845016201794%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="49%" alt="Wailea Beach + Beach Path"></a> <a href="https://commons.wikimedia.org/wiki/File:Wailea_beach_Maui,_Hawaii_(43922711000).jpg"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Wailea_beach_Maui%2C_Hawaii_%2843922711000%29.jpg/960px-Wailea_beach_Maui%2C_Hawaii_%2843922711000%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="49%" alt="Wailea Beach + Beach Path"></a> <a href="https://commons.wikimedia.org/wiki/File:Wailea_beach_Park_Maui,_Hawaii_(44827150335).jpg"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Wailea_beach_Park_Maui%2C_Hawaii_%2844827150335%29.jpg/960px-Wailea_beach_Park_Maui%2C_Hawaii_%2844827150335%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="49%" alt="Wailea Beach + Beach Path"></a>
+
+<sub>Photos: [dronepicr](https://commons.wikimedia.org/wiki/File:Wailea_Strand_Maui,_Hawaii_(30800152707).jpg), CC BY 2.0 · [dronepicr](https://commons.wikimedia.org/wiki/File:Wailea_Beach_Maui_Hawaii_(45016201794).jpg), CC BY 2.0 · [dronepicr](https://commons.wikimedia.org/wiki/File:Wailea_beach_Maui,_Hawaii_(43922711000).jpg), CC BY 2.0 · [dronepicr](https://commons.wikimedia.org/wiki/File:Wailea_beach_Park_Maui,_Hawaii_(44827150335).jpg), CC BY 2.0 (Wikimedia Commons)</sub>
+
+**📸 Mākena / Big Beach**
+
+<a href="https://commons.wikimedia.org/wiki/File:Hawaii_Maui_Makena_Little_Beach_Luftbild_(45740069751).jpg"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Hawaii_Maui_Makena_Little_Beach_Luftbild_%2845740069751%29.jpg/960px-Hawaii_Maui_Makena_Little_Beach_Luftbild_%2845740069751%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="32%" alt="Mākena / Big Beach"></a> <a href="https://commons.wikimedia.org/wiki/File:Luftbildaufnahme_Makena_Big_Beach,_Maui_Hawaii_(45740086501).jpg"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Luftbildaufnahme_Makena_Big_Beach%2C_Maui_Hawaii_%2845740086501%29.jpg/960px-Luftbildaufnahme_Makena_Big_Beach%2C_Maui_Hawaii_%2845740086501%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="32%" alt="Mākena / Big Beach"></a> <a href="https://commons.wikimedia.org/wiki/File:Makena_Strand_(Big_Beach)_Maui_Hawaii_(45689753692).jpg"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Makena_Strand_%28Big_Beach%29_Maui_Hawaii_%2845689753692%29.jpg/960px-Makena_Strand_%28Big_Beach%29_Maui_Hawaii_%2845689753692%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="32%" alt="Mākena / Big Beach"></a>
+
+<sub>Photos: [dronepicr](https://commons.wikimedia.org/wiki/File:Hawaii_Maui_Makena_Little_Beach_Luftbild_(45740069751).jpg), CC BY 2.0 · [dronepicr](https://commons.wikimedia.org/wiki/File:Luftbildaufnahme_Makena_Big_Beach,_Maui_Hawaii_(45740086501).jpg), CC BY 2.0 · [dronepicr](https://commons.wikimedia.org/wiki/File:Makena_Strand_(Big_Beach)_Maui_Hawaii_(45689753692).jpg), CC BY 2.0 (Wikimedia Commons)</sub>
+
+**📸 Hotel Wailea area (birthday dinner)**
+
+<a href="https://commons.wikimedia.org/wiki/File:Wailea-Makena,_HI,_USA_-_panoramio_(1).jpg"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Wailea-Makena%2C_HI%2C_USA_-_panoramio_%281%29.jpg/960px-Wailea-Makena%2C_HI%2C_USA_-_panoramio_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="70%" alt="Hotel Wailea area (birthday dinner)"></a>
+
+<sub>Photos: [Eli1023](https://commons.wikimedia.org/wiki/File:Wailea-Makena,_HI,_USA_-_panoramio_(1).jpg), CC BY 3.0 (Wikimedia Commons)</sub>
+
+</details>
+
+
 ![Mākena coast sunset](https://www.andrewshoemaker.com/images/xl/continuum-makena-maui-sunset.jpg)
 <sub>Mākena sunset · [Photo: Andrew Shoemaker](https://www.andrewshoemaker.com/photo/continuum-makena-maui-sunset/)</sub>
 
@@ -94,6 +210,29 @@
 - Afternoon: viewpoints and short walks (Pu'u ʻUlaʻula summit, Kalahaku overlook, the first part of Sliding Sands trail). Nothing strenuous; the altitude is real.
 - 🌙 Drive down slowly in the dark (brake in low gear), then an easy late dinner. No fixed early booking tonight.
 - If clouds or wind close the summit: South Maui beach day, or Upcountry (Kula, Makawao) in daylight.
+
+<details open><summary><b>Photos</b></summary>
+
+**📸 Haleakalā summit + crater**
+
+<a href="https://commons.wikimedia.org/wiki/File:Admiring_the_view_from_Haleakala_after_sunrise.jpg"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Admiring_the_view_from_Haleakala_after_sunrise.jpg/960px-Admiring_the_view_from_Haleakala_after_sunrise.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="49%" alt="Haleakalā summit + crater"></a> <a href="https://commons.wikimedia.org/wiki/File:Haleakala_crater_(1).jpg"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Haleakala_crater_%281%29.jpg/960px-Haleakala_crater_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="49%" alt="Haleakalā summit + crater"></a> <a href="https://commons.wikimedia.org/wiki/File:Haleakala_telescopes.jpg"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Haleakala_telescopes.jpg/960px-Haleakala_telescopes.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="49%" alt="Haleakalā summit + crater"></a> <a href="https://commons.wikimedia.org/wiki/File:Haleakalasilversword.jpg"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Haleakalasilversword.jpg/960px-Haleakalasilversword.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="49%" alt="Haleakalā summit + crater"></a>
+
+<sub>Photos: [Kenny Louie from Vancouver, Canada](https://commons.wikimedia.org/wiki/File:Admiring_the_view_from_Haleakala_after_sunrise.jpg), CC BY 2.0 · [Navin75](https://commons.wikimedia.org/wiki/File:Haleakala_crater_(1).jpg), CC BY-SA 2.0 · [Tawker](https://commons.wikimedia.org/wiki/File:Haleakala_telescopes.jpg), CC BY 2.5 · [Witort at English Wikipedia](https://commons.wikimedia.org/wiki/File:Haleakalasilversword.jpg), Public domain (Wikimedia Commons)</sub>
+
+**📸 Haleakalā sunset above the clouds**
+
+<a href="https://commons.wikimedia.org/wiki/File:Haleakala_Observatory_above_sunset_clouds_(Unsplash).jpg"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Haleakala_Observatory_above_sunset_clouds_%28Unsplash%29.jpg/960px-Haleakala_Observatory_above_sunset_clouds_%28Unsplash%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="49%" alt="Haleakalā sunset above the clouds"></a> <a href="https://commons.wikimedia.org/wiki/File:Sunset_clouds_down_from_Haleakala_volcano_(Maui,_Hawaii).jpg"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Sunset_clouds_down_from_Haleakala_volcano_%28Maui%2C_Hawaii%29.jpg/960px-Sunset_clouds_down_from_Haleakala_volcano_%28Maui%2C_Hawaii%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="49%" alt="Haleakalā sunset above the clouds"></a>
+
+<sub>Photos: [Jad Limcaco jadlimcaco](https://commons.wikimedia.org/wiki/File:Haleakala_Observatory_above_sunset_clouds_(Unsplash).jpg), CC0 · [Sergei Mutovkin](https://commons.wikimedia.org/wiki/File:Sunset_clouds_down_from_Haleakala_volcano_(Maui,_Hawaii).jpg), CC BY 2.0 (Wikimedia Commons)</sub>
+
+**📸 Silverswords + Sliding Sands trail**
+
+<a href="https://commons.wikimedia.org/wiki/File:Argyroxiphium_sandwicense_Haleakala.jpg"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Argyroxiphium_sandwicense_Haleakala.jpg/960px-Argyroxiphium_sandwicense_Haleakala.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="32%" alt="Silverswords + Sliding Sands trail"></a> <a href="https://commons.wikimedia.org/wiki/File:Argyroxiphium_sandwicense_macroencephalum.jpg"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Argyroxiphium_sandwicense_macroencephalum.jpg/960px-Argyroxiphium_sandwicense_macroencephalum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="32%" alt="Silverswords + Sliding Sands trail"></a> <a href="https://commons.wikimedia.org/wiki/File:Haleakala-Silversword-Hawaii.jpg"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Haleakala-Silversword-Hawaii.jpg/960px-Haleakala-Silversword-Hawaii.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="32%" alt="Silverswords + Sliding Sands trail"></a>
+
+<sub>Photos: [The original uploader was KarlM at English Wikipedia.](https://commons.wikimedia.org/wiki/File:Argyroxiphium_sandwicense_Haleakala.jpg), CC BY-SA 2.5 · [Holly Cheng](https://commons.wikimedia.org/wiki/File:Argyroxiphium_sandwicense_macroencephalum.jpg), CC BY-SA 3.0 · [Wgreaves](https://commons.wikimedia.org/wiki/File:Haleakala-Silversword-Hawaii.jpg), CC0 (Wikimedia Commons)</sub>
+
+</details>
+
 
 ![Haleakalā sunset](https://bluehawaiianconcierge.com/content/uploads/2026/01/HaleakalaSunset.jpg)
 <sub>Haleakalā sunset · [Photo: Blue Hawaiian Concierge](https://bluehawaiianconcierge.com/activities/haleakala-sunset-tour/)</sub>
@@ -141,6 +280,31 @@
 | **Shore snorkel lesson** | If Molokini gets cancelled or feels too much | 2 h | Several Kīhei shops |
 | **Maui Ocean Center** (Māʻalaea) | Aquarium, good rain-day option | 2 h | Next to Molokini harbor |
 
+<details open><summary><b>Photos</b></summary>
+
+Wailea Beach and Big Beach are pictured in the birthday plan above.
+
+**📸 Maluaka Beach (Turtle Town)**
+
+<a href="https://commons.wikimedia.org/wiki/File:Maluaka_Beach_Maui,_Hawaii_(45015858674).jpg"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Maluaka_Beach_Maui%2C_Hawaii_%2845015858674%29.jpg/960px-Maluaka_Beach_Maui%2C_Hawaii_%2845015858674%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="49%" alt="Maluaka Beach (Turtle Town)"></a> <a href="https://commons.wikimedia.org/wiki/File:Maluaka_Beach_Maui_Hawaii_(43923040500).jpg"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Maluaka_Beach_Maui_Hawaii_%2843923040500%29.jpg/960px-Maluaka_Beach_Maui_Hawaii_%2843923040500%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="49%" alt="Maluaka Beach (Turtle Town)"></a>
+
+<sub>Photos: [dronepicr](https://commons.wikimedia.org/wiki/File:Maluaka_Beach_Maui,_Hawaii_(45015858674).jpg), CC BY 2.0 · [dronepicr](https://commons.wikimedia.org/wiki/File:Maluaka_Beach_Maui_Hawaii_(43923040500).jpg), CC BY 2.0 (Wikimedia Commons)</sub>
+
+**📸 Mākena Cove (Secret Cove)**
+
+<a href="https://commons.wikimedia.org/wiki/File:Starr-170314-0554-Thespesia_populnea-view_Kanahena_Cove_with_beachgoers-Makena_Rd-Maui_(34066872026).jpg"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Starr-170314-0554-Thespesia_populnea-view_Kanahena_Cove_with_beachgoers-Makena_Rd-Maui_%2834066872026%29.jpg/960px-Starr-170314-0554-Thespesia_populnea-view_Kanahena_Cove_with_beachgoers-Makena_Rd-Maui_%2834066872026%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="70%" alt="Mākena Cove (Secret Cove)"></a>
+
+<sub>Photos: [Forest and Kim Starr](https://commons.wikimedia.org/wiki/File:Starr-170314-0554-Thespesia_populnea-view_Kanahena_Cove_with_beachgoers-Makena_Rd-Maui_(34066872026).jpg), CC BY 3.0 us (Wikimedia Commons)</sub>
+
+**📸 Maui Ocean Center**
+
+<a href="https://commons.wikimedia.org/wiki/File:Carcharhinus_plumbeus_maui_ocean_center.jpg"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Carcharhinus_plumbeus_maui_ocean_center.jpg/960px-Carcharhinus_plumbeus_maui_ocean_center.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="49%" alt="Maui Ocean Center"></a> <a href="https://commons.wikimedia.org/wiki/File:Hawaiian_squirrelfish_or_Striped_Squirrelfish._(11111278554).jpg"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Hawaiian_squirrelfish_or_Striped_Squirrelfish._%2811111278554%29.jpg/960px-Hawaiian_squirrelfish_or_Striped_Squirrelfish._%2811111278554%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="49%" alt="Maui Ocean Center"></a>
+
+<sub>Photos: [Joe Boyd](https://commons.wikimedia.org/wiki/File:Carcharhinus_plumbeus_maui_ocean_center.jpg), CC BY-SA 2.0 · [Bernard Spragg. NZ from Christchurch, New Zealand](https://commons.wikimedia.org/wiki/File:Hawaiian_squirrelfish_or_Striped_Squirrelfish._(11111278554).jpg), CC0 (Wikimedia Commons)</sub>
+
+</details>
+
+
 ![Big Beach, Mākena State Park](https://www.andrewshoemaker.com/images/640/big-beach-aerial-drone.jpg)
 <sub>Big Beach, Mākena · [Photo: Andrew Shoemaker](https://www.andrewshoemaker.com/photo/big-beach-and-beyond-makena-state-park/)</sub>
 
@@ -153,6 +317,23 @@
 | **ʻĪao Valley State Monument** | Lush green valley and the ʻĪao Needle; short 0.6-mile loop | 45–90 min + drive | Reservation required. Shorter alternative to Hāna. [Park](https://dlnr.hawaii.gov/dsp/parks/maui/iao-valley-state-monument/) · [booking](https://gostateparks.hawaii.gov/iao-valley/about) |
 | **Wailuku town** | Old main street, local lunch spots | 1 h | Pairs with ʻĪao |
 
+<details open><summary><b>Photos</b></summary>
+
+**📸 ʻĪao Valley + ʻĪao Needle**
+
+<a href="https://commons.wikimedia.org/wiki/File:2011_Oct_01_Iao_Needle_(Crop).jpg"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/2011_Oct_01_Iao_Needle_%28Crop%29.jpg/960px-2011_Oct_01_Iao_Needle_%28Crop%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="32%" alt="ʻĪao Valley + ʻĪao Needle"></a> <a href="https://commons.wikimedia.org/wiki/File:Iao_Needle,_Wailuku,_Maui,_Hawaii,_October_4,_2006.jpg"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Iao_Needle%2C_Wailuku%2C_Maui%2C_Hawaii%2C_October_4%2C_2006.jpg/960px-Iao_Needle%2C_Wailuku%2C_Maui%2C_Hawaii%2C_October_4%2C_2006.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="32%" alt="ʻĪao Valley + ʻĪao Needle"></a> <a href="https://commons.wikimedia.org/wiki/File:Iao_Stream_Iao_Valley_State_Park_Maui_2021.jpg"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Iao_Stream_Iao_Valley_State_Park_Maui_2021.jpg/960px-Iao_Stream_Iao_Valley_State_Park_Maui_2021.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="32%" alt="ʻĪao Valley + ʻĪao Needle"></a>
+
+<sub>Photos: [Mark Fickett](https://commons.wikimedia.org/wiki/File:2011_Oct_01_Iao_Needle_(Crop).jpg), CC BY 3.0 · [Shonebrooks](https://commons.wikimedia.org/wiki/File:Iao_Needle,_Wailuku,_Maui,_Hawaii,_October_4,_2006.jpg), CC BY-SA 4.0 · [Larry D. Moore](https://commons.wikimedia.org/wiki/File:Iao_Stream_Iao_Valley_State_Park_Maui_2021.jpg), CC BY 4.0 (Wikimedia Commons)</sub>
+
+**📸 Wailuku town**
+
+<a href="https://commons.wikimedia.org/wiki/File:WailukuTownShot.JPG"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/WailukuTownShot.JPG/960px-WailukuTownShot.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="70%" alt="Wailuku town"></a>
+
+<sub>Photos: [293.xx.xxx.xx](https://commons.wikimedia.org/wiki/File:WailukuTownShot.JPG), CC BY-SA 3.0 (Wikimedia Commons)</sub>
+
+</details>
+
+
 ![ʻĪao Valley](https://www.andrewshoemaker.com/images/640/iaos-mana-iao-valley-maui.jpg)
 <sub>ʻĪao Valley · [Photo: Andrew Shoemaker](https://www.andrewshoemaker.com/photo/iaos-mana-iao-valley-maui/)</sub>
 
@@ -163,12 +344,52 @@
 | **Makawao** | Paniolo (cowboy) town, galleries, bakery | Short browse |
 | **Haleakalā daytime** | Crater viewpoints without the sunset crowd | Swap if you'd rather be back for dinner |
 
+<details open><summary><b>Photos</b></summary>
+
+**📸 Kula + lavender farm**
+
+<a href="https://commons.wikimedia.org/wiki/File:Old_Stone_Bridge,_Kula,_Upcountry_Maui,_Hawaii.jpg"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Old_Stone_Bridge%2C_Kula%2C_Upcountry_Maui%2C_Hawaii.jpg/960px-Old_Stone_Bridge%2C_Kula%2C_Upcountry_Maui%2C_Hawaii.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="49%" alt="Kula + lavender farm"></a> <a href="https://commons.wikimedia.org/wiki/File:Starr-160404-0675-Araucaria_columnaris-grove_view_Upcountry_hills-Kula-Maui_(26922636696).jpg"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Starr-160404-0675-Araucaria_columnaris-grove_view_Upcountry_hills-Kula-Maui_%2826922636696%29.jpg/960px-Starr-160404-0675-Araucaria_columnaris-grove_view_Upcountry_hills-Kula-Maui_%2826922636696%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="49%" alt="Kula + lavender farm"></a>
+
+<sub>Photos: [belindah-gone for awhile (grieving for my partner)](https://commons.wikimedia.org/wiki/File:Old_Stone_Bridge,_Kula,_Upcountry_Maui,_Hawaii.jpg), CC BY 2.0 · [Forest and Kim Starr](https://commons.wikimedia.org/wiki/File:Starr-160404-0675-Araucaria_columnaris-grove_view_Upcountry_hills-Kula-Maui_(26922636696).jpg), CC BY 3.0 us (Wikimedia Commons)</sub>
+
+**📸 Makawao**
+
+<a href="https://commons.wikimedia.org/wiki/File:MakawaoIntersection.JPG"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/MakawaoIntersection.JPG/960px-MakawaoIntersection.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="49%" alt="Makawao"></a> <a href="https://commons.wikimedia.org/wiki/File:Starr-090413-9184-Ananas_comosus-edge_of_town-Makawao-Maui_(24833947982).jpg"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Starr-090413-9184-Ananas_comosus-edge_of_town-Makawao-Maui_%2824833947982%29.jpg/960px-Starr-090413-9184-Ananas_comosus-edge_of_town-Makawao-Maui_%2824833947982%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="49%" alt="Makawao"></a>
+
+<sub>Photos: [293.xx.xxx.xx](https://commons.wikimedia.org/wiki/File:MakawaoIntersection.JPG), CC BY-SA 3.0 · [Forest and Kim Starr](https://commons.wikimedia.org/wiki/File:Starr-090413-9184-Ananas_comosus-edge_of_town-Makawao-Maui_(24833947982).jpg), CC BY 3.0 us (Wikimedia Commons)</sub>
+
+</details>
+
+
 ### North Shore (Pāʻia, Hoʻokipa)
 | Thing | Why | Notes |
 |---|---|---|
 | **Pāʻia** | Surf town, shops, cafés; start of the Road to Hāna | ~35 min from Kīhei |
 | **Hoʻokipa Lookout** | Windsurfers by day, **turtles hauled out on the sand late afternoon** | Keep 10 ft away |
 | **Mama's Fish House** | Maui's most famous special-occasion restaurant | Book well ahead; long drive from Kīhei |
+
+<details open><summary><b>Photos</b></summary>
+
+**📸 Pāʻia**
+
+<a href="https://commons.wikimedia.org/wiki/File:North_Shore_Maui.jpg"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/North_Shore_Maui.jpg/960px-North_Shore_Maui.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="49%" alt="Pāʻia"></a> <a href="https://commons.wikimedia.org/wiki/File:Paia,_Maui,_Hawaii_(18565425275).jpg"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Paia%2C_Maui%2C_Hawaii_%2818565425275%29.jpg/960px-Paia%2C_Maui%2C_Hawaii_%2818565425275%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="49%" alt="Pāʻia"></a>
+
+<sub>Photos: [Travis.Thurston](https://commons.wikimedia.org/wiki/File:North_Shore_Maui.jpg), CC BY-SA 3.0 · [Tony Webster from Seattle, Washington](https://commons.wikimedia.org/wiki/File:Paia,_Maui,_Hawaii_(18565425275).jpg), CC BY 2.0 (Wikimedia Commons)</sub>
+
+**📸 Hoʻokipa (windsurfers + turtles)**
+
+<a href="https://commons.wikimedia.org/wiki/File:20190215_SKJ1508-HDR.jpg"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/20190215_SKJ1508-HDR.jpg/960px-20190215_SKJ1508-HDR.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="32%" alt="Hoʻokipa (windsurfers + turtles)"></a> <a href="https://commons.wikimedia.org/wiki/File:Hookipa_Beach-_Huge_Waves_2.jpg"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Hookipa_Beach-_Huge_Waves_2.jpg/960px-Hookipa_Beach-_Huge_Waves_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="32%" alt="Hoʻokipa (windsurfers + turtles)"></a> <a href="https://commons.wikimedia.org/wiki/File:Hookipa_Beach_surfing_Maui_Hawaii_(45690499842).jpg"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Hookipa_Beach_surfing_Maui_Hawaii_%2845690499842%29.jpg/960px-Hookipa_Beach_surfing_Maui_Hawaii_%2845690499842%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="32%" alt="Hoʻokipa (windsurfers + turtles)"></a>
+
+<sub>Photos: [Theskuj](https://commons.wikimedia.org/wiki/File:20190215_SKJ1508-HDR.jpg), CC BY-SA 4.0 · [Vikg at en.wikipedia. Later version(s) were uploaded by Viri](https://commons.wikimedia.org/wiki/File:Hookipa_Beach-_Huge_Waves_2.jpg), CC BY-SA 3.0 · [dronepicr](https://commons.wikimedia.org/wiki/File:Hookipa_Beach_surfing_Maui_Hawaii_(45690499842).jpg), CC BY 2.0 (Wikimedia Commons)</sub>
+
+**📸 Mama's Fish House**
+
+<a href="https://commons.wikimedia.org/wiki/File:Stretching_out_-_beach_on_the_North_side_of_the_Maui.jpg"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Stretching_out_-_beach_on_the_North_side_of_the_Maui.jpg/960px-Stretching_out_-_beach_on_the_North_side_of_the_Maui.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="49%" alt="Mama&#x27;s Fish House"></a> <a href="https://commons.wikimedia.org/wiki/File:Maui,_Kuau_Cove.jpg"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Maui%2C_Kuau_Cove.jpg/960px-Maui%2C_Kuau_Cove.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="49%" alt="Mama&#x27;s Fish House"></a>
+
+<sub>Photos: [Kirt Edblom](https://commons.wikimedia.org/wiki/File:Stretching_out_-_beach_on_the_North_side_of_the_Maui.jpg), CC BY-SA 2.0 · [ImagePerson](https://commons.wikimedia.org/wiki/File:Maui,_Kuau_Cove.jpg), CC BY-SA 4.0 (Wikimedia Commons)</sub>
+
+</details>
+
 
 ### West Maui (Kāʻanapali, Nāpili, Kapalua, Lahaina)
 | Thing | Why | Notes |
@@ -178,6 +399,37 @@
 | **Kapalua Coastal Trail** | Easy coastal walk | |
 | **Nakalele Blowhole** | Dramatic blowhole on the wild north coast | Stay well back; people have died there |
 | **Lahaina** | Recovering after the 2023 fire. The harbor and some north Front Street restaurants are open again; large areas are still resident-only | Visit respectfully: stay in public areas, don't stop in the burn zone, spend at local businesses. [Guide](https://hawaii.com/blog/visiting-lahaina-maui-2026) |
+
+<details open><summary><b>Photos</b></summary>
+
+No Lahaina photos on purpose: much of the town is still rebuilding after the 2023 fire.
+
+**📸 Kāʻanapali Beach + Black Rock**
+
+<a href="https://commons.wikimedia.org/wiki/File:Kaanapali_Beach_Maui.jpg"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Kaanapali_Beach_Maui.jpg/960px-Kaanapali_Beach_Maui.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="32%" alt="Kāʻanapali Beach + Black Rock"></a> <a href="https://commons.wikimedia.org/wiki/File:Kaanapali_West_in_Maui_Hawaii_(44826247695).jpg"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Kaanapali_West_in_Maui_Hawaii_%2844826247695%29.jpg/960px-Kaanapali_West_in_Maui_Hawaii_%2844826247695%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="32%" alt="Kāʻanapali Beach + Black Rock"></a> <a href="https://commons.wikimedia.org/wiki/File:The_Royal_Lahaina_Hotel.jpg"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/The_Royal_Lahaina_Hotel.jpg/960px-The_Royal_Lahaina_Hotel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="32%" alt="Kāʻanapali Beach + Black Rock"></a>
+
+<sub>Photos: [John P Salvatore](https://commons.wikimedia.org/wiki/File:Kaanapali_Beach_Maui.jpg), CC BY-SA 4.0 · [dronepicr](https://commons.wikimedia.org/wiki/File:Kaanapali_West_in_Maui_Hawaii_(44826247695).jpg), CC BY 2.0 · [Randy from Newbury Park, California, USA](https://commons.wikimedia.org/wiki/File:The_Royal_Lahaina_Hotel.jpg), CC BY 2.0 (Wikimedia Commons)</sub>
+
+**📸 Nāpili Bay + Kapalua Bay**
+
+<a href="https://commons.wikimedia.org/wiki/File:Sunset_at_Napili_Bay,_Maui.jpg"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Sunset_at_Napili_Bay%2C_Maui.jpg/960px-Sunset_at_Napili_Bay%2C_Maui.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="49%" alt="Nāpili Bay + Kapalua Bay"></a> <a href="https://commons.wikimedia.org/wiki/File:Sunset_Napili_Bay_-_NOAA.jpg"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Sunset_Napili_Bay_-_NOAA.jpg/960px-Sunset_Napili_Bay_-_NOAA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="49%" alt="Nāpili Bay + Kapalua Bay"></a>
+
+<sub>Photos: [KAP03](https://commons.wikimedia.org/wiki/File:Sunset_at_Napili_Bay,_Maui.jpg), CC BY-SA 4.0 · [unknown](https://commons.wikimedia.org/wiki/File:Sunset_Napili_Bay_-_NOAA.jpg), Public domain (Wikimedia Commons)</sub>
+
+**📸 Kapalua Coastal Trail**
+
+<a href="https://commons.wikimedia.org/wiki/File:Private_Home_on_Namulu_Bay_above_Kapalua_Coastal_Trail_(53390536167).jpg"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Private_Home_on_Namulu_Bay_above_Kapalua_Coastal_Trail_%2853390536167%29.jpg/960px-Private_Home_on_Namulu_Bay_above_Kapalua_Coastal_Trail_%2853390536167%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="49%" alt="Kapalua Coastal Trail"></a> <a href="https://commons.wikimedia.org/wiki/File:Dragon%27s_Teeth_(15540617685).jpg"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Dragon%27s_Teeth_%2815540617685%29.jpg/960px-Dragon%27s_Teeth_%2815540617685%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="49%" alt="Kapalua Coastal Trail"></a>
+
+<sub>Photos: [Carnaval.com Studios from The Inner Mission San Francisco, E](https://commons.wikimedia.org/wiki/File:Private_Home_on_Namulu_Bay_above_Kapalua_Coastal_Trail_(53390536167).jpg), CC BY 2.0 · [Christopher Michel](https://commons.wikimedia.org/wiki/File:Dragon%27s_Teeth_(15540617685).jpg), CC BY 2.0 (Wikimedia Commons)</sub>
+
+**📸 Nakalele Blowhole**
+
+<a href="https://commons.wikimedia.org/wiki/File:Nakalele_Blowhole_2021.jpg"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Nakalele_Blowhole_2021.jpg/960px-Nakalele_Blowhole_2021.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="49%" alt="Nakalele Blowhole"></a> <a href="https://commons.wikimedia.org/wiki/File:Warning_Sign_at_Nakalele_Point.jpg"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Warning_Sign_at_Nakalele_Point.jpg/960px-Warning_Sign_at_Nakalele_Point.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="49%" alt="Nakalele Blowhole"></a>
+
+<sub>Photos: [Larry D. Moore](https://commons.wikimedia.org/wiki/File:Nakalele_Blowhole_2021.jpg), CC BY 4.0 · [Wikipedia: User: Umbris](https://commons.wikimedia.org/wiki/File:Warning_Sign_at_Nakalele_Point.jpg), CC BY-SA 3.0 (Wikimedia Commons)</sub>
+
+</details>
+
 
 ![Kāʻanapali Beach](https://www.andrewshoemaker.com/images/640/kaanapali-beach-maui-hawaii-palm-trees.jpg)
 <sub>Kāʻanapali · [Photo: Andrew Shoemaker](https://www.andrewshoemaker.com/photo/kaanapali-beach-maui-hawaii-palm-trees/)</sub>
@@ -190,10 +442,32 @@
 - Kāʻanapali options: Drums of the Pacific (Hyatt), Maui Nui Lūʻau (Sheraton), Myths of Maui (Royal Lahaina).
 - Prices and nights vary; check each venue's calendar. [Overview](https://hawaii-guide.com/maui/activities/luaus).
 
+<details open><summary><b>Photos</b></summary>
+
+**📸 Lūʻau + fire-knife dancing**
+
+<a href="https://commons.wikimedia.org/wiki/File:Samoa_fire_dance_-_siva_afi.jpg"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Samoa_fire_dance_-_siva_afi.jpg/960px-Samoa_fire_dance_-_siva_afi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="49%" alt="Lūʻau + fire-knife dancing"></a> <a href="https://commons.wikimedia.org/wiki/File:Siva_Afi_-_Fire_spinning.jpg"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Siva_Afi_-_Fire_spinning.jpg/960px-Siva_Afi_-_Fire_spinning.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="49%" alt="Lūʻau + fire-knife dancing"></a>
+
+<sub>Photos: [Neil](https://commons.wikimedia.org/wiki/File:Samoa_fire_dance_-_siva_afi.jpg), CC BY 2.0 · [CloudSurfer](https://commons.wikimedia.org/wiki/File:Siva_Afi_-_Fire_spinning.jpg), CC BY-SA 3.0 (Wikimedia Commons)</sub>
+
+</details>
+
+
 ### Other ideas
 - **Whales:** humpback season really starts in December; early November sightings are a bonus, not a plan.
 - **Sunset sail / dinner cruise** from Māʻalaea or Kāʻanapali.
 - **Helicopter:** West Maui + Molokaʻi cliffs, or Hāna/Haleakalā, if you want one aerial outing.
+
+<details open><summary><b>Photos</b></summary>
+
+**📸 Humpback whales**
+
+<a href="https://commons.wikimedia.org/wiki/File:Humpback_Whale,_Breaching_off_Maui_Coast.jpg"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Humpback_Whale%2C_Breaching_off_Maui_Coast.jpg/960px-Humpback_Whale%2C_Breaching_off_Maui_Coast.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="49%" alt="Humpback whales"></a> <a href="https://commons.wikimedia.org/wiki/File:Whale_Disentanglement_(41330089882).jpg"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Whale_Disentanglement_%2841330089882%29.jpg/960px-Whale_Disentanglement_%2841330089882%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="49%" alt="Humpback whales"></a>
+
+<sub>Photos: [Jkrauska](https://commons.wikimedia.org/wiki/File:Humpback_Whale,_Breaching_off_Maui_Coast.jpg), CC BY-SA 3.0 · [National Marine Sanctuaries](https://commons.wikimedia.org/wiki/File:Whale_Disentanglement_(41330089882).jpg), Public domain (Wikimedia Commons)</sub>
+
+</details>
+
 
 ---
 
@@ -248,4 +522,4 @@
 - [Hawaii.com: visiting Lahaina in 2026](https://hawaii.com/blog/visiting-lahaina-maui-2026)
 - [Hawaii-Guide: Maui lūʻau](https://hawaii-guide.com/maui/activities/luaus)
 - [Official Molokini guide](https://www.gohawaii.com/islands/maui/regions/south-maui/Molokini)
-- Photos: [Andrew Shoemaker](https://www.andrewshoemaker.com/gallery/paradise-hawaii-landscape-photography/), To-Hawaii, Blue Hawaiian Concierge; copyright stays with the owners.
+- Photos: [Andrew Shoemaker](https://www.andrewshoemaker.com/gallery/paradise-hawaii-landscape-photography/), To-Hawaii, Blue Hawaiian Concierge; copyright stays with the owners. Gallery photos: Wikimedia Commons, credited under each set.
