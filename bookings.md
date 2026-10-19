@@ -32,7 +32,7 @@ To do on [Alaska → Manage trip](https://www.alaskaair.com/booking/reservation-
 | Island | Hotel | Dates | Conf # | Room | Total (2) | Free cancel until | Notes |
 |---|---|---|---|---|---|---|---|
 | Oʻahu | **OUTRIGGER Reef Waikīkī Beach Resort**, 2169 Kalia Rd, Honolulu 96815 · [+1 808 923 3111](tel:+18089233111) | Sat Oct 31 (from 3 PM) → Tue Nov 3 (by 11 AM), 3 nights | Booking.com **5237944073** | Partial Ocean View, 1 King, non-smoking | **$1,296.69** (room $942.30 + taxes $204.39 + resort fee $150), **paid by Tanu** | **Oct 27, 11:59 PM**; after that the first night is charged (Booking.com shows a $708.30 refund from Oct 28) | Paid by Tanu; resort fee collected at check-out. Perks: 15% off food & drink, free Honolulu Museum of Art for 2, $5 off Bishop Museum (key card). Special request: birthday treats + ocean-facing room. ⚠️ Booker email was changed Oct 18: check it's yours |
-| Maui | **Maui Coast Hotel**, 2259 S Kīhei Rd, Kīhei · [hotel site](https://www.mauicoasthotel.com/) | Tue Nov 3 (from 4 PM) → Sun Nov 8 (by 11 AM), 5 nights | Booking.com **6290500360** | **Hoku King** (our plan wanted the Kai Ocean View King) | **$1,715.30** (room $1,250 + taxes $227 + tourism fee $43.35 + resort fee $194.95), **paid by Tanu** | **Oct 30, 11:59 PM HST**; then $269.39 | Pay at the property. Birthday noted on the reservation. Ask about a Kai Ocean View King, late checkout / bag storage on Nov 8 |
+| Maui | **Maui Coast Hotel**, 2259 S Kīhei Rd, Kīhei · [+1 808 874 6284](tel:+18088746284) · [hotel site](https://www.mauicoasthotel.com/) | Tue Nov 3 (from 4 PM) → Sun Nov 8 (by 11 AM), 5 nights | Booking.com **6290500360** | **Hoku King**: 1 king + sofa bed, balcony, **garden / mountain view** (our plan wanted the Kai Ocean View King) | **$1,715.30** (room $1,250 + taxes $227 + tourism fee $43.35 + resort fee $194.95), **paid by Tanu** | **Oct 30, 11:59 PM HST**; then $269.39 | Pay at the property. Birthday noted on the reservation. Ask about a Kai Ocean View King, late checkout / bag storage on Nov 8 |
 
 <a id="car"></a>
 ## 🚗 Maui rental car ⚠️ (conflicts with the no-car plan)
@@ -48,7 +48,6 @@ The Southwest itinerary email shows a **rental car at Kahului Airport, Nov 3 →
 
 | By | What | Book here | Notes |
 |---|---|---|---|
-| **Now** | 🥾 Diamond Head timed entry, Sun Nov 1 (~6:30 AM slot) | [gostateparks.hawaii.gov/diamondhead](https://gostateparks.hawaii.gov/diamondhead/about) | $5/pp; sells out; arrive within 30 min of the slot |
 | **Oct 21** | 🌋 Haleakalā sunset tour with Kīhei pickup, Sat Nov 7 | [Polynesian Adventure (official)](https://www.polyad.com/tour/maui-haleakala-sunset-tour/) · [same tour on Expedia](https://www.expedia.com/things-to-do/haleakala-sunset-tour.a390930.activity-details) | ~$237/adult, entry + dinner; pickup ~1:30 PM; confirm Maui Coast Hotel pickup |
 | Oct 24 | 🤿 PacWhale Molokini + Turtle Arches, Wed Nov 4 | [pacwhale.com](https://www.pacwhale.com/ecotour/molokini-turtle-arches-snorkel/) | ~$220/adult; no hotel pickup (dawn taxi) |
 | Oct 24 | 🌿 Road to Hāna guided tour, Thu Nov 5 | [Tour Maui](https://www.tourmaui.com/tours/road-to-hana-tour/) · [Polynesian Adventure](https://www.polyad.com/tour/road-to-hana-tour/) | ~$590–650 for two; confirm Kīhei pickup and Waiʻānapanapa |
@@ -76,8 +75,8 @@ Options and prices for each ride: [`commute.md`](commute.md).
 ## 🎟️ Activities & reservations
 | Date | What | Check-in time | Meeting point | Conf # | Paid | Cancel / weather policy |
 |---|---|---|---|---|---|---|
-| Nov 1 | 🥾 Diamond Head timed entry | | Diamond Head State Monument | | | |
-| Nov 2 | ⚓ USS Arizona program ✅ **11:15 AM – 12:00 PM**, 2 tickets | be at the visitor center ~10:15 AM (leave Waikīkī ~9:30) | Pearl Harbor National Memorial visitor center | Recreation.gov order **0935827091** | $2.00 | no bags allowed; [My reservations](https://www.recreation.gov/account/orders) |
+| **Nov 3** ⚠️ | 🥾 Diamond Head ✅ **6:00–7:00 AM entry**, 2 entries (entry only) | arrive within 30 min of 6:00 | Diamond Head State Monument (rideshare drop-off) | order **VISITOR-2026-10-18-DHSM-2278799** · [ticket PDF](docs/2026-11-03_diamond-head_entry_tickets.pdf) | ✅ | QR codes are single-use; booked for **Nov 3** (travel day), not Nov 1 as planned: see `todos.md` |
+| Nov 2 | ⚓ USS Arizona program ✅ **11:15 AM – 12:00 PM**, 2 tickets | be at the visitor center ~10:15 AM (leave Waikīkī ~9:30) | Pearl Harbor National Memorial visitor center | Recreation.gov order **0935827091** · [tickets PDF](docs/2026-11-02_uss-arizona_tickets.pdf) | $2.00 | check in at the theater desk 10 min before; no bags (paid bag storage nearby); clear water only; [My reservations](https://www.recreation.gov/account/orders) |
 | Nov 4 | 🤿 PacWhale Molokini + Turtle Arches | ~45 min before departure | Māʻalaea Harbor | | | |
 | Nov 5 | 🌿 Road to Hāna guided tour | ~6:30–7:00 AM | Maui Coast Hotel (confirm) | | | |
 | Nov 6 | 💆 Couples spa | ~1 PM | Wailea resort spa | | | |

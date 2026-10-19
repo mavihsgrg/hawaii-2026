@@ -5,9 +5,9 @@
 | Date | Where | Confirmed | Open |
 |---|---|---|---|
 | **Sat Oct 31** | Oʻahu | **Fly JFK → HNL, 8:55 AM → 2:10 PM (Alaska)**. **Check in OUTRIGGER Reef from 3 PM** | Activities: none yet |
-| Sun Nov 1 | Oʻahu | — | Day plan (Diamond Head is a possibility, reservation needed) |
-| Mon Nov 2 | Oʻahu | — | Day plan (Pearl Harbor or other) |
-| **Tue Nov 3** | Oʻahu → Maui | **Check out 11 AM. Fly HNL → OGG, 1:35 PM → 2:25 PM (Southwest). Check in Maui Coast from 4 PM** | Shuttle / rideshare OGG → Kīhei (or the rental car, if kept: see [`todos.md`](todos.md#urgent)) |
+| Sun Nov 1 | Oʻahu | — | Free day (Diamond Head is booked for Nov 3; could move here: see [`todos.md`](todos.md)) |
+| **Mon Nov 2** | Oʻahu | **⚓ USS Arizona Memorial program 11:15 AM** (at the visitor center ~10:15; no bags) | Rest of the day open |
+| **Tue Nov 3** | Oʻahu → Maui | **🥾 Diamond Head entry 6:00–7:00 AM.** **Check out 11 AM. Fly HNL → OGG, 1:35 PM → 2:25 PM (Southwest). Check in Maui Coast from 4 PM** | Shuttle / rideshare OGG → Kīhei (or the rental car, if kept: see [`todos.md`](todos.md#urgent)) |
 | Wed Nov 4 | Maui | — | Molokini snorkel (not booked) |
 | Thu Nov 5 | Maui | — | Road to Hāna day, or a slow day |
 | **Fri Nov 6** | Maui | **🎂 Birthday, protected**: slow morning, beach and pool | Birthday dinner: Hotel Wailea is the lead choice (not booked) |

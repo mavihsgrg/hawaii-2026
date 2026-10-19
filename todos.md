@@ -18,8 +18,10 @@
 ## 🔴 Urgent (today / tomorrow)
 - [ ] **Alaska free 24-h cancel ends Oct 19:** AS 829 (JFK → HNL) at **12:17 PM ET**, return AS 1145/830 at **12:29 PM ET**. Keep both? · Both · **Oct 19 noon ET** · [Alaska → Manage trip](https://www.alaskaair.com/booking/reservation-lookup)
 - [ ] **🚗 Maui rental car (Nov 3–6) vs the no-car plan:** cancel it, or keep it and extend to Nov 8 (see [`bookings.md`](bookings.md#car)) · Both · Oct 20 · [Southwest → Manage reservation](https://www.southwest.com/air/manage-reservation/)
-- [ ] 🥾 **Diamond Head** timed entry, Sun Nov 1 (~6:30 AM) · S · **now** (sells out) · [gostateparks.hawaii.gov](https://gostateparks.hawaii.gov/diamondhead/about)
-- [x] ⚓ **USS Arizona** booked: Mon Nov 2, 11:15 AM, 2 tickets, Recreation.gov order 0935827091 (be there ~10:15 AM)
+- [x] 🥾 **Diamond Head** booked: **Tue Nov 3, 6:00–7:00 AM**, 2 entries, order VISITOR-2026-10-18-DHSM-2278799 · [ticket PDF](docs/2026-11-03_diamond-head_entry_tickets.pdf)
+- [ ] ⚠️ **Diamond Head is on Nov 3 (travel day), not Nov 1:** keep it (hike 6–8 AM, check out 11, fly 1:35 PM; tight but works) or move it to Sun Nov 1 (changes allowed until midnight the day before; refunds up to 3 days before) · Both · Oct 25 · [gostateparks.hawaii.gov](https://gostateparks.hawaii.gov/diamondhead/about)
+- [ ] ⚠️ **Chicago concert the night before the flight:** Periphery at Ramova Theatre, Chicago, **Fri Oct 30, 6 PM** (2 GA tickets, Tixr S42U1I7JGR), but **AS 829 leaves JFK Sat Oct 31 at 8:55 AM**. Plan the Chicago → NYC getaway (red-eye or first flight) or rethink one of them · S · **Oct 19** (Alaska free cancel ends 12:17 PM ET)
+- [x] ⚓ **USS Arizona** booked: Mon Nov 2, 11:15 AM, 2 tickets, Recreation.gov order 0935827091 (at the visitor center by ~10:15 AM) · [tickets PDF](docs/2026-11-02_uss-arizona_tickets.pdf)
 - [ ] Request PTO / block calendar Oct 30 – Nov 9 (and Tanu's Nov 9) · Both · Oct 19
 
 <a id="decide"></a>
