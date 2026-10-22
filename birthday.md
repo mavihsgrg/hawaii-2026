@@ -33,7 +33,7 @@
 | ~1–4 PM | 💆 **Couples spa** | Wailea resort spa (see below) |
 | ~4:30 PM | Get ready | Hotel |
 | ~5:00 PM | 🚕 Rideshare to Wailea | ~15 min |
-| ~5:15 PM | 🍽️ **Dinner**, sunset ~5:47 from the table | The Restaurant at Hotel Wailea |
+| 5:30 PM | 🍽️ **Dinner** ✅, sunset ~5:47 from the table | The Restaurant at Hotel Wailea |
 | ~7:45–9:00 PM | 🍸 **Cocktails** | Tikehau Lounge, Wailea Village |
 | ~9:00 PM | 🚕 Rideshare to Kīhei | ~10 min |
 | ~9:30–11:30 PM | 🪩 **DJ + dancing** | South Shore Tiki Lounge, Kīhei |
@@ -49,7 +49,7 @@
 
 | Option | Vibe | From Kīhei | Status |
 |---|---|---|---|
-| **The Restaurant at Hotel Wailea** ⭐ | Adults-only, hilltop garden, ocean view, special-occasion. Open 5–8:30 PM | 4.2 mi · ~15 min | 🟡 lead, not booked |
+| **The Restaurant at Hotel Wailea** ⭐ | Adults-only, hilltop garden, ocean view, special-occasion. Open 5–8:30 PM | 4.2 mi · ~15 min | ✅ booked, 5:30 PM, 2 guests |
 | Monkeypod Wailea | Casual, lively | ~15 min | backup |
 | Mama's Fish House | Special, iconic | ~45+ min (near Pāʻia) | only if we want the ride; it doesn't fit the bar + dancing night |
 
@@ -101,7 +101,8 @@ Nobody drives tonight, and we don't have a car anyway. Full ride details: [`comm
 
 - [x] Spa: yes · Both
 - [ ] Book the spa (couples, early afternoon) · P · **by Oct 24**
-- [ ] Book Hotel Wailea dinner, 5:15–5:45 PM, birthday + lactose intolerance noted · P · **by Oct 24**
+- [x] Hotel Wailea dinner booked: Fri Nov 6, 5:30 PM, 2 guests (SevenRooms)
+- [ ] Check the reservation notes the birthday + lactose intolerance · S · by Oct 24
 - [ ] Book Tikehau Lounge ~7:45 PM on OpenTable · P · by Oct 24
 - [ ] Prebook a taxi Wailea Village → Tiki Lounge for ~9 PM · S · Nov 5
 - [ ] Check South Shore Tiki Lounge's calendar for a DJ on Fri Nov 6 · week of Nov 2

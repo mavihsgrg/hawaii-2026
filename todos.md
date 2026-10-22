@@ -1,7 +1,7 @@
 # TODOs: trip task tracker
 
 > **The one task list** (merged from all sessions on 2026-10-18). Every open item has a direct link.
-> Today: 2026-10-18 · Departure: **Sat Oct 31 (13 days)** · Plan: **Oʻahu → Maui, 8 nights**. Booked: **3 flights + 2 hotels** ([`bookings.md`](bookings.md)).
+> Updated: 2026-10-21 · Departure: **Sat Oct 31 (10 days)** · Plan: **Oʻahu → Maui, 8 nights**. Booked: **3 flights, 2 hotels, USS Arizona, Diamond Head, Haleakalā, birthday dinner** ([`bookings.md`](bookings.md)).
 > Format: `- [ ] task · owner · due · link`. Owners: **S** = Shivam, **P** = Tanu, **Both**. Rides: [`commute.md`](commute.md).
 
 ## 📑 Contents
@@ -17,7 +17,6 @@
 <a id="urgent"></a>
 ## 🔴 Urgent (today / tomorrow)
 - [ ] **Alaska free 24-h cancel ends Oct 19:** AS 829 (JFK → HNL) at **12:17 PM ET**, return AS 1145/830 at **12:29 PM ET**. Keep both? · Both · **Oct 19 noon ET** · [Alaska → Manage trip](https://www.alaskaair.com/booking/reservation-lookup)
-- [ ] **🚗 Cancel the Maui rental car (Nov 3–6):** no car on this trip; cancel it and keep the cancellation email (see [`bookings.md`](bookings.md#car)) · S · **ASAP** · [Southwest → Manage reservation](https://www.southwest.com/air/manage-reservation/)
 - [x] 🥾 **Diamond Head** booked: **Tue Nov 3, 6:00–7:00 AM**, 2 entries, order VISITOR-2026-10-18-DHSM-2278799 · [ticket PDF](docs/2026-11-03_diamond-head_entry_tickets.pdf)
 - [ ] ⚠️ **Diamond Head is on Nov 3 (travel day), not Nov 1:** keep it (hike 6–8 AM, check out 11, fly 1:35 PM; tight but works) or move it to Sun Nov 1 (changes allowed until midnight the day before; refunds up to 3 days before) · Both · Oct 25 · [gostateparks.hawaii.gov](https://gostateparks.hawaii.gov/diamondhead/about)
 - [ ] ⚠️ **Chicago concert the night before the flight:** Periphery at Ramova Theatre, Chicago, **Fri Oct 30, 6 PM** (2 GA tickets, Tixr S42U1I7JGR), but **AS 829 leaves JFK Sat Oct 31 at 8:55 AM**. Plan the Chicago → NYC getaway (red-eye or first flight) or rethink one of them · S · **Oct 19** (Alaska free cancel ends 12:17 PM ET)
@@ -26,24 +25,22 @@
 
 <a id="decide"></a>
 ## 🟠 Decide
-- [ ] Hāna on Nov 5: guided tour, or drop it for a slow Wailea day? · Both · Oct 21
-- [ ] Birthday dinner: Hotel Wailea, or Monkeypod Wailea / Mama's Fish House? · Both · Oct 21
+- [ ] Road to Hāna: Haleakalā now takes Nov 5, so it's **Sat Nov 7** (our last free full Maui day) or skip it for a slow day? · Both · Oct 24
 
 <a id="book"></a>
 ## 🟡 Book (Oct 21–27)
-- [ ] 🌋 **Haleakalā sunset tour with Kīhei hotel pickup, Sat Nov 7** (~$237/adult, entry + dinner) · S · **Oct 21** · [Polynesian Adventure](https://www.polyad.com/tour/maui-haleakala-sunset-tour/) · [Expedia listing](https://www.expedia.com/things-to-do/haleakala-sunset-tour.a390930.activity-details)
 - [ ] 🤿 Molokini snorkel, Wed Nov 4 (~$440 for two; no hotel pickup) · S · Oct 24 · [PacWhale](https://www.pacwhale.com/ecotour/molokini-turtle-arches-snorkel/)
-- [ ] 🌿 Road to Hāna guided tour with Kīhei pickup, Thu Nov 5 (~$590–650; includes Waiʻānapanapa?) · S · Oct 24 · [Tour Maui](https://www.tourmaui.com/tours/road-to-hana-tour/) · [Polynesian Adventure](https://www.polyad.com/tour/road-to-hana-tour/)
-- [ ] 🍽️ Birthday dinner, Fri Nov 6, 5:15–5:45 PM: birthday + lactose intolerance · P · Oct 24 · [The Restaurant at Hotel Wailea](https://www.hotelwailea.com/dining/the-restaurant/)
+- [ ] 🌿 Road to Hāna guided tour with Kīhei pickup, **Sat Nov 7**, if we do it (~$590–650; includes Waiʻānapanapa?) · S · Oct 24 · [Tour Maui](https://www.tourmaui.com/tours/road-to-hana-tour/) · [Polynesian Adventure](https://www.polyad.com/tour/road-to-hana-tour/)
+- [ ] 🍽️ Hotel Wailea dinner is booked: make sure the reservation notes the **birthday + lactose intolerance** · S · Oct 24 · SevenRooms "manage reservation" link in the confirmation email
 - [ ] 💆 Couples spa, Fri Nov 6 ~1 PM (~$400–700) · P · Oct 24 · [Grand Wailea](https://www.grandwailea.com/spa) · [Fairmont Kea Lani](https://www.fairmont.com/kea-lani-maui/willow-stream/) · [Four Seasons](https://www.fourseasons.com/maui/spa/)
 - [ ] 🍸 Tikehau Lounge, Fri Nov 6 ~7:45 PM · P · Oct 24 · [OpenTable](https://www.opentable.com/r/tikehau-lounge-kihei)
 - [ ] 🚐 OGG ↔ Kīhei shuttle, Nov 3 (after 2:25 PM) + Nov 8 (~11:30 AM) · S · Oct 24 · [SpeediShuttle](https://www.speedishuttle.com/) · [Roberts Hawaiʻi](https://www.robertshawaii.com/)
 - [ ] 🚖 Dawn taxi Kīhei → Māʻalaea, Wed Nov 4 · S · Oct 27 · ask the hotel · [Kīhei taxis](https://www.google.com/maps/search/taxi+Kihei+HI)
-- [ ] Confirm the Hāna and Haleakalā tours pick up **at Maui Coast Hotel** · S · when booking
+- [ ] Confirm the Hāna tour picks up **at Maui Coast Hotel** (Haleakalā: 1:40 PM at the street-side sign) · S · when booking
 
 <a id="fix"></a>
 ## 🟢 Fix up what's booked
-- [ ] ✈️ Alaska: find the 6-letter Alaska code in `Ticket_392513.pdf` / `Ticket_392514.pdf` (Gmail), then seats together, checked bags (none included), **vegetarian meal** (requested but missing) · S · Oct 20 · [Alaska → Manage trip](https://www.alaskaair.com/booking/reservation-lookup)
+- [ ] ✈️ Alaska: find the 6-letter Alaska code in `Ticket_392513.pdf` / `Ticket_392514.pdf` (Gmail), then seats together, checked bags (none included), **vegetarian meal** (the latest outbound email still says "Additional Requests: None") · S · Oct 20 · [Alaska → Manage trip](https://www.alaskaair.com/booking/reservation-lookup)
 - [ ] ✈️ Southwest 28UG6J (Basic): seat is assigned at check-in; add a bag ($45) if needed · S · Oct 28 · [Southwest → Manage](https://www.southwest.com/air/manage-reservation/)
 - [ ] 🏨 OUTRIGGER: booker email was changed Oct 18; check the booking is under your email · S · Oct 20 · [Booking.com → My bookings](https://secure.booking.com/myreservations.html)
 - [ ] 🏨 OUTRIGGER: is the pool / Voyager 47 lounge closed Oct 5 – Dec 18? Early check-in or bag drop Oct 31? Bag storage Nov 3? · S · Oct 24 · [call +1 808 923 3111](tel:+18089233111)
@@ -71,8 +68,11 @@
 
 <a id="done"></a>
 ## ✅ Done
+- [x] 🌋 **Haleakalā sunset tour** ✅ Thu Nov 5, 2 adults, Polynesian Adventure order **GLUKMF**, $511.48 paid; pickup **1:40 PM at Maui Coast's street-side sign**
+- [x] 🎂 Birthday dinner booked: **The Restaurant at Hotel Wailea, Fri Nov 6, 5:30 PM**, 2 guests (SevenRooms)
+- [x] 🚗 **No rental car to cancel** (checked Oct 21): the Southwest receipt only shows a "Book car" offer, and Gmail has no rental confirmation
 - [x] ✈️ Flights booked Oct 18: Alaska AS 829 JFK → HNL Oct 31 · Southwest 28UG6J HNL → OGG Nov 3 · Alaska AS 1145/830 OGG → JFK Nov 8 (lands Nov 9) · $2,031.32
 - [x] 🏨 OUTRIGGER Reef booked Oct 18 · 5237944073 · $1,296.69
 - [x] 🏨 Maui Coast Hotel booked Oct 18 · 6290500360 · Hoku King · $1,715.30
-- [x] Decided Oct 18: Oʻahu first · 8 nights · no car (Oct 21: Maui rental to be cancelled, not extended) · Nov 1 Diamond Head, Nov 2 Pearl Harbor · Haleakalā sunset tour · birthday spa yes
+- [x] Decided Oct 18: Oʻahu first · 8 nights · no car · Nov 1 Diamond Head, Nov 2 Pearl Harbor · Haleakalā sunset tour · birthday spa yes
 - [x] Research: 8 Google Docs + the itinerary-options doc → `references.md`; planning repo set up (Oct 17)

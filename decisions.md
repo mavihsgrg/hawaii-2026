@@ -6,7 +6,7 @@
 - **Dates:** fly out Sat Oct 31, return Mon Nov 9 (arrive NYC), office Nov 10.
 - **Nights:** 8 total. Oʻahu Oct 31 – Nov 3 (3 nights), Maui Nov 3 – 8 (5 nights).
 - **Order:** Oʻahu first, then Maui.
-- **Transport:** **no car** on either island (Shivam, Oct 18): rideshare/taxi on Oʻahu; shuttle, taxi and tours with pickup on Maui (see [`commute.md`](commute.md)). **No rental car** (decided Oct 21): the Kahului rental that turned up in Gmail (Nov 3–6) gets cancelled, not extended.
+- **Transport:** **no car** on either island (Shivam, Oct 18): rideshare/taxi on Oʻahu; shuttle, taxi and tours with pickup on Maui (see [`commute.md`](commute.md)). **No rental car:** nothing to cancel either; the "rental" in the Southwest email was only a "Book car" offer (checked Oct 21).
 - **Birthday:** Fri Nov 6 is protected: slow morning, beach and pool, no early starts, dinner in the evening.
 
 ## Booked

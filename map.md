@@ -149,9 +149,9 @@
 | 1 | **OGG airport (Kahului)** | Tue Nov 3 (arrive) · Sun Nov 8 (leave ~11:30 AM) | 13.2 mi | 28 min | 30–45 min (+ shuttle stops) | 🚐 Prebooked shared shuttle or rideshare (~$40–70 each way) | [✈️ go](#m-airport) |
 | 2 | **Māʻalaea Harbor (Molokini boat)** | Wed Nov 4 | 9.4 mi | 22 min | 25–40 min; check in 45 min early | 🚖 Prebooked dawn taxi there, rideshare back (~$55–80) | [🤿 go](#m-molokini) |
 | 3 | **Molokini Crater** | Wed Nov 4 | by boat from Māʻalaea | ~1 h by boat | ~1 h by boat each way; ~5 h trip | 🚤 PacWhale boat from Māʻalaea (pin 2) | [🤿 go](#m-molokini) |
-| 4 | **Hāna town** | Thu Nov 5 | 67.4 mi | 2 h 41 min | **10–12 h round-trip day** with stops | 🚐 Guided tour, hotel pickup ~6:30–7:00 AM | [🌿 go](#m-hana) |
+| 4 | **Hāna town** | Sat Nov 7 (optional) | 67.4 mi | 2 h 41 min | **10–12 h round-trip day** with stops | 🚐 Guided tour, hotel pickup ~6:30–7:00 AM | [🌿 go](#m-hana) |
 | 5 | **Hotel Wailea (birthday dinner)** | Fri Nov 6 | 4.2 mi | 13 min | ~15 min; then Tikehau (Wailea Village) and dancing in Kīhei | 🚕 Rideshare there; prebooked taxi Wailea Village → Tiki Lounge ~9 PM, walk back (~$30–60) | [🎂 go](#m-wailea) |
-| 6 | **Haleakalā Visitor Center (summit)** | Sat Nov 7 | 47.9 mi | 1 h 51 min | 2.5–3 h up, sea level → ~10,000 ft; back ~8 PM | 🚐 Guided sunset tour, hotel pickup ~1:30 PM (entry + dinner included) | [🌋 go](#m-haleakala) |
+| 6 | **Haleakalā Visitor Center (summit)** | Thu Nov 5 ✅ | 47.9 mi | 1 h 51 min | 2.5–3 h up, sea level → ~10,000 ft; back ~8 PM | 🚐 Guided sunset tour, hotel pickup 1:40 PM, street-side sign (entry + dinner included) | [🌋 go](#m-haleakala) |
 
 <a id="m-airport"></a>
 ### ✈️ Hotel ↔ OGG airport
@@ -200,9 +200,9 @@
 <a id="m-hana"></a>
 ### 🌿 Hotel → Road to Hāna
 
-**Thu Nov 5**
+**Sat Nov 7**
 
-<a href="maps/maui_hana_street.jpg"><img src="maps/maui_hana_street.jpg" width="49%" alt="Thu Nov 5 · Hotel → Road to Hāna (map)"></a> <a href="maps/maui_hana_sat.jpg"><img src="maps/maui_hana_sat.jpg" width="49%" alt="Thu Nov 5 · Hotel → Road to Hāna (satellite)"></a>
+<a href="maps/maui_hana_street.jpg"><img src="maps/maui_hana_street.jpg" width="49%" alt="Sat Nov 7 · Hotel → Road to Hāna (map)"></a> <a href="maps/maui_hana_sat.jpg"><img src="maps/maui_hana_sat.jpg" width="49%" alt="Sat Nov 7 · Hotel → Road to Hāna (satellite)"></a>
 
 | Distance | Drive time (no traffic) | Plan for | How we get there |
 |---:|---:|---|---|
@@ -253,13 +253,13 @@
 <a id="m-haleakala"></a>
 ### 🌋 Hotel → Haleakalā summit (sunset)
 
-**Sat Nov 7**
+**Thu Nov 5**
 
-<a href="maps/maui_haleakala_street.jpg"><img src="maps/maui_haleakala_street.jpg" width="49%" alt="Sat Nov 7 · Hotel → Haleakalā summit (sunset) (map)"></a> <a href="maps/maui_haleakala_sat.jpg"><img src="maps/maui_haleakala_sat.jpg" width="49%" alt="Sat Nov 7 · Hotel → Haleakalā summit (sunset) (satellite)"></a>
+<a href="maps/maui_haleakala_street.jpg"><img src="maps/maui_haleakala_street.jpg" width="49%" alt="Thu Nov 5 · Hotel → Haleakalā summit (sunset) (map)"></a> <a href="maps/maui_haleakala_sat.jpg"><img src="maps/maui_haleakala_sat.jpg" width="49%" alt="Thu Nov 5 · Hotel → Haleakalā summit (sunset) (satellite)"></a>
 
 | Distance | Drive time (no traffic) | Plan for | How we get there |
 |---:|---:|---|---|
-| **47.9 mi** | 1 h 51 min | 2.5–3 h up, sea level → ~10,000 ft; back ~8 PM | 🚐 Guided sunset tour, hotel pickup ~1:30 PM (entry + dinner included) |
+| **47.9 mi** | 1 h 51 min | 2.5–3 h up, sea level → ~10,000 ft; back ~8 PM | 🚐 Guided sunset tour, hotel pickup 1:40 PM, street-side sign (entry + dinner included) |
 
 [▶ Directions from the hotel in Google Maps](https://www.google.com/maps/dir/?api=1&origin=20.72386,-156.44605&destination=20.71511,-156.24981&travelmode=driving&waypoints=20.79203%2C-156.32371)
 

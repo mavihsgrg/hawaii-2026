@@ -29,9 +29,9 @@
 | Tue Nov 3 | Hotel → HNL | 9 mi | 🚕 Rideshare or taxi | ~$30–50 | No |
 | Tue Nov 3 | OGG → Maui Coast Hotel, Kīhei | 13 mi | 🚐 **Prebooked shared shuttle**, or rideshare | ~$40–70 | **Yes**, shuttle by Oct 24 |
 | Wed Nov 4 | Kīhei ↔ Māʻalaea Harbor (Molokini boat) | 9 mi | 🚕 **Prebooked taxi** there (early), rideshare/taxi back | ~$55–80 | **Yes**, taxi by Oct 27 |
-| Thu Nov 5 | Road to Hāna | 67 mi each way | 🚐 Tour pickup at the hotel | included | Tour by Oct 24 |
+| Thu Nov 5 | Haleakalā summit | 48 mi each way | 🚐 Tour pickup at the hotel, 1:40 PM, street-side sign | included | ✅ Booked |
 | Fri Nov 6 🎂 | Kīhei → Hotel Wailea → Tikehau → Tiki Lounge, Kīhei | 4 mi each way | 🚕 Rideshare there; **prebooked taxi** Wailea Village → Tiki Lounge ~9 PM; walk back | ~$30–60 | ~9 PM taxi, day before |
-| Sat Nov 7 | Haleakalā summit | 48 mi each way | 🚐 Tour pickup at the hotel | included | **Tour by Oct 21** |
+| Sat Nov 7 | Road to Hāna (optional) | 67 mi each way | 🚐 Tour pickup at the hotel | included | Tour by Oct 24, if we go |
 | Sun Nov 8 | Kīhei → OGG | 13 mi | 🚐 Prebooked shuttle, or rideshare | ~$40–70 | Shuttle by Oct 24 |
 | **Total** | | | | **≈ $310–510** | |
 
@@ -115,9 +115,9 @@ PacWhale has **no hotel pickup**, and check-in is ~45 min before an early depart
 
 **Pick:** prebooked taxi out, rideshare back. If the taxi can't be booked, switch to a trip with pickup.
 
-### Thu Nov 5 · Road to Hāna (guided tour)
+### Thu Nov 5 · Haleakalā sunset (guided tour) ✅
 
-🚐 **Hotel pickup ~6:30–7:00 AM, included.** Confirm the tour picks up at Maui Coast Hotel (some use a nearby meeting point). Nothing else to arrange.
+🚐 **Booked: Polynesian Adventure sunset tour, order GLUKMF. Pickup 1:40 PM at Maui Coast Hotel's street-side sign, back ~8:30 PM**, entry + dinner included. There's no realistic no-car alternative: rideshare can't wait at the summit and there's no signal for a ride back.
 
 ### Fri Nov 6 🎂 · Kīhei ↔ Hotel Wailea (4 mi, ~15 min)
 
@@ -130,9 +130,9 @@ PacWhale has **no hotel pickup**, and check-in is ~45 min before an early depart
 
 Hotel Wailea sits on the hill above Wailea; Tikehau is a short walk or ride away in Wailea Village. Full evening plan: [`birthday.md`](birthday.md).
 
-### Sat Nov 7 · Haleakalā sunset (guided tour)
+### Sat Nov 7 · Road to Hāna (guided tour, optional)
 
-🚐 **Hotel pickup ~1:30 PM, back ~8 PM, included** in the tour (e.g. Polynesian Adventure's sunset tour with dinner, ~$237/adult). **There's no realistic no-car alternative**: rideshare can't wait at the summit and there's no signal for a ride back. If tours are sold out for Nov 7, try Nov 5 (drop Hāna).
+🚐 **Hotel pickup ~6:30–7:00 AM, included.** Confirm the tour picks up at Maui Coast Hotel (some use a nearby meeting point). Nothing else to arrange.
 
 ### Sun Nov 8 · Kīhei → OGG (13 mi, 30–45 min)
 
@@ -160,7 +160,7 @@ Same options as Nov 3. **Leave ~2.5 h before the flight** (2:08 / 2:31 PM depart
 
 | Risk | How bad | Fix |
 |---|---|---|
-| **Haleakalā tour sold out on Nov 7** | 🔴 The only real blocker: no car means no other way up | Book by **Oct 21**. Backup: a Nov 5 tour (drop Hāna), or a sunrise tour |
+| Haleakalā tour cancelled for weather/closure on Nov 5 | 🟠 No car means no other way up | Booked (GLUKMF); recheck NPS conditions; Sat Nov 7 is the free backup day |
 | **No ride at dawn for Molokini** | 🟠 You'd miss the boat | Prebooked taxi, or switch to a trip with pickup / from the Kīhei boat ramp |
 | Thin rideshare on Maui at night and on Sunday | 🟡 Long waits | Taxi numbers saved; prebook the post-dinner ride on Nov 6 and the airport run on Nov 8 |
 | Less freedom to swap days for weather | 🟡 Tours set the schedule | Ask each tour about weather rescheduling when booking |

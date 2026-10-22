@@ -2,13 +2,13 @@
 
 > Confirmed bookings first, then every open booking with a **direct link**. All times HST unless noted. Put PDFs/screenshots in `docs/`.
 > Passengers: Shivam Garg and Tanu Arya. Hotel/booking PINs are **not** stored here (use the Booking.com app or email). Emails live in Gmail.
-> Last updated 2026-10-18 · Booked so far: **3 flights + 2 hotels**.
+> Last updated 2026-10-21 · Booked so far: **3 flights, 2 hotels, USS Arizona, Diamond Head, Haleakalā tour, birthday dinner**.
 
 ## 📑 Contents
 
 - [✈️ Flights ✅](#flights)
 - [🏨 Hotels ✅](#hotels)
-- [🚗 Maui rental car ❌ (cancelling)](#car)
+- [🚗 Maui rental car: none](#car)
 - [🔗 Still to book: direct links](#tobook)
 - [🚐 Transfers & rides (no car)](#rides)
 - [🎟️ Activities & reservations](#activities--reservations)
@@ -35,19 +35,17 @@ To do on [Alaska → Manage trip](https://www.alaskaair.com/booking/reservation-
 | Maui | **Maui Coast Hotel**, 2259 S Kīhei Rd, Kīhei · [+1 808 874 6284](tel:+18088746284) · [hotel site](https://www.mauicoasthotel.com/) | Tue Nov 3 (from 4 PM) → Sun Nov 8 (by 11 AM), 5 nights | Booking.com **6290500360** | **Hoku King**: 1 king + sofa bed, balcony, **garden / mountain view** (our plan wanted the Kai Ocean View King) | **$1,715.30** (room $1,250 + taxes $227 + tourism fee $43.35 + resort fee $194.95), **paid by Tanu** | **Oct 30, 11:59 PM HST**; then $269.39 | Pay at the property. Birthday noted on the reservation. Ask about a Kai Ocean View King, late checkout / bag storage on Nov 8 |
 
 <a id="car"></a>
-## 🚗 Maui rental car ❌ (cancelling: no car)
+## 🚗 Maui rental car: none
 
-The Southwest itinerary email shows a **rental car at Kahului Airport, Nov 3 → Nov 6**. **We're not getting a car** (decided Oct 21): cancel it, don't extend it. Getting around instead: shuttle, taxi and tours with pickup ([`commute.md`](commute.md)). Find the rental via the Southwest confirmation email (Southwest Vacations / car partner) or [Southwest → Manage reservation](https://www.southwest.com/air/manage-reservation/).
+**There's no rental to cancel** (checked Oct 21). The Southwest receipt only has a "Book car" offer, not a reservation, and Gmail has no rental confirmation. We're not getting a car: shuttle, taxi and tours with pickup ([`commute.md`](commute.md)).
 
 <a id="tobook"></a>
 ## 🔗 Still to book: direct links
 
 | By | What | Book here | Notes |
 |---|---|---|---|
-| **Oct 21** | 🌋 Haleakalā sunset tour with Kīhei pickup, Sat Nov 7 | [Polynesian Adventure (official)](https://www.polyad.com/tour/maui-haleakala-sunset-tour/) · [same tour on Expedia](https://www.expedia.com/things-to-do/haleakala-sunset-tour.a390930.activity-details) | ~$237/adult, entry + dinner; pickup ~1:30 PM; confirm Maui Coast Hotel pickup |
 | Oct 24 | 🤿 PacWhale Molokini + Turtle Arches, Wed Nov 4 | [pacwhale.com](https://www.pacwhale.com/ecotour/molokini-turtle-arches-snorkel/) | ~$220/adult; no hotel pickup (dawn taxi) |
-| Oct 24 | 🌿 Road to Hāna guided tour, Thu Nov 5 | [Tour Maui](https://www.tourmaui.com/tours/road-to-hana-tour/) · [Polynesian Adventure](https://www.polyad.com/tour/road-to-hana-tour/) | ~$590–650 for two; confirm Kīhei pickup and Waiʻānapanapa |
-| Oct 24 | 🍽️ The Restaurant at Hotel Wailea, Fri Nov 6, 5:15–5:45 PM | [hotelwailea.com · The Restaurant](https://www.hotelwailea.com/dining/the-restaurant/) | Mention the birthday + lactose intolerance; dairy-free dessert |
+| Oct 24 | 🌿 Road to Hāna guided tour, **Sat Nov 7** (optional: decide first) | [Tour Maui](https://www.tourmaui.com/tours/road-to-hana-tour/) · [Polynesian Adventure](https://www.polyad.com/tour/road-to-hana-tour/) | ~$590–650 for two; confirm Kīhei pickup and Waiʻānapanapa |
 | Oct 24 | 💆 Couples spa, Fri Nov 6 ~1 PM | [Grand Wailea Spa](https://www.grandwailea.com/spa) · [Fairmont Kea Lani Willow Stream](https://www.fairmont.com/kea-lani-maui/willow-stream/) · [Four Seasons Maui spa](https://www.fourseasons.com/maui/spa/) | ~$400–700; ask for a couples room, ~80 min |
 | Oct 24 | 🍸 Tikehau Lounge, Fri Nov 6 ~7:45 PM | [OpenTable · Tikehau Lounge](https://www.opentable.com/r/tikehau-lounge-kihei) | Tue–Fri 2–11 PM |
 | Oct 24 | 🚐 OGG ↔ Kīhei shuttle, Nov 3 (after 2:25 PM landing) + Nov 8 (~11:30 AM pickup) | [SpeediShuttle](https://www.speedishuttle.com/) · [Roberts Hawaiʻi](https://www.robertshawaii.com/) | No car |
@@ -74,15 +72,15 @@ Options and prices for each ride: [`commute.md`](commute.md).
 | **Nov 3** ⚠️ | 🥾 Diamond Head ✅ **6:00–7:00 AM entry**, 2 entries (entry only) | arrive within 30 min of 6:00 | Diamond Head State Monument (rideshare drop-off) | order **VISITOR-2026-10-18-DHSM-2278799** · [ticket PDF](docs/2026-11-03_diamond-head_entry_tickets.pdf) | ✅ | QR codes are single-use; booked for **Nov 3** (travel day), not Nov 1 as planned: see `todos.md` |
 | Nov 2 | ⚓ USS Arizona program ✅ **11:15 AM – 12:00 PM**, 2 tickets | be at the visitor center ~10:15 AM (leave Waikīkī ~9:30) | Pearl Harbor National Memorial visitor center | Recreation.gov order **0935827091** · [tickets PDF](docs/2026-11-02_uss-arizona_tickets.pdf) | $2.00 | check in at the theater desk 10 min before; no bags (paid bag storage nearby); clear water only; [My reservations](https://www.recreation.gov/account/orders) |
 | Nov 4 | 🤿 PacWhale Molokini + Turtle Arches | ~45 min before departure | Māʻalaea Harbor | | | |
-| Nov 5 | 🌿 Road to Hāna guided tour | ~6:30–7:00 AM | Maui Coast Hotel (confirm) | | | |
+| **Nov 5** | 🌋 Haleakalā sunset tour ✅ (Polynesian Adventure, M5), 2 adults, 1:00–8:30 PM | **pickup 1:40 PM** | Maui Coast Hotel, street-side sign | order **GLUKMF** (FareHarbor email) | $511.48 ✅ | bring warm layers |
 | Nov 6 | 💆 Couples spa | ~1 PM | Wailea resort spa | | | |
-| Nov 7 | 🌋 Haleakalā sunset tour (hotel pickup) | ~1:30 PM | Maui Coast Hotel (confirm) | | | |
+| Nov 7 | 🌿 Road to Hāna guided tour (optional) | ~6:30–7:00 AM | Maui Coast Hotel (confirm) | | | |
 
 <a id="dining"></a>
 ## 🍽️ Dining
 | Date | Restaurant | Time | Conf # | Notes |
 |---|---|---|---|---|
-| Nov 6 | 🎂 The Restaurant at Hotel Wailea | 5:15–5:45 PM | | birthday + lactose intolerance noted? |
+| Nov 6 | 🎂 The Restaurant at Hotel Wailea ✅, 555 Kaukahi St, Wailea · +1 808-879-2224 | **5:30 PM**, 2 guests | SevenRooms (confirmation email) | check the birthday + lactose intolerance are on the reservation |
 | Nov 6 | 🍸 Tikehau Lounge | ~7:45 PM | | OpenTable |
 
 <a id="manage"></a>
