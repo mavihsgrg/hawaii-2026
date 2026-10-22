@@ -11,11 +11,10 @@
 | Flights | Alaska OGG → JFK, Nov 8 (AS 1145 + AS 830, Wizfair 392514) | Booked | **$579.18** | Shivam | 2 pax, lands Nov 9 |
 | Lodging | OUTRIGGER Reef, Oct 31 – Nov 3 | Booked | **$1,296.69** | Tanu | Includes $50/night resort fee |
 | Lodging | Maui Coast Hotel, Nov 3 – 8 | Booked | **$1,715.30** | Tanu | Includes $194.95 resort fee |
-| Car | Maui rental, Kahului | Booked (dates to fix) | _TBD_ | | Extend to Nov 8 |
-| Parking | OUTRIGGER parking, 3 days | Optional | $60/day ($180) | | Only if you drive on Oʻahu |
+| Car | Maui rental, Kahului (Nov 3–6) | **Cancel** (no car) | $0 | | Not extending; keep the cancellation email |
 | Transport | Rideshares, taxis, airport shuttle, NYC airport rides | Estimate | $480–800 | | Hawaiʻi legs ~$310–510 in [`commute.md`](commute.md) |
 | Activity | Molokini snorkel, Nov 4 | Open | ~$440 | | PacWhale |
-| Activity | Haleakalā sunset tour w/ pickup | Open | $462–520 | | Or self-drive: $30 entry |
+| Activity | Haleakalā sunset tour w/ pickup | Open | $462–520 | | Only way up without a car |
 | Activity | Hāna guided tour | Open | $590–650 | | Optional |
 | Activity | Diamond Head + USS Arizona | Open | $12 | | Reservations |
 | Dining | 🎂 Birthday dinner, Nov 6 | Open | $220–400 | | Hotel Wailea (lead) |

@@ -8,7 +8,7 @@
 
 - [✈️ Flights ✅](#flights)
 - [🏨 Hotels ✅](#hotels)
-- [🚗 Maui rental car ⚠️](#car)
+- [🚗 Maui rental car ❌ (cancelling)](#car)
 - [🔗 Still to book: direct links](#tobook)
 - [🚐 Transfers & rides (no car)](#rides)
 - [🎟️ Activities & reservations](#activities--reservations)
@@ -35,13 +35,9 @@ To do on [Alaska → Manage trip](https://www.alaskaair.com/booking/reservation-
 | Maui | **Maui Coast Hotel**, 2259 S Kīhei Rd, Kīhei · [+1 808 874 6284](tel:+18088746284) · [hotel site](https://www.mauicoasthotel.com/) | Tue Nov 3 (from 4 PM) → Sun Nov 8 (by 11 AM), 5 nights | Booking.com **6290500360** | **Hoku King**: 1 king + sofa bed, balcony, **garden / mountain view** (our plan wanted the Kai Ocean View King) | **$1,715.30** (room $1,250 + taxes $227 + tourism fee $43.35 + resort fee $194.95), **paid by Tanu** | **Oct 30, 11:59 PM HST**; then $269.39 | Pay at the property. Birthday noted on the reservation. Ask about a Kai Ocean View King, late checkout / bag storage on Nov 8 |
 
 <a id="car"></a>
-## 🚗 Maui rental car ⚠️ (conflicts with the no-car plan)
+## 🚗 Maui rental car ❌ (cancelling: no car)
 
-The Southwest itinerary email shows a **rental car at Kahului Airport, Nov 3 → Nov 6** (3 days). Two problems:
-1. The plan is **no car** (decided Oct 18; see [`commute.md`](commute.md)): shuttle, taxi and tours with pickup.
-2. The dates stop at Nov 6, but we stay until Nov 8.
-
-**Decide:** cancel it (keep the no-car plan), or keep it and extend to **Nov 8** (then Haleakalā and Hāna could be self-drive). Find it via the Southwest confirmation email (Southwest Vacations / car partner) or [Southwest → Manage reservation](https://www.southwest.com/air/manage-reservation/).
+The Southwest itinerary email shows a **rental car at Kahului Airport, Nov 3 → Nov 6**. **We're not getting a car** (decided Oct 21): cancel it, don't extend it. Getting around instead: shuttle, taxi and tours with pickup ([`commute.md`](commute.md)). Find the rental via the Southwest confirmation email (Southwest Vacations / car partner) or [Southwest → Manage reservation](https://www.southwest.com/air/manage-reservation/).
 
 <a id="tobook"></a>
 ## 🔗 Still to book: direct links
@@ -54,8 +50,8 @@ The Southwest itinerary email shows a **rental car at Kahului Airport, Nov 3 →
 | Oct 24 | 🍽️ The Restaurant at Hotel Wailea, Fri Nov 6, 5:15–5:45 PM | [hotelwailea.com · The Restaurant](https://www.hotelwailea.com/dining/the-restaurant/) | Mention the birthday + lactose intolerance; dairy-free dessert |
 | Oct 24 | 💆 Couples spa, Fri Nov 6 ~1 PM | [Grand Wailea Spa](https://www.grandwailea.com/spa) · [Fairmont Kea Lani Willow Stream](https://www.fairmont.com/kea-lani-maui/willow-stream/) · [Four Seasons Maui spa](https://www.fourseasons.com/maui/spa/) | ~$400–700; ask for a couples room, ~80 min |
 | Oct 24 | 🍸 Tikehau Lounge, Fri Nov 6 ~7:45 PM | [OpenTable · Tikehau Lounge](https://www.opentable.com/r/tikehau-lounge-kihei) | Tue–Fri 2–11 PM |
-| Oct 24 | 🚐 OGG ↔ Kīhei shuttle, Nov 3 (after 2:25 PM landing) + Nov 8 (~11:30 AM pickup) | [SpeediShuttle](https://www.speedishuttle.com/) · [Roberts Hawaiʻi](https://www.robertshawaii.com/) | Only if we cancel the car |
-| Oct 27 | 🚖 Dawn taxi Kīhei → Māʻalaea, Wed Nov 4 | Ask Maui Coast Hotel for their taxi company · [Kīhei taxis on Google Maps](https://www.google.com/maps/search/taxi+Kihei+HI) | Only if we cancel the car |
+| Oct 24 | 🚐 OGG ↔ Kīhei shuttle, Nov 3 (after 2:25 PM landing) + Nov 8 (~11:30 AM pickup) | [SpeediShuttle](https://www.speedishuttle.com/) · [Roberts Hawaiʻi](https://www.robertshawaii.com/) | No car |
+| Oct 27 | 🚖 Dawn taxi Kīhei → Māʻalaea, Wed Nov 4 | Ask Maui Coast Hotel for their taxi company · [Kīhei taxis on Google Maps](https://www.google.com/maps/search/taxi+Kihei+HI) | No car |
 | Nov 5 | 🚖 Taxi Wailea Village → South Shore Tiki Lounge, Fri Nov 6 ~9 PM | [Kīhei taxis on Google Maps](https://www.google.com/maps/search/taxi+Kihei+HI) | Check [Tiki Lounge calendar](https://www.southshoretiki.com/) for a DJ |
 
 <a id="rides"></a>
@@ -66,10 +62,10 @@ Options and prices for each ride: [`commute.md`](commute.md).
 |---|---|---|---|---|---|---|
 | Oct 31 | HNL → OUTRIGGER Reef | | after 2:10 PM landing | | | rideshare/taxi; no booking |
 | Nov 3 | OUTRIGGER Reef → HNL | | ~11:00 AM (flight 1:35 PM) | | | rideshare/taxi |
-| Nov 3 | OGG → Maui Coast Hotel | | after 2:25 PM landing | | | prebooked shuttle (or the car) |
-| Nov 4 | Maui Coast Hotel → Māʻalaea Harbor | | dawn | | | **prebooked taxi** (or the car) |
+| Nov 3 | OGG → Maui Coast Hotel | | after 2:25 PM landing | | | prebooked shuttle |
+| Nov 4 | Maui Coast Hotel → Māʻalaea Harbor | | dawn | | | **prebooked taxi** |
 | Nov 6 | Wailea Village (Tikehau) → South Shore Tiki Lounge, Kīhei | | ~9:00 PM | | | prebook taxi the day before; walk to hotel after |
-| Nov 8 | Maui Coast Hotel → OGG | | ~11:30 AM (flight 2:08 PM) | | | prebooked shuttle (or return the car) |
+| Nov 8 | Maui Coast Hotel → OGG | | ~11:30 AM (flight 2:08 PM) | | | prebooked shuttle |
 
 <a id="activities--reservations"></a>
 ## 🎟️ Activities & reservations

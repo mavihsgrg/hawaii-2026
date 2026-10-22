@@ -17,7 +17,7 @@
 <a id="urgent"></a>
 ## 🔴 Urgent (today / tomorrow)
 - [ ] **Alaska free 24-h cancel ends Oct 19:** AS 829 (JFK → HNL) at **12:17 PM ET**, return AS 1145/830 at **12:29 PM ET**. Keep both? · Both · **Oct 19 noon ET** · [Alaska → Manage trip](https://www.alaskaair.com/booking/reservation-lookup)
-- [ ] **🚗 Maui rental car (Nov 3–6) vs the no-car plan:** cancel it, or keep it and extend to Nov 8 (see [`bookings.md`](bookings.md#car)) · Both · Oct 20 · [Southwest → Manage reservation](https://www.southwest.com/air/manage-reservation/)
+- [ ] **🚗 Cancel the Maui rental car (Nov 3–6):** no car on this trip; cancel it and keep the cancellation email (see [`bookings.md`](bookings.md#car)) · S · **ASAP** · [Southwest → Manage reservation](https://www.southwest.com/air/manage-reservation/)
 - [x] 🥾 **Diamond Head** booked: **Tue Nov 3, 6:00–7:00 AM**, 2 entries, order VISITOR-2026-10-18-DHSM-2278799 · [ticket PDF](docs/2026-11-03_diamond-head_entry_tickets.pdf)
 - [ ] ⚠️ **Diamond Head is on Nov 3 (travel day), not Nov 1:** keep it (hike 6–8 AM, check out 11, fly 1:35 PM; tight but works) or move it to Sun Nov 1 (changes allowed until midnight the day before; refunds up to 3 days before) · Both · Oct 25 · [gostateparks.hawaii.gov](https://gostateparks.hawaii.gov/diamondhead/about)
 - [ ] ⚠️ **Chicago concert the night before the flight:** Periphery at Ramova Theatre, Chicago, **Fri Oct 30, 6 PM** (2 GA tickets, Tixr S42U1I7JGR), but **AS 829 leaves JFK Sat Oct 31 at 8:55 AM**. Plan the Chicago → NYC getaway (red-eye or first flight) or rethink one of them · S · **Oct 19** (Alaska free cancel ends 12:17 PM ET)
@@ -37,8 +37,8 @@
 - [ ] 🍽️ Birthday dinner, Fri Nov 6, 5:15–5:45 PM: birthday + lactose intolerance · P · Oct 24 · [The Restaurant at Hotel Wailea](https://www.hotelwailea.com/dining/the-restaurant/)
 - [ ] 💆 Couples spa, Fri Nov 6 ~1 PM (~$400–700) · P · Oct 24 · [Grand Wailea](https://www.grandwailea.com/spa) · [Fairmont Kea Lani](https://www.fairmont.com/kea-lani-maui/willow-stream/) · [Four Seasons](https://www.fourseasons.com/maui/spa/)
 - [ ] 🍸 Tikehau Lounge, Fri Nov 6 ~7:45 PM · P · Oct 24 · [OpenTable](https://www.opentable.com/r/tikehau-lounge-kihei)
-- [ ] 🚐 OGG ↔ Kīhei shuttle, Nov 3 (after 2:25 PM) + Nov 8 (~11:30 AM) — *only if the car is cancelled* · S · Oct 24 · [SpeediShuttle](https://www.speedishuttle.com/) · [Roberts Hawaiʻi](https://www.robertshawaii.com/)
-- [ ] 🚖 Dawn taxi Kīhei → Māʻalaea, Wed Nov 4 — *only if the car is cancelled* · S · Oct 27 · ask the hotel · [Kīhei taxis](https://www.google.com/maps/search/taxi+Kihei+HI)
+- [ ] 🚐 OGG ↔ Kīhei shuttle, Nov 3 (after 2:25 PM) + Nov 8 (~11:30 AM) · S · Oct 24 · [SpeediShuttle](https://www.speedishuttle.com/) · [Roberts Hawaiʻi](https://www.robertshawaii.com/)
+- [ ] 🚖 Dawn taxi Kīhei → Māʻalaea, Wed Nov 4 · S · Oct 27 · ask the hotel · [Kīhei taxis](https://www.google.com/maps/search/taxi+Kihei+HI)
 - [ ] Confirm the Hāna and Haleakalā tours pick up **at Maui Coast Hotel** · S · when booking
 
 <a id="fix"></a>
@@ -74,5 +74,5 @@
 - [x] ✈️ Flights booked Oct 18: Alaska AS 829 JFK → HNL Oct 31 · Southwest 28UG6J HNL → OGG Nov 3 · Alaska AS 1145/830 OGG → JFK Nov 8 (lands Nov 9) · $2,031.32
 - [x] 🏨 OUTRIGGER Reef booked Oct 18 · 5237944073 · $1,296.69
 - [x] 🏨 Maui Coast Hotel booked Oct 18 · 6290500360 · Hoku King · $1,715.30
-- [x] Decided Oct 18: Oʻahu first · 8 nights · no car (Maui car booking pending, above) · Nov 1 Diamond Head, Nov 2 Pearl Harbor · Haleakalā sunset tour · birthday spa yes
+- [x] Decided Oct 18: Oʻahu first · 8 nights · no car (Oct 21: Maui rental to be cancelled, not extended) · Nov 1 Diamond Head, Nov 2 Pearl Harbor · Haleakalā sunset tour · birthday spa yes
 - [x] Research: 8 Google Docs + the itinerary-options doc → `references.md`; planning repo set up (Oct 17)
