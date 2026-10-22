@@ -14,9 +14,10 @@
 | Car | Maui rental | None (no car) | $0 | | Nothing booked: the Southwest receipt only had a "Book car" offer |
 | Transport | Rideshares, taxis, airport shuttle, NYC airport rides | Estimate | $480–800 | | Hawaiʻi legs ~$310–510 in [`commute.md`](commute.md) |
 | Activity | Molokini snorkel, Nov 4 | Open | ~$440 | | PacWhale |
-| Activity | Haleakalā sunset tour w/ pickup, Nov 5 (GLUKMF) | Booked | **$511.48** | | Polynesian Adventure, 2 adults |
+| Activity | Haleakalā sunset tour w/ pickup, Nov 5 (GLUKMF) | Booked | **$511.48** | Shivam | Polynesian Adventure, 2 adults |
 | Activity | Hāna guided tour, Nov 7 | Open | $590–650 | | Optional |
-| Activity | Diamond Head + USS Arizona | Booked | $12 | | Reservations |
+| Activity | Diamond Head, Nov 1 (DHSM-2283885) | Booked | **$11.27** | Shivam | Old Nov 3 order to cancel |
+| Activity | USS Arizona, Nov 2 | Booked | $2.00 | | Recreation.gov |
 | Dining | 🎂 Birthday dinner, Nov 6 | Reserved (pay there) | $220–400 | | Hotel Wailea, 5:30 PM |
 | Dining | 🎂 Cocktails (Tikehau) + Tiki Lounge, Nov 6 | Open | $110–230 | | |
 | Optional | Couples spa, Nov 6 | Open | $400–700 | | Decide by Oct 28 |
@@ -26,7 +27,7 @@
 ## Settle-up
 | Person | Paid | Share | Owes / owed |
 |---|---:|---:|---:|
-| Shivam | $2,031.32 | $2,521.66 | owes $490.33 |
-| Tanu | $3,011.99 | $2,521.66 | owed $490.33 |
+| Shivam | $2,554.07 | $2,783.03 | owes $228.96 |
+| Tanu | $3,011.99 | $2,783.03 | owed $228.96 |
 
 > Paid items only, split 50/50 (as of 2026-10-18): Shivam paid the 3 flights, Tanu paid both hotels. Live numbers are in the ledger.
