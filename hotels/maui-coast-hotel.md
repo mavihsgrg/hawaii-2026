@@ -18,7 +18,6 @@
 
 ## 🏷️ Deals
 - No deal found for Nov 2026. Trip.com offers a 10% coupon for new app users (check the terms).
-- See [`deals-and-review.md`](deals-and-review.md) for the full comparison.
 
 ## ✅ Summary
 

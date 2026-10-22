@@ -4,7 +4,7 @@
 > **104 places · 543 photos** · Oʻahu, Maui, and Kauaʻi (the backup island). Built 2026-10-18.
 > Each place also has a **🔎 Google Images** link (for more photos) and a **📍 Google Maps** link. Places in the current plan are marked **✅ in the plan**.
 > Photos are linked, not copied. Wikimedia Commons photos are credited with their author and license; hotel and restaurant photos come from the official site or the Expedia listing and are credited by source.
-> Plan: [`tentative_plan.md`](tentative_plan.md) · island guides: [`oahu.md`](oahu.md), [`maui.md`](maui.md) · hotels: [`hotels.md`](hotels.md) · birthday: [`birthday.md`](birthday.md)
+> Plan: [`itinerary.md`](itinerary.md) · hotels: [`hotels/`](hotels/README.md) · birthday: [`birthday.md`](birthday.md)
 
 <a id="index"></a>
 
@@ -86,7 +86,7 @@ Where the trip starts and ends on each island.
 
 ## 🏨 Hotels: Oʻahu
 
-The pick, then the fallbacks from [`hotels.md`](hotels.md).
+The pick, then the fallbacks from the hotel research (removed; in git history).
 
 <a id="outrigger-reef-waikiki-beach-resort"></a>
 
@@ -180,7 +180,7 @@ The pick, then the fallbacks from [`hotels.md`](hotels.md).
 
 ## 🏨 Hotels: Maui
 
-The pick, then the alternatives from [`hotels.md`](hotels.md).
+The pick, then the alternatives from the hotel research (removed; in git history).
 
 <a id="maui-coast-hotel-kihei-kai-tower"></a>
 
@@ -1300,7 +1300,7 @@ Optional; rideshare or tour only without a car.
 
 ## 🌿 Kauaʻi (the alternative first island)
 
-Only if the plan switches back. Ideas came from [`overall_plan.md`](overall_plan.md).
+Only if the plan switches back. Ideas came from the old overall plan (in git history).
 
 <a id="na-pali-coast"></a>
 

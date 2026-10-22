@@ -1,6 +1,6 @@
 # Hotels
 
-Booked hotels only. Everything else is in [`../archive/hotels/`](../archive/hotels).
+Booked hotels only.
 
 | Island | Hotel | Dates | Confirmation | Page |
 |---|---|---|---|---|

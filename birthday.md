@@ -1,7 +1,7 @@
 # 🎂 Birthday: Fri Nov 6, Maui
 
 > Everything about Shivam's birthday in one place. Both of us, all day. **Chill daytime** (beach, pool, spa), **a really good dinner**, **a couple of drinks at a great bar**, then **a couple of hours of dancing**. No Hāna, no summit, no early check-ins.
-> Base: Maui Coast Hotel, Kīhei (no car). Day plan also in [`maui.md`](maui.md#fri-nov-6--birthday) and [`tentative_plan.md`](tentative_plan.md#nov6).
+> Base: Maui Coast Hotel, Kīhei (no car). Day plan also in [`itinerary.md`](itinerary.md).
 
 <p align="center">
   <img src="photos/us/bday_1_breakfast.jpg" alt="Slow birthday breakfast with an ocean view" width="49%"> <img src="photos/us/bday_4_beach.jpg" alt="Morning walk on the beach" width="49%">

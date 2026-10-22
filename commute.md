@@ -1,7 +1,7 @@
 # 🚕 Commute: every ride, every option (no car)
 
 > **We're not renting a car anywhere.** This file lists every leg of the trip, the ways to do it, rough cost for two, and our pick.
-> Distances and drive times: [`map.md`](map.md). The day-by-day plan: [`tentative_plan.md`](tentative_plan.md).
+> Distances and drive times: [`map.md`](map.md). The day-by-day plan: [`itinerary.md`](itinerary.md).
 > Prices are 2026 guide estimates unless marked ✔️ (published by the operator). **"check"** = we couldn't confirm it; ask before relying on it.
 > Last updated 2026-10-18.
 

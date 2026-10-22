@@ -14,7 +14,6 @@
 
 ## 🏷️ Deals
 - No deal found for Nov 2026. Luxury Escapes and Costco offers had expired. Ask the hotel for its best rate.
-- See [`deals-and-review.md`](deals-and-review.md) for the full comparison.
 
 ## ✅ Summary
 

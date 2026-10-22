@@ -13,12 +13,13 @@
 | [`packing.md`](packing.md) | Packing checklist |
 | [`hotels/`](hotels/README.md) | The two booked hotels, with room and review details |
 | [`docs/`](docs) | Tickets and confirmations (no passport or ID scans in git) |
+| [`birthday.md`](birthday.md) | The Nov 6 birthday plan |
+| [`commute.md`](commute.md) | Every ride, no car |
+| [`map.md`](map.md) · [`maps/`](maps) | Distances and maps around each hotel |
+| [`photos.md`](photos.md) · [`photos/`](photos) | Photo guide to each place |
+| [`expenses/`](expenses) | Shared trip expense ledger |
 
-## Archive
-Superseded plans, the hotel research and older itinerary drafts are in [`archive/`](archive). They're kept for reference and not maintained.
-
-## Not sorted yet
-These files predate this cleanup and their status is unclear. They haven't been moved: `birthday.md`, `commute.md`, `map.md`, `photos.md`, `maps/`, `photos/`.
+This is the one plan. Superseded plans, alternates and hotel research were removed on Oct 21 and are still in git history.
 
 ## Workflow
 1. Decide something together → add it to `decisions.md`.
