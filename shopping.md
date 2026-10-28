@@ -33,18 +33,20 @@ Prices are targets, not confirmed store prices. **Core basket** = 1, 2, 4, 5, 6,
 
 Reconfirm Wednesday hours before leaving; some shops close around 7–8 PM, so buy the essentials first.
 
-## What you already own (from the email)
-| Top | Best use |
-|---|---|
-| Green tropical short-sleeve shirt (olive/cream) | Hawaiʻi print, but snug through the middle: replace if possible |
-| Cream striped Banana Republic knit | Birthday dinner |
-| Light blue ribbed Cofandy knit | Sunset dinners, with charcoal trousers |
-| Light beige long-sleeve textured button-down | Over a tank, or rolled up for evenings |
-| Brown Banana Republic polo | Casual |
-| Yellow Nautica polo (XL) | With navy or dark shorts |
-| Dark olive T-shirt | Daytime basic |
-| Gray graphic T-shirt | Casual backup |
-| Black tank top | Pool and beach layer |
+## What you already own
+Illustrations in [`photos/wardrobe/`](photos/wardrobe) ([all on one sheet](photos/wardrobe/00_contact_sheet.png)): simple drawings made from the original photos, matching each garment's color and pattern, with no people or rooms. Tagged sizes are from the labels; fit is judged in person.
+
+| Drawing | Top | Best use |
+|---|---|---|
+| <img src="photos/wardrobe/01_green_tropical_shirt.png" width="90"> | Green tropical short-sleeve shirt (olive/cream) | Hawaiʻi print, but snug through the middle: replace if possible |
+| <img src="photos/wardrobe/06_cream_stripe_BR_knit.png" width="90"> | Cream/black striped Banana Republic knit (XL) | Birthday dinner |
+| <img src="photos/wardrobe/09_blue_cofandy_knit.png" width="90"> | Light blue ribbed Cofandy knit (XL) | Sunset dinners, with charcoal trousers |
+| <img src="photos/wardrobe/05_beige_textured_long_sleeve.png" width="90"> | Light beige long-sleeve textured button-down | Over a tank, or rolled up for evenings |
+| <img src="photos/wardrobe/07_brown_BR_polo.png" width="90"> | Brown Banana Republic polo (XL) | Casual / evening |
+| <img src="photos/wardrobe/04_yellow_nautica_polo.png" width="90"> | Yellow Nautica polo (XL) | With navy or dark shorts |
+| <img src="photos/wardrobe/03_olive_tee.png" width="90"> | Dark olive Mode One T-shirt | Daytime basic |
+| <img src="photos/wardrobe/08_grey_graphic_tee.png" width="90"> | Gray graphic T-shirt | Casual backup |
+| <img src="photos/wardrobe/02_black_tank.png" width="90"> | Black tank top (the bottoms in this photo may not fit) | Pool and beach layer |
 
 ## Outfits
 | Occasion | Outfit |
@@ -66,4 +68,4 @@ Reconfirm Wednesday hours before leaving; some shops close around 7–8 PM, so b
 - [ ] Front and side photos to compare cuts
 - [ ] Check return/exchange rules; skip final sale; take it home today
 
-> The email mentions wardrobe photos, but they weren't attached, so there are no images here. Nothing beyond the email's list is assumed about the current wardrobe.
+> Source: the Oct 27 shopping email and the wardrobe photo package. The drawings are approximations of the real garments; the original photos are not in the repo.
