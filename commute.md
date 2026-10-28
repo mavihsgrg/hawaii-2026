@@ -27,12 +27,12 @@
 | Sun Nov 1 | Hotel ↔ Diamond Head | 3.4 mi | 🚕 Rideshare both ways | ~$25–40 | No |
 | Mon Nov 2 | Hotel ↔ Pearl Harbor (+ Bishop Museum) | 12 mi | 🚕 Rideshare both ways | ~$60–100 (check) | No |
 | Tue Nov 3 | Hotel → HNL | 9 mi | 🚕 Rideshare or taxi | ~$30–50 | No |
-| Tue Nov 3 | OGG → Maui Coast Hotel, Kīhei | 13 mi | 🚐 **Prebooked shared shuttle**, or rideshare | ~$40–70 | **Yes**, shuttle by Oct 24 |
-| Wed Nov 4 | Kīhei ↔ Māʻalaea Harbor (Molokini boat) | 9 mi | 🚕 **Prebooked taxi** there (early), rideshare/taxi back | ~$55–80 | **Yes**, taxi by Oct 27 |
+| Tue Nov 3 | OGG → Maui Coast Hotel, Kīhei | 13 mi | 🚕 **Uber / Lyft** from the marked rideshare zone; taxi rank as backup | ~$45–65 | No |
+| Wed Nov 4 | Kīhei → Molokini boat (harbor and time: add from Tanu's booking) | ~9 mi to Māʻalaea | 🚕 **Prebooked taxi** there if it's before ~7 AM, rideshare back | ~$55–80 | **Yes**, once the time is known |
 | Thu Nov 5 | Haleakalā summit | 48 mi each way | 🚐 Tour pickup at the hotel, 1:40 PM, street-side sign | included | ✅ Booked |
 | Fri Nov 6 🎂 | Kīhei → Hotel Wailea → Tikehau → Tiki Lounge, Kīhei | 4 mi each way | 🚕 Rideshare there; **prebooked taxi** Wailea Village → Tiki Lounge ~9 PM; walk back | ~$30–60 | ~9 PM taxi, day before |
-| Sat Nov 7 | Road to Hāna (optional) | 67 mi each way | 🚐 Tour pickup at the hotel | included | Tour by Oct 24, if we go |
-| Sun Nov 8 | Kīhei → OGG | 13 mi | 🚐 Prebooked shuttle, or rideshare | ~$40–70 | Shuttle by Oct 24 |
+| Sat Nov 7 | Road to Hāna (only if decided, see [`wishlist.md`](wishlist.md)) | 67 mi each way | 🚐 Tour pickup at the hotel | included | Tour, if we go |
+| Sun Nov 8 | Kīhei → OGG | 13 mi | 🚕 **Uber Reserve** scheduled the day before; taxi as backup | ~$45–65 | Schedule Sat Nov 7 |
 | **Total** | | | | **≈ $310–510** | |
 
 ---
@@ -92,10 +92,12 @@ Same options as Oct 31. **Leave ~2.5 h before the island hop.** Rideshare or tax
 
 ### Tue Nov 3 · OGG airport → Maui Coast Hotel, Kīhei (13 mi, 30–45 min)
 
+**Decided Oct 27: rideshare, no shuttle booking.** Both Maui airport legs are in daylight (land 2:25 PM Tue; leave the hotel ~11:30 AM Sun), Uber has a marked pickup zone on the OGG ground-transportation level ([Uber: OGG](https://www.uber.com/global/en/airports/ogg/)), and daytime South Maui requests usually match within minutes ([local guide](https://howtoliveinhawaii.com/ogg-kahului-airport-ground-transport/)). Coverage thins at night and on Sundays, so **schedule an Uber Reserve for Nov 8** and fall back to the OGG taxi rank if the app surges or stalls.
+
 | Option | Cost for two | Good | Not so good |
 |---|---:|---|---|
-| 🚐 **Shared airport shuttle** (Roberts Hawaiʻi / SpeediShuttle) ⭐ | ~$40–60 (fares from ~$17–18 per person ✔️; Kīhei ~$30 per person, check) | Prebooked, fixed price, meets you at baggage claim | A few hotel stops on the way |
-| 🚕 **Uber / Lyft** | ~$45–65 (check) | Fast, door to door | Fewer drivers than Honolulu; wait times vary |
+| 🚐 Shared airport shuttle (Roberts Hawaiʻi / SpeediShuttle) | ~$40–60 (fares from ~$17–18 per person ✔️; Kīhei ~$30 per person, check) | Prebooked, fixed price, meets you at baggage claim | A few hotel stops on the way |
+| 🚕 **Uber / Lyft** ⭐ | ~$45–65 (check) | Fast, door to door, no booking | Fewer drivers than Honolulu; wait times vary |
 | 🚖 Taxi (airport rank) | ~$60–80 (check) | Always there | Most expensive non-private option |
 | 🚙 Private transfer | $90–150 | Comfort | Pricey |
 | 🚌 Maui Bus | $4–8 | Cheap | ❌ Bags on your lap, transfers; not with luggage |
@@ -104,7 +106,7 @@ Same options as Oct 31. **Leave ~2.5 h before the island hop.** Rideshare or tax
 
 ### Wed Nov 4 · Kīhei ↔ Māʻalaea Harbor (Molokini boat, 9 mi, 22–40 min)
 
-PacWhale has **no hotel pickup**, and check-in is ~45 min before an early departure, so you leave Kīhei around 5:45–6:30 AM.
+Tanu booked the Molokini trip; the operator, harbor and check-in time still need copying into [`bookings.md`](bookings.md). If it's the planned PacWhale trip, there's **no hotel pickup** and check-in is ~45 min before an early departure, so you leave Kīhei around 5:45–6:30 AM.
 
 | Option | Cost for two | Good | Not so good |
 |---|---:|---|---|
@@ -136,7 +138,7 @@ Hotel Wailea sits on the hill above Wailea; Tikehau is a short walk or ride away
 
 ### Sun Nov 8 · Kīhei → OGG (13 mi, 30–45 min)
 
-Same options as Nov 3. **Leave ~2.5 h before the flight** (2:08 / 2:31 PM departures → leave the hotel ~11:30 AM). Ask the hotel to hold bags after checkout if you want a last swim; shuttles need a pickup time booked a day ahead.
+Same options as Nov 3; **pick: Uber Reserve, scheduled Sat Nov 7.** **Leave ~2.5 h before the flight** (2:08 PM departure → leave the hotel ~11:30 AM). Ask the hotel to hold bags after checkout if you want a last swim; a reserved ride needs a pickup time set a day ahead.
 
 ---
 

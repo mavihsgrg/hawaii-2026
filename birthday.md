@@ -24,7 +24,12 @@
 - [🎒 Pack](#-pack)
 - [🌧️ Backups](#backups)
 
-## The day
+## ✅ Decided vs 🤔 to decide
+
+- ✅ **Dinner: The Restaurant at Hotel Wailea, 5:30 PM, 2 guests** (booked by Shivam).
+- 🤔 **Everything else is still open** and needs one decision together by **Oct 30**: morning beach? couples spa (**max $500 total**)? cocktails at Tikehau? dancing at South Shore Tiki Lounge? The aim is a relaxed, romantic day, so it's fine to drop pieces.
+
+## 🤔 Tentative day (a draft, not final)
 
 | When | What | Where |
 |---|---|---|
@@ -41,7 +46,7 @@
 
 ## 💆 Spa
 
-- ✅ **Yes.** Couples treatment in the early afternoon, **~$400–700**. **Book by Oct 24.**
+- 🤔 **Not booked; still a decision.** Couples treatment in the early afternoon, **max $500 total for two** (incl. tax and tip). Some Wailea resort treatments may run over that; check prices before choosing.
 - Candidates: the big Wailea resort spas (Grand Wailea, Fairmont Kea Lani, Four Seasons, Andaz). Ask for a couples room, about 80 minutes, and whether booking includes pool or day access.
 
 <a id="dinner"></a>
@@ -67,7 +72,7 @@ When booking:
 | Pilina, Fairmont Kea Lani | First bar in Hawaiʻi on The Pinnacle Guide (2026). Fancier, resort setting | Wailea | check |
 | Andaz Maui lobby bar | Views over the pools to the coast | Wailea | check |
 
-Book Tikehau on OpenTable for ~7:45 PM.
+If we decide on cocktails, Shivam books Tikehau on OpenTable for ~7:45 PM.
 
 ## 🪩 Dancing
 
@@ -99,13 +104,12 @@ Nobody drives tonight, and we don't have a car anyway. Full ride details: [`comm
 
 ## ✅ To do
 
-- [x] Spa: yes · Both
-- [ ] Book the spa (couples, early afternoon) · P · **by Oct 24**
 - [x] Hotel Wailea dinner booked: Fri Nov 6, 5:30 PM, 2 guests (SevenRooms)
-- [ ] Check the reservation notes the birthday + lactose intolerance · S · by Oct 24
-- [ ] Book Tikehau Lounge ~7:45 PM on OpenTable · P · by Oct 24
-- [ ] Prebook a taxi Wailea Village → Tiki Lounge for ~9 PM · S · Nov 5
-- [ ] Check South Shore Tiki Lounge's calendar for a DJ on Fri Nov 6 · week of Nov 2
+- [ ] Check the reservation notes the birthday + lactose intolerance · S · Oct 30
+- [ ] **Decide the rest of the day** (beach, spa ≤ $500, cocktails, dancing) · Both · Oct 30
+- [ ] If spa: book a couples treatment ~1 PM · P
+- [ ] If cocktails: book Tikehau Lounge ~7:45 PM on OpenTable · S
+- [ ] If dancing: check South Shore Tiki Lounge's calendar for a DJ (week of Nov 2), then prebook a taxi Wailea Village → Tiki Lounge for ~9 PM · S · Nov 5
 - [ ] If we want weed legally: look into the 329V visitor registration (needs a home-state medical card) · S
 - [ ] Add confirmation #s to [`bookings.md`](bookings.md) and costs to [`budget.md`](budget.md)
 
@@ -113,16 +117,16 @@ Nobody drives tonight, and we don't have a car anyway. Full ride details: [`comm
 
 | Item | Estimate |
 |---|---:|
-| Spa | $400–700 |
+| Spa (if we do it) | $0–500 |
 | Dinner | $220–400 |
 | Cocktails (2–3 each) | $80–150 |
 | Tiki Lounge (cover? + a drink or two) | $30–80 |
 | Rides | $45–85 |
-| **Total** | **≈ $775–1,415** |
+| **Total** | **≈ $375–1,215** |
 
 ## 🎒 Pack
 
-- [ ] One nicer outfit each, plus shoes you can dance in
+- [ ] One nicer outfit each, plus shoes you can dance in (Shivam: cream striped knit + stone trousers, see [`shopping.md`](shopping.md))
 - [ ] Reef-safe sunscreen and a beach bag for the morning
 - [ ] IDs (needed for bars)
 
@@ -132,6 +136,5 @@ Nobody drives tonight, and we don't have a car anyway. Full ride details: [`comm
 | If… | Then… |
 |---|---|
 | Rain | Spa + pool in the day; keep dinner and ask for an indoor table |
-| Hotel Wailea is full | Monkeypod Wailea |
 | No DJ at Tiki Lounge | Kahale's for live music, or stay longer at Tikehau |
 | Haleakalā or Molokini gets cancelled | Move it to another day, **never onto Nov 6** |

@@ -130,7 +130,7 @@
 <a id="maui"></a>
 ## 🌋 Maui · Nov 3 – Nov 8
 
-> **Home base: Maui Coast Hotel, Kīhei.** No car: airport shuttle, tours with hotel pickup (Hāna, Haleakalā), a dawn taxi to the Molokini boat, rideshare to dinner. Every ride in detail: [`commute.md`](commute.md).
+> **Home base: Maui Coast Hotel, Kīhei.** No car: rideshare to and from the airport, tours with hotel pickup (Haleakalā), an early taxi to the Molokini boat, rideshare to dinner. Every ride in detail: [`commute.md`](commute.md).
 
 <a id="maui-hotel"></a>
 ### 🏨 The hotel (Maui)
@@ -146,7 +146,7 @@
 
 | Pin | Where | Day | From the hotel | Drive (no traffic) | Plan for | How | Section |
 |:-:|---|---|---:|---:|---|---|---|
-| 1 | **OGG airport (Kahului)** | Tue Nov 3 (arrive) · Sun Nov 8 (leave ~11:30 AM) | 13.2 mi | 28 min | 30–45 min (+ shuttle stops) | 🚐 Prebooked shared shuttle or rideshare (~$40–70 each way) | [✈️ go](#m-airport) |
+| 1 | **OGG airport (Kahului)** | Tue Nov 3 (arrive) · Sun Nov 8 (leave ~11:30 AM) | 13.2 mi | 28 min | 30–45 min | 🚕 Uber / Lyft (~$45–65 each way) | [✈️ go](#m-airport) |
 | 2 | **Māʻalaea Harbor (Molokini boat)** | Wed Nov 4 | 9.4 mi | 22 min | 25–40 min; check in 45 min early | 🚖 Prebooked dawn taxi there, rideshare back (~$55–80) | [🤿 go](#m-molokini) |
 | 3 | **Molokini Crater** | Wed Nov 4 | by boat from Māʻalaea | ~1 h by boat | ~1 h by boat each way; ~5 h trip | 🚤 PacWhale boat from Māʻalaea (pin 2) | [🤿 go](#m-molokini) |
 | 4 | **Hāna town** | Sat Nov 7 (optional) | 67.4 mi | 2 h 41 min | **10–12 h round-trip day** with stops | 🚐 Guided tour, hotel pickup ~6:30–7:00 AM | [🌿 go](#m-hana) |
@@ -162,7 +162,7 @@
 
 | Distance | Drive time (no traffic) | Plan for | How we get there |
 |---:|---:|---|---|
-| **13.2 mi** | 28 min | 30–45 min (+ shuttle stops) | 🚐 Prebooked shared shuttle or rideshare (~$40–70 each way) |
+| **13.2 mi** | 28 min | 30–45 min | 🚕 Uber / Lyft (~$45–65 each way) |
 
 [▶ Directions from the hotel in Google Maps](https://www.google.com/maps/dir/?api=1&origin=20.72386,-156.44605&destination=20.89570,-156.43405&travelmode=driving)
 

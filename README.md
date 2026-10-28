@@ -11,6 +11,8 @@
 | [`todos.md`](todos.md) | What's still open, with owner and deadline |
 | [`budget.md`](budget.md) | Estimates and actual spend |
 | [`packing.md`](packing.md) | Packing checklist |
+| [`shopping.md`](shopping.md) | Clothes to buy before Oct 31, plus outfits ([live doc](https://claude.ai/artifact/LULsbrd33NXYHvEnLuBF4p)) |
+| [`wishlist.md`](wishlist.md) | Ideas we might do: not booked, not decided |
 | [`hotels/`](hotels/README.md) | The two booked hotels, with room and review details |
 | [`docs/`](docs) | Tickets and confirmations (no passport or ID scans in git) |
 | [`birthday.md`](birthday.md) | The Nov 6 birthday plan |
