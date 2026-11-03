@@ -28,10 +28,10 @@
 | Mon Nov 2 | Hotel ↔ Pearl Harbor (+ Bishop Museum) | 12 mi | 🚕 Rideshare both ways | ~$60–100 (check) | No |
 | Tue Nov 3 | Hotel → HNL | 9 mi | 🚕 Rideshare or taxi | ~$30–50 | No |
 | Tue Nov 3 | OGG → Maui Coast Hotel, Kīhei | 13 mi | 🚕 **Uber / Lyft** from the marked rideshare zone; taxi rank as backup | ~$45–65 | No |
-| Wed Nov 4 | Kīhei → Molokini boat (harbor and time: add from Tanu's booking) | ~9 mi to Māʻalaea | 🚕 **Prebooked taxi** there if it's before ~7 AM, rideshare back | ~$55–80 | **Yes**, once the time is known |
+| Wed Nov 4 | Kīhei → PacWhale Ocean Store, Maui Harbor Shops, Māʻalaea (check-in 7:15, boat 8:00) | ~9 mi | 🚕 **Prebooked taxi ~6:45 AM**, rideshare back ~1:15 PM | ~$55–80 | **Yes**, tonight |
 | Thu Nov 5 | Haleakalā summit | 48 mi each way | 🚐 Tour pickup at the hotel, 1:40 PM, street-side sign | included | ✅ Booked |
 | Fri Nov 6 🎂 | Kīhei → Hotel Wailea → Tikehau → Tiki Lounge, Kīhei | 4 mi each way | 🚕 Rideshare there; **prebooked taxi** Wailea Village → Tiki Lounge ~9 PM; walk back | ~$30–60 | ~9 PM taxi, day before |
-| Sat Nov 7 | Road to Hāna (only if decided, see [`wishlist.md`](wishlist.md)) | 67 mi each way | 🚐 Tour pickup at the hotel | included | Tour, if we go |
+| Sat Nov 7 | Road to Hāna ✅ (Polynesian Adventure #387988261) | 67 mi each way | 🚐 Tour pickup **6:40 AM** street-side by the hotel sign | included | Booked |
 | Sun Nov 8 | Kīhei → OGG | 13 mi | 🚕 **Uber Reserve** scheduled the day before; taxi as backup | ~$45–65 | Schedule Sat Nov 7 |
 | **Total** | | | | **≈ $310–510** | |
 
@@ -106,7 +106,7 @@ Same options as Oct 31. **Leave ~2.5 h before the island hop.** Rideshare or tax
 
 ### Wed Nov 4 · Kīhei ↔ Māʻalaea Harbor (Molokini boat, 9 mi, 22–40 min)
 
-Tanu booked the Molokini trip; the operator, harbor and check-in time still need copying into [`bookings.md`](bookings.md). If it's the planned PacWhale trip, there's **no hotel pickup** and check-in is ~45 min before an early departure, so you leave Kīhei around 5:45–6:30 AM.
+Tanu booked **PacWhale's Molokini & Turtle Arches snorkel** (#387985092): boat at **8:00 AM**, check-in **7:15 AM** at the PacWhale Ocean Store in the Maui Harbor Shops, 300 Maʻalaea Rd (search "Maui Harbor Shops", not the harbor lot). There's **no hotel pickup**, so leave Kīhei by ~6:45 AM.
 
 | Option | Cost for two | Good | Not so good |
 |---|---:|---|---|

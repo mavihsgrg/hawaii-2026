@@ -13,9 +13,9 @@
 | Lodging | Maui Coast Hotel, Nov 3 – 8 | Booked | **$1,715.30** | Tanu | Includes $194.95 resort fee |
 | Car | Maui rental | None (no car) | $0 | | Nothing booked: the Southwest receipt only had a "Book car" offer |
 | Transport | Rideshares and taxis (incl. OGG ↔ Kīhei by rideshare), NYC airport rides | Estimate | $480–800 | | Hawaiʻi legs in [`commute.md`](commute.md) |
-| Activity | Molokini snorkel, Nov 4 | Booked | ⚠️ add | Tanu | Amount and operator still to add from Tanu's confirmation |
+| Activity | Molokini snorkel, Nov 4 (PacWhale #387985092) | Booked | **$517.45** | Tanu | 2 adults |
 | Activity | Haleakalā sunset tour w/ pickup, Nov 5 (#386512357) | Booked | **$511.48** | Shivam | Polynesian Adventure, 2 adults |
-| Activity | Hāna guided tour, Nov 7 | Idea ([`wishlist.md`](wishlist.md)) | $590–650 | | Not decided |
+| Activity | Road to Hāna tour, Nov 7 (Polynesian Adventure #387988261) | Booked | **$551.34** | Tanu | 2 adults, breakfast + lunch included |
 | Activity | Diamond Head, Nov 1 (DHSM-2283885) | Booked | **$11.27** | Shivam | The old Nov 3 order is non-refundable (sunk cost) |
 | Activity | USS Arizona, Nov 2 | Booked | $2.00 | | Recreation.gov |
 | Dining | Istanbul Hawaii, Honolulu (date ⚠️) | Reserved (pay there) | — | | Booked by Tanu; free cancel until 12 PM on the day |
