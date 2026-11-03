@@ -7,6 +7,7 @@
 |---|---|
 | [`decisions.md`](decisions.md) | Everything already decided |
 | [`itinerary.md`](itinerary.md) | Day by day: confirmed items plus open days |
+| [Maui week calendar](https://claude.ai/artifact/K52rmWxG1ekE75s6zx7se8) | Hour-by-hour Nov 3–8 with suggestions and catamaran options (private page, share from its menu) |
 | [`bookings.md`](bookings.md) | Confirmed flights, hotels and activities, with confirmation numbers |
 | [`todos.md`](todos.md) | What's still open, with owner and deadline |
 | [`budget.md`](budget.md) | Estimates and actual spend |
