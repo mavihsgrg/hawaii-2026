@@ -48,7 +48,7 @@
 ### Tue Nov 3 · Fly to Maui
 - ☕ Slow breakfast, last swim
 - ✅ **11:00 AM** check out, rideshare to HNL (~25 min)
-- ✅ **1:35 PM** Southwest HNL → OGG, lands **2:25 PM**. Seats are assigned at check-in.
+- ✅ **1:35 PM** Southwest **WN2034** HNL → OGG, lands **2:25 PM**. Seats **29A + 29B** (window + middle). [Flight sheet](docs/2026-11-03_southwest_hnl-ogg.md)
 - 🚕 Uber / Lyft from the OGG rideshare zone to Kīhei (~30 min; taxi rank as backup)
 - ✅ **4 PM** check in at Maui Coast Hotel, then groceries and a casual dinner in Kīhei
 

@@ -15,7 +15,6 @@
 
 <a id="now"></a>
 ## 🔴 Next 48 hours (Nov 2–3)
-- [ ] ✈️ Southwest check-in opens **Mon Nov 2, 1:35 PM HST**; seats are assigned then. Add a bag ($45) if needed · S · Nov 2 · [Southwest check-in](https://www.southwest.com/air/check-in/)
 - [ ] 🤿 **Molokini, Wed Nov 4:** prebook a taxi for **~6:45 AM** to the PacWhale Ocean Store, Maui Harbor Shops (check-in 7:15, boat 8:00) and **sign the PacWhale online waiver** (one per adult, link in Tanu's confirmation email) · Both · **Nov 3**
 - [ ] ⛵ Sunset catamaran Wed Nov 4 (~4:30–6:30 PM, Māʻalaea), between Molokini and Lineage at 8:30: decide and book · Both · Nov 3 · [`bookings.md`](bookings.md#tobook)
 - [ ] 🍽️ **Istanbul Hawaii**, Honolulu: if it's tonight (the last Oʻahu night), confirm the time; free cancel until **12 PM on the day**. If the date already passed, tick this off · P · Nov 2 · [vegan menu](https://www.istanbulhawaii.com/uploads/b/3cfff880-fd1e-11ea-aa73-0d57dd82c60c/vegan_MzMxOD.pdf)
@@ -71,6 +70,7 @@ Moved here on Nov 2. These were due Oct 28–30 and nobody ticked them; we're on
 - [x] ⚓ USS Arizona booked: Mon Nov 2, 11:15 AM, Recreation.gov order 0935827091 · [tickets PDF](docs/2026-11-02_uss-arizona_tickets.pdf)
 - [x] 🌋 Haleakalā sunset tour: Thu Nov 5, Polynesian Adventure booking **#386512357** (FareHarbor code GLUKMF), $511.48 (Shivam); pickup 1:40 PM at Maui Coast's street-side sign · [confirmation PDF](docs/2026-11-05_haleakala-sunset-tour_confirmation.pdf)
 - [x] 🎂 Birthday dinner: **The Restaurant at Hotel Wailea, Fri Nov 6, 5:30 PM**, 2 guests (SevenRooms)
+- [x] ✈️ Southwest WN2034 checked in: seats 29A + 29B, on time (Nov 3)
 - [x] 🚗 No rental car (the Southwest "Book car" line was only an offer)
 - [x] ✈️ Flights booked Oct 18: Alaska AS 829 JFK → HNL Oct 31 · Southwest 28UG6J HNL → OGG Nov 3 · Alaska AS 1145/830 OGG → JFK Nov 8 (lands Nov 9) · $2,031.32
 - [x] 🏨 OUTRIGGER Reef booked Oct 18 · 5237944073 · $1,296.69

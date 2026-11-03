@@ -22,7 +22,7 @@
 | Date | Route | Flight | Times | Conf # | Cost (2 pax) | Notes |
 |---|---|---|---|---|---|---|
 | Sat Oct 31 | JFK → HNL | Alaska **AS 829**, nonstop (via Wizfairtravels) | 8:55 AM → 2:10 PM, 11 h 15 m | Wizfair **392513** · Alaska code in `Ticket_392513.pdf` (Gmail) | **$1,252.34** | Economy, 1 carry-on, **no checked bag**. Vegetarian meal requested but missing from the confirmation |
-| Tue Nov 3 | HNL → OGG | Southwest, nonstop | 1:35 PM → 2:25 PM, 50 m | **28UG6J** | **$199.80** | Basic fare: seat at check-in, first checked bag $45. Cancel within 24 h; otherwise 6-month credit |
+| Tue Nov 3 | HNL → OGG | Southwest **WN2034**, nonstop, 737 MAX 8 | 1:35 PM → 2:25 PM, 50 m | **28UG6J** · [sheet](docs/2026-11-03_southwest_hnl-ogg.md) · seats **29A** (Shivam, window) + **29B** (Tanu) | **$199.80** | Basic fare: seat at check-in, first checked bag $45. Cancel within 24 h; otherwise 6-month credit |
 | Sun Nov 8 → Mon Nov 9 | OGG → HNL → JFK | Alaska **AS 1145 + AS 830**, 1 stop (via Wizfairtravels) | OGG 2:08 PM → HNL 2:52 PM; HNL 3:45 PM → **JFK 6:30 AM Mon Nov 9** | Wizfair **392514** · Alaska code in `Ticket_392514.pdf` (Gmail) | **$579.18** | Economy, 1 carry-on, **no checked bag**. |
 
 To do on [Alaska → Manage trip](https://www.alaskaair.com/booking/reservation-lookup) (needs the 6-letter Alaska code from each PDF): seats together, checked bags if needed, vegetarian meal.
