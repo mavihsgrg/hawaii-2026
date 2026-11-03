@@ -13,10 +13,10 @@
 | **Sun Nov 1** | 🥾 Hike | Oʻahu | ✅ Diamond Head at 6 AM, beach afternoon | OUTRIGGER Reef |
 | **Mon Nov 2** | ⚓ History | Oʻahu | ✅ USS Arizona Memorial, 11:15 AM | OUTRIGGER Reef |
 | **Tue Nov 3** | ✈️ Travel | Oʻahu → Maui | Fly to Maui, settle into Kīhei | Maui Coast Hotel |
-| **Wed Nov 4** | 🤿 Ocean | Maui | ✅ Molokini snorkel (morning) · ✅ dinner at Lineage | Maui Coast Hotel |
+| **Wed Nov 4** | 🤿 Ocean | Maui | ✅ Molokini snorkel 8 AM–1 PM (PacWhale) · ✅ dinner at Lineage 8:30 PM | Maui Coast Hotel |
 | **Thu Nov 5** | 🌋 Summit | Maui | ✅ Haleakalā sunset tour | Maui Coast Hotel |
-| **Fri Nov 6** | 🎂 Birthday | Maui | ✅ Hotel Wailea dinner, 5:30 PM · 🤔 rest of the day | Maui Coast Hotel |
-| **Sat Nov 7** | 🌿 Free | Maui | 🤔 Road to Hāna tour, or a slow beach day | Maui Coast Hotel |
+| **Fri Nov 6** | 🎂 Birthday | Maui | ✅ Hotel Wailea dinner, 5:30 PM · ✅ Tikehau 7:45 PM · 🤔 daytime | Maui Coast Hotel |
+| **Sat Nov 7** | 🌿 Hāna | Maui | ✅ Road to Hāna tour, pickup 6:40 AM, back ~6:30 PM | Maui Coast Hotel |
 | **Sun Nov 8** | ✈️ Travel | Maui → NYC | Last swim, overnight flight home | ✈️ on the plane |
 | **Mon Nov 9** | 🏠 Home | NYC | Land JFK 6:30 AM | home |
 
@@ -57,10 +57,10 @@
 ## 🌋 Maui · Maui Coast Hotel, Kīhei
 
 ### Wed Nov 4 · Molokini
-- 🤿 ✅ ⚠️ **Molokini snorkel**, booked by Tanu: harbor and check-in time still to add. Early start, done by ~1 PM.
+- 🤿 ✅ **Molokini & Turtle Arches snorkel**, PacWhale, boat *Ocean Guardian*, **8:00 AM–1:00 PM**, booked by Tanu (#387985092). **Check in 7:15 AM** at the PacWhale Ocean Store, Maui Harbor Shops, 300 Maʻalaea Rd (not the harbor lot). Each adult signs the online waiver first.
 - 🚖 Taxi to the boat, booked the day before (rideshare is thin before 7 AM)
 - 😴 Afternoon: lunch, nap, pool
-- 🍽️ ✅ ⚠️ **Dinner at Lineage**, Wailea (Asian fusion, good veg options), booked by Tanu: time still to add · [menu](https://www.lineagemaui.com/menu/)
+- 🍽️ ✅ **Dinner at Lineage, 8:30 PM**, The Shops at Wailea, 3750 Wailea Alanui Dr (OpenTable #182807, booked by Tanu). Asian fusion, good veg options · [menu](https://www.lineagemaui.com/menu/)
 
 ### Thu Nov 5 · Haleakalā sunset
 - 🏖️ Morning: slow, beach or pool. Eat a real lunch.
@@ -70,11 +70,12 @@
 
 ### Fri Nov 6 · 🎂 Birthday (protected: relaxed and romantic, no early alarm)
 - ✅ **5:30 PM** dinner at **The Restaurant at Hotel Wailea**, sunset ~5:47 from the table (rideshare from Kīhei ~5 PM)
-- 🤔 Everything else is still a decision: beach in the morning, couples spa (max $500), cocktails at Tikehau, dancing at South Shore Tiki Lounge. Options in [`birthday.md`](birthday.md).
+- ✅ **7:45 PM** cocktails at **Tikehau Lounge**, 116 Wailea Ike Dr (OpenTable #2858; 21+ only, bring ID). Hotel Wailea has the birthday candle and a sunset-view request on file.
+- 🤔 Daytime is still a decision: beach in the morning or a couples spa (max $500). Keep the night short: Hāna pickup is 6:40 AM Saturday. Options in [`birthday.md`](birthday.md).
 
-### Sat Nov 7 · Free day (🤔 undecided)
-- Ideas: Road to Hāna guided tour (long day), Turtle Town shore snorkel, or a slow beach day. See [`wishlist.md`](wishlist.md).
-- Also the backup day if Haleakalā or Molokini gets weathered out
+### Sat Nov 7 · Road to Hāna
+- ✅ **6:40 AM** pickup street-side by the Maui Coast Hotel sign · Polynesian Adventure *Road to Hāna Adventure Tour (M2)*, booking #387988261, back **~6:30 PM** · to-go breakfast and lunch at Hāna Farms included · returns the same way (back roads closed)
+- Stops: Keʻanae, Hāna Bay, Waiʻānapanapa black sand beach, Puaʻa Kaʻa pools (swim), Hoʻokipa. Bring swimsuit, rain layer, motion-sickness tablets, cash for stands
 - 📱 Schedule an Uber Reserve for tomorrow's 11:30 AM airport ride
 
 ### Sun Nov 8 · Fly home

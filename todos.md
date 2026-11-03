@@ -16,8 +16,8 @@
 <a id="now"></a>
 ## 🔴 Next 48 hours (Nov 2–3)
 - [ ] ✈️ Southwest check-in opens **Mon Nov 2, 1:35 PM HST**; seats are assigned then. Add a bag ($45) if needed · S · Nov 2 · [Southwest check-in](https://www.southwest.com/air/check-in/)
-- [ ] 🤿 **Molokini is Wed Nov 4 morning:** add the operator, confirmation #, check-in time and harbor to [`bookings.md`](bookings.md), then book the ride (prebooked taxi if before ~7 AM) · P · **Nov 3**
-- [ ] 🍽️ **Lineage, Wailea**, Wed Nov 4 dinner: add the time and confirmation # · P · Nov 3 · [menu](https://www.lineagemaui.com/menu/)
+- [ ] 🤿 **Molokini, Wed Nov 4:** prebook a taxi for **~6:45 AM** to the PacWhale Ocean Store, Maui Harbor Shops (check-in 7:15, boat 8:00) and **sign the PacWhale online waiver** (one per adult, link in Tanu's confirmation email) · Both · **Nov 3**
+- [ ] ⛵ Sunset catamaran Wed Nov 4 (~4:30–6:30 PM, Māʻalaea), between Molokini and Lineage at 8:30: decide and book · Both · Nov 3 · [`bookings.md`](bookings.md#tobook)
 - [ ] 🍽️ **Istanbul Hawaii**, Honolulu: if it's tonight (the last Oʻahu night), confirm the time; free cancel until **12 PM on the day**. If the date already passed, tick this off · P · Nov 2 · [vegan menu](https://www.istanbulhawaii.com/uploads/b/3cfff880-fd1e-11ea-aa73-0d57dd82c60c/vegan_MzMxOD.pdf)
 - [ ] 🌋 Haleakalā free cancellation ends **Tue Nov 3, 1:00 PM HST** (48 h before the tour). Check the summit forecast before then · S · Nov 3 · [NPS conditions](https://www.nps.gov/hale/planyourvisit/conditions.htm) · [confirmation](docs/2026-11-05_haleakala-sunset-tour_confirmation.pdf)
 - [ ] 🧳 Tue Nov 3: check out of OUTRIGGER by **11 AM** (resort fee is collected at check-out), rideshare to HNL · Both
@@ -35,7 +35,6 @@
 <a id="decide"></a>
 ## 🟡 Decide
 - [ ] 🎂 **Birthday day plan, Fri Nov 6.** Dinner at 5:30 PM is fixed; decide the rest: beach in the morning? couples spa (**max $500 total**)? cocktails at Tikehau? dancing at South Shore Tiki Lounge? Keep it relaxed and romantic · Both · Nov 4 · [`birthday.md`](birthday.md)
-- [ ] 🌿 **Sat Nov 7:** Road to Hāna guided tour (Tanu books if yes), or a slow day · Both · Nov 4 · [`wishlist.md`](wishlist.md)
 - [ ] ⛵ Na Hoku III sunset sail: tonight (Nov 2) is the last Oʻahu chance; otherwise drop it · Both · Nov 2 · [`wishlist.md`](wishlist.md)
 
 <a id="after"></a>
@@ -60,8 +59,11 @@ Moved here on Nov 2. These were due Oct 28–30 and nobody ticked them; we're on
 ## ✅ Done
 - [x] 🥾 Diamond Head, Sun Nov 1, 6:00 AM entry · [ticket PDF](docs/2026-11-01_diamond-head_entry_tickets.pdf)
 - [x] ✈️ Flew JFK → HNL, Sat Oct 31 (Alaska AS 829)
-- [x] 🤿 Molokini snorkel booked by Tanu (details still to add, see above)
-- [x] 🍽️ Istanbul Hawaii and Lineage dinners booked by Tanu (details still to add)
+- [x] 🤿 Molokini & Turtle Arches snorkel, Wed Nov 4, 8 AM–1 PM, PacWhale #387985092, $517.45 (Tanu)
+- [x] 🍽️ Lineage, Wed Nov 4, 8:30 PM, OpenTable #182807 (Tanu)
+- [x] 🌿 Road to Hāna, Sat Nov 7, pickup 6:40 AM, Polynesian Adventure #387988261, $551.34 (Tanu)
+- [x] 🍸 Tikehau Lounge, Fri Nov 6, 7:45 PM, OpenTable #2858
+- [x] 🎂 Hotel Wailea birthday candle + sunset-view request confirmed by the maître d' (Oct 27)
 - [x] 🚐 Maui airport rides: **rideshare** both ways, no shuttle booking (decided Oct 27; daytime legs, Uber has a marked OGG pickup zone, taxis as backup)
 - [x] 🎸 Chicago concert (Oct 30): tickets sold, no conflict with the Oct 31 flight
 - [x] 🏨 OUTRIGGER: keeping the hotel and room as booked; no upgrade, no cancellation
