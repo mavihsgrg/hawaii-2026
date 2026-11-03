@@ -2,7 +2,7 @@
 
 > Confirmed bookings first, then every open booking with a **direct link**. All times HST unless noted. Put PDFs/screenshots in `docs/`.
 > Passengers: Shivam Garg and Tanu Arya. Hotel/booking PINs are **not** stored here (use the Booking.com app or email). Emails live in Gmail.
-> Last updated 2026-10-27 · Booked: **3 flights, 2 hotels, Diamond Head, USS Arizona, Molokini, Haleakalā, Istanbul Hawaii, Lineage, Hotel Wailea dinner**. ⚠️ = details still to copy in from the confirmation email (Gmail wasn't reachable on Oct 27).
+> Last updated 2026-11-02 · Booked: **3 flights, 2 hotels, Diamond Head, USS Arizona, Molokini, Haleakalā, Istanbul Hawaii, Lineage, Hotel Wailea dinner**. ⚠️ = details still to copy in from the confirmation email (Gmail wasn't reachable on Oct 27).
 > Who booked: flights, Diamond Head, USS Arizona, Haleakalā, Hotel Wailea = **Shivam**; hotels, Molokini, Istanbul Hawaii, Lineage = **Tanu**.
 
 ## 📑 Contents
@@ -72,7 +72,7 @@ Options and prices for each ride: [`commute.md`](commute.md).
 | **Nov 1** | 🥾 Diamond Head ✅ **6:00–7:00 AM entry**, 2 entries (entry only) | arrive within 30 min of 6:00 | Diamond Head State Monument (rideshare drop-off) | order **VISITOR-2026-10-21-DHSM-2283885** · [ticket PDF](docs/2026-11-01_diamond-head_entry_tickets.pdf) | $11.27 ✅ (Shivam) |  QR codes are single-use; non-refundable. The old Nov 3 order (DHSM-2278799) is non-refundable and can't be cancelled: don't use it |
 | Nov 2 | ⚓ USS Arizona program ✅ **11:15 AM – 12:00 PM**, 2 tickets | be at the visitor center ~10:15 AM (leave Waikīkī ~9:30) | Pearl Harbor National Memorial visitor center | Recreation.gov order **0935827091** · [tickets PDF](docs/2026-11-02_uss-arizona_tickets.pdf) | $2.00 | check in at the theater desk 10 min before; no bags (paid bag storage nearby); clear water only; [My reservations](https://www.recreation.gov/account/orders) |
 | Nov 4 | 🤿 Molokini snorkel ✅ (booked by Tanu) | ⚠️ add | ⚠️ add (harbor) | ⚠️ add | Tanu | ⚠️ add |
-| **Nov 5** | 🌋 Haleakalā sunset tour ✅ (Polynesian Adventure, M5), 2 adults, 1:00–8:30 PM | **pickup 1:40 PM** | Maui Coast Hotel, street-side sign | order **GLUKMF** (FareHarbor email) | $511.48 ✅ | bring warm layers |
+| **Nov 5** | 🌋 Haleakalā sunset tour ✅ (Polynesian Adventure, M5), 2 adults, 1:00–8:30 PM, "to go" dinner included | **pickup 1:40 PM** (be out 5 min early; 15-min window) | Maui Coast Hotel, street-side by the hotel sign on S Kīhei Rd | booking **#386512357** (FareHarbor code GLUKMF) · [confirmation PDF](docs/2026-11-05_haleakala-sunset-tour_confirmation.pdf) · [800-622-3011](tel:+18006223011) | $511.48 ✅ (Shivam) | Full refund only with **48 h notice: by Tue Nov 3, 1:00 PM HST**; no refund for weather. Bring warm layers; no tour within 72 h of scuba |
 
 <a id="dining"></a>
 ## 🍽️ Dining
@@ -90,4 +90,5 @@ Options and prices for each ride: [`commute.md`](commute.md).
 | Alaska AS 829 + AS 1145/830 | [Manage trip](https://www.alaskaair.com/booking/reservation-lookup) · [Check-in](https://www.alaskaair.com/checkin) | Seats, bags, meals, 24-h cancel; check-in opens 24 h before |
 | Southwest 28UG6J | [Manage reservation](https://www.southwest.com/air/manage-reservation/) · [Check-in](https://www.southwest.com/air/check-in/) | Basic fare: seat at check-in (24 h before), $45 bag |
 | OUTRIGGER Reef 5237944073 · Maui Coast 6290500360 | [Booking.com → My bookings](https://secure.booking.com/myreservations.html) | Message the hotel |
-| Closures before travel | [Haleakalā conditions (NPS)](https://www.nps.gov/hale/planyourvisit/conditions.htm) · [Hawaiʻi State Parks](https://dlnr.hawaii.gov/dsp/) | Recheck Oct 30 |
+| Haleakalā tour #386512357 | Polynesian Adventure [800-622-3011](tel:+18006223011) · sales@polyad.com | Changes and cancellation by phone (by Nov 3, 1 PM HST for a refund) |
+| Closures | [Haleakalā conditions (NPS)](https://www.nps.gov/hale/planyourvisit/conditions.htm) · [Hawaiʻi State Parks](https://dlnr.hawaii.gov/dsp/) | Check before Nov 3, 1 PM HST (Haleakalā refund cutoff) |

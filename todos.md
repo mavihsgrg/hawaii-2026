@@ -1,70 +1,73 @@
 # TODOs: trip task tracker
 
-> **The one task list.** Updated 2026-10-27 · Departure: **Sat Oct 31 (4 days)** · Plan: **Oʻahu → Maui, 8 nights**.
+> **The one task list.** Updated 2026-11-02 · **On the trip:** Oʻahu day 3 · Maui tomorrow (Tue Nov 3) · home Mon Nov 9.
 > Booked: flights, hotels, Diamond Head, USS Arizona, Haleakalā, Hotel Wailea dinner, plus Tanu's Molokini, Istanbul Hawaii and Lineage bookings ([`bookings.md`](bookings.md)). Ideas that aren't decided live in [`wishlist.md`](wishlist.md).
 > Format: `- [ ] task · owner · due · link`. Owners: **S** = Shivam, **P** = Tanu, **Both**. Rides: [`commute.md`](commute.md).
 
 ## 📑 Contents
 
-- [🔴 Before we fly (Oct 27–30)](#before)
-- [🟠 Decide](#decide)
-- [⚪ During the trip](#during)
+- [🔴 Next 48 hours (Nov 2–3)](#now)
+- [🟠 Before each Maui day](#maui)
+- [🟡 Decide](#decide)
 - [🪔 After the trip](#after)
+- [🗂️ Pre-trip list, never ticked off](#pretrip)
 - [✅ Done](#done)
 
-<a id="before"></a>
-## 🔴 Before we fly (Oct 27–30)
+<a id="now"></a>
+## 🔴 Next 48 hours (Nov 2–3)
+- [ ] ✈️ Southwest check-in opens **Mon Nov 2, 1:35 PM HST**; seats are assigned then. Add a bag ($45) if needed · S · Nov 2 · [Southwest check-in](https://www.southwest.com/air/check-in/)
+- [ ] 🤿 **Molokini is Wed Nov 4 morning:** add the operator, confirmation #, check-in time and harbor to [`bookings.md`](bookings.md), then book the ride (prebooked taxi if before ~7 AM) · P · **Nov 3**
+- [ ] 🍽️ **Lineage, Wailea**, Wed Nov 4 dinner: add the time and confirmation # · P · Nov 3 · [menu](https://www.lineagemaui.com/menu/)
+- [ ] 🍽️ **Istanbul Hawaii**, Honolulu: if it's tonight (the last Oʻahu night), confirm the time; free cancel until **12 PM on the day**. If the date already passed, tick this off · P · Nov 2 · [vegan menu](https://www.istanbulhawaii.com/uploads/b/3cfff880-fd1e-11ea-aa73-0d57dd82c60c/vegan_MzMxOD.pdf)
+- [ ] 🌋 Haleakalā free cancellation ends **Tue Nov 3, 1:00 PM HST** (48 h before the tour). Check the summit forecast before then · S · Nov 3 · [NPS conditions](https://www.nps.gov/hale/planyourvisit/conditions.htm) · [confirmation](docs/2026-11-05_haleakala-sunset-tour_confirmation.pdf)
+- [ ] 🧳 Tue Nov 3: check out of OUTRIGGER by **11 AM** (resort fee is collected at check-out), rideshare to HNL · Both
 
-**Missing booking details** (Gmail wasn't reachable on Oct 27; don't guess them, copy them from the confirmations):
-- [ ] 🤿 **Molokini** (booked by Tanu): add the operator, confirmation #, check-in time and harbor to [`bookings.md`](bookings.md), then sort the morning ride · P · Oct 29
-- [ ] 🍽️ **Istanbul Hawaii**, Honolulu (booked by Tanu): add the date, time and confirmation #. Free cancel until **12 PM on the day** · P · Oct 29 · [vegan menu](https://www.istanbulhawaii.com/uploads/b/3cfff880-fd1e-11ea-aa73-0d57dd82c60c/vegan_MzMxOD.pdf)
-- [ ] 🍽️ **Lineage, Wailea**, Wed Nov 4 dinner (booked by Tanu): add the time and confirmation # · P · Oct 29 · [menu](https://www.lineagemaui.com/menu/)
-
-**Fix up what's booked:**
-- [ ] ✈️ Alaska: seats together, checked bags (none included), **vegetarian meal** (the latest outbound email still says "Additional Requests: None"). Needs the 6-letter Alaska code from `Ticket_392513.pdf` / `Ticket_392514.pdf` · S · Oct 29 · [Alaska → Manage trip](https://www.alaskaair.com/booking/reservation-lookup)
-- [ ] 🍽️ Hotel Wailea: check the reservation notes the **birthday + lactose intolerance** · S · Oct 30 · "manage reservation" link in the SevenRooms email
-- [ ] 🏨 Maui Coast: ask for late checkout or bag storage on Sun Nov 8 · S · Oct 30 · [Booking.com → message the hotel](https://secure.booking.com/myreservations.html)
-
-**Prep:**
-- [ ] 🛍️ Clothes shopping **Wed Oct 28** after work, WTC + Brookfield Place, $300–500 · S · Oct 28 · [`shopping.md`](shopping.md) · [shopping doc](https://claude.ai/artifact/LULsbrd33NXYHvEnLuBF4p)
-- [ ] Confirm PTO and block calendars Oct 30 – Nov 10 · Both · Oct 29
-- [ ] Install Uber + Lyft (both, logged in, card added); save two Maui taxi numbers · Both · Oct 29
-- [ ] Download offline Google Maps for Oʻahu and Maui · Both · Oct 29
-- [ ] Reef-safe sunscreen (Hawaiʻi bans oxybenzone/octinoxate) · P · Oct 30
-- [ ] Credit-card travel notice; check trip-delay coverage · S · Oct 29
-- [ ] Recheck closures (Haleakalā, state parks) · S · Oct 30 · [NPS conditions](https://www.nps.gov/hale/planyourvisit/conditions.htm) · [State Parks](https://dlnr.hawaii.gov/dsp/)
-- [ ] Pack ([`packing.md`](packing.md)): Haleakalā warm layers, Halloween costume, birthday outfit · Both · Oct 30
-- [ ] ✈️ Alaska check-in opens **Fri Oct 30, 8:55 AM ET** · S · [Alaska check-in](https://www.alaskaair.com/checkin)
-
-<a id="decide"></a>
-## 🟠 Decide
-- [ ] 🎂 **Birthday day plan, Fri Nov 6.** Dinner at 5:30 PM is fixed; decide the rest: beach in the morning? couples spa (**max $500 total**)? cocktails at Tikehau? dancing at South Shore Tiki Lounge? Keep it relaxed and romantic · Both · Oct 30 · [`birthday.md`](birthday.md)
-- [ ] 🌿 **Sat Nov 7:** Road to Hāna guided tour (Tanu books if yes), or a slow day · Both · Oct 29 · [`wishlist.md`](wishlist.md)
-- [ ] ⛵ Na Hoku III sunset sail on Oʻahu, and other wishlist ideas · Both · Oct 30 · [`wishlist.md`](wishlist.md)
-- [ ] 🎃 Halloween (Sat Oct 31) couples costume: Obsessed girl and boy, or Monica and Chandler · Both · Oct 30
-
-<a id="during"></a>
-## ⚪ During the trip
-- [ ] ✈️ Southwest check-in opens **Mon Nov 2, 1:35 PM HST**; seats are assigned then. Add a bag ($45) if needed · S · [Southwest check-in](https://www.southwest.com/air/check-in/)
+<a id="maui"></a>
+## 🟠 Before each Maui day
+- [ ] 🏨 Maui Coast: ask at check-in (Nov 3) for late checkout or bag storage on Sun Nov 8 · S · Nov 3
+- [ ] 🍽️ Hotel Wailea: check the reservation notes the **birthday + lactose intolerance** · S · Nov 5 · "manage reservation" link in the SevenRooms email
+- [ ] ✈️ Alaska **return** (Nov 8, AS 1145 + AS 830): seats together, **vegetarian meal** (no meal request on the confirmation), bags if needed. Needs the 6-letter Alaska code from `Ticket_392514.pdf` · S · Nov 6 · [Alaska → Manage trip](https://www.alaskaair.com/booking/reservation-lookup)
 - [ ] Night before each tour: reconfirm the pickup time and place · S
 - [ ] Nov 5 (only if dancing is decided): prebook a taxi Wailea Village → Tiki Lounge for ~9 PM on Nov 6 · S · [Kīhei taxis](https://www.google.com/maps/search/taxi+Kihei+HI)
 - [ ] Sat Nov 7: schedule an Uber Reserve for the ~11:30 AM Nov 8 ride to OGG; Alaska check-in opens 2:08 PM HST · S
 - [ ] Each night: check only tomorrow's weather, transport and reservations
 
+<a id="decide"></a>
+## 🟡 Decide
+- [ ] 🎂 **Birthday day plan, Fri Nov 6.** Dinner at 5:30 PM is fixed; decide the rest: beach in the morning? couples spa (**max $500 total**)? cocktails at Tikehau? dancing at South Shore Tiki Lounge? Keep it relaxed and romantic · Both · Nov 4 · [`birthday.md`](birthday.md)
+- [ ] 🌿 **Sat Nov 7:** Road to Hāna guided tour (Tanu books if yes), or a slow day · Both · Nov 4 · [`wishlist.md`](wishlist.md)
+- [ ] ⛵ Na Hoku III sunset sail: tonight (Nov 2) is the last Oʻahu chance; otherwise drop it · Both · Nov 2 · [`wishlist.md`](wishlist.md)
+
 <a id="after"></a>
 ## 🪔 After the trip
 - [ ] Diwali is **Sun Nov 8**, while we fly home: plan something after we're back (just us or with friends), Indian clothes (does Shivam have a kurta here?) · Both
+- [ ] Settle up: Shivam owes Tanu for the hotels; update the ledger with trip spend · Both · [`expenses/`](expenses/tracker.html) · [`budget.md`](budget.md)
+
+<a id="pretrip"></a>
+## 🗂️ Pre-trip list, never ticked off
+Moved here on Nov 2. These were due Oct 28–30 and nobody ticked them; we're on the trip now, so they're either done or no longer matter. Tick what was done, if you like; nothing here needs action.
+- [ ] 🛍️ Clothes shopping Wed Oct 28 ([`shopping.md`](shopping.md))
+- [ ] Confirm PTO and block calendars Oct 30 – Nov 10
+- [ ] Install Uber + Lyft; save two Maui taxi numbers
+- [ ] Download offline Google Maps for Oʻahu and Maui
+- [ ] Reef-safe sunscreen (Hawaiʻi bans oxybenzone/octinoxate). **Still needed for Molokini:** buy in Kīhei if you don't have it
+- [ ] Credit-card travel notice; check trip-delay coverage
+- [ ] Pack ([`packing.md`](packing.md))
+- [ ] Alaska outbound check-in (Oct 30) and outbound seats / meal
+- [ ] 🎃 Halloween (Oct 31) couples costume
 
 <a id="done"></a>
 ## ✅ Done
+- [x] 🥾 Diamond Head, Sun Nov 1, 6:00 AM entry · [ticket PDF](docs/2026-11-01_diamond-head_entry_tickets.pdf)
+- [x] ✈️ Flew JFK → HNL, Sat Oct 31 (Alaska AS 829)
 - [x] 🤿 Molokini snorkel booked by Tanu (details still to add, see above)
 - [x] 🍽️ Istanbul Hawaii and Lineage dinners booked by Tanu (details still to add)
 - [x] 🚐 Maui airport rides: **rideshare** both ways, no shuttle booking (decided Oct 27; daytime legs, Uber has a marked OGG pickup zone, taxis as backup)
 - [x] 🎸 Chicago concert (Oct 30): tickets sold, no conflict with the Oct 31 flight
 - [x] 🏨 OUTRIGGER: keeping the hotel and room as booked; no upgrade, no cancellation
-- [x] 🥾 Diamond Head moved to **Sun Nov 1, 6:00–7:00 AM**, order VISITOR-2026-10-21-DHSM-2283885 · [ticket PDF](docs/2026-11-01_diamond-head_entry_tickets.pdf). The old Nov 3 order (DHSM-2278799) is non-refundable and can't be cancelled; just don't use it
+- [x] 🥾 Diamond Head moved to **Sun Nov 1, 6:00–7:00 AM**, order VISITOR-2026-10-21-DHSM-2283885. The old Nov 3 order (DHSM-2278799) is non-refundable and can't be cancelled; just don't use it
 - [x] ⚓ USS Arizona booked: Mon Nov 2, 11:15 AM, Recreation.gov order 0935827091 · [tickets PDF](docs/2026-11-02_uss-arizona_tickets.pdf)
-- [x] 🌋 Haleakalā sunset tour: Thu Nov 5, Polynesian Adventure order **GLUKMF**, $511.48 (Shivam); pickup 1:40 PM at Maui Coast's street-side sign
+- [x] 🌋 Haleakalā sunset tour: Thu Nov 5, Polynesian Adventure booking **#386512357** (FareHarbor code GLUKMF), $511.48 (Shivam); pickup 1:40 PM at Maui Coast's street-side sign · [confirmation PDF](docs/2026-11-05_haleakala-sunset-tour_confirmation.pdf)
 - [x] 🎂 Birthday dinner: **The Restaurant at Hotel Wailea, Fri Nov 6, 5:30 PM**, 2 guests (SevenRooms)
 - [x] 🚗 No rental car (the Southwest "Book car" line was only an offer)
 - [x] ✈️ Flights booked Oct 18: Alaska AS 829 JFK → HNL Oct 31 · Southwest 28UG6J HNL → OGG Nov 3 · Alaska AS 1145/830 OGG → JFK Nov 8 (lands Nov 9) · $2,031.32

@@ -64,7 +64,7 @@
 
 ### Thu Nov 5 · Haleakalā sunset
 - 🏖️ Morning: slow, beach or pool. Eat a real lunch.
-- ✅ **1:40 PM** pickup at **Maui Coast Hotel's street-side sign** (Polynesian Adventure, order GLUKMF)
+- ✅ **1:40 PM** pickup at **Maui Coast Hotel's street-side sign** (Polynesian Adventure, booking #386512357 / GLUKMF). [Confirmation](docs/2026-11-05_haleakala-sunset-tour_confirmation.pdf)
 - 🌅 Sunset at ~10,000 ft (~5:50 PM). It's **35–45°F and windy**, so bring warm layers. Dinner is included.
 - 🚐 Back **~8:30 PM**
 

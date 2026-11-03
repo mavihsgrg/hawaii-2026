@@ -27,7 +27,7 @@
 ## ✅ Decided vs 🤔 to decide
 
 - ✅ **Dinner: The Restaurant at Hotel Wailea, 5:30 PM, 2 guests** (booked by Shivam).
-- 🤔 **Everything else is still open** and needs one decision together by **Oct 30**: morning beach? couples spa (**max $500 total**)? cocktails at Tikehau? dancing at South Shore Tiki Lounge? The aim is a relaxed, romantic day, so it's fine to drop pieces.
+- 🤔 **Everything else is still open** and needs one decision together by **Wed Nov 4**: morning beach? couples spa (**max $500 total**)? cocktails at Tikehau? dancing at South Shore Tiki Lounge? The aim is a relaxed, romantic day, so it's fine to drop pieces.
 
 ## 🤔 Tentative day (a draft, not final)
 
@@ -105,8 +105,8 @@ Nobody drives tonight, and we don't have a car anyway. Full ride details: [`comm
 ## ✅ To do
 
 - [x] Hotel Wailea dinner booked: Fri Nov 6, 5:30 PM, 2 guests (SevenRooms)
-- [ ] Check the reservation notes the birthday + lactose intolerance · S · Oct 30
-- [ ] **Decide the rest of the day** (beach, spa ≤ $500, cocktails, dancing) · Both · Oct 30
+- [ ] Check the reservation notes the birthday + lactose intolerance · S · Nov 5
+- [ ] **Decide the rest of the day** (beach, spa ≤ $500, cocktails, dancing) · Both · Nov 4
 - [ ] If spa: book a couples treatment ~1 PM · P
 - [ ] If cocktails: book Tikehau Lounge ~7:45 PM on OpenTable · S
 - [ ] If dancing: check South Shore Tiki Lounge's calendar for a DJ (week of Nov 2), then prebook a taxi Wailea Village → Tiki Lounge for ~9 PM · S · Nov 5
