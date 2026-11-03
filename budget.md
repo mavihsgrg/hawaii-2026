@@ -18,7 +18,10 @@
 | Activity | Road to Hāna tour, Nov 7 (Polynesian Adventure #387988261) | Booked | **$551.34** | Tanu | 2 adults, breakfast + lunch included |
 | Activity | Diamond Head, Nov 1 (DHSM-2283885) | Booked | **$11.27** | Shivam | The old Nov 3 order is non-refundable (sunk cost) |
 | Activity | USS Arizona, Nov 2 | Booked | $2.00 | | Recreation.gov |
-| Dining | Istanbul Hawaii, Honolulu (date ⚠️) | Reserved (pay there) | — | | Booked by Tanu; free cancel until 12 PM on the day |
+| Dining | Kani Ka Pila Grille, Nov 1 lunch | ✔️ Went | ⚠️ add | | OpenTable #163849 |
+| Dining | Moku Kitchen, Nov 2 lunch | Reserved | ⚠️ add | | OpenTable #728079; attendance not reported |
+| Dining | Istanbul Hawaii, Honolulu (date ❓) | Reserved by Tanu | ⚠️ add | | Ask Tanu if we went |
+| Activity | Waikīkī catamaran, Nov 1 evening | ❓ booked | ⚠️ add | | Operator and cost unknown |
 | Dining | Lineage, Wailea, Nov 4 | Reserved (pay there) | — | | Booked by Tanu |
 | Dining | 🎂 Birthday dinner, Nov 6 | Reserved (pay there) | $220–400 | | Hotel Wailea, 5:30 PM |
 | Dining | 🎂 Cocktails (Tikehau) + Tiki Lounge, Nov 6 | Decision | $110–230 | | Part of the birthday decision |

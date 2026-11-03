@@ -21,6 +21,7 @@
 | [`map.md`](map.md) · [`maps/`](maps) | Distances and maps around each hotel |
 | [`photos.md`](photos.md) · [`photos/`](photos) | Photo guide to each place |
 | [`expenses/`](expenses) | Shared trip expense ledger |
+| [`handoffs/`](handoffs/README.md) | Dated context snapshots (done vs booked vs discussed) to paste into a new AI session |
 
 This is the one plan. Superseded plans, alternates and hotel research were removed on Oct 21 and are still in git history.
 
