@@ -14,7 +14,7 @@
 | Car | Maui rental | None (no car) | $0 | | Nothing booked: the Southwest receipt only had a "Book car" offer |
 | Transport | Rideshares and taxis (incl. OGG ↔ Kīhei by rideshare), NYC airport rides | Estimate | $480–800 | | Hawaiʻi legs in [`commute.md`](commute.md) |
 | Activity | Molokini snorkel, Nov 4 | Booked | ⚠️ add | Tanu | Amount and operator still to add from Tanu's confirmation |
-| Activity | Haleakalā sunset tour w/ pickup, Nov 5 (GLUKMF) | Booked | **$511.48** | Shivam | Polynesian Adventure, 2 adults |
+| Activity | Haleakalā sunset tour w/ pickup, Nov 5 (#386512357) | Booked | **$511.48** | Shivam | Polynesian Adventure, 2 adults |
 | Activity | Hāna guided tour, Nov 7 | Idea ([`wishlist.md`](wishlist.md)) | $590–650 | | Not decided |
 | Activity | Diamond Head, Nov 1 (DHSM-2283885) | Booked | **$11.27** | Shivam | The old Nov 3 order is non-refundable (sunk cost) |
 | Activity | USS Arizona, Nov 2 | Booked | $2.00 | | Recreation.gov |
@@ -22,7 +22,7 @@
 | Dining | Lineage, Wailea, Nov 4 | Reserved (pay there) | — | | Booked by Tanu |
 | Dining | 🎂 Birthday dinner, Nov 6 | Reserved (pay there) | $220–400 | | Hotel Wailea, 5:30 PM |
 | Dining | 🎂 Cocktails (Tikehau) + Tiki Lounge, Nov 6 | Decision | $110–230 | | Part of the birthday decision |
-| Optional | Couples spa, Nov 6 | Decision | ≤ $500 | | Max $500 total; decide by Oct 30 |
+| Optional | Couples spa, Nov 6 | Decision | ≤ $500 | | Max $500 total; decide by Nov 4 |
 | Food | Groceries and meals, 8 days | Estimate | $900–1,400 | | |
 | Misc | Tips, bags, tolls, souvenirs, contingency | Estimate | $500–1,000 | | |
 | Personal | Shivam's clothes shopping, Oct 28 ([`shopping.md`](shopping.md)) | Planned | $300–500 | Shivam | Personal: not split |

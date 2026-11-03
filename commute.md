@@ -119,7 +119,7 @@ Tanu booked the Molokini trip; the operator, harbor and check-in time still need
 
 ### Thu Nov 5 · Haleakalā sunset (guided tour) ✅
 
-🚐 **Booked: Polynesian Adventure sunset tour, order GLUKMF. Pickup 1:40 PM at Maui Coast Hotel's street-side sign, back ~8:30 PM**, entry + dinner included. There's no realistic no-car alternative: rideshare can't wait at the summit and there's no signal for a ride back.
+🚐 **Booked: Polynesian Adventure sunset tour, booking #386512357 (GLUKMF), [confirmation](docs/2026-11-05_haleakala-sunset-tour_confirmation.pdf). Pickup 1:40 PM at Maui Coast Hotel's street-side sign, back ~8:30 PM**, entry + dinner included. There's no realistic no-car alternative: rideshare can't wait at the summit and there's no signal for a ride back.
 
 ### Fri Nov 6 🎂 · Kīhei ↔ Hotel Wailea (4 mi, ~15 min)
 
@@ -162,7 +162,7 @@ Same options as Nov 3; **pick: Uber Reserve, scheduled Sat Nov 7.** **Leave ~2.5
 
 | Risk | How bad | Fix |
 |---|---|---|
-| Haleakalā tour cancelled for weather/closure on Nov 5 | 🟠 No car means no other way up | Booked (GLUKMF); recheck NPS conditions; Sat Nov 7 is the free backup day |
+| Haleakalā tour cancelled for weather/closure on Nov 5 | 🟠 No car means no other way up | Booked (#386512357); refund only if cancelled by Nov 3, 1 PM HST; recheck NPS conditions; Sat Nov 7 is the free backup day |
 | **No ride at dawn for Molokini** | 🟠 You'd miss the boat | Prebooked taxi, or switch to a trip with pickup / from the Kīhei boat ramp |
 | Thin rideshare on Maui at night and on Sunday | 🟡 Long waits | Taxi numbers saved; prebook the post-dinner ride on Nov 6 and the airport run on Nov 8 |
 | Less freedom to swap days for weather | 🟡 Tours set the schedule | Ask each tour about weather rescheduling when booking |
