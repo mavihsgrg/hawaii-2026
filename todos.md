@@ -17,7 +17,7 @@
 ## 🔴 Next 48 hours (Nov 2–3)
 - [ ] 🤿 **Molokini, Wed Nov 4:** prebook a taxi for **~6:45 AM** to the PacWhale Ocean Store, Maui Harbor Shops (check-in 7:15, boat 8:00) and **sign the PacWhale online waiver** (one per adult, link in Tanu's confirmation email) · Both · **Nov 3**
 - [ ] ⛵ Sunset catamaran Wed Nov 4 (~4:30–6:30 PM, Māʻalaea), between Molokini and Lineage at 8:30: decide and book · Both · Nov 3 · [`bookings.md`](bookings.md#tobook)
-- [ ] 🍽️ **Istanbul Hawaii**, Honolulu: if it's tonight (the last Oʻahu night), confirm the time; free cancel until **12 PM on the day**. If the date already passed, tick this off · P · Nov 2 · [vegan menu](https://www.istanbulhawaii.com/uploads/b/3cfff880-fd1e-11ea-aa73-0d57dd82c60c/vegan_MzMxOD.pdf)
+- [ ] ❓ Fill in Oʻahu gaps: did we go to **Moku Kitchen** (Nov 2) and **Istanbul Hawaii** (date?), and which **catamaran** sailed on Nov 1 (operator, booking #, cost)? Add amounts to the ledger · Both · Nov 4
 - [ ] 🌋 Haleakalā free cancellation ends **Tue Nov 3, 1:00 PM HST** (48 h before the tour). Check the summit forecast before then · S · Nov 3 · [NPS conditions](https://www.nps.gov/hale/planyourvisit/conditions.htm) · [confirmation](docs/2026-11-05_haleakala-sunset-tour_confirmation.pdf)
 - [ ] 🧳 Tue Nov 3: check out of OUTRIGGER by **11 AM** (resort fee is collected at check-out), rideshare to HNL · Both
 
@@ -34,7 +34,6 @@
 <a id="decide"></a>
 ## 🟡 Decide
 - [ ] 🎂 **Birthday day plan, Fri Nov 6.** Dinner at 5:30 PM is fixed; decide the rest: beach in the morning? couples spa (**max $500 total**)? cocktails at Tikehau? dancing at South Shore Tiki Lounge? Keep it relaxed and romantic · Both · Nov 4 · [`birthday.md`](birthday.md)
-- [ ] ⛵ Na Hoku III sunset sail: tonight (Nov 2) is the last Oʻahu chance; otherwise drop it · Both · Nov 2 · [`wishlist.md`](wishlist.md)
 
 <a id="after"></a>
 ## 🪔 After the trip
@@ -56,7 +55,9 @@ Moved here on Nov 2. These were due Oct 28–30 and nobody ticked them; we're on
 
 <a id="done"></a>
 ## ✅ Done
-- [x] 🥾 Diamond Head, Sun Nov 1, 6:00 AM entry · [ticket PDF](docs/2026-11-01_diamond-head_entry_tickets.pdf)
+- [x] ⚓ Pearl Harbor, Mon Nov 2 (USS Arizona program booked 11:15 AM)
+- [x] 🍽️ Kani Ka Pila Grille lunch, Sun Nov 1, 2:30 PM, OpenTable #163849
+- [x] 🥾 Diamond Head summit, Sun Nov 1, 6:00 AM entry · [ticket PDF](docs/2026-11-01_diamond-head_entry_tickets.pdf)
 - [x] ✈️ Flew JFK → HNL, Sat Oct 31 (Alaska AS 829)
 - [x] 🤿 Molokini & Turtle Arches snorkel, Wed Nov 4, 8 AM–1 PM, PacWhale #387985092, $517.45 (Tanu)
 - [x] 🍽️ Lineage, Wed Nov 4, 8:30 PM, OpenTable #182807 (Tanu)

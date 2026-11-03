@@ -3,7 +3,7 @@
 > Confirmed bookings first, then every open booking with a **direct link**. All times HST unless noted. Put PDFs/screenshots in `docs/`.
 > Passengers: Shivam Garg and Tanu Arya. Hotel/booking PINs are **not** stored here (use the Booking.com app or email). Emails live in Gmail.
 > Last updated 2026-11-03 · Booked: **3 flights, 2 hotels, Diamond Head, USS Arizona, Molokini, Haleakalā, Road to Hāna, Istanbul Hawaii, Lineage, Hotel Wailea dinner, Tikehau**. ⚠️ = details still to copy in. Molokini, Lineage, Hāna and Tikehau were found in Gmail on Nov 3.
-> Who booked: flights, Diamond Head, USS Arizona, Haleakalā, Hotel Wailea, Tikehau = **Shivam**; hotels, Molokini, Road to Hāna, Istanbul Hawaii, Lineage = **Tanu**.
+> Who booked: flights, Diamond Head, USS Arizona, Haleakalā, Hotel Wailea, Tikehau = **Shivam**; hotels, Molokini, Road to Hāna, Istanbul Hawaii, Lineage = **Tanu**. Kani Ka Pila and Moku Kitchen confirmations are in Shivam's second Gmail account.
 
 ## 📑 Contents
 
@@ -78,7 +78,10 @@ Options and prices for each ride: [`commute.md`](commute.md).
 ## 🍽️ Dining
 | Date | Restaurant | Time | Conf # | Notes |
 |---|---|---|---|---|
-| Oʻahu, ⚠️ date | 🍽️ Istanbul Hawaii ✅ (booked by Tanu), Honolulu | ⚠️ add | ⚠️ add | Free cancel until **12 PM on the day** · [vegan menu](https://www.istanbulhawaii.com/uploads/b/3cfff880-fd1e-11ea-aa73-0d57dd82c60c/vegan_MzMxOD.pdf) |
+| Sun Nov 1 | 🍽️ Kani Ka Pila Grille ✅ ✔️ went, OUTRIGGER Reef, 2169 Kālia Rd | **2:30 PM** (moved from 1:45), 2 guests | OpenTable **#163849** | Lunch after Diamond Head |
+| Mon Nov 2 | 🍽️ Moku Kitchen ✅, 660 Ala Moana Blvd #145, Kakaʻako · (808) 591-6658 | **1:45 PM**, 2 guests | OpenTable **#728079** | Lunch after Pearl Harbor; attendance not reported |
+| Oʻahu, ❓ probably Mon Nov 2 | 🍽️ Istanbul Hawaii ✅ (booked by Tanu), 1108 Auahi St #152, Kakaʻako | ❓ (~7:30 PM was suggested) | ❓ not in Shivam's Gmail | Date, time and whether we went: ask Tanu · [vegan menu](https://www.istanbulhawaii.com/uploads/b/3cfff880-fd1e-11ea-aa73-0d57dd82c60c/vegan_MzMxOD.pdf) |
+| Sun Nov 1 evening | ⛵ Waikīkī catamaran ❓ | evening | ❓ | We said one was booked; operator, booking # and whether it sailed still to add |
 | Wed Nov 4 | 🍽️ Lineage ✅ (booked by Tanu), The Shops at Wailea, 3750 Wailea Alanui Dr · (808) 879-8800 | **8:30 PM**, 2 guests | OpenTable **#182807** · [sheet](docs/2026-11-04_lineage_reservation.md) | 15-min grace; table held 1.5 h · [menu](https://www.lineagemaui.com/menu/) · rideshare from Kīhei |
 | Nov 6 | 🎂 The Restaurant at Hotel Wailea ✅, 555 Kaukahi St, Wailea · +1 808-879-2224 | **5:30 PM**, 2 guests | SevenRooms **6H9GU84LKTCM** · [sheet](docs/2026-11-06_hotel-wailea_reservation.md) | Maître d' confirmed a **birthday candle** with dessert and a sunset-view request (tables first-come). Lactose intolerance not yet mentioned |
 | Nov 6 | 🍸 Tikehau Lounge ✅, 116 Wailea Ike Dr #2104 · (808) 214-6500 | **7:45 PM**, 2 guests | OpenTable **#2858** · [sheet](docs/2026-11-06_tikehau_reservation.md) | **21+ only**, bring ID |

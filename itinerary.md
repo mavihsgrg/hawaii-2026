@@ -1,7 +1,7 @@
 # 🌺 Itinerary
 
-> **Oct 31 – Nov 9, 2026** · Oʻahu 3 nights → Maui 5 nights · 🎂 birthday Fri Nov 6 · no car
-> ✅ = booked · 🤔 = not decided yet ([`todos.md`](todos.md#decide), ideas in [`wishlist.md`](wishlist.md)) · ⚠️ = booked, details still to add
+> **Oct 31 – Nov 9, 2026** · Oʻahu 3 nights → Maui 5 nights · 💞 anniversary Thu Nov 5 · 🎂 Shivam's birthday Fri Nov 6 · no car
+> ✔️ = done (we said so) · ✅ = booked · ❓ = booked but details/attendance unknown · 🤔 = not decided yet ([`todos.md`](todos.md#decide), ideas in [`wishlist.md`](wishlist.md)) · ⚠️ = booked, details still to add
 > All times Hawaiʻi time (HST) unless noted. HST is **6 h behind NYC on Oct 31** and **5 h behind from Sun Nov 1** (US clocks fall back; Hawaiʻi doesn't change).
 > Confirmation numbers: [`bookings.md`](bookings.md) · rides: [`commute.md`](commute.md) · tickets: [`docs/`](docs/README.md)
 
@@ -9,12 +9,12 @@
 
 | | Day | Where | The big thing | Sleep |
 |---|---|---|---|---|
-| **Sat Oct 31** | ✈️ Travel | NYC → Oʻahu | Fly in, Waikīkī sunset, 🎃 Halloween on Kalākaua | OUTRIGGER Reef |
-| **Sun Nov 1** | 🥾 Hike | Oʻahu | ✅ Diamond Head at 6 AM, beach afternoon | OUTRIGGER Reef |
-| **Mon Nov 2** | ⚓ History | Oʻahu | ✅ USS Arizona Memorial, 11:15 AM | OUTRIGGER Reef |
+| **Sat Oct 31** | ✈️ Travel | NYC → Oʻahu | ✔️ Flew in, checked in at OUTRIGGER | OUTRIGGER Reef |
+| **Sun Nov 1** | 🥾 Hike | Oʻahu | ✔️ Diamond Head summit · ✔️ Kani Ka Pila lunch · ❓ evening catamaran | OUTRIGGER Reef |
+| **Mon Nov 2** | ⚓ History | Oʻahu | ✔️ Pearl Harbor · ✅ Moku Kitchen 1:45 PM · ❓ Istanbul Hawaii | OUTRIGGER Reef |
 | **Tue Nov 3** | ✈️ Travel | Oʻahu → Maui | Fly to Maui, settle into Kīhei | Maui Coast Hotel |
 | **Wed Nov 4** | 🤿 Ocean | Maui | ✅ Molokini snorkel 8 AM–1 PM (PacWhale) · ✅ dinner at Lineage 8:30 PM | Maui Coast Hotel |
-| **Thu Nov 5** | 🌋 Summit | Maui | ✅ Haleakalā sunset tour | Maui Coast Hotel |
+| **Thu Nov 5** | 💞 Anniversary | Maui | ✅ Haleakalā sunset tour | Maui Coast Hotel |
 | **Fri Nov 6** | 🎂 Birthday | Maui | ✅ Hotel Wailea dinner, 5:30 PM · ✅ Tikehau 7:45 PM · 🤔 daytime | Maui Coast Hotel |
 | **Sat Nov 7** | 🌿 Hāna | Maui | ✅ Road to Hāna tour, pickup 6:40 AM, back ~6:30 PM | Maui Coast Hotel |
 | **Sun Nov 8** | ✈️ Travel | Maui → NYC | Last swim, overnight flight home | ✈️ on the plane |
@@ -22,28 +22,29 @@
 
 ---
 
-## 🌴 Oʻahu · OUTRIGGER Reef Waikīkī
+## 🌴 Oʻahu · OUTRIGGER Reef Waikīkī (what actually happened)
 
-> ✅ ⚠️ **Istanbul Hawaii** dinner (booked by Tanu) is on one of these evenings: date and time still to add from the confirmation. Free cancel until 12 PM that day.
+> Logged Nov 3 from our own reports and the confirmation emails. **✔️ done** = we said we were there · **✅ booked** = a confirmation exists but nobody has said we went · **💭 discussed** = only an idea. Don't upgrade anything without a report from one of us.
+> Room as booked: **Partial Ocean View, 1 King** (not the Club Diamond Head Oceanfront room from early planning; no club lounge, no included breakfast).
 
 ### Sat Oct 31 · Arrive
-- ✅ **8:55 AM ET** Alaska AS 829 JFK → HNL, nonstop, lands **2:10 PM**
-- 🚕 Rideshare HNL → Waikīkī (~30–40 min)
-- ✅ **3 PM** check in at OUTRIGGER Reef
-- 🌅 **~6 PM** sunset on the beach, easy dinner nearby. It's **Halloween**, so Kalākaua Ave will be busy and costumed. Pack the 🎃 couples costume if we decide to dress up. Early night.
+- ✔️ Alaska AS 829 JFK → HNL (scheduled 8:55 AM ET → 2:10 PM), checked in at OUTRIGGER Reef. "We were in the hotel and had fun."
+- 💭 Rideshare from the airport, sunset, Halloween on Kalākaua, dinner: the specifics weren't recorded.
 
 ### Sun Nov 1 · Diamond Head + Waikīkī
-- 🚕 **~5:40 AM** rideshare to Diamond Head (~15 min)
-- ✅ **6:00–7:00 AM** entry slot. Arrive within the first 30 minutes. Hike takes ~1.5–2 h (~560 ft climb). [Ticket](docs/2026-11-01_diamond-head_entry_tickets.pdf)
-- 🥞 Brunch on Kapahulu / Monsarrat Ave, then back to the hotel
-- 🏖️ Afternoon: beach, pool, nap
-- 🌅 Sunset on the beach, dinner
+- ✔️ **Diamond Head**, 6:00–7:00 AM entry, order VISITOR-2026-10-21-DHSM-2283885. We reached the summit and sent photos from the top. [Ticket](docs/2026-11-01_diamond-head_entry_tickets.pdf)
+- ✔️ **Lunch at Kani Ka Pila Grille** (OUTRIGGER), 2:30 PM, OpenTable #163849. "We're already having lunch in Kani Ka Pila."
+- ❓ **Evening catamaran**: we said one was booked for the evening. Operator, booking # and whether it sailed are still to add (Na Hoku III was the one researched).
+- 💭 After the sail: House Without a Key, dessert, beach walk. Not confirmed.
 
 ### Mon Nov 2 · Pearl Harbor
-- 🚕 **~9:30 AM** rideshare to Pearl Harbor (~25–35 min). **No bags** (there's paid bag storage).
-- ✅ **10:15 AM** at the visitor center, **11:15 AM–12:00 PM** USS Arizona program. [Tickets](docs/2026-11-02_uss-arizona_tickets.pdf)
-- 🏛️ Afternoon: optional Bishop Museum (OUTRIGGER key card = $5 off), or pool and shopping
-- 🍽️ Last Waikīkī dinner, pack
+- ✔️ **Pearl Harbor National Memorial.** "Saw the Pearl Harbor." USS Arizona program booked 11:15 AM, Recreation.gov 0935827091 ($2). The theater + boat segment is probable but not separately confirmed. [Tickets](docs/2026-11-02_uss-arizona_tickets.pdf)
+- ✅ **Moku Kitchen**, Kakaʻako, 1:45 PM, OpenTable #728079. Booked; attendance not reported.
+- ❓ **Istanbul Hawaii**, Kakaʻako (booked by Tanu): probably tonight, ~7:30 PM was suggested. Date, time and attendance still to confirm with Tanu.
+- 💭 Morning beach, back to the hotel to change, Ala Moana Beach / Magic Island, a Kakaʻako walk: discussed, not confirmed.
+
+### Not done on Oʻahu (ideas only)
+Bishop Museum, Honolulu Museum of Art, Hanauma Bay, North Shore, ʻIolani Palace, Makapuʻu. The unused Nov 3 Diamond Head order (DHSM-2278799) is not a plan.
 
 ### Tue Nov 3 · Fly to Maui
 - ☕ Slow breakfast, last swim
