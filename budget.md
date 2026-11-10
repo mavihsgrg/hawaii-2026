@@ -1,5 +1,7 @@
 # Budget
 
+> ✈️ **Trip is over.** Actual spend and the final settle-up are in [`expenses_post.md`](expenses_post.md). This page is the pre-trip plan.
+
 > Booked amounts are actual. Open items are estimates. Update "Paid by" when someone pays.
 > Last updated 2026-10-27. Flights total $2,031.32 incl. Southwest.
 > Log spending during the trip in the shared [Hawaiʻi Trip Ledger](https://claude.ai/artifact/DmVk4Cb87eo6eUDodCc8s8) (source: [`expenses/tracker.html`](expenses/tracker.html)). It works out who owes whom.
