@@ -9,13 +9,14 @@
 
 | | Amount |
 |---|---:|
-| **Confirmed shared spend** | **$8,941.07** |
-| Paid by Shivam | $6,523.09 |
+| **Confirmed shared spend** | **$8,016.59** |
+| Paid by Shivam | $5,598.61 |
 | Paid by Tanu | $2,417.98 |
-| Each person's 50/50 share | $4,470.54 |
-| **Settle-up so far** | **Tanu owes Shivam $2,052.56** |
+| Each person's 50/50 share | $4,008.30 |
+| **Settle-up so far** | **Tanu owes Shivam $1,590.32** |
+| 💸 Refund owed to Shivam (Air Maui, cancelled) | $924.48: not in the totals above, see [Expected refunds](#expected-refunds) |
 
-⚠️ The settle-up flipped from the pre-trip estimate. The **Maui Coast Hotel was charged to Shivam's card ($1,744.66 at check-out)**, not Tanu's, and Shivam's card also paid for an **Air Maui helicopter tour ($924.48)**. The number will come down once Tanu's own receipts (the dinners she booked, Molokini tips, etc.) are added.
+⚠️ The settle-up flipped from the pre-trip estimate. The **Maui Coast Hotel was charged to Shivam's card ($1,744.66 at check-out)**, not Tanu's. The number will come down once Tanu's own receipts (the dinners she booked, Molokini tips, etc.) are added.
 
 ### By category
 
@@ -24,11 +25,11 @@
 | Flights | $2,031.32 | $2,031.32 |
 | Bag fees | $240.00 | not budgeted |
 | Lodging | $3,041.35 | $3,011.99 |
-| Activities | $2,529.29 | $1,504–1,622 |
+| Activities | $1,604.81 | $1,504–1,622 |
 | Rides | $459.78 | $480–800 |
 | Food and dining | $576.11 | $900–1,400 (+ birthday $730–1,330) |
 | Snacks, souvenirs, misc | $63.22 | $500–1,000 |
-| **Total confirmed** | **$8,941.07** | |
+| **Total confirmed** | **$8,016.59** | |
 
 ## Ledger
 
@@ -61,10 +62,9 @@
 | Nov 1 | Diamond Head entry, 6–7 AM (2) | $11.27 | Shivam | DHSM-2283885 |
 | Nov 2 | USS Arizona program, 11:15 AM (2) | $2.00 | Shivam | Recreation.gov 0935827091 |
 | Nov 4 | Molokini & Turtle Arches snorkel, PacWhale (2) | $517.45 | Tanu | FareHarbor #387985092 |
-| Nov 6 | 🚁 **Air Maui Helicopter Tours** (🎂 birthday morning) | $924.48 | Shivam | $859.98 + 7.5% fee; bank charge dated Nov 4 (booking). Matches the Nov 6, 8:32 AM Lyft back from Lelepio Pl, Kahului (heliport area) |
 | Nov 5 | Haleakalā sunset tour, Polynesian Adventure (2) | $511.48 | Shivam | #386512357 / GLUKMF |
 | Nov 7 | Road to Hāna tour, Polynesian Adventure (2) | $551.34 | Tanu | #387988261 / GMQQRQ |
-| | **Subtotal** | **$2,529.29** | | |
+| | **Subtotal** | **$1,604.81** | | |
 
 ### Rides
 
@@ -111,6 +111,16 @@
 | Nov 7 | Nāhiku Ti Gallery (Road to Hāna stop) | $37.59 | Shivam |
 | | **Subtotal** | **$63.22** | |
 
+## Expected refunds
+
+Charged to Shivam's card but cancelled. **Not in the totals or the settle-up**: the money comes back to Shivam, so there's nothing to split.
+
+| Charged | Item | Amount | Status |
+|---|---|---:|---|
+| Nov 4 | 🚁 Air Maui Helicopter Tours (was for Nov 6): $859.98 + 7.5% fee | $924.48 | ⏳ **Cancelled; refund pending.** Not refunded in the bank export through Nov 10. Watch the Chase account for a credit of $924.48 (or $859.98 if the fee isn't refunded) |
+
+If only part comes back, the amount kept is a shared cost: add it under Activities.
+
 ## Shared or personal? ❓
 
 On Shivam's card during the trip but **not in the totals** until you decide:
@@ -151,4 +161,5 @@ Not on Shivam's card, so probably paid by Tanu (or another card). Add the amount
 1. **Tanu:** pull your card activity for Oct 31 – Nov 9 and add the missing items above, plus anything else shared.
 2. **Check Maui Coast** wasn't charged to Tanu's card too (it was on file with Booking.com).
 3. **Decide** the three shared-or-personal charges.
-4. Recompute the settle-up and mark this ledger final.
+4. **Watch for the Air Maui refund** ($924.48) on Chase; follow up with Air Maui if it hasn't posted in ~10 business days.
+5. Recompute the settle-up and mark this ledger final.
